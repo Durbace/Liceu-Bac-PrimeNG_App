@@ -13,7 +13,7 @@ import { BacStatisticiService, Elev } from '../services/bac-statistici.service';
   standalone: true,
   imports: [FormsModule, CommonModule, NgChartsModule],
   templateUrl: './statistici-bac.component.html',
-  styleUrl: './statistici-bac.component.scss',
+  styleUrl: './statistici-bac.component.css',
 })
 export class StatisticiBacComponent implements OnInit {
   judete: string[];

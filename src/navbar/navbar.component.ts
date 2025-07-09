@@ -5,8 +5,7 @@ import { Router } from '@angular/router';
   selector: 'app-navbar',
   standalone: true,
   imports: [],
-  templateUrl: './navbar.component.html',
-  styleUrls: ['./navbar.component.scss']
+  templateUrl: './navbar.component.html'
 })
 export class NavbarComponent {
   constructor(private router: Router) {}

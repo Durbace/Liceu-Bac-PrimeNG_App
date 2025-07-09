@@ -11,7 +11,7 @@ import { AnService } from '../services/an.service';
   standalone: true,
   imports: [CommonModule, FormsModule],
   templateUrl: './recomandari-liceu.component.html',
-  styleUrls: ['./recomandari-liceu.component.scss'],
+  styleUrls: ['./recomandari-liceu.component.css'],
 })
 export class RecomandariLiceuComponent {
   judete: string[] = [];

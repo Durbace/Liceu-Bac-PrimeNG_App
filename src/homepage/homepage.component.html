@@ -1,15 +1,39 @@
-<div class="homepage-container">
-  <div class="homepage-card">
-    <div class="text-content">
-      <h1><span class="accent">Edu</span>Select+</h1>
-      <h2>Platforma ta inteligentă pentru orientare educațională</h2>
-      <p>
-        Vezi ce licee ți se potrivesc în funcție de mediile tale sau consultă rezultatele Bacalaureatului din toată țara — simplu, rapid și actualizat!
+<div class="flex justify-center items-center min-h-screen p-5 bg-transparent">
+  <div
+    class="flex flex-col md:flex-row bg-white rounded-2xl shadow-2xl overflow-hidden max-w-5xl w-full"
+  >
+    <div class="flex-1 p-12 flex flex-col justify-center">
+      <h1 class="text-4xl font-extrabold mb-2 text-gray-800">
+        <span class="text-purple-700">Edu</span>Select+
+      </h1>
+      <h2 class="text-xl font-medium mb-6 text-gray-600">
+        Platforma ta inteligentă pentru orientare educațională
+      </h2>
+      <p class="text-base text-gray-700 leading-relaxed mb-8">
+        Vezi ce licee ți se potrivesc în funcție de mediile tale sau consultă
+        rezultatele Bacalaureatului din toată țara — simplu, rapid și
+        actualizat!
       </p>
-      <button (click)="onStart()" class="start-button">Începe acum</button>
+
+      <!-- Buton centrat -->
+      <div class="flex justify-center">
+        <button
+          pButton
+          type="button"
+          label="Începe acum"
+          style="width: fit-content; padding: 0.5rem 1.5rem;"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-lg"
+          (click)="onStart()"
+        ></button>
+      </div>
     </div>
-    <div class="image-content">
-      <img src="/student-illustration.png" alt="Ilustrație elevă cu laptop" />
+
+    <div class="flex-1 bg-violet-50 flex justify-center items-center p-5">
+      <img
+        src="/student-illustration.png"
+        alt="Ilustrație elevă cu laptop"
+        class="max-w-full h-auto object-contain"
+      />
     </div>
   </div>
 </div>

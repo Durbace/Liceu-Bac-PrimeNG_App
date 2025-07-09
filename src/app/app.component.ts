@@ -8,7 +8,7 @@ import { NavbarComponent } from '../navbar/navbar.component';
   selector: 'app-root',
   imports: [RouterOutlet, BreadcrumbsComponent, NavbarComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.css'
 })
 export class AppComponent {
   title = 'liceu-bac-app';
