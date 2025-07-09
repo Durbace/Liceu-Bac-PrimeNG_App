@@ -1,0 +1,81 @@
+<div class="liceu-container">
+  <h2>Recomandări licee</h2>
+
+  <form (ngSubmit)="onSubmit()" #form="ngForm">
+    <label for="an">Alege anul:</label>
+    <select id="an" [(ngModel)]="anSelectat" name="an" required>
+      <option value="" disabled selected>Selectează un an</option>
+      <option *ngFor="let an of aniDisponibili" [value]="an">{{ an }}</option>
+    </select>
+
+    <label for="judet">Alege județul:</label>
+    <select id="judet" [(ngModel)]="selectedJudet" name="judet" required>
+      <option value="" disabled selected>Selectează un județ</option>
+      <option *ngFor="let judet of judete" [value]="judet">{{ judet }}</option>
+    </select>
+
+    <label for="media">Media Evaluare Națională:</label>
+    <input
+      type="number"
+      id="media"
+      name="media"
+      [(ngModel)]="media"
+      step="0.01"
+      min="1"
+      max="10"
+      required
+    />
+
+    <button type="submit" [disabled]="form.invalid">Vezi liceele</button>
+  </form>
+
+  <div *ngIf="loading">Se încarcă...</div>
+  <div *ngIf="error">{{ error }}</div>
+
+  <div *ngIf="licee.length > 0">
+    <h3>Licee recomandate:</h3>
+
+    <div
+      style="
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      "
+    >
+      <div>
+        <label for="profil">Filtrează după profil:</label>
+        <select id="profil" [(ngModel)]="profilSelectat" name="profil">
+          <option value="">Toate profilurile</option>
+          <option *ngFor="let p of profiluriDisponibile" [value]="p">
+            {{ p }}
+          </option>
+        </select>
+      </div>
+
+      <label>
+        <input
+          type="checkbox"
+          [(ngModel)]="sortareDescrescator"
+          name="sortare"
+        />
+        Sortează descrescător după medie
+      </label>
+    </div>
+
+    <div class="liceu-scroll-container">
+      <ul>
+        <li *ngFor="let liceu of liceeFiltrateSortate">
+          <strong>{{ liceu.liceu }}</strong> – {{ liceu.profil }} (medie:
+          {{ liceu.medieMinima }})
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div
+    *ngIf="!loading && licee.length === 0 && selectedJudet && media !== null"
+  >
+    <p>Niciun liceu găsit sub această medie.</p>
+  </div>
+</div>

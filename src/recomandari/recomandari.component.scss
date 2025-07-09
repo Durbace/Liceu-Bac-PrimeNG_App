@@ -1,0 +1,53 @@
+.recomandari-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 60px 20px;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background: transparent;
+  backdrop-filter: none; 
+}
+
+.card {
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  padding: 30px 40px;
+  max-width: 400px;
+  flex: 1;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  font-size: 1.8rem;
+  margin-bottom: 12px;
+  color: #6a0dad;
+}
+
+.card p {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 24px;
+}
+
+.card button {
+  background-color: #6a0dad;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.card button:hover {
+  background-color: #5500aa;
+}
