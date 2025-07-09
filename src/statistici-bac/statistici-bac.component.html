@@ -1,51 +1,72 @@
-<div class="liceu-container">
-  <h2>Bacalaureat 2025 – {{ selectedJudet }}</h2>
+<div class="max-w-xl mx-auto mt-16 bg-white/90 rounded-2xl p-10 shadow-lg backdrop-blur-md">
+  <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
+    Bacalaureat 2025 – {{ selectedJudet }}
+  </h2>
 
-  <form (ngSubmit)="filterAndCompute()">
-    <label for="judet">Județ:</label>
-    <select
-      id="judet"
-      [(ngModel)]="selectedJudet"
-      name="judet"
-      (change)="loadJudetData()"
-    >
-      <option *ngFor="let jud of judete" [value]="jud">{{ jud }}</option>
-    </select>
+  <form (ngSubmit)="filterAndCompute()" class="flex flex-col gap-5">
 
-    <label for="unitate">Unitate:</label>
-    <select
-      id="unitate"
-      [(ngModel)]="selectedUnitate"
-      name="unitate"
-      (change)="filterAndCompute()"
-    >
-      <option *ngFor="let u of unitati" [value]="u">{{ u }}</option>
-    </select>
+    <!-- Județ -->
+    <div>
+      <label for="judet" class="font-semibold text-gray-700 mb-1 block">Județ:</label>
+      <p-dropdown
+        id="judet"
+        [options]="judete"
+        [(ngModel)]="selectedJudet"
+        name="judet"
+        placeholder="Selectează județul"
+        (onChange)="loadJudetData()"
+        class="w-full"
+        [showClear]="true"
+        optionLabel=""
+        [styleClass]="'w-full p-inputtext-sm text-base'"
+      ></p-dropdown>
+    </div>
 
-    <label for="specializare">Specializare:</label>
-    <select
-      id="specializare"
-      [(ngModel)]="selectedSpecializare"
-      name="specializare"
-      (change)="filterAndCompute()"
-    >
-      <option *ngFor="let s of specializari" [value]="s">{{ s }}</option>
-    </select>
+    <div>
+      <label for="unitate" class="font-semibold text-gray-700 mb-1 block">Unitate:</label>
+      <p-dropdown
+        id="unitate"
+        [options]="unitati"
+        [(ngModel)]="selectedUnitate"
+        name="unitate"
+        placeholder="Selectează unitatea"
+        (onChange)="filterAndCompute()"
+        class="w-full"
+        [showClear]="true"
+        optionLabel=""
+        [styleClass]="'w-full p-inputtext-sm text-base'"
+      ></p-dropdown>
+    </div>
+
+    <div>
+      <label for="specializare" class="font-semibold text-gray-700 mb-1 block">Specializare:</label>
+      <p-dropdown
+        id="specializare"
+        [options]="specializari"
+        [(ngModel)]="selectedSpecializare"
+        name="specializare"
+        placeholder="Selectează specializarea"
+        (onChange)="filterAndCompute()"
+        class="w-full"
+        [showClear]="true"
+        optionLabel=""
+        [styleClass]="'w-full p-inputtext-sm text-base'"
+      ></p-dropdown>
+    </div>
+
   </form>
 
-  <div style="margin-top: 30px">
+  <div class="mt-8">
     <canvas
       baseChart
       [data]="pieChartData"
       [options]="pieChartOptions"
       [type]="pieChartType"
-      style="max-height: 300px"
-    >
-    </canvas>
+      class="mx-auto max-h-80"
+    ></canvas>
   </div>
 
-  <p style="text-align: center; font-weight: bold; margin-top: 20px">
-    Total elevi selectați: {{ totalElevi }} | Media generală:
-    {{ mediaGenerala }}
+  <p class="text-center font-bold mt-6 text-gray-800">
+    Total elevi selectați: {{ totalElevi }} | Media generală: {{ mediaGenerala }}
   </p>
 </div>

@@ -4,6 +4,7 @@ import { HttpClient } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { NgChartsModule } from 'ng2-charts';
+import { DropdownModule } from 'primeng/dropdown';
 
 import { JudeteService } from '../services/judete.service';
 import { BacStatisticiService, Elev } from '../services/bac-statistici.service';
@@ -11,7 +12,7 @@ import { BacStatisticiService, Elev } from '../services/bac-statistici.service';
 @Component({
   selector: 'app-statistici-bac',
   standalone: true,
-  imports: [FormsModule, CommonModule, NgChartsModule],
+  imports: [FormsModule, CommonModule, NgChartsModule, DropdownModule],
   templateUrl: './statistici-bac.component.html',
   styleUrl: './statistici-bac.component.css',
 })

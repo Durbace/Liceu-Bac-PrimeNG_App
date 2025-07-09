@@ -8,33 +8,35 @@
       <a class="hover:underline cursor-pointer" (click)="navigateTo('/')">Acasă</a>
     </li>
 
-    <li class="relative group">
-      <a class="hover:underline cursor-pointer flex items-center gap-1">
-        Recomandări
-        <span>▾</span>
-      </a>
+    <li class="relative group inline-block">
+  <div class="cursor-pointer flex items-center gap-1">
+    <span>Recomandări</span>
+    <span>▾</span>
+  </div>
 
-      <ul
-        class="absolute hidden group-hover:flex flex-col bg-white text-black mt-2 rounded shadow-lg w-48 z-50"
-      >
-        <li>
-          <a
-            (click)="navigateTo('/recomandari-liceu')"
-            class="block px-4 py-2 hover:bg-purple-100 hover:text-purple-700"
-          >
-            Recomandări Licee
-          </a>
-        </li>
-        <li>
-          <a
-            (click)="navigateTo('/statistici-bac')"
-            class="block px-4 py-2 hover:bg-purple-100 hover:text-purple-700"
-          >
-            Statistici BAC
-          </a>
-        </li>
-      </ul>
-    </li>
+  <ul
+  class="absolute left-0 top-full hidden group-hover:block bg-white text-black rounded shadow-lg w-48 z-50"
+>
+  <li>
+    <a
+      (click)="navigateTo('/recomandari-liceu')"
+      class="block px-4 py-2 hover:bg-purple-100 hover:text-purple-700 cursor-pointer"
+    >
+      Recomandări Licee
+    </a>
+  </li>
+  <li>
+    <a
+      (click)="navigateTo('/statistici-bac')"
+      class="block px-4 py-2 hover:bg-purple-100 hover:text-purple-700 cursor-pointer"
+    >
+      Statistici BAC
+    </a>
+  </li>
+</ul>
+
+</li>
+
 
     <li>
       <a class="hover:underline cursor-pointer" (click)="navigateTo('/contact')">Contact</a>
