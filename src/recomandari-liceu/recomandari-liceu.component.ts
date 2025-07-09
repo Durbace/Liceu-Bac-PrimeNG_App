@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { DropdownModule } from 'primeng/dropdown';
 
 import { LiceuService, Liceu } from '../services/liceu.service';
 import { JudeteService } from '../services/judete.service';
@@ -9,49 +10,73 @@ import { AnService } from '../services/an.service';
 @Component({
   selector: 'app-recomandari-liceu',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, DropdownModule],
   templateUrl: './recomandari-liceu.component.html',
   styleUrls: ['./recomandari-liceu.component.css'],
 })
-export class RecomandariLiceuComponent {
-  judete: string[] = [];
-  selectedJudet = '';
-  media: number | null = null;
+export class RecomandariLiceuComponent implements OnInit {
+  judete: { label: string; value: string }[] = [];
+  selectedJudet: { label: string; value: string } | null = null;
+  media: number | string | null = null;
   licee: Liceu[] = [];
   loading = false;
   error = '';
-  profiluriDisponibile: string[] = [];
-  profilSelectat: string = '';
+
+  profiluriDisponibile: { label: string; value: string }[] = [];
+  profilSelectat: { label: string; value: string } | null = null;
   sortareDescrescator: boolean = true;
-  aniDisponibili: number[] = [];
-  anSelectat: number | null = null;
+
+  aniDisponibili: { label: string; value: number }[] = [];
+  anSelectat: { label: string; value: number } | null = null;
 
   constructor(
     private liceuService: LiceuService,
     private judeteService: JudeteService,
     private anService: AnService
-  ) {
-    this.judete = this.judeteService.getAllNames();
+  ) {}
+  ngOnInit() {
+    this.judeteService.getJudete().subscribe({
+      next: (judete) => {
+        this.judete = judete.map((j) => ({
+          label: j.nume,
+          value: j.cod,
+        }));
+      },
+      error: (err) => {
+        console.error('Eroare la încărcarea județelor:', err);
+        this.error = 'Nu s-au putut încărca județele.';
+      },
+    });
+
     this.loadAniDisponibili();
   }
-
   onSubmit() {
     if (!this.selectedJudet || this.media === null || this.anSelectat === null)
       return;
+
+    const mediaTrimisa =
+      typeof this.media === 'string'
+        ? parseFloat(this.media.replace(',', '.'))
+        : this.media;
+
+    if (isNaN(mediaTrimisa)) {
+      this.error = 'Media introdusă este invalidă.';
+      return;
+    }
 
     this.loading = true;
     this.error = '';
     this.licee = [];
 
-    this.liceuService
-      .getLicee(this.anSelectat, this.selectedJudet, this.media)
+    this.liceuService.getLicee(this.anSelectat!.value, this.selectedJudet!.value, mediaTrimisa)
+
       .subscribe({
         next: (data) => {
           this.licee = data;
           this.actualizeazaProfiluri();
           this.loading = false;
         },
-        error: (err) => {
+        error: () => {
           this.error = 'Eroare la încarcarea liceelor.';
           this.loading = false;
         },
@@ -62,14 +87,17 @@ export class RecomandariLiceuComponent {
     const profiluriSet = new Set(
       this.licee.map((l) => l.profil).filter((p) => p.trim() !== '')
     );
-    this.profiluriDisponibile = Array.from(profiluriSet).sort();
+
+    this.profiluriDisponibile = Array.from(profiluriSet)
+      .sort()
+      .map((p) => ({ label: p, value: p }));
   }
 
   get liceeFiltrateSortate(): Liceu[] {
     let filtrate = this.licee;
 
     if (this.profilSelectat) {
-      filtrate = filtrate.filter((l) => l.profil === this.profilSelectat);
+      filtrate = filtrate.filter((l) => l.profil === this.profilSelectat!.value);
     }
 
     return filtrate.sort((a, b) =>
@@ -82,8 +110,13 @@ export class RecomandariLiceuComponent {
   loadAniDisponibili() {
     this.anService.getAniDisponibili().subscribe({
       next: (ani) => {
-        this.aniDisponibili = ani;
-        this.anSelectat = ani[0];
+        this.aniDisponibili = ani.map((an) => ({
+          label: an.toString(),
+          value: an,
+        }));
+
+       this.anSelectat = this.aniDisponibili[0] ?? null;
+
       },
       error: () => {
         this.aniDisponibili = [];

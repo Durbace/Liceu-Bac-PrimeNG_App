@@ -1,70 +1,108 @@
-<div class="liceu-container">
-  <h2>Recomandări licee</h2>
+<div
+  class="max-w-lg mx-auto mt-16 bg-white/90 backdrop-blur rounded-2xl p-10 shadow-lg"
+>
+  <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
+    Recomandări licee
+  </h2>
 
-  <form (ngSubmit)="onSubmit()" #form="ngForm">
-    <label for="an">Alege anul:</label>
-    <select id="an" [(ngModel)]="anSelectat" name="an" required>
-      <option value="" disabled selected>Selectează un an</option>
-      <option *ngFor="let an of aniDisponibili" [value]="an">{{ an }}</option>
-    </select>
+  <form (ngSubmit)="onSubmit()" #form="ngForm" class="flex flex-col gap-5">
+    <div>
+      <label for="an" class="font-medium text-gray-700 block mb-1"
+        >Alege anul:</label
+      >
+      <p-dropdown
+        [options]="aniDisponibili"
+        [(ngModel)]="anSelectat"
+        name="an"
+        placeholder="Selectează un an"
+        [styleClass]="'w-full p-inputtext-sm text-base'"
+        optionLabel="label"
+        [showClear]="true"
+      ></p-dropdown>
+    </div>
 
-    <label for="judet">Alege județul:</label>
-    <select id="judet" [(ngModel)]="selectedJudet" name="judet" required>
-      <option value="" disabled selected>Selectează un județ</option>
-      <option *ngFor="let judet of judete" [value]="judet">{{ judet }}</option>
-    </select>
+    <div>
+      <label for="judet" class="font-medium text-gray-700 block mb-1"
+        >Alege județul:</label
+      >
+      <p-dropdown
+        [options]="judete"
+        [(ngModel)]="selectedJudet"
+        name="judet"
+        placeholder="Selectează un județ"
+        [styleClass]="'w-full p-inputtext-sm text-base'"
+        optionLabel="label"
+        [showClear]="true"
+      ></p-dropdown>
+    </div>
 
-    <label for="media">Media Evaluare Națională:</label>
-    <input
-      type="number"
-      id="media"
-      name="media"
-      [(ngModel)]="media"
-      step="0.01"
-      min="1"
-      max="10"
-      required
-    />
+    <div>
+      <label for="media" class="font-medium text-gray-700 block mb-1"
+        >Media Evaluare Națională:</label
+      >
+      <input
+        type="number"
+        id="media"
+        name="media"
+        [(ngModel)]="media"
+        step="0.01"
+        min="1"
+        max="10"
+        required
+        class="w-full border border-gray-300 rounded-md p-2 text-base"
+      />
+    </div>
 
-    <button type="submit" [disabled]="form.invalid">Vezi liceele</button>
+    <button
+      type="submit"
+      [disabled]="form.invalid"
+      class="bg-purple-700 hover:bg-purple-800 text-white font-semibold py-2 rounded-lg transition disabled:bg-gray-400"
+    >
+      Vezi liceele
+    </button>
   </form>
 
-  <div *ngIf="loading">Se încarcă...</div>
-  <div *ngIf="error">{{ error }}</div>
+  <div *ngIf="loading" class="mt-4 text-center text-gray-600">
+    Se încarcă...
+  </div>
+  <div *ngIf="error" class="mt-4 text-red-500 text-center">{{ error }}</div>
 
-  <div *ngIf="licee.length > 0">
-    <h3>Licee recomandate:</h3>
+  <div *ngIf="licee.length > 0" class="mt-6">
+    <h3 class="text-lg font-semibold text-purple-700 mb-4">
+      Licee recomandate:
+    </h3>
 
-    <div
-      style="
-        margin-bottom: 20px;
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-      "
-    >
+    <div class="mb-4 flex flex-col gap-3">
       <div>
-        <label for="profil">Filtrează după profil:</label>
-        <select id="profil" [(ngModel)]="profilSelectat" name="profil">
-          <option value="">Toate profilurile</option>
-          <option *ngFor="let p of profiluriDisponibile" [value]="p">
-            {{ p }}
-          </option>
-        </select>
+        <label for="profil" class="font-medium text-gray-700 block mb-1"
+          >Filtrează după profil:</label
+        >
+        <p-dropdown
+          [options]="profiluriDisponibile"
+          [(ngModel)]="profilSelectat"
+          name="profil"
+          placeholder="Toate profilurile"
+          [styleClass]="'w-full p-inputtext-sm text-base'"
+          optionLabel="label"
+          [showClear]="true"
+        ></p-dropdown>
       </div>
 
-      <label>
+      <label class="inline-flex items-center gap-2">
         <input
           type="checkbox"
           [(ngModel)]="sortareDescrescator"
           name="sortare"
+          class="accent-purple-700 scale-125"
         />
-        Sortează descrescător după medie
+        <span class="text-gray-700">Sortează descrescător după medie</span>
       </label>
     </div>
 
-    <div class="liceu-scroll-container">
-      <ul>
+    <div
+      class="max-h-64 overflow-y-auto border border-gray-300 rounded-md p-4 bg-white text-sm leading-relaxed"
+    >
+      <ul class="space-y-2">
         <li *ngFor="let liceu of liceeFiltrateSortate">
           <strong>{{ liceu.liceu }}</strong> – {{ liceu.profil }} (medie:
           {{ liceu.medieMinima }})
@@ -75,6 +113,7 @@
 
   <div
     *ngIf="!loading && licee.length === 0 && selectedJudet && media !== null"
+    class="mt-4 text-center text-gray-600"
   >
     <p>Niciun liceu găsit sub această medie.</p>
   </div>

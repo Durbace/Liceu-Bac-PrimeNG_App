@@ -18,7 +18,8 @@ app.use(cors());
 app.get("/api/licee/:an/:judet/:media", (req, res) => {
   const { an, judet, media } = req.params;
   const judetDecodat = decodeURIComponent(judet);
-  const cod = JUDET_CSV_CODES[judetDecodat];
+  const cod = judetDecodat.toUpperCase();
+
 
   if (!cod) {
     return res.status(400).json({ error: "Judetul nu este suportat." });

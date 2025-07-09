@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { Observable, of } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -64,4 +65,9 @@ export class JudeteService {
   getNameByCode(cod: string): string | undefined {
     return this.judete.find((j) => j.cod === cod)?.nume;
   }
+  
+  getJudete(): Observable<{ nume: string; cod: string }[]> {
+  return of(this.judete);
+}
+
 }
