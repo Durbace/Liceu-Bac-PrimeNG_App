@@ -22,9 +22,10 @@ export class RecomandariLiceuComponent implements OnInit {
   licee: Liceu[] = [];
   loading = false;
   error = '';
+  formularTrimis: boolean = false;
 
-  profiluriDisponibile: { label: string; value: string }[] = [];
-  profilSelectat: { label: string; value: string } | null = null;
+  profiluriDisponibile: { label: string; value: string | null }[] = [];
+  profilSelectat: { label: string; value: string | null } | null = null;
   sortareDescrescator: boolean = true;
 
   aniDisponibili: { label: string; value: number }[] = [];
@@ -52,6 +53,8 @@ export class RecomandariLiceuComponent implements OnInit {
     this.loadAniDisponibili();
   }
   onSubmit() {
+    this.formularTrimis = true;
+
     if (!this.selectedJudet || this.media === null || this.anSelectat === null)
       return;
 
@@ -85,28 +88,35 @@ export class RecomandariLiceuComponent implements OnInit {
   }
 
   private actualizeazaProfiluri() {
-    const profiluriSet = new Set(
-      this.licee.map((l) => l.profil).filter((p) => p.trim() !== '')
-    );
+  const profiluriSet = new Set(
+    this.licee.map((l) => l.profil).filter((p) => p.trim() !== '')
+  );
 
-    this.profiluriDisponibile = Array.from(profiluriSet)
-      .sort()
-      .map((p) => ({ label: p, value: p }));
-  }
+  const profiluriArray = Array.from(profiluriSet)
+    .sort()
+    .map((p) => ({ label: p, value: p }));
+
+  this.profiluriDisponibile = [{ label: 'Toate profilurile', value: null }, ...profiluriArray];
+
+  // Resetăm selecția la „Toate” după fiecare căutare
+  this.profilSelectat = null;
+}
+
 
   get liceeFiltrateSortate(): Liceu[] {
-    let filtrate = this.licee;
+  let filtrate = this.licee;
 
-    if (this.profilSelectat) {
-      filtrate = filtrate.filter((l) => l.profil === this.profilSelectat!.value);
-    }
-
-    return filtrate.sort((a, b) =>
-      this.sortareDescrescator
-        ? b.medieMinima - a.medieMinima
-        : a.medieMinima - b.medieMinima
-    );
+  if (this.profilSelectat?.value) {
+    filtrate = filtrate.filter((l) => l.profil === this.profilSelectat!.value);
   }
+
+  return filtrate.sort((a, b) =>
+    this.sortareDescrescator
+      ? b.medieMinima - a.medieMinima
+      : a.medieMinima - b.medieMinima
+  );
+}
+
 
   loadAniDisponibili() {
     this.anService.getAniDisponibili().subscribe({
