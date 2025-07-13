@@ -1,32 +1,29 @@
 ::ng-deep .p-paginator .p-paginator-page {
-  padding: 0.25rem 0.5rem !important;  /* reduce dimensiunea */
-  font-size: 0.85rem !important;       /* font mai mic */
-  min-width: 1.75rem !important;       /* lățime minimă mai mică */
-  height: 1.75rem !important;          /* înălțime mai mică */
-  line-height: 1.5rem !important;      /* aliniere verticală */
-  margin: 0 0.15rem !important;        /* spațiu între butoane */
-  border-radius: 6px !important;       /* colțuri mai puțin rotunjite */
+  padding: 0.25rem 0.5rem !important;
+  font-size: 0.85rem !important;
+  min-width: 1.75rem !important;
+  height: 1.75rem !important;
+  line-height: 1.5rem !important;
+  margin: 0 0.15rem !important;
+  border-radius: 6px !important;
 }
 
 ::ng-deep .p-paginator .p-paginator-page.p-highlight {
-  background-color: #6B21A8 !important; /* mov */
+  background-color: #6b21a8 !important;
   color: white !important;
   border-color: transparent !important;
 }
 
-/* Elimină fundalul albastru implicit aplicat coloanei sortate */
 th.p-sortable-column.p-highlight {
-  background-color: #f9fafb !important; /* echivalent Tailwind bg-gray-50 */
+  background-color: #f9fafb !important;
 }
 
-/* Fundal uniform pentru toate anteturile */
 th {
-  background-color: #f9fafb; /* gri deschis */
-  color: #1f2937; /* text-gray-800 */
+  background-color: #f9fafb;
+  color: #1f2937;
   font-weight: 500;
 }
 
-/* Stil uniform pentru iconița de sortare */
 .p-sortable-column-icon {
-  color: #6b7280 !important; /* Tailwind text-gray-500 */
+  color: #6b7280 !important;
 }

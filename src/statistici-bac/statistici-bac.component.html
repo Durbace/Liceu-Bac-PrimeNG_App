@@ -1,14 +1,16 @@
-<div class="w-[90%] max-w-5xl mx-auto mt-16 bg-white/90 rounded-2xl p-10 shadow-lg backdrop-blur-md">
+<div
+  class="w-[90%] max-w-5xl mx-auto mt-16 bg-white/90 rounded-2xl p-10 shadow-lg backdrop-blur-md"
+>
   <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
     Bacalaureat 2025 – {{ selectedJudet }}
   </h2>
 
   <div class="flex flex-col md:flex-row gap-10">
-    <!-- Stânga: filtre -->
     <form (ngSubmit)="filterAndCompute()" class="flex-1 flex flex-col gap-5">
-
       <div>
-        <label for="judet" class="font-semibold text-gray-700 mb-1 block">Județ:</label>
+        <label for="judet" class="font-semibold text-gray-700 mb-1 block"
+          >Județ:</label
+        >
         <p-dropdown
           id="judet"
           [options]="judete"
@@ -24,7 +26,9 @@
       </div>
 
       <div>
-        <label for="unitate" class="font-semibold text-gray-700 mb-1 block">Unitate:</label>
+        <label for="unitate" class="font-semibold text-gray-700 mb-1 block"
+          >Unitate:</label
+        >
         <p-dropdown
           id="unitate"
           [options]="unitati"
@@ -40,7 +44,9 @@
       </div>
 
       <div>
-        <label for="specializare" class="font-semibold text-gray-700 mb-1 block">Specializare:</label>
+        <label for="specializare" class="font-semibold text-gray-700 mb-1 block"
+          >Specializare:</label
+        >
         <p-dropdown
           id="specializare"
           [options]="specializari"
@@ -63,7 +69,6 @@
       </button>
     </form>
 
-    <!-- Dreapta: grafic și rezultate -->
     <div class="flex-1 flex flex-col justify-center items-center">
       <canvas
         baseChart

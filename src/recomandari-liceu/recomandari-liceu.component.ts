@@ -106,7 +106,6 @@ export class RecomandariLiceuComponent implements OnInit {
       ...profiluriArray,
     ];
 
-    // Resetăm selecția la „Toate” după fiecare căutare
     this.profilSelectat = null;
   }
 
