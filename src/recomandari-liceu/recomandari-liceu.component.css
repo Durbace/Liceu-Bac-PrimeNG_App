@@ -13,3 +13,20 @@
   color: white !important;
   border-color: transparent !important;
 }
+
+/* Elimină fundalul albastru implicit aplicat coloanei sortate */
+th.p-sortable-column.p-highlight {
+  background-color: #f9fafb !important; /* echivalent Tailwind bg-gray-50 */
+}
+
+/* Fundal uniform pentru toate anteturile */
+th {
+  background-color: #f9fafb; /* gri deschis */
+  color: #1f2937; /* text-gray-800 */
+  font-weight: 500;
+}
+
+/* Stil uniform pentru iconița de sortare */
+.p-sortable-column-icon {
+  color: #6b7280 !important; /* Tailwind text-gray-500 */
+}

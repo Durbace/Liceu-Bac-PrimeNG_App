@@ -1,71 +1,82 @@
-<div class="max-w-xl mx-auto mt-16 bg-white/90 rounded-2xl p-10 shadow-lg backdrop-blur-md">
+<div class="w-[90%] max-w-5xl mx-auto mt-16 bg-white/90 rounded-2xl p-10 shadow-lg backdrop-blur-md">
   <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
     Bacalaureat 2025 – {{ selectedJudet }}
   </h2>
 
-  <form (ngSubmit)="filterAndCompute()" class="flex flex-col gap-5">
+  <div class="flex flex-col md:flex-row gap-10">
+    <!-- Stânga: filtre -->
+    <form (ngSubmit)="filterAndCompute()" class="flex-1 flex flex-col gap-5">
 
-    <div>
-      <label for="judet" class="font-semibold text-gray-700 mb-1 block">Județ:</label>
-      <p-dropdown
-        id="judet"
-        [options]="judete"
-        [(ngModel)]="selectedJudet"
-        name="judet"
-        placeholder="Selectează județul"
-        (onChange)="loadJudetData()"
-        class="w-full"
-        [showClear]="true"
-        optionLabel=""
-        [styleClass]="'w-full p-inputtext-sm text-base'"
-      ></p-dropdown>
+      <div>
+        <label for="judet" class="font-semibold text-gray-700 mb-1 block">Județ:</label>
+        <p-dropdown
+          id="judet"
+          [options]="judete"
+          [(ngModel)]="selectedJudet"
+          name="judet"
+          placeholder="Selectează județul"
+          (onChange)="loadJudetData()"
+          class="w-full"
+          [showClear]="true"
+          optionLabel=""
+          [styleClass]="'w-full p-inputtext-sm text-base'"
+        ></p-dropdown>
+      </div>
+
+      <div>
+        <label for="unitate" class="font-semibold text-gray-700 mb-1 block">Unitate:</label>
+        <p-dropdown
+          id="unitate"
+          [options]="unitati"
+          [(ngModel)]="selectedUnitate"
+          name="unitate"
+          placeholder="Selectează unitatea"
+          (onChange)="filterAndCompute()"
+          class="w-full"
+          [showClear]="true"
+          optionLabel=""
+          [styleClass]="'w-full p-inputtext-sm text-base'"
+        ></p-dropdown>
+      </div>
+
+      <div>
+        <label for="specializare" class="font-semibold text-gray-700 mb-1 block">Specializare:</label>
+        <p-dropdown
+          id="specializare"
+          [options]="specializari"
+          [(ngModel)]="selectedSpecializare"
+          name="specializare"
+          placeholder="Selectează specializarea"
+          (onChange)="filterAndCompute()"
+          class="w-full"
+          [showClear]="true"
+          optionLabel=""
+          [styleClass]="'w-full p-inputtext-sm text-base'"
+        ></p-dropdown>
+      </div>
+
+      <button
+        type="submit"
+        class="mt-2 bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded transition duration-200"
+      >
+        Aplică filtre
+      </button>
+    </form>
+
+    <!-- Dreapta: grafic și rezultate -->
+    <div class="flex-1 flex flex-col justify-center items-center">
+      <canvas
+        baseChart
+        [data]="pieChartData"
+        [options]="pieChartOptions"
+        [type]="pieChartType"
+        class="max-h-80 w-full"
+      ></canvas>
+
+      <p class="text-center font-bold mt-6 text-gray-800">
+        Total elevi selectați: {{ totalElevi }}<br />
+        Media generală: {{ mediaGenerala }}
+      </p>
     </div>
-
-    <div>
-      <label for="unitate" class="font-semibold text-gray-700 mb-1 block">Unitate:</label>
-      <p-dropdown
-        id="unitate"
-        [options]="unitati"
-        [(ngModel)]="selectedUnitate"
-        name="unitate"
-        placeholder="Selectează unitatea"
-        (onChange)="filterAndCompute()"
-        class="w-full"
-        [showClear]="true"
-        optionLabel=""
-        [styleClass]="'w-full p-inputtext-sm text-base'"
-      ></p-dropdown>
-    </div>
-
-    <div>
-      <label for="specializare" class="font-semibold text-gray-700 mb-1 block">Specializare:</label>
-      <p-dropdown
-        id="specializare"
-        [options]="specializari"
-        [(ngModel)]="selectedSpecializare"
-        name="specializare"
-        placeholder="Selectează specializarea"
-        (onChange)="filterAndCompute()"
-        class="w-full"
-        [showClear]="true"
-        optionLabel=""
-        [styleClass]="'w-full p-inputtext-sm text-base'"
-      ></p-dropdown>
-    </div>
-
-  </form>
-
-  <div class="mt-8">
-    <canvas
-      baseChart
-      [data]="pieChartData"
-      [options]="pieChartOptions"
-      [type]="pieChartType"
-      class="mx-auto max-h-80"
-    ></canvas>
   </div>
-
-  <p class="text-center font-bold mt-6 text-gray-800">
-    Total elevi selectați: {{ totalElevi }} | Media generală: {{ mediaGenerala }}
-  </p>
 </div>

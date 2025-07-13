@@ -23,6 +23,7 @@ export class RecomandariLiceuComponent implements OnInit {
   loading = false;
   error = '';
   formularTrimis: boolean = false;
+  searchTermLiceu: string = '';
 
   profiluriDisponibile: { label: string; value: string | null }[] = [];
   profilSelectat: { label: string; value: string | null } | null = null;
@@ -30,6 +31,9 @@ export class RecomandariLiceuComponent implements OnInit {
 
   aniDisponibili: { label: string; value: number }[] = [];
   anSelectat: { label: string; value: number } | null = null;
+
+  sortField: string = 'medieMinima';
+  sortOrder: number = -1;
 
   constructor(
     private liceuService: LiceuService,
@@ -72,7 +76,8 @@ export class RecomandariLiceuComponent implements OnInit {
     this.error = '';
     this.licee = [];
 
-    this.liceuService.getLicee(this.anSelectat!.value, this.selectedJudet!.value, mediaTrimisa)
+    this.liceuService
+      .getLicee(this.anSelectat!.value, this.selectedJudet!.value, mediaTrimisa)
 
       .subscribe({
         next: (data) => {
@@ -88,35 +93,39 @@ export class RecomandariLiceuComponent implements OnInit {
   }
 
   private actualizeazaProfiluri() {
-  const profiluriSet = new Set(
-    this.licee.map((l) => l.profil).filter((p) => p.trim() !== '')
-  );
+    const profiluriSet = new Set(
+      this.licee.map((l) => l.profil).filter((p) => p.trim() !== '')
+    );
 
-  const profiluriArray = Array.from(profiluriSet)
-    .sort()
-    .map((p) => ({ label: p, value: p }));
+    const profiluriArray = Array.from(profiluriSet)
+      .sort()
+      .map((p) => ({ label: p, value: p }));
 
-  this.profiluriDisponibile = [{ label: 'Toate profilurile', value: null }, ...profiluriArray];
+    this.profiluriDisponibile = [
+      { label: 'Toate profilurile', value: null },
+      ...profiluriArray,
+    ];
 
-  // Resetăm selecția la „Toate” după fiecare căutare
-  this.profilSelectat = null;
-}
-
-
-  get liceeFiltrateSortate(): Liceu[] {
-  let filtrate = this.licee;
-
-  if (this.profilSelectat?.value) {
-    filtrate = filtrate.filter((l) => l.profil === this.profilSelectat!.value);
+    // Resetăm selecția la „Toate” după fiecare căutare
+    this.profilSelectat = null;
   }
 
-  return filtrate.sort((a, b) =>
-    this.sortareDescrescator
-      ? b.medieMinima - a.medieMinima
-      : a.medieMinima - b.medieMinima
-  );
-}
+  get liceeFiltrateSortate(): Liceu[] {
+    let filtrate = this.licee;
 
+    if (this.profilSelectat?.value) {
+      filtrate = filtrate.filter(
+        (l) => l.profil === this.profilSelectat!.value
+      );
+    }
+
+    if (this.searchTermLiceu.trim()) {
+      const term = this.searchTermLiceu.toLowerCase();
+      filtrate = filtrate.filter((l) => l.liceu.toLowerCase().includes(term));
+    }
+
+    return filtrate;
+  }
 
   loadAniDisponibili() {
     this.anService.getAniDisponibili().subscribe({
@@ -126,8 +135,7 @@ export class RecomandariLiceuComponent implements OnInit {
           value: an,
         }));
 
-       this.anSelectat = this.aniDisponibili[0] ?? null;
-
+        this.anSelectat = this.aniDisponibili[0] ?? null;
       },
       error: () => {
         this.aniDisponibili = [];
