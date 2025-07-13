@@ -1,0 +1,15 @@
+::ng-deep .p-paginator .p-paginator-page {
+  padding: 0.25rem 0.5rem !important;  /* reduce dimensiunea */
+  font-size: 0.85rem !important;       /* font mai mic */
+  min-width: 1.75rem !important;       /* lățime minimă mai mică */
+  height: 1.75rem !important;          /* înălțime mai mică */
+  line-height: 1.5rem !important;      /* aliniere verticală */
+  margin: 0 0.15rem !important;        /* spațiu între butoane */
+  border-radius: 6px !important;       /* colțuri mai puțin rotunjite */
+}
+
+::ng-deep .p-paginator .p-paginator-page.p-highlight {
+  background-color: #6B21A8 !important; /* mov */
+  color: white !important;
+  border-color: transparent !important;
+}

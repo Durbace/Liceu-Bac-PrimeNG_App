@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DropdownModule } from 'primeng/dropdown';
+import { TableModule } from 'primeng/table';
 
 import { LiceuService, Liceu } from '../services/liceu.service';
 import { JudeteService } from '../services/judete.service';
@@ -10,7 +11,7 @@ import { AnService } from '../services/an.service';
 @Component({
   selector: 'app-recomandari-liceu',
   standalone: true,
-  imports: [CommonModule, FormsModule, DropdownModule],
+  imports: [CommonModule, FormsModule, DropdownModule, TableModule],
   templateUrl: './recomandari-liceu.component.html',
   styleUrls: ['./recomandari-liceu.component.css'],
 })

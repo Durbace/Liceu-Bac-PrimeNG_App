@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { ButtonModule } from 'primeng/button'; // ✅ adăugat
+import { ButtonModule } from 'primeng/button';
 
 @Component({
   selector: 'app-recomandari',
   standalone: true,
-  imports: [CommonModule, ButtonModule], // ✅ inclus aici
+  imports: [CommonModule, ButtonModule],
   templateUrl: './recomandari.component.html'
 })
 export class RecomandariComponent {

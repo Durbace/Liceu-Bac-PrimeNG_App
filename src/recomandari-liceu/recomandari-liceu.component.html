@@ -1,5 +1,5 @@
 <div
-  class="max-w-lg mx-auto mt-16 bg-white/90 backdrop-blur rounded-2xl p-10 shadow-lg"
+  class="max-w-5xl w-[90%] mx-auto mt-16 bg-white/90 backdrop-blur rounded-2xl p-10 shadow-lg"
 >
   <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
     Recomandări licee
@@ -99,16 +99,28 @@
       </label>
     </div>
 
-    <div
-      class="max-h-64 overflow-y-auto border border-gray-300 rounded-md p-4 bg-white text-sm leading-relaxed"
+    <p-table
+      [value]="liceeFiltrateSortate"
+      [paginator]="true"
+      [rows]="10"
+      [responsiveLayout]="'scroll'"
+      class="p-datatable-sm mt-4"
     >
-      <ul class="space-y-2">
-        <li *ngFor="let liceu of liceeFiltrateSortate">
-          <strong>{{ liceu.liceu }}</strong> – {{ liceu.profil }} (medie:
-          {{ liceu.medieMinima }})
-        </li>
-      </ul>
-    </div>
+      <ng-template pTemplate="header">
+        <tr>
+          <th>Liceu</th>
+          <th>Profil</th>
+          <th>Medie minimă</th>
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-liceu>
+        <tr>
+          <td>{{ liceu.liceu }}</td>
+          <td>{{ liceu.profil }}</td>
+          <td>{{ liceu.medieMinima }}</td>
+        </tr>
+      </ng-template>
+    </p-table>
   </div>
 
   <div
