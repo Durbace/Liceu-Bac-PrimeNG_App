@@ -12,7 +12,7 @@ export interface Liceu {
 
 @Injectable({ providedIn: 'root' })
 export class LiceuService {
-  private apiUrl = 'http://localhost:3000/api/licee';
+  private apiUrl = '/api/licee';
 
   constructor(private http: HttpClient) {}
 

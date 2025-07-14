@@ -16,7 +16,7 @@ export class BacStatisticiService {
   constructor(private http: HttpClient) {}
 
   getEleviDinJudet(judet: string): Observable<Elev[]> {
-    const url = `http://localhost:3000/api/bac/${judet}`;
+    const url = `/api/bac/${judet}`;
 
     return this.http.get<any[]>(url).pipe(
       map((data) =>
