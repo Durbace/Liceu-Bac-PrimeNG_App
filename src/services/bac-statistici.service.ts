@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { map, Observable } from 'rxjs';
+import { environment } from '../environments/environment';
 
 export interface Elev {
   liceu: string;
@@ -16,7 +17,7 @@ export class BacStatisticiService {
   constructor(private http: HttpClient) {}
 
   getEleviDinJudet(judet: string): Observable<Elev[]> {
-    const url = `/api/bac/${judet}`;
+    const url = environment.apiUrl + `/api/bac/${judet}`;
 
     return this.http.get<any[]>(url).pipe(
       map((data) =>

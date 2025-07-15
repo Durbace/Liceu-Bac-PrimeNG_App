@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { map, Observable } from 'rxjs';
+import { environment } from '../environments/environment';
 
 export interface Liceu {
   liceu: string;
@@ -12,7 +13,7 @@ export interface Liceu {
 
 @Injectable({ providedIn: 'root' })
 export class LiceuService {
-  private apiUrl = '/api/licee';
+  private apiUrl = environment.apiUrl + '/api/licee';
 
   constructor(private http: HttpClient) {}
 
