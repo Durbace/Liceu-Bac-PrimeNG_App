@@ -7,7 +7,7 @@ import { ButtonModule } from 'primeng/button';
   selector: 'app-recomandari',
   standalone: true,
   imports: [CommonModule, ButtonModule],
-  templateUrl: './recomandari.component.html'
+  templateUrl: './recomandari.component.html',
 })
 export class RecomandariComponent {
   constructor(private router: Router) {}
@@ -18,5 +18,15 @@ export class RecomandariComponent {
 
   goToBac() {
     this.router.navigate(['/statistici-bac']);
+  }
+  
+  goToContestatii() {
+    this.router.navigate(['/contestatii']);
+  }
+  goToOcupare() {
+    this.router.navigate(['/grad-ocupare']);
+  }
+  goToUltimulAdmis() {
+    this.router.navigate(['/ultimul-admis']);
   }
 }

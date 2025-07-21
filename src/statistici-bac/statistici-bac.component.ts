@@ -147,7 +147,6 @@ export class StatisticiBacComponent implements OnInit {
     const neprezentati = filtered.filter(
       (e) => e.medieAdmitere === null || e.medieAdmitere === 0
     );
-    console.log('Neprezentati:', neprezentati);
 
     this.pieChartData = {
       labels: ['Neprezentat', 'Respins', '6–7', '7–8', '8–9', '9–10'],

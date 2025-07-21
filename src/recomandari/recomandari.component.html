@@ -1,63 +1,139 @@
 <div
-  class="flex justify-center items-center gap-10 flex-wrap h-[calc(100vh-64px)] bg-transparent px-5 py-8 overflow-hidden"
+  class="flex flex-col items-center gap-10 min-h-[calc(100vh-64px)] px-5 py-10 bg-transparent"
 >
-  <div
-    class="relative w-[28rem] h-[22rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
-  >
-    <img
-      src="liceu.png"
-      alt="Recomandări licee"
-      class="absolute inset-0 w-full h-full object-cover opacity-70"
-    />
+  <div class="flex flex-wrap justify-center gap-8">
     <div
-      class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-8 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      class="relative w-[18rem] h-[16rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
     >
-      <h2 class="text-3xl font-semibold text-purple-700 mb-4">
-        Recomandări licee
-      </h2>
-      <p class="text-gray-700 text-base mb-6">
-        Nu știi ce liceu să alegi? Introdu media ta generală și județul, iar noi
-        îți vom arăta cele mai potrivite opțiuni din zonă, pe baza ultimelor
-        medii de admitere. Descoperă ce ți se potrivește și planifică-ți
-        viitorul cu încredere!
-      </p>
-      <button
-        pButton
-        type="button"
-        label="Vezi liceele recomandate"
-        (click)="goToLicee()"
-        class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-sm px-5 py-2"
-      ></button>
+      <img
+        src="liceu.png"
+        alt="Recomandări licee"
+        class="absolute inset-0 w-full h-full object-cover opacity-70"
+      />
+      <div
+        class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-6 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      >
+        <h2 class="text-2xl font-bold text-purple-700 mb-3">
+          Recomandări licee
+        </h2>
+        <p class="text-gray-700 text-base mb-5">
+          Introdu media și județul pentru a primi sugestii de licee potrivite.
+        </p>
+        <button
+          pButton
+          type="button"
+          label="Vezi liceele recomandate"
+          (click)="goToLicee()"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-base px-5 py-2"
+        ></button>
+      </div>
+    </div>
+
+    <div
+      class="relative w-[18rem] h-[16rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
+    >
+      <img
+        src="bac.png"
+        alt="Statistici BAC"
+        class="absolute inset-0 w-full h-full object-cover opacity-70"
+      />
+      <div
+        class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-6 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      >
+        <h2 class="text-2xl font-bold text-purple-700 mb-3">Statistici BAC</h2>
+        <p class="text-gray-700 text-base mb-5">
+          Alege județul și vezi ratele de promovare și mediile pe profiluri.
+        </p>
+        <button
+          pButton
+          type="button"
+          label="Vezi statistici BAC"
+          (click)="goToBac()"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-base px-5 py-2"
+        ></button>
+      </div>
+    </div>
+
+    <div
+      class="relative w-[18rem] h-[16rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
+    >
+      <img
+        src="contestatii.png"
+        alt="Istoric contestații"
+        class="absolute inset-0 w-full h-full object-cover opacity-70"
+      />
+      <div
+        class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-6 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      >
+        <h2 class="text-2xl font-bold text-purple-700 mb-3">
+          Istoric contestații
+        </h2>
+        <p class="text-gray-700 text-base mb-5">
+          Analizează diferențele între notele inițiale și cele finale după
+          contestații.
+        </p>
+        <button
+          pButton
+          type="button"
+          label="Vezi contestațiile"
+          (click)="goToContestatii()"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-base px-5 py-2"
+        ></button>
+      </div>
     </div>
   </div>
 
-  <div
-    class="relative w-[28rem] h-[22rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
-  >
-    <img
-      src="bac.png"
-      alt="Statistici BAC"
-      class="absolute inset-0 w-full h-full object-cover opacity-70"
-    />
+  <div class="flex flex-wrap justify-center gap-8">
     <div
-      class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-8 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      class="relative w-[18rem] h-[16rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
     >
-      <h2 class="text-3xl font-semibold text-purple-700 mb-4">
-        Statistici BAC
-      </h2>
-      <p class="text-gray-700 text-base mb-6">
-        Vrei să vezi ce șanse ai la Bac? Alege județul dorit și consultă
-        statistici reale din anii anteriori: rata de promovare, cele mai bune
-        rezultate, medii pe profiluri și comparații între ani. Informează-te și
-        pregătește-te mai bine!
-      </p>
-      <button
-        pButton
-        type="button"
-        label="Vezi statistici BAC"
-        (click)="goToBac()"
-        class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-sm px-5 py-2"
-      ></button>
+      <img
+        src="grad_ocupare.png"
+        alt="Grad de ocupare"
+        class="absolute inset-0 w-full h-full object-cover opacity-70"
+      />
+      <div
+        class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-6 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      >
+        <h2 class="text-2xl font-bold text-purple-700 mb-3">Grad de ocupare</h2>
+        <p class="text-gray-700 text-base mb-5">
+          Află ce specializări sunt ocupate și în ce proporție, pornind de la
+          poziția în ierarhie.
+        </p>
+        <button
+          pButton
+          type="button"
+          label="Vezi gradul de ocupare"
+          (click)="goToOcupare()"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-base px-5 py-2"
+        ></button>
+      </div>
+    </div>
+
+    <div
+      class="relative w-[18rem] h-[16rem] rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-700 hover:rotate-[-5deg] hover:scale-105 shadow-2xl"
+    >
+      <img
+        src="ultimul_admis.png"
+        alt="Ultimul admis"
+        class="absolute inset-0 w-full h-full object-cover opacity-70"
+      />
+      <div
+        class="absolute top-1/2 left-1/2 w-full h-full bg-white/90 p-6 text-center transform -translate-x-1/2 -translate-y-1/2 rotate-[-45deg] opacity-0 transition-all duration-700 hover:rotate-0 hover:opacity-100"
+      >
+        <h2 class="text-2xl font-bold text-purple-700 mb-3">Ultimul admis</h2>
+        <p class="text-gray-700 text-base mb-5">
+          Vezi media ultimului admis din anii anteriori pentru orice liceu și
+          profil.
+        </p>
+        <button
+          pButton
+          type="button"
+          label="Vezi ultimul admis"
+          (click)="goToUltimulAdmis()"
+          class="p-button-rounded bg-purple-700 hover:bg-purple-800 border-none text-white text-base px-5 py-2"
+        ></button>
+      </div>
     </div>
   </div>
 </div>
