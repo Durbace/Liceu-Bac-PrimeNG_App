@@ -41,6 +41,8 @@ export class UltimulAdmisChartComponent implements OnInit {
   judete: { label: string; value: string }[] = [];
   selectedJudet: { label: string; value: string } | null = null;
 
+  culoriAlocate: Record<string, string> = {};
+
   chartOptions: ChartOptions = {
     responsive: true,
     plugins: {
@@ -85,9 +87,10 @@ export class UltimulAdmisChartComponent implements OnInit {
     });
   }
 
-  onLiceuChange(liceu: { label: string; value: string }) {
+  onLiceuChange(liceu: { label: string; value: string } | null) {
     if (!liceu) {
       this.specializari = [];
+      this.selectedSpec = null;
       return;
     }
 
@@ -125,17 +128,25 @@ export class UltimulAdmisChartComponent implements OnInit {
     this.filtreActive.push(key);
     const ani = Object.keys(this.rawData[key]).sort();
 
-    if (!this.chartLabels.length) {
-      this.chartLabels = ani;
-    }
+    const aniUnici = new Set([...this.chartLabels, ...ani]);
+    this.chartLabels = Array.from(aniUnici).sort();
+
+    const datePeAni = this.chartLabels.map(
+      (an) => this.rawData[key][an]?.pozitiaUltim ?? null
+    );
+
+    const culoare = this.getColorForKey(key);
 
     this.chartData.push({
       label: key,
-      data: ani.map((an) => this.rawData[key][an].pozitiaUltim),
+      data: datePeAni,
       tension: 0.3,
       fill: false,
-      borderColor: this.getRandomColor(),
-      pointBackgroundColor: '#2563eb',
+      borderColor: culoare,
+      backgroundColor: culoare,
+      borderWidth: 2,
+      pointBorderColor: culoare,
+      pointBackgroundColor: culoare,
     });
   }
 
@@ -145,7 +156,11 @@ export class UltimulAdmisChartComponent implements OnInit {
     this.chartLabels = [];
   }
 
-  getRandomColor(): string {
+  getColorForKey(key: string): string {
+    if (this.culoriAlocate[key]) {
+      return this.culoriAlocate[key];
+    }
+
     const colors = [
       '#2563eb',
       '#9333ea',
@@ -153,28 +168,71 @@ export class UltimulAdmisChartComponent implements OnInit {
       '#dc2626',
       '#f59e0b',
       '#0ea5e9',
+      '#e11d48',
+      '#10b981',
+      '#7c3aed',
+      '#0284c7',
+      '#ca8a04',
+      '#3b82f6',
     ];
-    return colors[Math.floor(Math.random() * colors.length)];
+
+    const usedColors = Object.values(this.culoriAlocate);
+    const unusedColors = colors.filter((c) => !usedColors.includes(c));
+
+    const newColor =
+      unusedColors.length > 0
+        ? unusedColors[Math.floor(Math.random() * unusedColors.length)]
+        : '#' + Math.floor(Math.random() * 16777215).toString(16);
+
+    this.culoriAlocate[key] = newColor;
+    return newColor;
   }
 
-  onJudetChange(judet: { label: string; value: string }) {
-    this.selectedJudet = judet;
+  onJudetChange(judet: { label: string; value: string } | null) {
+    if (!judet) {
+      this.selectedJudet = null;
+      this.licee = [];
+      this.selectedLiceu = null;
+      this.specializari = [];
+      return;
+    }
 
+    this.selectedJudet = judet;
     this.selectedLiceu = null;
     this.selectedSpec = null;
     this.licee = [];
     this.specializari = [];
-    this.filtreActive = [];
-    this.chartLabels = [];
-    this.chartData = [];
 
     this.ultimulAdmisService.getUltimulAdmis(judet.value).subscribe((data) => {
-      this.rawData = data;
       const keys = Object.keys(data).filter((k) => k.includes(' | '));
       const liceeSet = new Set(keys.map((k) => k.split(' | ')[0].trim()));
       this.licee = Array.from(liceeSet)
         .sort()
         .map((v) => ({ label: v, value: v }));
+
+      if (this.selectedLiceu) {
+        const liceuNorm = this.selectedLiceu.value
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .trim();
+
+        const specs = keys
+          .map((key) => {
+            const [l, s] = key.split('|').map((p) =>
+              p
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .trim()
+            );
+            return { liceu: l, spec: s };
+          })
+          .filter((o) => o.liceu === liceuNorm)
+          .map((o) => o.spec);
+
+        this.specializari = Array.from(new Set(specs))
+          .sort()
+          .map((v) => ({ label: v, value: v }));
+      }
     });
   }
 }
