@@ -1,0 +1,512 @@
+[
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC, MUNICIPIUL CÂMPINA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.02,
+    "pozitiaUltim": 64
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC ELIE RADU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.57,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ANGHEL SALIGNY, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.27,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC, MUNICIPIUL CÂMPINA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.9,
+    "pozitiaUltim": 91
+  },
+  {
+    "liceu": "COLEGIUL ION KALINDERU, ORAȘUL BUȘTENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.12,
+    "pozitiaUltim": 4
+  },
+  {
+    "liceu": "COLEGIUL MIHAIL CANTACUZINO, ORAȘUL SINAIA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC 1 MAI, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.92,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC VIRGIL MADGEARU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.75,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TASE DUMITRESCU, ORAȘUL MIZIL",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.17,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LAZĂR EDELEANU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.57,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.2,
+    "pozitiaUltim": 27
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ANGHEL SALIGNY, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.82,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TASE DUMITRESCU, ORAȘUL MIZIL",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.1,
+    "pozitiaUltim": 119
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.57,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMA SOCOLESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.7,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.65,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMA SOCOLESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.67,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LAZĂR EDELEANU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.6,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LAZĂR EDELEANU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.07,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC ELIE RADU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.22,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORTURI, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.85,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC 1 MAI, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.37,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC ELIE RADU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.57,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.57,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.17,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC ELIE RADU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.52,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.67,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC VIRGIL MADGEARU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC, MUNICIPIUL CÂMPINA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TEODOR DIAMANT, ORAȘUL BOLDEȘTI-SCĂENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.9,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.05,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN ISTRATI, MUNICIPIUL CÂMPINA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.2,
+    "pozitiaUltim": 61
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGROMONTAN ROMEO CONSTANTINESCU, ORAȘUL VĂLENII DE MUNTE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC FORESTIER, MUNICIPIUL CÂMPINA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.6,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL CAROL I , ORAȘUL PLOPENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.15,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL MIHAIL CANTACUZINO, ORAȘUL SINAIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.27,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ADMINISTRATIV ȘI DE SERVICII VICTOR SLĂVESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.57,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC FORESTIER, MUNICIPIUL CÂMPINA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.82,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC FORESTIER, MUNICIPIUL CÂMPINA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.45,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMA SOCOLESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.15,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ADMINISTRATIV ȘI DE SERVICII VICTOR SLĂVESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.82,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.62,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.75,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC FORESTIER, MUNICIPIUL CÂMPINA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.82,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.57,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGROMONTAN ROMEO CONSTANTINESCU, ORAȘUL VĂLENII DE MUNTE",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.07,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.35,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.37,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.72,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.12,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GHEORGHE IONESCU-SISEȘTI, COMUNA VALEA CĂLUGĂREASCĂ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.5,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.67,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.02,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL, COMUNA BĂRCĂNEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.27,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.37,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN ISTRATI, MUNICIPIUL CÂMPINA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.2,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.77,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.67,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "COLEGIUL SPIRU HARET, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.2,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.55,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC 1 MAI, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.77,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.52,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL SPIRU HARET, MUNICIPIUL PLOIEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.97,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL FERDINAND I COMUNA MĂNECIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.92,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.3,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL CAROL I , ORAȘUL PLOPENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.15,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.05,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "COLEGIUL FERDINAND I COMUNA MĂNECIU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.65,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL ION KALINDERU, ORAȘUL BUȘTENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.72,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "COLEGIUL MIHAIL CANTACUZINO, ORAȘUL SINAIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 50
+  },
+  {
+    "liceu": "COLEGIUL FERDINAND I COMUNA MĂNECIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PROFESOR ILIE GAVRILĂ, SAT CIORANII DE JOS, COMUNA CIORANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.42,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.9,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC, ORAȘUL AZUGA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.62,
+    "pozitiaUltim": 8
+  },
+  {
+    "liceu": "COLEGIUL ION KALINDERU, ORAȘUL BUȘTENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.3,
+    "pozitiaUltim": 1
+  }
+]

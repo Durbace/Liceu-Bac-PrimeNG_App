@@ -1,0 +1,374 @@
+[
+  {
+    "liceu": "COLEGIUL NAŢIONAL „DIMITRIE CANTEMIR” ONEŞTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.77,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „DUMITRU MANGERON” BACĂU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.3,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC „SPIRU HARET” MOINEŞTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.77,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „FERDINAND I” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.02,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEORETIC „SPIRU HARET” MOINEŞTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.55,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC „ION GHICA” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.37,
+    "pozitiaUltim": 288
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „VASILE ALECSANDRI” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL” ONEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI” ONEŞTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.97,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI” ONEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.3,
+    "pozitiaUltim": 95
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „DIMITRIE CANTEMIR” ONEŞTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.72,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „DIMITRIE GHIKA” COMĂNEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.05,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GRIGORE COBĂLCESCU” MOINEŞTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.62,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „GHEORGHE VRĂNCEANU” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.07,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "COLEGIUL „MIHAI EMINESCU” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.67,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „VASILE ALECSANDRI” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.52,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „DIMITRIE GHIKA” COMĂNEŞTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GHEORGHE ASACHI” ONEŞTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.62,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL CATOLIC „SF. IOSIF” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.17,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GRIGORE COBĂLCESCU” MOINEŞTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.1,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „GRIGORE MOISIL” ONEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.82,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY” BACĂU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC „HENRI COANDĂ” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.1,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PEDAGOGIC „ŞTEFAN CEL MARE” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.87,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL „MIHAI EMINESCU” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.72,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL CATOLIC „SF. IOSIF” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL „N.V. KARPEN” BACĂU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.95,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC „HENRI COANDĂ” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.55,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PEDAGOGIC „ŞTEFAN CEL MARE” BACĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.8,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „GRIGORE ANTIPA” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.67,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „GHEORGHE VRĂNCEANU” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „GRIGORE ANTIPA” BACĂU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.1,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL „N.V. KARPEN” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.87,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.77,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „COSTACHE NEGRI” TÂRGU OCNA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.65,
+    "pozitiaUltim": 101
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „DIMITRIE GHIKA” COMĂNEŞTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.3,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „DIMITRIE GHIKA” COMĂNEŞTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.72,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „DIMITRIE GHIKA” COMĂNEŞTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.65,
+    "pozitiaUltim": 36
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GRIGORE COBĂLCESCU” MOINEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.12,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „GEORGETA J. CANCICOV” PARINCEA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.1,
+    "pozitiaUltim": 4
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „DUMITRU MANGERON” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.1,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „PETRU PONI” ONEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „PETRU PONI” ONEŞTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.02,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL CU PROGRAM SPORTIV „NADIA COMĂNECI” ONEŞTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.87,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DĂRMĂNEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.2,
+    "pozitiaUltim": 33
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „FERDINAND I” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL „N.V. KARPEN” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.52,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „PETRU RAREȘ” BACĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.47,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 3,
+    "pozitiaUltim": 33
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL „COSTACHE NEGRI” TÂRGU OCNA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.72,
+    "pozitiaUltim": 47
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY” BACĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „JACQUES M. ELIAS” SASCUT",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 39
+  },
+  {
+    "liceu": "LICEUL TEORETIC „ION BORCEA” BUHUȘI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC „ION BORCEA” BUHUȘI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.95,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC „ION BORCEA” BUHUȘI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.82,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „DACIA” ONEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.65,
+    "pozitiaUltim": 3
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „DACIA” ONEŞTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.05,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „PETRU PONI” ONEŞTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.9,
+    "pozitiaUltim": 5
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC RĂCHITOASA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.97,
+    "pozitiaUltim": 14
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „ALEXANDRU VLAHUȚĂ” PODU TURCULUI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.85,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FĂGET",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 1.97,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „ALEXANDRU VLAHUȚĂ” PODU TURCULUI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 26
+  }
+]

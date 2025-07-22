@@ -1,0 +1,284 @@
+[
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE COȘBUC MOTRU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.8,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC VIRGIL MADGEARU TÂRGU JIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.9,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE COȘBUC MOTRU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.27,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ȚICLENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.47,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION MINCU TÂRGU JIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.2,
+    "pozitiaUltim": 36
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.17,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.02,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TISMANA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.57,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.12,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI- PEȘTIȘANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.9,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL AUTO TRAIAN VUIA TÂRGU JIU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.42,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.85,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”GENERAL IOAN CULCER” TÂRGU JIU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GENERAL GHEORGHE MAGHERU TÂRGU JIU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.85,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL MĂTĂSARI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC TUDOR ARGHEZI TÂRGU CĂRBUNEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.07,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC NOVACI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.07,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”GENERAL IOAN CULCER” TÂRGU JIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GENERAL GHEORGHE MAGHERU TÂRGU JIU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.15,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC TÂRGU JIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.27,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”GENERAL IOAN CULCER” TÂRGU JIU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HENRI COANDĂ TÂRGU JIU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BUSTUCHIN",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ROȘIA DE AMARADIA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.55,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC TUDOR ARGHEZI TÂRGU CĂRBUNEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.85,
+    "pozitiaUltim": 32
+  },
+  {
+    "liceu": "LICEUL AUTO TRAIAN VUIA TÂRGU JIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.75,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL GHEORGHE TĂTĂRESCU ROVINARI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.75,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL GHEORGHE TĂTĂRESCU ROVINARI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.87,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TURCENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL MIHAI VITEAZUL BUMBEȘTI-JIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL MĂTĂSARI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TURCENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2,
+    "pozitiaUltim": 71
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TURCENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL ENERGETIC TÂRGU JIU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.55,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GENERAL CONSTANTIN ȘANDRU BÂLTA, RUNCU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.97,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BÂLTENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.57,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MOTRU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.15,
+    "pozitiaUltim": 95
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BAIA DE FIER",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 1.8,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEORETIC NOVACI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC NOVACI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION MINCU TÂRGU JIU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MOTRU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BÂRSEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.85,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ROȘIA JIU, FĂRCĂȘEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 1,
+    "pozitiaUltim": 24
+  }
+]

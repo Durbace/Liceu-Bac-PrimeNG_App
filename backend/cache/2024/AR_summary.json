@@ -1,0 +1,404 @@
+[
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE ELECTRONICĂ ŞI AUTOMATIZĂRI CAIUS IACOB ARAD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.3,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FRANCISC NEUMAN ARAD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 27
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CHIŞINEU CRIŞ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.05,
+    "pozitiaUltim": 47
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”REGELE MIHAI I” SĂVÂRŞIN",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ELENA GHIBA BIRTA ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.52,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL PARTICULAR VASILE GOLDIŞ ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.62,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC PENTICOSTAL ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.17,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL MIHAI VITEAZUL INEU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.9,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.42,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CHIŞINEU CRIŞ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.1,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FRANCISC NEUMAN ARAD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.07,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ ARAD",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.47,
+    "pozitiaUltim": 41
+  },
+  {
+    "liceu": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.07,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC ARAD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.72,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.73,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.17,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.47,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIULCSIKY GERGELY ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.65,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.45,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEORETIC PÂNCOTA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.17,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN HELL SÂNTANA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.55,
+    "pozitiaUltim": 45
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO HENRI COANDĂ ARAD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.17,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.6,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN HELL SÂNTANA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.3,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.42,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FRANCISC NEUMAN ARAD",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.6,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.47,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC SEBIŞ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.6,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL SEVER BOCU LIPOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.82,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL IOAN BUTEANU GURAHONŢ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.47,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC SEBIŞ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIULCSIKY GERGELY ARAD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.25,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN HELL SÂNTANA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.75,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL IOAN BUTEANU GURAHONŢ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 1.65,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUREL VLAICU ARAD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ELENA GHIBA BIRTA ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.52,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL PARTICULAR VASILE GOLDIŞ ARAD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.4,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC SEBIŞ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.4,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC PÂNCOTA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL MIHAI VITEAZUL INEU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.8,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL MIHAI VITEAZUL INEU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.75,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC EMIL CRĂCIUN LĂZUREANU BELIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 1.6,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL IOAN BUTEANU GURAHONŢ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.35,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "COLEGIUL MIHAI VITEAZUL INEU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.2,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SAVA BRANCOVICI INEU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SAVA BRANCOVICI INEU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.4,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 1.85,
+    "pozitiaUltim": 27
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE JUNCU MINIŞ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.22,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "COLEGIULCSIKY GERGELY ARAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.93,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VINGA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC CERMEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.87,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.05,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET ARAD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.77,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.1,
+    "pozitiaUltim": 25
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MOGA VOIEVOD HĂLMAGIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.02,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION CREANGĂ CURTICI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC CERMEI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.37,
+    "pozitiaUltim": 1
+  }
+]

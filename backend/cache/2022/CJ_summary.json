@@ -1,0 +1,524 @@
+[
+  {
+    "liceu": "LICEUL TEORETIC APACZAI CSERE JANOS CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.32,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC VICTOR BABEȘ CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.21,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUREL VLAICU CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.45,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VLĂDEASA HUEDIN",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.81,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.58,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.69,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.09,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC VICTOR UNGUREANU CÂMPIA TURZII",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.53,
+    "pozitiaUltim": 61
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.66,
+    "pozitiaUltim": 411
+  },
+  {
+    "liceu": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.47,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE COMUNICAȚII AUGUSTIN MAIOR CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 8.24,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.5,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.63,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.58,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC APACZAI CSERE JANOS CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.21,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI VITEAZUL TURDA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.68,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC APACZAI CSERE JANOS CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.62,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC BRASSAI SAMUEL CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.38,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC REFORMAT CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC VICTOR UNGUREANU CÂMPIA TURZII",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.29,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU PAPIU ILARIAN DEJ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ANGHEL SALIGNY CLUJ-NAPOCA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.52,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL GRECO-CATOLIC INOCHENTIE MICU CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.6,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC REFORMAT CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.01,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC IULIAN POP CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.61,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.86,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ENERGETIC CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.34,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ANGHEL SALIGNY CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.9,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI DEJ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.08,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.14,
+    "pozitiaUltim": 89
+  },
+  {
+    "liceu": "COLEGIUL DE SERVICII ÎN TURISM NAPOCA CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.46,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.04,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC LIVIU REBREANU TURDA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.04,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.13,
+    "pozitiaUltim": 46
+  },
+  {
+    "liceu": "LICEUL TEORETIC DUMITRU TĂUȚAN FLOREȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.02,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC LIVIU REBREANU TURDA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.84,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ALEXANDRU BORZA CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.85,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.79,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.58,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC BAPTIST EMANUEL CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.48,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.49,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE TRANSPORTURI TRANSILVANIA CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.13,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI DEJ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.58,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC BATHORY ISTVAN CLUJ-NAPOCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.18,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.35,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC GELU VOIEVOD GILĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.75,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.07,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.26,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC ADVENTIST MARANATHA CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.09,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE COMUNICAȚII AUGUSTIN MAIOR CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.27,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC KEMÉNY ZSIGMOND GHERLA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.45,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC BRASSAI SAMUEL CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.84,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC JOSIKA MIKLOS TURDA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.7,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC BATHORY ISTVAN CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.29,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL UNITARIAN JANOS ZSIGMOND CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.44,
+    "pozitiaUltim": 10
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ANA ASLAN CLUJ-NAPOCA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.47,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR. 1 CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.73,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.5,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.16,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC DUMITRU TĂUȚAN FLOREȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL EMIL NEGRUȚIU TURDA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.36,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL EMIL NEGRUȚIU TURDA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.96,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC TURDA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.87,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SOMEȘ DEJ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.97,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU PAPIU ILARIAN DEJ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.15,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RALUCA RIPAN CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GHERLA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.04,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI VITEAZUL TURDA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.38,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ANA ASLAN CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.15,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC KEMÉNY ZSIGMOND GHERLA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.1,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.63,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.05,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.85,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.71,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ALEXANDRU BORZA CLUJ-NAPOCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.09,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RALUCA RIPAN CLUJ-NAPOCA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.05,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC TURDA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.87,
+    "pozitiaUltim": 37
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.43,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC JOSIKA MIKLOS TURDA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.73,
+    "pozitiaUltim": 10
+  }
+]

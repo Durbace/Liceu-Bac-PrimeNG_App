@@ -1,0 +1,374 @@
+[
+  {
+    "liceu": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.13,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 3.13,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTRUCȚII DE MAȘINI MIOVENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.07,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.19,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC REGELE MIHAI I CURTEA DE ARGEȘ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.38,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.51,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.23,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE DIMA PITEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.9,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.13,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DACIA PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.98,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.23,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION CANTACUZINO PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.58,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.35,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC I.C. PETRESCU STÎLPENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.25,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.39,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CÂMPULUNG",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.55,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DINU BRĂTIANU ȘTEFĂNEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.63,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC COSTEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.87,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC MARIA TEIULEANU PITEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.35,
+    "pozitiaUltim": 168
+  },
+  {
+    "liceu": "COLEGIUL ECOLOGIC PROF.UNIV.DR. ALEXANDRU IONESCU PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.94,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.77,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ALEXANDRU ODOBESCU PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.85,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN DOBRESCU CURTEA DE ARGEȘ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.13,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC COSTIN D. NENIȚESCU PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.63,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ARMAND CĂLINESCU PITEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.59,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CÂMPULUNG",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.59,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ALEXANDRU ODOBESCU PITEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.73,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION CANTACUZINO PITEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.58,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL VLAICU VODĂ CURTEA DE ARGEȘ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.51,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DINU BRĂTIANU ȘTEFĂNEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.73,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ARMAND CĂLINESCU PITEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.61,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC DAN BARBILIAN CÂMPULUNG",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.76,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION BARBU PITEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.91,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.75,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI PITEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC COSTEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.15,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC COSTIN D. NENIȚESCU PITEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 8.12,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.87,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.25,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL VLAICU VODĂ CURTEA DE ARGEȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.52,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ASTRA PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.2,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC DAN BARBILIAN CÂMPULUNG",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.19,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION BARBU PITEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.84,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC COSTIN D. NENIȚESCU PITEȘTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC COSTEȘTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.67,
+    "pozitiaUltim": 42
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.3,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE DIMA PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.9,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ARMAND CĂLINESCU PITEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.07,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUTO CÂMPULUNG",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.74,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VICTOR SLĂVESCU RUCĂR",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.24,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ASTRA PITEȘTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LIVIU REBREANU MOZĂCENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.85,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.72,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FERDINAND I CURTEA DE ARGEȘ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEORETIC SFÂNTA MUCENIȚĂ FILOTEEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.01,
+    "pozitiaUltim": 2
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VEDEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.45,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.62,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CÂMPULUNG",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.06,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.84,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LIVIU REBREANU MOZĂCENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.55,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.07,
+    "pozitiaUltim": 23
+  }
+]

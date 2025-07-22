@@ -18,9 +18,12 @@ export const routes: Routes = [
     loadComponent: () =>
       import('../statistici-bac/statistici-bac.component').then(m => m.StatisticiBacComponent)
   },
-  // {
-  //   path: 'contact',
-  //   loadComponent: () =>
-  //     import('../contact/contact.component').then(m => m.ContactComponent)
-  // }
+
+  {
+    path: 'ultimul-admis',
+    loadComponent: () =>
+      import('../ultimul-admis/ultimul-admis.component').then(m => m.UltimulAdmisChartComponent)
+  }
+
+
 ];

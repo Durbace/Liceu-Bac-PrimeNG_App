@@ -1,0 +1,446 @@
+[
+  {
+    "liceu": "LICEUL TEORETIC MURFATLAR",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.76,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ’MIRCEA CEL BĂTRÂN’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.55,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL COBADIN",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’CALLATIS’ MANGALIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.4,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE ELECTROTEHNICĂ ŞI TELECOMUNICAŢII CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.79,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "LICEUL DE MARINĂ CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 7.1,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’LUCIAN BLAGA’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.53,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’TRAIAN’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.03,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "COLEGIUL COMERCIAL ’CAROL I’ CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.12,
+    "pozitiaUltim": 168
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’DECEBAL’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.91,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ’MIRCEA CEL BĂTRÂN’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.48,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL ECONOMIC ’VIRGIL MADGEARU’ CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.51,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ’MIHAI EMINESCU’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.97,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’ION PODARU’ OVIDIU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.08,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’NICOLAE BĂLCESCU’ MEDGIDIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.84,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.91,
+    "pozitiaUltim": 362
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ’KEMAL ATATURK’ MEDGIDIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.74,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’GEORGE CĂLINESCU’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.42,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’CARMEN SYLVA’ EFORIE",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.93,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’AXIOPOLIS’ CERNAVODĂ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.52,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’OVIDIUS’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.27,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’C.A.ROSETTI’ CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.29,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’LAZĂR EDELEANU’ NĂVODARI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.74,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL ’REGELE CAROL I’ OSTROV",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’TOMIS’ CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.47,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’LAZĂR EDELEANU’ NĂVODARI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.87,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PEDAGOGIC ’CONSTANTIN BRĂTESCU’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’ION BĂNESCU’ MANGALIA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.84,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’ION PODARU’ OVIDIU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.32,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC 'MIHAIL KOGĂLNICEANU' MIHAIL KOGĂLNICEANU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.65,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’NICOLAE TITULESCU’ MEDGIDIA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.74,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’DRAGOMIR HURMUZESCU’ MEDGIDIA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.2,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’GHEORGHE MIRON COSTIN’ CONSTANŢA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.61,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’NICOLAE BĂLCESCU’ MEDGIDIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.03,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’LAZĂR EDELEANU’ NĂVODARI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.74,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC BĂNEASA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.26,
+    "pozitiaUltim": 47
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL PEDAGOGIC ’CONSTANTIN BRĂTESCU’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.91,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’DOBROGEA’ CASTELU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.27,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’IOAN N.ROMAN’ CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.22,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’CARSIUM’ HÂRŞOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.08,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’NICOLAE DUMITRESCU’ CUMPĂNA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.19,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC MANGALIA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.11,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL ENERGETIC CONSTANȚA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.74,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "LICEUL TEORETIC NEGRU VODĂ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.55,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOPRAISAR",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC 'ANGHEL SALIGNY' CERNAVODĂ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.59,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’IOAN COTOVU’ HÂRŞOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.87,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’DECEBAL’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.82,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’DIMITRIE LEONIDA’ CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.24,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’C.A.ROSETTI’ CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.7,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’LUCIAN BLAGA’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.66,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC 'MIHAIL KOGĂLNICEANU' MIHAIL KOGĂLNICEANU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’PONTICA’ CONSTANŢA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.28,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’GEORGE EMIL PALADE’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.46,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL ’MIHAI EMINESCU’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.04,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CRUCEA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.99,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’IOAN COTOVU’ HÂRŞOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.08,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE ELECTROTEHNICĂ ŞI TELECOMUNICAŢII CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.08,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL COBADIN",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.02,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC 'ANGHEL SALIGNY' CERNAVODĂ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.59,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’NICOLAE DUMITRESCU’ CUMPĂNA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.04,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’GHEORGHE MIRON COSTIN’ CONSTANŢA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.92,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’CARMEN SYLVA’ EFORIE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’DRAGOMIR HURMUZESCU’ MEDGIDIA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.99,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’EMIL RACOVIŢĂ’ TECHIRGHIOL",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.27,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL AGRICOL POARTA ALBĂ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.71,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL COBADIN",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’TRAIAN’ CONSTANŢA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.26,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’CARMEN SYLVA’ EFORIE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.33,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’LAZĂR EDELEANU’ NĂVODARI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.15,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’GEORGE CĂLINESCU’ CONSTANŢA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.74,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ’GHEORGHE DUCA’ CONSTANŢA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.21,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC COGEALAC",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.5,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ’CALLATIS’ MANGALIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.37,
+    "pozitiaUltim": 26
+  }
+]

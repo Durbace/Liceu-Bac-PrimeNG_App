@@ -1,0 +1,494 @@
+[
+  {
+    "liceu": "COLEGIUL SILVIC BUCOVINA CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.52,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.42,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.05,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL ANDRONIC MOTRESCU RĂDĂUȚI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.72,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.4,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC SAMUIL ISOPESCU SUCEAVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.75,
+    "pozitiaUltim": 118
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.6,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.6,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.12,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.8,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DE INFORMATICĂ SPIRU HARET SUCEAVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.42,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEORETIC ”ION LUCA” VATRA DORNEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.95,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ SUCEAVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.35,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.32,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.7,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RĂDĂUȚI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.27,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC PETRU MUȘAT SUCEAVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.45,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICANOR MOROȘAN PÂRTESTII DE JOS",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.27,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.3,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL SILVIC BUCOVINA CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ALEXANDRU IOAN CUZA SUCEAVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.47,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.4,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.77,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC DIMITRIE CANTEMIR SUCEAVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.45,
+    "pozitiaUltim": 264
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.77,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL ALEXANDRU CEL BUN GURA HUMORULUI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 1.67,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ALEXANDRU IOAN CUZA SUCEAVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.55,
+    "pozitiaUltim": 55
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DRAGOȘ VODĂ CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.75,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EUDOXIU HURMUZACHI RĂDĂUȚI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.9,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ SUCEAVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.17,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.77,
+    "pozitiaUltim": 58
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL ANDRONIC MOTRESCU RĂDĂUȚI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 115
+  },
+  {
+    "liceu": "COLEGIUL ALEXANDRU CEL BUN GURA HUMORULUI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.2,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.3,
+    "pozitiaUltim": 30
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ”ION LUCA” VATRA DORNEI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.27,
+    "pozitiaUltim": 69
+  },
+  {
+    "liceu": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL VASILE LOVINESCU FĂLTICENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.32,
+    "pozitiaUltim": 50
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RĂDĂUȚI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.17,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.27,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DE INFORMATICĂ SPIRU HARET SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.22,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.5,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC PETRU MUȘAT SUCEAVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.37,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC PETRU MUȘAT SUCEAVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.92,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EUDOXIU HURMUZACHI RĂDĂUȚI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.47,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL ALEXANDRU CEL BUN GURA HUMORULUI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.87,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL ALEXANDRU CEL BUN GURA HUMORULUI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.8,
+    "pozitiaUltim": 44
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC IORGU VÎRNAV LITEANU LITENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.9,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC IORGU VÎRNAV LITEANU LITENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.32,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC IORGU VÎRNAV LITEANU LITENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.45,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.75,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RĂDĂUȚI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.7,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.12,
+    "pozitiaUltim": 10
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAI NANU BROȘTENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.87,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ SUCEAVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.97,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR. 1 CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.77,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.65,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DORNA CANDRENILOR",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.17,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR. 1 CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.9,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DRAGOȘ VODĂ CÂMPULUNG MOLDOVENESC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.12,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL ANDRONIC MOTRESCU RĂDĂUȚI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.32,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DORNA CANDRENILOR",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.92,
+    "pozitiaUltim": 29
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE DEAC VATRA DORNEI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.42,
+    "pozitiaUltim": 5
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.55,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC RĂDĂUȚI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.97,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE COCEA MOLDOVIȚA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.5,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.52,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE COCEA MOLDOVIȚA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.27,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VASILE DEAC VATRA DORNEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.02,
+    "pozitiaUltim": 5
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "liceu": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.87,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC PARTENIE COSMA ORADEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.77,
+    "pozitiaUltim": 240
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.43,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC NR.1 VADU CRIŞULUI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.9,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.4,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.3,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEORETIC NICOLAE JIGA TINCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HOREA MARGHITA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.45,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC TRAIAN VUIA ORADEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.87,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 SALONTA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.65,
+    "pozitiaUltim": 35
+  },
+  {
+    "liceu": "LICEUL TEORETIC NR.1 BRATCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 VALEA LUI MIHAI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.43,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI VITEAZUL ORADEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.95,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC TRAIAN VUIA ORADEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.3,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI ORADEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.42,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 ŞUNCUIUŞ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.33,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 DOBREŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.46,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.72,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.92,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL SANITAR VASILE VOICULESCU ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT LASZLO ORADEA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.18,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.85,
+    "pozitiaUltim": 33
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL SAMUIL VULCAN BEIUȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.2,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL LAZĂR ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.62,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.33,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.65,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.72,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.92,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HOREA MARGHITA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.97,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.95,
+    "pozitiaUltim": 61
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.82,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL AVRAM IANCU ȘTEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.82,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC IOAN CIORDAȘ BEIUȘ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL AVRAM IANCU ȘTEI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.52,
+    "pozitiaUltim": 51
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL LAZĂR ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.25,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL SAMUIL VULCAN BEIUȘ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.12,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UNIREA ȘTEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.3,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UNIREA ȘTEI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.42,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "LICEUL TEORETIC NICOLAE JIGA TINCA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.21,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI VITEAZUL ORADEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.12,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRÂNCUȘI ORADEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC ARANY JANOS SALONTA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.4,
+    "pozitiaUltim": 38
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HOREA MARGHITA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.5,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEORETIC HORVATH JANOS MARGHITA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.43,
+    "pozitiaUltim": 45
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAI VITEAZUL ORADEA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.95,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.82,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 VALEA LUI MIHAI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.02,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEORETIC HORVATH JANOS MARGHITA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.28,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.25,
+    "pozitiaUltim": 30
+  },
+  {
+    "liceu": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 7
+  },
+  {
+    "liceu": "LICEUL SANITAR VASILE VOICULESCU ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC NR.1 VADU CRIŞULUI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 1.72,
+    "pozitiaUltim": 10
+  },
+  {
+    "liceu": "LICEUL TEORETIC GABRIEL ŢEPELEA BOROD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.22,
+    "pozitiaUltim": 46
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC IOAN CIORDAȘ BEIUȘ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.05,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.3,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.62,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 SALONTA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.42,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.22,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL REFORMAT LORANTFFY ZSUZSANNA ORADEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.41,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC IOAN CIORDAȘ BEIUȘ",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC NR.1 BRATCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.4,
+    "pozitiaUltim": 14
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.52,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ARANY JANOS SALONTA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.08,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.55,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NR.1 CADEA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.6,
+    "pozitiaUltim": 2
+  },
+  {
+    "liceu": "LICEUL TEORETIC JOZEF KOZACEK BUDOI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 6
+  }
+]

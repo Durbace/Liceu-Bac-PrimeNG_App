@@ -1,0 +1,488 @@
+[
+  {
+    "liceu": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.77,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE VEST TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 65
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC HENRI COANDĂ TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.4,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AZUR TIMIȘOARA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.57,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC FRANCESCO SAVERIO NITTI TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.8,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "LICEUL TEORETIC DOSITEI OBRADOVICI TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.48,
+    "pozitiaUltim": 8
+  },
+  {
+    "liceu": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC SOCRATES TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.15,
+    "pozitiaUltim": 7
+  },
+  {
+    "liceu": "LICEUL TEORETIC IULIA HAȘDEU LUGOJ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.17,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TRAIAN GROZĂVESCU NĂDRAG",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ROMULUS PARASCHIVOIU LOVRIN",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.17,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC REGELE FERDINAND I  TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.12,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC EMANUIL UNGUREANU TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.47,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC EMANUIL UNGUREANU TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.42,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.2,
+    "pozitiaUltim": 34
+  },
+  {
+    "liceu": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.35,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.6,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ANA ASLAN TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.85,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.02,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC IOAN JEBELEAN SÂNNICOLAU MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.3,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC IOAN JEBELEAN SÂNNICOLAU MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.3,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ TIMIȘOARA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.35,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.97,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC JIMBOLIA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.87,
+    "pozitiaUltim": 56
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.75,
+    "pozitiaUltim": 58
+  },
+  {
+    "liceu": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.05,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE SILVICULTURĂ ȘI AGRICULTURĂ CASA VERDE TIMIȘOARA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.17,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ”ELECTROTIMIȘ” TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.6,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.78,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC JIMBOLIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.07,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.37,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC REGELE FERDINAND I  TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.37,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.33,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC JIMBOLIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.77,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SFÂNTU NICOLAE DETA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.3,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC RECAȘ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.92,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CRISTOFOR NAKO SÂNNICOLAU MARE",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.75,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION.I.C.BRĂTIANU TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.37,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.8,
+    "pozitiaUltim": 92
+  },
+  {
+    "liceu": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.75,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 1.67,
+    "pozitiaUltim": 29
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.5,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU MOCIONI CIACOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.32,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC PENTICOSTAL LOGOS TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.47,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC GĂTAIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VALERIU BRANIȘTE LUGOJ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.8,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUREL VLAICU LUGOJ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.35,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AZUR TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.05,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.82,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC IOAN SLAVICI TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SFÂNTU NICOLAE DETA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VALERIU BRANIȘTE LUGOJ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.7,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.57,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU MOCIONI CIACOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ION.I.C.BRĂTIANU TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.12,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC BUZIAȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.62,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC HENRI COANDĂ TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.85,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEORETIC IULIA HAȘDEU LUGOJ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CRISTOFOR NAKO SÂNNICOLAU MARE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.95,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUREL VLAICU LUGOJ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.8,
+    "pozitiaUltim": 40
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC BAPTIST TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.77,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC PECIU NOU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.2,
+    "pozitiaUltim": 50
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC HENRI COANDĂ TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.52,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC BARTÓK BÉLA TIMIȘOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.68,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEORETIC GĂTAIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.1,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC SFÂNTU NICOLAE DETA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.02,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEORETIC SFINȚII KIRIL ȘI METODII DUDEȘTII VECHI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.37,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEORETIC BARTÓK BÉLA TIMIȘOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.93,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEORETIC ”WENDY KIDS” TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.57,
+    "pozitiaUltim": 1
+  },
+  {
+    "liceu": "LICEUL TEORETIC PERIAM",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC DOSITEI OBRADOVICI TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.25,
+    "pozitiaUltim": 5
+  },
+  {
+    "liceu": "LICEUL TEORETIC BARTÓK BÉLA TIMIȘOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.78,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC BUZIAȘ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ TIMIȘOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC PERIAM",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.95,
+    "pozitiaUltim": 26
+  }
+]

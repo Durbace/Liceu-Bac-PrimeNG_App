@@ -1,0 +1,344 @@
+[
+  {
+    "liceu": "COLEGIUL NAȚIONAL „GHEORGHE ȘINCAI” BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.45,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC „NICOLAE TITULESCU” BAIA MARE",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.4,
+    "pozitiaUltim": 168
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „DRAGOȘ VODĂ” SIGHETU MARMAȚIEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.25,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC „EMIL RACOVIȚĂ” BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.92,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEORETIC „BOGDAN VODĂ” VIȘEU DE SU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.65,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC „BOGDAN VODĂ” VIȘEU DE SU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.47,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO BAIA SPRIE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.12,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „GHEORGHE ȘINCAI” BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.42,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "SEMINARUL TEOLOGIC LICEAL „SF. IOSIF MĂRTURISITORUL BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.7,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MARMAȚIA SIGHETU MARMAȚIEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.05,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „DRAGOȘ VODĂ” SIGHETU MARMAȚIEI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.27,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMAȚIEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.35,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMAȚIEI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.15,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „GEORGE BARIȚIU” BAIA MARE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.52,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "LICEUL TEORETIC „IOAN BUTEANU” ȘOMCUTA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MARMAȚIA SIGHETU MARMAȚIEI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „GRIGORE C MOISIL” TÂRGU LĂPUȘ",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.62,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMAȚIEI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.85,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL BORȘA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MARMAȚIA SIGHETU MARMAȚIEI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC „GEORGE POP DE BĂSEȘTI” SIGHETU MARMAȚIEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.15,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „VASILE LUCACIU” BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.37,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC „ANGHEL SALIGNY” BAIA MARE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.67,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL INTERNAȚIONAL BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.15,
+    "pozitiaUltim": 8
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL „VASILE LUCACIU” BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „TRANSILVANIA” BAIA MARE",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.82,
+    "pozitiaUltim": 61
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC „REGELE FERDINAND” SIGHETU MARMAȚIEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC „BOGDAN VODĂ” VIȘEU DE SU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC „PETRU RAREȘ” TÂRGU LĂPUȘ",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.15,
+    "pozitiaUltim": 50
+  },
+  {
+    "liceu": "LICEUL TEORETIC „PETRU RAREȘ” TÂRGU LĂPUȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.4,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „GRIGORE C MOISIL” TÂRGU LĂPUȘ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.22,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEORETIC „EMIL RACOVIȚĂ” BAIA MARE",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.65,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC „IOAN BUTEANU” ȘOMCUTA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.35,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL PEDAGOGIC „TARAS SEVCENKO” SIGHETU MARMAȚIEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.96,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEORETIC „GEORGE POP DE BĂSEȘTI” VIȘEU DE SUS",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL „ALEXIU BERINDE” SEINI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.65,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL „ALEXIU BERINDE” SEINI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.32,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 1.47,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "LICEUL BORȘA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.47,
+    "pozitiaUltim": 68
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „TRANSILVANIA” BAIA MARE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.75,
+    "pozitiaUltim": 31
+  },
+  {
+    "liceu": "LICEUL TEORETIC „GEORGE POP DE BĂSEȘTI” BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.57,
+    "pozitiaUltim": 25
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „DR. FLORIAN ULMEANU” ULMENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.55,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL BORȘA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.02,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL BORȘA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.37,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEORETIC „NÉMETH LÁSZLÓ” BAIA MARE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.31,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC „NÉMETH LÁSZLÓ” BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.35,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.32,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC „EMIL RACOVIȚĂ” BAIA MARE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.25,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL INTERNAȚIONAL BAIA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.32,
+    "pozitiaUltim": 4
+  },
+  {
+    "liceu": "LICEUL TEORETIC „LEŐWEY KLÁRA” SIGHETU MARMAȚIEI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.88,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC OCNA ȘUGATAG",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 1.67,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC „PINTEA VITEAZUL” CAVNIC",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.07,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC „TRAIAN VUIA” TĂUȚII-MĂGHERĂUȘ",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 6
+  },
+  {
+    "liceu": "LICEUL TEORETIC „GEORGE POP DE BĂSEȘTI” ULMENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 3.77,
+    "pozitiaUltim": 7
+  },
+  {
+    "liceu": "LICEUL TEORETIC „GEORGE POP DE BĂSEȘTI” TÂRGU LĂPUȘ",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.47,
+    "pozitiaUltim": 3
+  },
+  {
+    "liceu": "LICEUL TEORETIC „LEŐWEY KLÁRA” SIGHETU MARMAȚIEI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.15,
+    "pozitiaUltim": 8
+  }
+]

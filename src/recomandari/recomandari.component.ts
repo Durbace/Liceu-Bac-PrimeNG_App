@@ -19,9 +19,9 @@ export class RecomandariComponent {
   goToBac() {
     this.router.navigate(['/statistici-bac']);
   }
-  
+
   goToContestatii() {
-    this.router.navigate(['/contestatii']);
+    this.router.navigate(['/istoric-contestatii']);
   }
   goToOcupare() {
     this.router.navigate(['/grad-ocupare']);

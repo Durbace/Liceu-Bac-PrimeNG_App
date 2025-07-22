@@ -1,0 +1,428 @@
+[
+  {
+    "liceu": "COLEGIUL STEFAN ODOBLEJA CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.68,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL ENERGETIC CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRE BANITA CALARASI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.93,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.84,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN MILCU CALAFAT",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.97,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE FILISANU FILIASI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.5,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.25,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL NICOLAE TITULESCU CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.71,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRANCUSI CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.69,
+    "pozitiaUltim": 69
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.23,
+    "pozitiaUltim": 182
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN NICOLAESCU-PLOPSOR PLENITA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.06,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.02,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC COSTIN D. NENITESCU CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.41,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BRANCUSI CRAIOVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.85,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC GHEORGHE CHITU CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.17,
+    "pozitiaUltim": 240
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC COSTIN D. NENITESCU CRAIOVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.12,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GEORGE BIBESCU CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.8,
+    "pozitiaUltim": 45
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.02,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL MATEI BASARAB CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.65,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.08,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.23,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.76,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.1,
+    "pozitiaUltim": 42
+  },
+  {
+    "liceu": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.01,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL NICOLAE TITULESCU CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.68,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC GEORGE ST. MARINCU POIANA MARE",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.56,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TRAIAN VUIA CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.93,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ALEXANDRU MACEDONSKI MELINESTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.31,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRE BANITA CALARASI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.94,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "LICEUL VOLTAIRE CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.94,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI VITEAZUL BAILESTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.63,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.46,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL CHARLES LAUGIER CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TRAIAN VUIA CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.53,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.59,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.76,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE FILISANU FILIASI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.19,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.79,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.5,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.74,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TRANSPORTURI CAI FERATE CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.13,
+    "pozitiaUltim": 34
+  },
+  {
+    "liceu": "LICEUL CHARLES LAUGIER CRAIOVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.44,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TRAIAN VUIA CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.28,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC ADRIAN PAUNESCU BARCA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.39,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL DE INDUSTRIE ALIMENTARA CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.68,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE FILISANU FILIASI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.76,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC CONSTANTIN BRANCOVEANU DABULENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.62,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL STEFAN ODOBLEJA CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.49,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE FILISANU FILIASI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.87,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC AMARASTII DE JOS",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.54,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEORETIC GH. VASILICHI CETATE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.57,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.81,
+    "pozitiaUltim": 5
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.14,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.61,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIHAI VITEAZUL BAILESTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.14,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN ANGHEL BAILESTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.38,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC CONSTANTIN BRANCOVEANU DABULENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.36,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL DE INDUSTRIE ALIMENTARA CRAIOVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.51,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEORETIC BECHET",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.09,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO CRAIOVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.91,
+    "pozitiaUltim": 17
+  },
+  {
+    "liceu": "LICEUL VOLTAIRE CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.72,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN NICOLAESCU-PLOPSOR PLENITA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.65,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC UCECOM SPIRU HARET CRAIOVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.01,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE FILISANU FILIASI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.24,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC AMARASTII DE JOS",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 2.64,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN MILCU CALAFAT",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.4,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC GEORGE ST. MARINCU POIANA MARE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.6,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN ANGHEL BAILESTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.37,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL STEFAN ODOBLEJA CRAIOVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.05,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN MILCU CALAFAT",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.93,
+    "pozitiaUltim": 24
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "liceu": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.47,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TRANSILVANIA DEVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.45,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.55,
+    "pozitiaUltim": 129
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL ALEXANDRU BORZA GEOAGIU",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.6,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.92,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.97,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC OVID DENSUSIANU CĂLAN",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.7,
+    "pozitiaUltim": 49
+  },
+  {
+    "liceu": "LICEUL TEORETIC AVRAM IANCU BRAD",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.85,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC I. C. BRĂTIANU HAȚEG",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.35,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC I. C. BRĂTIANU HAȚEG",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 46
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DE INFORMATICĂ CARMEN SYLVA PETROȘANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.05,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC I. C. BRĂTIANU HAȚEG",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.22,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC SILVIU DRAGOMIR ILIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.42,
+    "pozitiaUltim": 39
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.1,
+    "pozitiaUltim": 40
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.2,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORT FEROVIAR ANGHEL SALIGNY SIMERIA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.87,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.15,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.82,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.17,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC HERMES PETROȘANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.15,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE LEONIDA PETROȘANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.57,
+    "pozitiaUltim": 22
+  },
+  {
+    "liceu": "LICEUL TEORETIC I. C. BRĂTIANU HAȚEG",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.07,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRCEA ELIADE LUPENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC RETEZAT URICANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.42,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.3,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DE INFORMATICĂ CARMEN SYLVA PETROȘANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.35,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU PETROȘANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.67,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC AVRAM IANCU BRAD",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.17,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRCEA ELIADE LUPENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.6,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.57,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GRIGORE MOISIL DEVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4,
+    "pozitiaUltim": 35
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BURSAN HUNEDOARA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL PROF. BORA TIT LIVIU BARU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 2.8,
+    "pozitiaUltim": 4
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL ALEXANDRU BORZA GEOAGIU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.75,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CONSTANTIN BURSAN HUNEDOARA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.12,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.1,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORT FEROVIAR ANGHEL SALIGNY SIMERIA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.25,
+    "pozitiaUltim": 19
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.85,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LUPENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.4,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.32,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.83,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.95,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC CRIȘAN CRIȘCIOR",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.02,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 3.07,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAUS OLAHUS ORĂȘTIE",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 5.42,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU PETROȘANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.5,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC SILVIU DRAGOMIR ILIA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.2,
+    "pozitiaUltim": 13
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.37,
+    "pozitiaUltim": 14
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC GRIGORE MOISIL DEVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.15,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC OVID DENSUSIANU CĂLAN",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAUS OLAHUS ORĂȘTIE",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.8,
+    "pozitiaUltim": 12
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC LUPENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.3,
+    "pozitiaUltim": 9
+  },
+  {
+    "liceu": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 1.96,
+    "pozitiaUltim": 7
+  }
+]

@@ -13,15 +13,16 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors({
-  origin: ['https://liceu-bac-frontend.onrender.com'],
-}));
+app.use(
+  cors({
+    origin: ["https://liceu-bac-frontend.onrender.com"],
+  })
+);
 
 app.get("/api/licee/:an/:judet/:media", (req, res) => {
   const { an, judet, media } = req.params;
   const judetDecodat = decodeURIComponent(judet);
   const cod = judetDecodat.toUpperCase();
-
 
   if (!cod) {
     return res.status(400).json({ error: "Judetul nu este suportat." });
@@ -34,11 +35,9 @@ app.get("/api/licee/:an/:judet/:media", (req, res) => {
 
   const filePath = path.resolve(__dirname, `cache/${an}/${cod}.json`);
   if (!fs.existsSync(filePath)) {
-    return res
-      .status(404)
-      .json({
-        error: `Datele pentru anul ${an} nu sunt disponibile pentru acest judet.`,
-      });
+    return res.status(404).json({
+      error: `Datele pentru anul ${an} nu sunt disponibile pentru acest judet.`,
+    });
   }
 
   try {
@@ -88,8 +87,16 @@ app.get("/api/bac/:judet", (req, res) => {
     const rows = JSON.parse(rawData);
 
     const header = rows.find(
-      (r) => Array.isArray(r) && r.some((cell) => typeof cell === "string" && cell.normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes("Unitatea de invatamant"))
-
+      (r) =>
+        Array.isArray(r) &&
+        r.some(
+          (cell) =>
+            typeof cell === "string" &&
+            cell
+              .normalize("NFD")
+              .replace(/[\u0300-\u036f]/g, "")
+              .includes("Unitatea de invatamant")
+        )
     );
     const dataRows = rows.filter(
       (r) => Array.isArray(r) && r.length === header.length && r !== header
@@ -100,8 +107,8 @@ app.get("/api/bac/:judet", (req, res) => {
         school: r[2],
         profil: r[5],
         ri: parseFloat(r[9]) || null,
-        mi: parseFloat(r[24]) || null, 
-        mev: parseFloat(r[16]) || null, 
+        mi: parseFloat(r[24]) || null,
+        mev: parseFloat(r[16]) || null,
         rezultat: r[17] || "Necunoscut",
       };
     });
@@ -120,10 +127,7 @@ app.get("/api/ani-disponibili", (req, res) => {
       .readdirSync(cacheDir)
       .filter((folder) => {
         const fullPath = path.join(cacheDir, folder);
-        return (
-          fs.statSync(fullPath).isDirectory() &&
-          /^\d{4}$/.test(folder) 
-        );
+        return fs.statSync(fullPath).isDirectory() && /^\d{4}$/.test(folder);
       })
       .map((folder) => parseInt(folder, 10))
       .sort((a, b) => b - a);
@@ -133,6 +137,46 @@ app.get("/api/ani-disponibili", (req, res) => {
   }
 });
 
+app.get("/api/ultimul-admis", (req, res) => {
+  const judetFilter = (req.query.judet || "").toUpperCase();
+  const baseDir = path.join(__dirname, "cache");
+  const ani = fs.readdirSync(baseDir).filter((d) => /^\d{4}$/.test(d));
+
+  const rezultat = {};
+
+  ani.forEach((an) => {
+    const summaryDir = path.join(baseDir, an);
+    if (!fs.existsSync(summaryDir)) return;
+
+    const files = judetFilter
+      ? [`${judetFilter}_summary.json`]
+      : fs.readdirSync(summaryDir).filter((f) => f.endsWith("_summary.json"));
+
+    files.forEach((file) => {
+      const full = path.join(summaryDir, file);
+      if (!fs.existsSync(full)) return;
+      const data = JSON.parse(fs.readFileSync(full, "utf-8"));
+      data.forEach((rec) => {
+        const key = `${rec.liceu} | ${rec.specializarea}`;
+        if (!rezultat[key]) rezultat[key] = {};
+        rezultat[key][an] = {
+          medieUltim: rec.medieUltim,
+          pozitiaUltim: rec.pozitiaUltim,
+        };
+      });
+    });
+  });
+
+  res.json(rezultat);
+});
+
+app.get("/api/judete", (req, res) => {
+  const list = Object.entries(JUDET_CSV_CODES).map(([nume, cod]) => ({
+    label: nume,
+    value: cod,
+  }));
+  res.json(list);
+});
 
 app.listen(PORT, () => {
   console.log(`Server pornit pe http://localhost:${PORT}`);

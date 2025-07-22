@@ -1,0 +1,410 @@
+[
+  {
+    "liceu": "COLEGIUL AGRICOL ŞI DE INDUSTRIE ALIMENTARĂ VASILE ADAMACHI, IAŞI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6.7,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, HÂRLĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.22,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE CĂI FERATE UNIREA, PAŞCANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.56,
+    "pozitiaUltim": 120
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC VICTOR MIHĂILESCU CRAIU, BELCEŞTI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.37,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GHEORGHE ASACHI, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.61,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC MIHAIL STURDZA, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.27,
+    "pozitiaUltim": 112
+  },
+  {
+    "liceu": "LICEUL TEORETIC DIMITRIE CANTEMIR, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.99,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.96,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION NECULCE, TÂRGU FRUMOS",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.29,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION NECULCE, TÂRGU FRUMOS",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.99,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAIL SADOVEANU, PAŞCANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.6,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC VIRGIL MADGEARU, IAŞI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.67,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC VIRGIL MADGEARU, IAŞI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.95,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GARABET IBRĂILEANU, IAȘI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.11,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL COSTACHE NEGRUZZI, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.54,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU IOAN CUZA, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.46,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC ADMINISTRATIV, IAŞI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.09,
+    "pozitiaUltim": 264
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DIMITRIE LEONIDA, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.26,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE CĂI FERATE UNIREA, PAŞCANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.09,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE ELECTRONICĂ ŞI TELECOMUNICAŢII GHEORGHE MÂRZESCU, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.01,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EMIL RACOVIŢĂ, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.54,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC DE INFORMATICĂ GRIGORE MOISIL, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.22,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "LICEUL TEORETIC DIMITRIE CANTEMIR, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.72,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL MIHAIL KOGALNICEANU, MIROSLAVA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.97,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRU RAREȘ, TÂRGU FRUMOS",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.74,
+    "pozitiaUltim": 39
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRON COSTIN, PAŞCANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.04,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ECONOMIC DE TURISM, IAŞI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 7.29,
+    "pozitiaUltim": 216
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE MECATRONICĂ ȘI AUTOMATIZĂRI, IAȘI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.48,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC ION HOLBAN, IAȘI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.8,
+    "pozitiaUltim": 96
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, HÂRLĂU",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.33,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, HÂRLĂU",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.98,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRON COSTIN, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.82,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AGRICOL MIHAIL KOGALNICEANU, MIROSLAVA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.66,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC ALEXANDRU IOAN CUZA, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.6,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC, HÂRLĂU",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.23,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.97,
+    "pozitiaUltim": 159
+  },
+  {
+    "liceu": "LICEUL TEORETIC LASCĂR ROSETTI, RĂDUCĂNENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.91,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.62,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL NAŢIONAL COSTACHE NEGRUZZI, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.38,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC, HÂRLĂU",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.84,
+    "pozitiaUltim": 70
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRON COSTIN, PAŞCANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.37,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL VASILE ALECSANDRI, IAŞI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 9.16,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC DE CĂI FERATE UNIREA, PAŞCANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.48,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAI EMINESCU, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.56,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HARALAMB VASILIU, PODU ILOAIEI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.83,
+    "pozitiaUltim": 63
+  },
+  {
+    "liceu": "COLEGIUL AGRICOL ŞI DE INDUSTRIE ALIMENTARĂ VASILE ADAMACHI, IAŞI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.53,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL GARABET IBRĂILEANU, IAȘI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.94,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC, VLĂDENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.69,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL MIHAIL SADOVEANU, PAŞCANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.02,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC MIHAI BUSUIOC, PAŞCANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.8,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC IOAN C. ŞTEFĂNESCU, IAŞI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.65,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC DE TRANSPORTURI ȘI DE CONSTRUCȚII, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4,
+    "pozitiaUltim": 70
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRU PONI, IAȘI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.02,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HARALAMB VASILIU, PODU ILOAIEI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.66,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC LASCĂR ROSETTI, RĂDUCĂNENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.04,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GHEORGHE ASACHI, IAŞI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 7.11,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC IOAN C. ŞTEFĂNESCU, IAŞI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.67,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ECONOMIC NICOLAE IORGA, PAŞCANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.54,
+    "pozitiaUltim": 48
+  },
+  {
+    "liceu": "LICEUL TEORETIC MIRON COSTIN, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.7,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.33,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRU PONI, IAȘI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 6,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL TEORETIC BOGDAN VODĂ, HĂLĂUCEŞTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.19,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL EMIL RACOVIŢĂ, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 9.33,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NAȚIONAL VASILE ALECSANDRI, IAŞI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.27,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEORETIC ION NECULCE, TÂRGU FRUMOS",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 8.13,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRE P.CARP, ȚIBĂNEȘTI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 6.23,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC HARALAMB VASILIU, PODU ILOAIEI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.81,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEORETIC BOGDAN VODĂ, HĂLĂUCEŞTI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.69,
+    "pozitiaUltim": 26
+  }
+]

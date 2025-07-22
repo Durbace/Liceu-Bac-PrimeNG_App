@@ -1,0 +1,320 @@
+[
+  {
+    "liceu": "COLEGIUL NATIONAL GRIGORE GHICA DOROHOI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.15,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL GRIGORE GHICA DOROHOI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.35,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEORETIC GRIGORE ANTIPA BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 7.67,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL REGINA MARIA DOROHOI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.32,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GHEORGHE ASACHI BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 6.35,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL DIMITRIE CANTEMIR DARABANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.02,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GHEORGHE ASACHI BOTOSANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 5.02,
+    "pozitiaUltim": 144
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ELIE RADU BOTOSANI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.05,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL ECONOMIC OCTAV ONICESCU BOTOSANI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 6.8,
+    "pozitiaUltim": 192
+  },
+  {
+    "liceu": "LICEUL ALEXANDRU CEL BUN’’ BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.15,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL A.T.LAURIAN BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.77,
+    "pozitiaUltim": 71
+  },
+  {
+    "liceu": "LICEUL DIMITRIE NEGREANU BOTOSANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.17,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL PEDAGOGIC NICOLAE IORGA BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.05,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAE BALCESCU FLAMÂNZI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 5.8,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL MIHAI EMINESCU BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.9,
+    "pozitiaUltim": 156
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL A.T.LAURIAN BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 8.7,
+    "pozitiaUltim": 130
+  },
+  {
+    "liceu": "LICEUL REGINA MARIA DOROHOI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 4.37,
+    "pozitiaUltim": 72
+  },
+  {
+    "liceu": "LICEUL PEDAGOGIC NICOLAE IORGA BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 7.8,
+    "pozitiaUltim": 104
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAE BALCESCU FLAMÂNZI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.07,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL DIMITRIE NEGREANU BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 5.5,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL DEMOSTENE BOTEZ TRUŞEŞTI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.85,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN CEL MARE SI SFANT VORONA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.92,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "",
+    "specializarea": "",
+    "medieUltim": 2.82,
+    "pozitiaUltim": 32
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN CEL MARE SI SFANT VORONA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.72,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL REGINA MARIA DOROHOI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.3,
+    "pozitiaUltim": 78
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BUCECEA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 1.45,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "LICEUL TEORETIC DR. MIHAI CIUCA SAVENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.9,
+    "pozitiaUltim": 84
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC COŢUŞCA",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.77,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "COLEGIUL NATIONAL MIHAI EMINESCU BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 8.55,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AL.VLAHUTA SENDRICENI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.67,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "SEMINARUL TEOLOGIC LICEAL ORTODOX SF.IOAN IACOB DOROHOI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 4.27,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEORETIC ANASTASIE BASOTA POMÂRLA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.35,
+    "pozitiaUltim": 21
+  },
+  {
+    "liceu": "LICEUL TEORETIC DR. MIHAI CIUCA SAVENI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.47,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL DEMOSTENE BOTEZ TRUŞEŞTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.45,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL DIMITRIE CANTEMIR DARABANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 47
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRU RAREŞ’’ BOTOSANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.32,
+    "pozitiaUltim": 39
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC NICOLAE BALCESCU FLAMÂNZI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 4.75,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PLOPENII MARI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.47,
+    "pozitiaUltim": 23
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC STEFAN CEL MARE SI SFANT VORONA",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 5.65,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC AL.VLAHUTA SENDRICENI",
+    "specializarea": "Servicii/Liceal/Zi",
+    "medieUltim": 3.3,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL DIMITRIE CANTEMIR DARABANI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.9,
+    "pozitiaUltim": 20
+  },
+  {
+    "liceu": "COLEGIUL TEHNIC GHEORGHE ASACHI BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.9,
+    "pozitiaUltim": 52
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC ELIE RADU BOTOSANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 1.52,
+    "pozitiaUltim": 16
+  },
+  {
+    "liceu": "SEMINARUL TEOLOGIC LICEAL ORTODOX SF.GHEORGHE BOTOSANI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 6.12,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEULSTEFAN D. LUCHIAN’’ STEFANESTI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 2.45,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL ALEXANDRU CEL BUN’’ BOTOSANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 4.5,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC TODIRENI",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.77,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL ALEXANDRU CEL BUN’’ BOTOSANI",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 4.87,
+    "pozitiaUltim": 26
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BUCECEA",
+    "specializarea": "Umanist/Liceal/Zi",
+    "medieUltim": 2.7,
+    "pozitiaUltim": 15
+  },
+  {
+    "liceu": "LICEUL DIMITRIE CANTEMIR DARABANI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 3.45,
+    "pozitiaUltim": 11
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC PETRU RAREŞ’’ BOTOSANI",
+    "specializarea": "Resursenaturaleșiprotecțiamediului/Liceal/Zi",
+    "medieUltim": 3.8,
+    "pozitiaUltim": 24
+  },
+  {
+    "liceu": "LICEUL TEHNOLOGIC BUCECEA",
+    "specializarea": "Real/Liceal/Zi",
+    "medieUltim": 3.92,
+    "pozitiaUltim": 18
+  },
+  {
+    "liceu": "LICEUL TEORETIC DR. MIHAI CIUCA SAVENI",
+    "specializarea": "Tehnic/Liceal/Zi",
+    "medieUltim": 2.22,
+    "pozitiaUltim": 17
+  }
+]
