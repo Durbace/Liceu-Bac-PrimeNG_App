@@ -4,9 +4,10 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DropdownModule } from 'primeng/dropdown';
 import { ButtonModule } from 'primeng/button';
-// Ng2-Charts imports
+import { Chart } from 'chart.js';
 import { NgChartsModule } from 'ng2-charts';
 import { ChartOptions, ChartDataset } from 'chart.js';
+
 import { ContestatiiService } from '../services/contestatii.service';
 import { Contestatie } from '../services/contestatii.service';
 
@@ -24,20 +25,16 @@ import { Contestatie } from '../services/contestatii.service';
   ],
 })
 export class IstoricContestatiiComponent implements OnInit {
-  // filter options
   years: SelectItem[] = [];
   judete: SelectItem[] = [];
   subjects: SelectItem[] = [];
 
-  // selected filters
   selectedYear: SelectItem | null = null;
   selectedJudet: SelectItem | null = null;
   selectedSubject: SelectItem | null = null;
 
-  // active filters display
   filtreActive: string[] = [];
 
-  // chart data placeholders
   chartData: ChartDataset<'line', number[]>[] = [];
   chartLabels: string[] = [];
   chartOptions: ChartOptions = {};
@@ -53,7 +50,6 @@ export class IstoricContestatiiComponent implements OnInit {
   constructor(private contestatiiService: ContestatiiService) {}
 
   ngOnInit(): void {
-    // initialize years and subjects
     this.years = [
       { label: '2023', value: 2023 },
       { label: '2024', value: 2024 },
@@ -67,7 +63,6 @@ export class IstoricContestatiiComponent implements OnInit {
       { label: 'Matematică', value: 'Matematică' },
     ];
 
-    // încarcă județele din backend
     this.contestatiiService.getJudete().subscribe({
       next: (judete) => {
         this.judete = judete.map((j: { label: string; value: string }) => ({
@@ -135,7 +130,31 @@ export class IstoricContestatiiComponent implements OnInit {
     this.chartOptions = {
       responsive: true,
       plugins: {
-        legend: { position: 'bottom' },
+        legend: {
+          position: 'top',
+          labels: {
+            usePointStyle: false, 
+            boxWidth: 30, 
+            boxHeight: 12, 
+            padding: 16,
+            generateLabels: (chart: any) =>
+              (
+                Chart.defaults.plugins.legend.labels.generateLabels(
+                  chart
+                ) as any[]
+              ).map((label: any) => ({
+                ...label,
+                hidden: !chart.isDatasetVisible(label.datasetIndex!),
+              })),
+          },
+          onClick: (_e, legendItem, legend) => {
+            const chart = legend.chart as any;
+            const idx = legendItem.datasetIndex!;
+            const hidden = !chart.isDatasetVisible(idx);
+            chart.setDatasetVisibility(idx, hidden);
+            chart.update();
+          },
+        },
         tooltip: { mode: 'index', intersect: false },
         title: {
           display: true,
@@ -143,10 +162,7 @@ export class IstoricContestatiiComponent implements OnInit {
         },
       },
       scales: {
-        x: {
-          display: true,
-          title: { display: true, text: 'ID elev' }, // ← aici
-        },
+        x: { display: true, title: { display: true, text: 'ID elev' } },
         y: {
           display: true,
           title: { display: true, text: 'Notă' },
@@ -171,28 +187,22 @@ export class IstoricContestatiiComponent implements OnInit {
 
     const year = this.selectedYear!.value as number;
     const judet = this.selectedJudet!.value as string;
-    const subject = this.selectedSubject!.value as string;
+    const subjectLabel = this.selectedSubject!.label;
 
     this.contestatiiService.getContestatii(year, judet).subscribe({
-  next: (data: Contestatie[]) => {
-    console.log('API data:', data);
+      next: (data: Contestatie[]) => {
+        const noteMaterie = data.filter((d) => d.materie === subjectLabel);
+        const valide = noteMaterie
+          .filter((d) => d.id != null)
+          .sort((a, b) => a.notaInitiala - b.notaInitiala);
 
-    // folosește label-ul, nu value-ul, dacă API-ul îți trimite „materie” ca textul complet
-    const subjectLabel = this.selectedSubject!.label;
-    console.log('Filtrăm după materie:', subjectLabel);
+        this.noteCrescute = valide.filter((d) => d.diferenta > 0).length;
+        this.noteScazute = valide.filter((d) => d.diferenta < 0).length;
+        this.noteNeschimbate = valide.filter((d) => d.diferenta === 0).length;
+        const sumaDiferente = valide.reduce((sum, d) => sum + d.diferenta, 0);
+        this.diferentaMedie = this.total > 0 ? sumaDiferente / this.total : 0;
 
-    const noteMaterie = data.filter(d => d.materie === subjectLabel);
-    console.log('După filter:', noteMaterie);
-
-    const valide = noteMaterie
-      .filter(d => d.id != null)
-      .sort((a, b) => ('' + a.id).localeCompare('' + b.id));
-    console.log('După sort și validare:', valide);
-
-        // 3) axa X = lista de ID‐uri
-        this.chartLabels = valide.map((d) => d.id + '');
-
-        // 4) două serii: nota inițială și nota după
+        this.chartLabels = valide.map((d) => d.id);
         this.chartData = [
           {
             label: 'Nota inițială',
@@ -207,23 +217,20 @@ export class IstoricContestatiiComponent implements OnInit {
             tension: 0.1,
           },
         ];
+
         this.chartOptions = {
           ...this.chartOptions,
           plugins: {
             ...this.chartOptions.plugins,
             title: {
               display: true,
-              text: `Evoluția notelor pentru ${this.selectedSubject!.label} (${
-                this.selectedYear!.label
-              })`,
+              text: `Evoluția notelor pentru ${subjectLabel} (${year})`,
             },
           },
         };
-
         this.afiseazaStatistici = true;
       },
-      error: (err) => {
-        console.error(err);
+      error: (_) => {
         this.chartData = [];
         this.chartLabels = [];
         this.afiseazaStatistici = false;
