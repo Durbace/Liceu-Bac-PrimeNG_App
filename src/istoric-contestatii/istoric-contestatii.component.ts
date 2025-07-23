@@ -8,6 +8,7 @@ import { ButtonModule } from 'primeng/button';
 import { NgChartsModule } from 'ng2-charts';
 import { ChartOptions, ChartDataset } from 'chart.js';
 import { ContestatiiService } from '../services/contestatii.service';
+import { Contestatie } from '../services/contestatii.service';
 
 @Component({
   selector: 'app-istoric-contestatii',
@@ -30,8 +31,8 @@ export class IstoricContestatiiComponent implements OnInit {
 
   // selected filters
   selectedYear: SelectItem | null = null;
-selectedJudet: SelectItem | null = null;
-selectedSubject: SelectItem | null = null;
+  selectedJudet: SelectItem | null = null;
+  selectedSubject: SelectItem | null = null;
 
   // active filters display
   filtreActive: string[] = [];
@@ -84,22 +85,22 @@ selectedSubject: SelectItem | null = null;
   }
 
   onYearChange(item: SelectItem) {
-  this.selectedYear = item;
-  this.updateActiveFilters();
-  this.loadChartData();
-}
+    this.selectedYear = item;
+    this.updateActiveFilters();
+    this.loadChartData();
+  }
 
-onJudetChange(item: SelectItem) {
-  this.selectedJudet = item;
-  this.updateActiveFilters();
-  this.loadChartData();
-}
+  onJudetChange(item: SelectItem) {
+    this.selectedJudet = item;
+    this.updateActiveFilters();
+    this.loadChartData();
+  }
 
-onSubjectChange(item: SelectItem) {
-  this.selectedSubject = item;
-  this.updateActiveFilters();
-  this.loadChartData();
-}
+  onSubjectChange(item: SelectItem) {
+    this.selectedSubject = item;
+    this.updateActiveFilters();
+    this.loadChartData();
+  }
 
   adaugaFiltru() {
     this.updateActiveFilters();
@@ -136,12 +137,21 @@ onSubjectChange(item: SelectItem) {
       plugins: {
         legend: { position: 'bottom' },
         tooltip: { mode: 'index', intersect: false },
+        title: {
+          display: true,
+          text: `Evoluția notelor pentru ${this.selectedSubject?.label} (${this.selectedYear?.label})`,
+        },
       },
       scales: {
-        x: { display: true, title: { display: true, text: 'Ani' } },
+        x: {
+          display: true,
+          title: { display: true, text: 'ID elev' }, // ← aici
+        },
         y: {
           display: true,
-          title: { display: true, text: 'Număr contestații' },
+          title: { display: true, text: 'Notă' },
+          min: 1,
+          max: 10,
         },
       },
     };
@@ -160,46 +170,60 @@ onSubjectChange(item: SelectItem) {
     }
 
     const year = this.selectedYear!.value as number;
-const judet = this.selectedJudet!.value as string;
-const subjectLabel = this.selectedSubject!.label;
+    const judet = this.selectedJudet!.value as string;
+    const subject = this.selectedSubject!.value as string;
 
     this.contestatiiService.getContestatii(year, judet).subscribe({
-      next: (data) => {
-        const contestatiiMaterie = data.filter(
-          (d) => d.materie === subjectLabel
-        );
+  next: (data: Contestatie[]) => {
+    console.log('API data:', data);
 
-        this.total = contestatiiMaterie.length;
-        this.noteCrescute = contestatiiMaterie.filter(
-          (d) => d.diferenta > 0
-        ).length;
-        this.noteScazute = contestatiiMaterie.filter(
-          (d) => d.diferenta < 0
-        ).length;
-        this.noteNeschimbate = contestatiiMaterie.filter(
-          (d) => d.diferenta === 0
-        ).length;
+    // folosește label-ul, nu value-ul, dacă API-ul îți trimite „materie” ca textul complet
+    const subjectLabel = this.selectedSubject!.label;
+    console.log('Filtrăm după materie:', subjectLabel);
 
-        const sumaDiferente = contestatiiMaterie.reduce(
-          (sum, d) => sum + (d.diferenta || 0),
-          0
-        );
-        this.diferentaMedie = this.total > 0 ? sumaDiferente / this.total : 0;
+    const noteMaterie = data.filter(d => d.materie === subjectLabel);
+    console.log('După filter:', noteMaterie);
 
-        this.chartLabels = [year.toString()];
+    const valide = noteMaterie
+      .filter(d => d.id != null)
+      .sort((a, b) => ('' + a.id).localeCompare('' + b.id));
+    console.log('După sort și validare:', valide);
+
+        // 3) axa X = lista de ID‐uri
+        this.chartLabels = valide.map((d) => d.id + '');
+
+        // 4) două serii: nota inițială și nota după
         this.chartData = [
           {
-            label: 'Contestații',
-            data: [this.total],
+            label: 'Nota inițială',
+            data: valide.map((d) => d.notaInitiala),
             fill: false,
-            tension: 0.4,
+            tension: 0.1,
+          },
+          {
+            label: 'Nota după contestație',
+            data: valide.map((d) => d.notaDupaContestatie),
+            fill: false,
+            tension: 0.1,
           },
         ];
+        this.chartOptions = {
+          ...this.chartOptions,
+          plugins: {
+            ...this.chartOptions.plugins,
+            title: {
+              display: true,
+              text: `Evoluția notelor pentru ${this.selectedSubject!.label} (${
+                this.selectedYear!.label
+              })`,
+            },
+          },
+        };
 
         this.afiseazaStatistici = true;
       },
       error: (err) => {
-        console.error('Eroare la contestații:', err);
+        console.error(err);
         this.chartData = [];
         this.chartLabels = [];
         this.afiseazaStatistici = false;
