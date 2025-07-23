@@ -17,17 +17,15 @@ async function scrapeContestatii(an, judetCod, judetNume) {
     await page.goto(startUrl, { waitUntil: "networkidle0" });
 
     while (true) {
-      // 1) Așteaptă tabelul
       try {
         await page.waitForSelector("table tbody tr", { timeout: 15000 });
       } catch {
         console.warn(
-          `⚠️  ${judetNume} (${an}) — fără tabel pe pagina ${currentPage}`
+          `⚠️  ${judetNume} (${an}) — fara tabel pe pagina ${currentPage}`
         );
         break;
       }
 
-      // 2) Extrage contestațiile (Română + Matematică)
       const pageResults = await page.evaluate(() => {
         return Array.from(document.querySelectorAll("table tbody tr")).flatMap(
           (row) => {
@@ -35,7 +33,6 @@ async function scrapeContestatii(an, judetCod, judetNume) {
             const cells = tds.map((td) => {
               const text = td.innerText.trim();
               if (text) return text;
-              // if there's an <i> (FontAwesome check) in here, treat it as a “√”
               if (td.querySelector("i.fa-check, i.fas.fa-check")) return "√";
               return "-";
             });
@@ -69,10 +66,9 @@ async function scrapeContestatii(an, judetCod, judetNume) {
 
       toateRezultatele.push(...pageResults);
       console.log(
-        `📄 ${judetNume} (${an}) — Pagina ${currentPage}: ${pageResults.length} contestații`
+        `${judetNume} (${an}) — Pagina ${currentPage}: ${pageResults.length} contestatii`
       );
 
-      // 3) Verifică dacă există "Pagina următoare" cu un număr mai mare
       const nextBtn = await page.$("a.dynatable-page-link.dynatable-page-next");
       if (!nextBtn) break;
 
@@ -82,23 +78,19 @@ async function scrapeContestatii(an, judetCod, judetNume) {
       }, nextBtn);
 
       if (isNaN(nextPageNum) || nextPageNum <= currentPage) {
-        // ori nu există pagina următoare, ori nu avansează
         break;
       }
 
-      // 4) Pregătește click-ul
       const prevFirst = await page.$eval(
         "table tbody tr:first-child",
         (tr) => tr.innerText
       );
 
-      // 5) Scroll & click
       await page.evaluate((el) => {
         el.scrollIntoView();
         el.click();
       }, nextBtn);
 
-      // 6) Așteaptă până se schimbă cel puțin primul rând (max 15s)
       try {
         await page.waitForFunction(
           (sel, old) => document.querySelector(sel)?.innerText !== old,
@@ -108,7 +100,7 @@ async function scrapeContestatii(an, judetCod, judetNume) {
         );
       } catch {
         console.warn(
-          `⚠️  ${judetNume} (${an}) — nu s-a detectat schimbarea după click la pagina ${
+          `⚠️  ${judetNume} (${an}) — nu s-a detectat schimbarea dupa click la pagina ${
             currentPage + 1
           }`
         );
@@ -118,7 +110,6 @@ async function scrapeContestatii(an, judetCod, judetNume) {
       currentPage++;
     }
 
-    // 7) Salvare automată în cache/contestatii/<an>/<judetCod>.json
     if (toateRezultatele.length) {
       const baseCache = path.resolve("./cache/contestatii");
       const yearDir = path.join(baseCache, String(an));
@@ -129,13 +120,13 @@ async function scrapeContestatii(an, judetCod, judetNume) {
         "utf-8"
       );
       console.log(
-        `✅ ${an} ${judetNume} → ${toateRezultatele.length} contestații salvate`
+        `${an} ${judetNume} → ${toateRezultatele.length} contestatii salvate`
       );
     } else {
-      console.log(`ℹ️  ${an} ${judetNume} → fără contestații`);
+      console.log(`${an} ${judetNume} → fara contestatii`);
     }
   } catch (err) {
-    console.warn(`⚠️  Eroare la ${an} ${judetNume}: ${err.message}`);
+    console.warn(`Eroare la ${an} ${judetNume}: ${err.message}`);
   } finally {
     await browser.close();
   }

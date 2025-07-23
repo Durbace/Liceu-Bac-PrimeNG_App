@@ -47,6 +47,11 @@ export class IstoricContestatiiComponent implements OnInit {
   diferentaMedie: number = 0;
   afiseazaStatistici: boolean = false;
 
+  deviationChartData: ChartDataset<'bar', number[]>[] = [];
+  deviationChartLabels: string[] = [];
+  deviationChartOptions: ChartOptions = {};
+  deviationChartType: 'bar' = 'bar';
+
   constructor(private contestatiiService: ContestatiiService) {}
 
   ngOnInit(): void {
@@ -71,7 +76,7 @@ export class IstoricContestatiiComponent implements OnInit {
         }));
       },
       error: (err) => {
-        console.error('Eroare la încărcarea județelor:', err);
+        console.error('Eroare la incarcarea judetelor:', err);
         this.judete = [];
       },
     });
@@ -133,9 +138,9 @@ export class IstoricContestatiiComponent implements OnInit {
         legend: {
           position: 'top',
           labels: {
-            usePointStyle: false, 
-            boxWidth: 30, 
-            boxHeight: 12, 
+            usePointStyle: false,
+            boxWidth: 30,
+            boxHeight: 12,
             padding: 16,
             generateLabels: (chart: any) =>
               (
@@ -171,6 +176,36 @@ export class IstoricContestatiiComponent implements OnInit {
         },
       },
     };
+
+    this.deviationChartOptions = {
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Deviarea față de nota inițială (ra - ri)',
+        },
+        legend: {
+          display: false,
+        },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => {
+              const val = ctx.parsed.y as number;
+              return ` Deviație: ${val.toFixed(2)}`;
+            },
+          },
+        },
+      },
+      scales: {
+        x: { display: true, title: { display: true, text: 'ID elev' } },
+        y: {
+          display: true,
+          title: { display: true, text: '(ra - ri)' },
+          suggestedMin: -1,
+          suggestedMax: 1.5,
+        },
+      },
+    };
   }
 
   private loadChartData() {
@@ -181,21 +216,25 @@ export class IstoricContestatiiComponent implements OnInit {
     ) {
       this.chartData = [];
       this.chartLabels = [];
+      this.deviationChartData = [];
+      this.deviationChartLabels = [];
       this.afiseazaStatistici = false;
       return;
     }
 
-    const year = this.selectedYear!.value as number;
-    const judet = this.selectedJudet!.value as string;
-    const subjectLabel = this.selectedSubject!.label;
+    const year = this.selectedYear.value as number;
+    const judet = this.selectedJudet.value as string;
+    const subjectLabel = this.selectedSubject.label;
 
     this.contestatiiService.getContestatii(year, judet).subscribe({
       next: (data: Contestatie[]) => {
         const noteMaterie = data.filter((d) => d.materie === subjectLabel);
+
         const valide = noteMaterie
           .filter((d) => d.id != null)
           .sort((a, b) => a.notaInitiala - b.notaInitiala);
 
+        this.total = valide.length;
         this.noteCrescute = valide.filter((d) => d.diferenta > 0).length;
         this.noteScazute = valide.filter((d) => d.diferenta < 0).length;
         this.noteNeschimbate = valide.filter((d) => d.diferenta === 0).length;
@@ -217,7 +256,6 @@ export class IstoricContestatiiComponent implements OnInit {
             tension: 0.1,
           },
         ];
-
         this.chartOptions = {
           ...this.chartOptions,
           plugins: {
@@ -228,11 +266,27 @@ export class IstoricContestatiiComponent implements OnInit {
             },
           },
         };
+
+        this.deviationChartLabels = valide.map((d) => d.id);
+        this.deviationChartData = [
+          {
+            label: 'Deviație (ra - ri)',
+            data: valide.map((d) => d.diferenta),
+            backgroundColor: valide.map((d) =>
+              d.diferenta >= 0 ? 'green' : 'red'
+            ),
+            borderWidth: 0,
+          },
+        ];
+
         this.afiseazaStatistici = true;
       },
-      error: (_) => {
+
+      error: () => {
         this.chartData = [];
         this.chartLabels = [];
+        this.deviationChartData = [];
+        this.deviationChartLabels = [];
         this.afiseazaStatistici = false;
       },
     });

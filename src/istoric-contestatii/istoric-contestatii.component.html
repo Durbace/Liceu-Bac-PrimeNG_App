@@ -83,6 +83,16 @@
         style="min-height: 500px; width: 100%"
       ></canvas>
     </div>
+    <div class="py-4 mt-8">
+      <canvas
+        baseChart
+        [datasets]="deviationChartData"
+        [labels]="deviationChartLabels"
+        [options]="deviationChartOptions"
+        [type]="deviationChartType"
+        style="min-height: 300px; width: 100%"
+      ></canvas>
+    </div>
   </ng-container>
 
   <ng-template #noSelection>
