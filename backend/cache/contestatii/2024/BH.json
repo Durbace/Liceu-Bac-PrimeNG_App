@@ -1,0 +1,6082 @@
+[
+  {
+    "cod": "BH9436356",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10664651",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9436858",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10818003",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH11193075",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9230857",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10804908",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH10724955",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10810440",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH12231337",
+    "scoala": "LICEUL TEORETIC „WENFORD ACADEMY” ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH12231337",
+    "scoala": "LICEUL TEORETIC „WENFORD ACADEMY” ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10926175",
+    "scoala": "LICEUL TEORETIC AUREL LAZĂR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9542410",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8984024",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9470626",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 HIDIŞEL",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10503220",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH8984469",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8984469",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10845352",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH10845352",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10926063",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9673474",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9673474",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9407386",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8429591",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8429591",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8233812",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10825237",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9178186",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PIETROASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9710243",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH9232699",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH8431127",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8431127",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8440355",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8440355",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH8524074",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10545199",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9673206",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9673206",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10812606",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH8414578",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH8414578",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10296363",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9863885",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9863885",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9720865",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10818904",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9849305",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10542176",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8618956",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH8818534",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9726657",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10803461",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10504574",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10504574",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH12522947",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH12522947",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH13997125",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH13997125",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8438691",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 CALEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 8.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH10803415",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH12230700",
+    "scoala": "LICEUL TEORETIC „WENFORD ACADEMY” ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10500253",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BH10500253",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9013737",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9013737",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH11190107",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH13163932",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH13163932",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8889337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9870738",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9850683",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10175955",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10499849",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10845206",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8647164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10804624",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9544856",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 SUPLACU DE BARCĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10805740",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10507392",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9681954",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH13689222",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8414117",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9456745",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10817487",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10503873",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8511918",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9727419",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BH10297027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8605612",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9381695",
+    "scoala": "LICEUL TEORETIC AUREL LAZĂR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9672618",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9672618",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9850468",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9850810",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10613292",
+    "scoala": "LICEUL TEORETIC „WENFORD ACADEMY” ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10502090",
+    "scoala": "LICEUL TEORETIC AUREL LAZĂR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9350613",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9211517",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9211517",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH11187395",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH9574365",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9814602",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SĂCĂDAT",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9724608",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10805944",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10813376",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9570645",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9570645",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9864398",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH12744023",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10804811",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9851982",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10804057",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.95,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BH9711930",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8510077",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BH8999665",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8999665",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH13097864",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH13097864",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9825425",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH9724039",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9230113",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9230113",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH11195173",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9269502",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9730075",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9730075",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH10803051",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH9225771",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH10813957",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9230033",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH9211159",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9352573",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BULZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH11191905",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10926103",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH8416827",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH10913957",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9489917",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8503722",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH8503722",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10806085",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8463855",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9733728",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH10841570",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.25,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BH9703194",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.25,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BH9703194",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10665881",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9489776",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH11189489",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH9870380",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10125109",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10504404",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH11193486",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8724766",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9381594",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH9859502",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH9859502",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10809930",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10809930",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH11198248",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BH11198248",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10651624",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH11194217",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH8458392",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10804494",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10804494",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9309553",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH10805544",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH8509501",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10500542",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH10500542",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10813308",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH10505980",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH12230932",
+    "scoala": "LICEUL TEORETIC „WENFORD ACADEMY” ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9352296",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8980529",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10624577",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH10833643",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8531442",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH11192797",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9211437",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH9211437",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10805955",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10621174",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10621174",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH11160145",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH11160145",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10804176",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9757345",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH9728262",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 7.7,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BH8453465",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH8453465",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10303777",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9723606",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.35,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BH10059409",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE POPOVICIU BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10059409",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE POPOVICIU BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10801774",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10807850",
+    "scoala": "ŞCOALA GIMNAZIALĂ NESTOR PORUMB TULCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH11194860",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9693848",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9693848",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10908050",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10914130",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9720927",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH9720927",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH10803207",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10803207",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10802453",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10802453",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10810322",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH10914125",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9314214",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10613535",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10805171",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10805171",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9211465",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10624290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10624290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9825653",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10802805",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10833934",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH13979608",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH13979608",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10803670",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9717404",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8662782",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BH8662782",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9729066",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10913965",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH8281971",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10301448",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10801929",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9854711",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9132324",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8415332",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9850048",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH8990457",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH8510508",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10847450",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 NUCET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10847450",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 NUCET",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH11191755",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9531589",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8357920",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9401525",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9990305",
+    "scoala": "COLEGIUL NAȚIONAL SAMUIL VULCAN BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10505050",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10544339",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10301223",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10301223",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10113156",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9222316",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8513633",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH10805517",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8652051",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9351137",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9351137",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10913878",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10913878",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH11121870",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8889303",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH8889303",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10819220",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10819220",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9719928",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9719928",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH8504667",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10801451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE POPOVICIU BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8727632",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10809989",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH9493649",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH9493649",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9852226",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9852226",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10803824",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN SLAVICI ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH8522318",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8459524",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH8459524",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9719569",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.1,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BH9719569",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9225643",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9225643",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9351152",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9351152",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8438427",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10801954",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9761924",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DIOSIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH8976200",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10666167",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10823381",
+    "scoala": "LICEUL REFORMAT LORANTFFY ZSUZSANNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8653418",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH8653418",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9825562",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9825562",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8817676",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH11118040",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10803963",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL POP OȘORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8908582",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH8908582",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10803621",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9308070",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9308070",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10802704",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9692514",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9692514",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8965778",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10834175",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10805115",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9042862",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9544725",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH9730244",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH10803332",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10803332",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10803756",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10614493",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8464091",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8464091",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8798252",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10279211",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 7,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BH8282167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 BOGEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8475845",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH9401718",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH9401718",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BH9242266",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9242266",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8438851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9824997",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10614440",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10614440",
+    "scoala": "COLEGIUL NAȚIONAL EMANUIL GOJDU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10803212",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10803212",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9618889",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH10806090",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BH9728578",
+    "scoala": "LICEUL TEORETIC ARANY JANOS SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10613371",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10802138",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10810877",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10820465",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH8805167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8805167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9230478",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10543268",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10543268",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10805005",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9728538",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9728538",
+    "scoala": "LICEUL TEHNOLOGIC FELIX SÂNMARTIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10862113",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10862113",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10913989",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9574312",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9042573",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BH10486540",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10543983",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH9825374",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9353882",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9353882",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9177759",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PIETROASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9985634",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH10801412",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.75,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "BH8500349",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH11196616",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10803858",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL POP OȘORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8506467",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH14325343",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH14325343",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10802618",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10841477",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9404523",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9404523",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9123538",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9854831",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9854831",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9723975",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9420624",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH9420624",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH11187915",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9852538",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10812814",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10812814",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9734540",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10801688",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH13684324",
+    "scoala": "LICEUL REFORMAT LORANTFFY ZSUZSANNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9340980",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 TĂRIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10837644",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10837644",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH9140867",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9140867",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10804358",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH10804358",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10803906",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10060697",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 HUSASĂU DE CRIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8417285",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9141599",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9141599",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH8499746",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10926105",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10926105",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9401677",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH13708626",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.55,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BH9905739",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10803703",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10812459",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.25,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BH8197922",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10913879",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10913879",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8593694",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TILEAGD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8509107",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8998421",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH10804544",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9211820",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BH9211820",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8435216",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8435216",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10296006",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH9434791",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10803090",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BH10727403",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.85,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BH10812877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH10353034",
+    "scoala": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8198337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.9,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BH9234518",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10810164",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10810164",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9650828",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9737981",
+    "scoala": "COLEGIUL NAȚIONAL AVRAM IANCU ȘTEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9734459",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9734459",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10353204",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9456786",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.75,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH10176055",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH8439995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9824083",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH11188316",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9939769",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10298348",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH10665302",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10353118",
+    "scoala": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH7980515",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BH8395953",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10818388",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10490422",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.15,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BH10490422",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9851009",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9559613",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9559613",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8720879",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10812958",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH10814895",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6,
+    "diferenta": -1
+  },
+  {
+    "cod": "BH10835749",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 HIDIŞELU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8805778",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8805778",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BH11187995",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10500853",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH10724203",
+    "scoala": "LICEUL REFORMAT LORANTFFY ZSUZSANNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10899982",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10899982",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9381262",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9381262",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9315153",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 ABRAM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10114576",
+    "scoala": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH8475678",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9741540",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9741540",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH8457582",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9211556",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.05,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH9211556",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8466798",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9205239",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9205239",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10299831",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10805040",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8455892",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9687968",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 CHIRIBIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH8204113",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH8204113",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9694041",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10366397",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 ȘERGHIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10803098",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10803098",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9717136",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8622102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9289973",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10050097",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIJIC",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9814797",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH11187253",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BH9357261",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10353177",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8475728",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9620139",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9537751",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.55,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BH9537751",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9999661",
+    "scoala": "COLEGIUL NAȚIONAL SAMUIL VULCAN BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH10492965",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 MĂDĂRAS",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10267023",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SÂMBĂTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10267023",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SÂMBĂTA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9732250",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9732250",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9281257",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COCIUBA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH10801466",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10817795",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10817795",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9308226",
+    "scoala": "LICEUL DON ORIONE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9751160",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH11189410",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.15,
+    "diferenta": -1
+  },
+  {
+    "cod": "BH11189410",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH13151844",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 NUCET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9193978",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH9193978",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10505154",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10812755",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH8774877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH11196691",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10804840",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL POP OȘORHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9211481",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH8463745",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH8463745",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8797801",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8797801",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10058883",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE POPOVICIU BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BH9691585",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CUZAP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8461838",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9570695",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH9403161",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8454839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂRBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH8454839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂRBI",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9000312",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION BOGDAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9734588",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH11109231",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10175585",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10175585",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9724631",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10053417",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9404632",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9404632",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8965218",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZACSVAY IMRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BH8965218",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZACSVAY IMRE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8852938",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8852938",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8365567",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9714041",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 DRĂGEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9714041",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 DRĂGEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9407695",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH9546148",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9905646",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8376360",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZALARDI JANOS SĂLARD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9403706",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9403706",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8507509",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH8507509",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9673276",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9850471",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8635156",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10011677",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. BALASI JOZSEF CURTUIŞENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9328780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9328780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10816055",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BH9240732",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 LĂZĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9353809",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9353809",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10903707",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZACSVAY IMRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 3.95,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BH10290575",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BH10665116",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH10665116",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10851979",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH11045917",
+    "scoala": "ŞCOALA GIMNAZIALĂ NESTOR PORUMB TULCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH9352954",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9352954",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10305842",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.45,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BH10305842",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9984247",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9211439",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH9211439",
+    "scoala": "LICEUL TEORETIC GERMAN FRIEDRICH SCHILLER ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH11073219",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9502178",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 REMETEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH10620742",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8461940",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH9357188",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10860496",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8194983",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9314977",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10294739",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10294739",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9406351",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9406351",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9691932",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BH10024838",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZELK ZOLTAN VALEA LUI MIHAI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.3,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BH10024838",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZELK ZOLTAN VALEA LUI MIHAI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH11146060",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10914086",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10914086",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH11118961",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10335583",
+    "scoala": "ŞCOALA GIMNAZIALĂ NESTOR PORUMB TULCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH10819394",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 2.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH9871801",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9871801",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8454583",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂRBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BH8454583",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂRBI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10060034",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 HUSASĂU DE CRIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10060034",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 HUSASĂU DE CRIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8431490",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH8431490",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8498289",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH14401810",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH14401810",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH8499305",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH9495874",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9979625",
+    "scoala": "COLEGIUL TEHNIC ALEXANDRU ROMAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9889259",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9999566",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BH9999566",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9750715",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9038518",
+    "scoala": "COLEGIUL NAȚIONAL AVRAM IANCU ȘTEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH8926043",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BH9269976",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BH9269976",
+    "scoala": "LICEUL TEORETIC ADY ENDRE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9406306",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10353190",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH9739728",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9198107",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9645050",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URVIȘ DE BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH11193238",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON POMPILIU ȘTEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10804832",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL POP OȘORHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BH10804832",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL POP OȘORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9692682",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9692682",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9456802",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9456802",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10812530",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10116594",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10116594",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9720198",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9940981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 RĂBĂGANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH9940981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 RĂBĂGANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH11193419",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH11193419",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9657269",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 BOGEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH9657269",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 BOGEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10053413",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 ȘERGHIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8603865",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9550168",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9550168",
+    "scoala": "LICEUL INTERNAŢIONAL AGORA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10811877",
+    "scoala": "ŞCOALA GIMNAZIALĂ NESTOR PORUMB TULCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.65,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BH10811877",
+    "scoala": "ŞCOALA GIMNAZIALĂ NESTOR PORUMB TULCA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10366967",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 ȘERGHIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10176247",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10826293",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BOGDAN VAȘCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10826293",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BOGDAN VAȘCĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH12159932",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH12159932",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9403235",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10353122",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9324668",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DIOSIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8802409",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.35,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BH10516847",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH9329383",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9329383",
+    "scoala": "LICEUL GRECO-CATOLIC IULIU MANIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10803600",
+    "scoala": "LICEUL TEORETIC GABRIEL ŢEPELEA BOROD",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9269995",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9407051",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10827792",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BUNTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH10827792",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BUNTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH8996748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH9843254",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL HORJ DRĂGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH11083319",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH11083319",
+    "scoala": "LICEUL ORTODOX EPISCOP ROMAN CIOROGARIU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9315920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9315920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9849740",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE POPOVICIU BEIUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10049964",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIJIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH9628909",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH9628909",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9712068",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH10589275",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH11061161",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH11061161",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10060761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 HUSASĂU DE CRIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BH10060761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 HUSASĂU DE CRIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8828549",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TĂMAŞDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH8828549",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TĂMAŞDA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10024741",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZELK ZOLTAN VALEA LUI MIHAI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10024741",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZELK ZOLTAN VALEA LUI MIHAI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9672750",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BH8626014",
+    "scoala": "LICEUL TEORETIC NR.1 BRATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH10808866",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10808866",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CEICA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9194958",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10486304",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.05,
+    "nota_finala": 2.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH10486304",
+    "scoala": "LICEUL TEORETIC PETOFI SANDOR SĂCUENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8722386",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8722386",
+    "scoala": "ȘCOALA GIMNAZIALĂ OLTEA DOAMNA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH8459437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BH8459437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9064596",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZALARDI JANOS SĂLARD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.6,
+    "nota_finala": 1.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9064596",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZALARDI JANOS SĂLARD",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9823734",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE CANTEMIR ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8464306",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH8464306",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9594882",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BRUSTURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.35,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BH9594882",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BRUSTURI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BH10913910",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9456775",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BH9456775",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10664822",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9544465",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BETEL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9567973",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH9567973",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9406828",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9406828",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8202810",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BH8202810",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.11 ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9814751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SĂCĂDAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9814751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SĂCĂDAT",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH9729761",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9729761",
+    "scoala": "COLEGIUL NAȚIONAL TEODOR NEȘ SALONTA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10804335",
+    "scoala": "COLEGIUL NAȚIONAL AVRAM IANCU ȘTEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BH10833825",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.85,
+    "diferenta": 1.35
+  },
+  {
+    "cod": "BH10833825",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8605358",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH10478254",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 AVRAM IANCU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10353076",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH10353076",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ȘERBAN ALEȘD",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH9656975",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.05,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BH9656975",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9406497",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9406497",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA MARGHITA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10853699",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 ABRAM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH10853699",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 ABRAM",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BH9593993",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BRUSTURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH9593993",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BRUSTURI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8675662",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 VOIVOZI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10804377",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ROMAN AUŞEU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8446242",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9705565",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10837767",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH8625926",
+    "scoala": "LICEUL TEORETIC NR.1 BRATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH10819636",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10819636",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNTANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9709250",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH9709250",
+    "scoala": "COLEGIUL NAȚIONAL ONISIFOR GHIBU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH8686046",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BH10913975",
+    "scoala": "COLEGIUL NAȚIONAL IOSIF VULCAN ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BH10825412",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOSIF VULCAN HOLOD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH10825412",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOSIF VULCAN HOLOD",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9329446",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BH9329446",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BH9402973",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.85,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BH9402973",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9206450",
+    "scoala": "LICEUL VOCAȚIONAL PEDAGOGIC NICOLAE BOLCAȘ BEIUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8634745",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BH8634745",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 POPEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8356306",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZALARDI JANOS SĂLARD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BH9329495",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BH9329495",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHERESIG",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BH10913891",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BH10913891",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH9437094",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URVIND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BH9732303",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BIHORUL ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BH9460191",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HOTAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BH9460191",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HOTAR",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BH8908814",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.85,
+    "nota_finala": 3.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BH8908814",
+    "scoala": "LICEUL DE ARTE ORADEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  }
+]

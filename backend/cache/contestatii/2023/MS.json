@@ -1,0 +1,4378 @@
+[
+  {
+    "cod": "MS10452198",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA BOIUSIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8786705",
+    "scoala": "ȘCOALA GIMNAZIALĂ IBANEȘTI-PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8786705",
+    "scoala": "ȘCOALA GIMNAZIALĂ IBANEȘTI-PĂDURE",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS10458603",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8657512",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9238147",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8168358",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8476503",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 10,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS7976517",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8435644",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS10338028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS10070118",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9.4,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "MS8641208",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS9488453",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS7971949",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS7971949",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8662433",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS10465157",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL DRĂGAN UNGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS7979705",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9706406",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9706406",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7991893",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9487952",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9331867",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS7964548",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS12139389",
+    "scoala": "ȘCOALA GIMNAZIALĂ OMEGA TÎRGU MUREŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8439187",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS7974260",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8164298",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10456164",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS6591551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULUS GUGA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8527999",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS9173574",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS8251304",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS9282992",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9710659",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10072535",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9334373",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9620804",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9620804",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9870073",
+    "scoala": "LICEUL TEORETIC SAMUIL MICU SĂRMAȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS9870073",
+    "scoala": "LICEUL TEORETIC SAMUIL MICU SĂRMAȘU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8252497",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS10915512",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS9101129",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS10065784",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS10456448",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9219887",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS8747080",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8306879",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8246063",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8482830",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8298222",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS10069018",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS8609770",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘĂULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7972880",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MS9870688",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MS8296536",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MS8029003",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9214424",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS10500386",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNTIOANA DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9082919",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8.1,
+    "diferenta": 1
+  },
+  {
+    "cod": "MS7972645",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS7962044",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9483174",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9483174",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8262530",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8204563",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8204563",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS12459580",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS9124600",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8188962",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8030525",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.6,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MS7924509",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8656190",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9283882",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MS8476417",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS12790640",
+    "scoala": "LICEUL TEORETIC DR. LIND CÂMPENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS10451897",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8764478",
+    "scoala": "ȘCOALA GIMNAZIALĂ IBANEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MS7993901",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS7993901",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8483665",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8483665",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8500935",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.85,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8166273",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8718207",
+    "scoala": "LICEUL TEHNOLOGIC VASILE NETEA DEDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS7936303",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9935754",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8243227",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9882279",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9282365",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9869162",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9836187",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8263408",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9237370",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8802531",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8300508",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8801775",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8030644",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MS8658251",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8658251",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9884254",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9931425",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂRGATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS9608410",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS8924605",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERAFIM DUICU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8924605",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERAFIM DUICU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7999702",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9452801",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS8476791",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8163233",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8547465",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 SOVATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS8557175",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8438447",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS10474889",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9929519",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8658536",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9331916",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS7933013",
+    "scoala": "ȘCOALA GIMNAZIALĂ S. ILLYES LAJOS SOVATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MS8654205",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS7936349",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS7936236",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS8658200",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SZASZ ADALBERT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8658200",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SZASZ ADALBERT TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8264597",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS9882316",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS9882316",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MS9283435",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10491845",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS10457620",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS8766642",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9102023",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10479438",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8213112",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8974441",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEȚCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS7936262",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8086969",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS7974388",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS7974388",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8633598",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS8261266",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8080651",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS8131318",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS9200620",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADORJANI KAROLY GLODENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS9200620",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADORJANI KAROLY GLODENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8092104",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.1,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "MS10500741",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8575017",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS8575017",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8224537",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS8658553",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8272142",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS9080429",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.05,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "MS8074863",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS10065959",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS13353157",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.6,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "MS8567486",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7935527",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS7935527",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS7960760",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS9867975",
+    "scoala": "LICEUL TEORETIC SAMUIL MICU SĂRMAȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9877254",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS7975061",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8540840",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CHINEZU SÂNTANA DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS10677299",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8297749",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8297749",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8702215",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS7960005",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8154449",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS8154449",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9869192",
+    "scoala": "LICEUL TEORETIC SAMUIL MICU SĂRMAȘU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS12595131",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8243922",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8077123",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. NYULAS FERENC EREMITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS7933889",
+    "scoala": "ȘCOALA GIMNAZIALĂ S. ILLYES LAJOS SOVATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS9606739",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS10677393",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9452892",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS10369633",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MS10369633",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8658954",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8678111",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS9221012",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS7936680",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8510667",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9946863",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MS9452761",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9874594",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS7927464",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS7927464",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS7927409",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7927409",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9102004",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS9102004",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS10456498",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS8085390",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8508431",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS7998565",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8709900",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9620959",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS9620959",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8007653",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS8578148",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8651527",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8205130",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS7974488",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS7974488",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS9710978",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8079958",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS10330974",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9120433",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS9487869",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8246721",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8767412",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS9949079",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10566888",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8087950",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8087950",
+    "scoala": "LICEUL TEORETIC BOLYAI FARKAS TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8031069",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MS8844050",
+    "scoala": "LICEUL TEORETIC DR. LIND CÂMPENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS9620547",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9915573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8642399",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8029291",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8029291",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9221223",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10458630",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8092733",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9699021",
+    "scoala": "ŞCOALA GIMNAZIALĂ PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS9699021",
+    "scoala": "ŞCOALA GIMNAZIALĂ PERIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8578820",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8531058",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS10455770",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8778483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9244741",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8768798",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10338997",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS8187326",
+    "scoala": "ȘCOALA GIMNAZIALĂ APAFI MIHALY ERNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS8633930",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.9,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MS8665587",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂGACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10336039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8092089",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8147134",
+    "scoala": "ȘCOALA GIMNAZIALĂ HĂRANGLAB",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8147134",
+    "scoala": "ȘCOALA GIMNAZIALĂ HĂRANGLAB",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9916294",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS8162880",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8056894",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNCRAIU DE MUREŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS9487896",
+    "scoala": "LICEUL TEORETIC JOSEPH HALTRICH SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS9123071",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10558687",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9704416",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9665829",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL PETRU SÂNPETRU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8495357",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS9135445",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8029150",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.3,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "MS8029150",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS10064727",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9220222",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS10371955",
+    "scoala": "ȘCOALA GIMNAZIALĂ HODAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS10491045",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS10491045",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8206872",
+    "scoala": "ȘCOALA PROFESIONALĂ BAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS10915439",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS10915439",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9484904",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9707446",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8160815",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8160815",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS10331110",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8801987",
+    "scoala": "LICEUL VOCAȚIONAL REFORMAT TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS8543017",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8543017",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS10371574",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS8306776",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10101889",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS7925110",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8609747",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8014329",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8014329",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8081611",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. NYULAS FERENC EREMITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8085397",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂNILA STUPAR RUŞII-MUNŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8085397",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂNILA STUPAR RUŞII-MUNŢI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10456814",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS10063015",
+    "scoala": "ȘCOALA GIMNAZIALĂ PATAKY AGOTHA MĂDĂRAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9089412",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS7994478",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9338187",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUGUSTIN MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 7.4,
+    "diferenta": 1.3
+  },
+  {
+    "cod": "MS10419844",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9931181",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10515027",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNTIOANA DE MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS10573333",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROISÂNMĂRTIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9334810",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS7972763",
+    "scoala": "COLEGIUL NAȚIONAL UNIREA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.95,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MS8081377",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. NYULAS FERENC EREMITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8635272",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8635272",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS7999142",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA BOIUSIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10337591",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS9876410",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10420346",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8554849",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9915246",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8672184",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERAFIM DUICU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8686567",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEL REGMAN DANEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS13088149",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9941187",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS8339303",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂRGATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8436331",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS12757103",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS8086307",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MS9159387",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8297092",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8297092",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS8696417",
+    "scoala": "ŞCOALA GIMNAZIALĂ GURGHIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10677457",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS8264156",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS9453075",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10457417",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS10457417",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8133184",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNCRAIU DE MUREŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8573176",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8573176",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS7963748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS7963748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9088746",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS9373861",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8188840",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS8204854",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8017208",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 5.85,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "MS8261327",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9090169",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9137674",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8541159",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS10456009",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9338869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9338869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9159020",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.6,
+    "diferenta": 1
+  },
+  {
+    "cod": "MS8633457",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS7935512",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS7999299",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7999299",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8786852",
+    "scoala": "ȘCOALA GIMNAZIALĂ IBANEȘTI-PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MS9452924",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8551828",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10458369",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8299251",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.95,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MS10061689",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL GHEORGHE SÂNGEORGIU DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8030359",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8271289",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8271289",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MS8350337",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS14374501",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.15,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8791228",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "MS8510061",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8436722",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9930790",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8464027",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TELEKI SAMUEL” DUMBRĂVIOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.45,
+    "nota_finala": 3.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MS10528826",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10345407",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZABEDI LASLO SĂBED",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS12600550",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNCRAIU DE MUREŞ",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8256171",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VLADUȚIU LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS8704138",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.95,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MS8136089",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS6615351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULUS GUGA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8697609",
+    "scoala": "ŞCOALA GIMNAZIALĂ GURGHIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8764295",
+    "scoala": "ȘCOALA GIMNAZIALĂ IBANEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS12479694",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS10495862",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS7979510",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS7979510",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU PAPIU ILARIAN TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS8831323",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MS10520466",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MS10520466",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUCI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS6595551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULUS GUGA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS6595551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULUS GUGA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8660225",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERAFIM DUICU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8610106",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10576419",
+    "scoala": "ȘCOALA GIMNAZIALĂ JABENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8271518",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS9281741",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8767579",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8801040",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8159344",
+    "scoala": "LICEUL TEHNOLOGIC SFÂNTUL GHEORGHE SÂNGEORGIU DE PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS7936929",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 3.75,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MS9881844",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8835947",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10673448",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MS9152381",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 6.3,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "MS9967130",
+    "scoala": "LICEUL TEORETIC SAMUIL MICU SĂRMAȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MS9572804",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAPIU ILARIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9572804",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAPIU ILARIAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS6614651",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULUS GUGA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8664402",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS10677437",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8041429",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS9002339",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS10677328",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8091887",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS7929168",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS7929168",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN TÂRNĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9338020",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8775912",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9220378",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS7935635",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10337042",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS9020939",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9476736",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU GRAMA CHIHERU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.95,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MS8133016",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8133016",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9101884",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS13889594",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAPIU ILARIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9291040",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂTRICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS7924858",
+    "scoala": "ȘCOALA GIMNAZIALĂ S. ILLYES LAJOS SOVATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS9428746",
+    "scoala": "ȘCOALA GIMNAZIALĂ KEMENY JANOS BRÂNCOVENEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8551892",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9712469",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS9712469",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS9091405",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8682168",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7976877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS7976877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS7994160",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUROPA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9453007",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MS8058348",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA BOIUSIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8058348",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA BOIUSIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8306725",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRONA REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9091763",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8681664",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10066183",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8713951",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8713951",
+    "scoala": "ȘCOALA GIMNAZIALĂ DACIA TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS10393465",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIRIMIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS9027047",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL DRĂGAN UNGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS9027047",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL DRĂGAN UNGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9092350",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS9092350",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS7918299",
+    "scoala": "ȘCOALA PROFESIONALĂ BAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS7918299",
+    "scoala": "ȘCOALA PROFESIONALĂ BAND",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8569343",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8633439",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8569758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8569758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8531208",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS8504100",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS9091819",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS9091819",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9948989",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS2485101",
+    "scoala": "ȘCOALA GIMNAZIALĂ HĂRANGLAB",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8080371",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.6,
+    "nota_finala": 1.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10473814",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MS10473814",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS7935606",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. BERNADY GYORGY TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10478961",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MS10677473",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS10696666",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU GRAMA CHIHERU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10696666",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU GRAMA CHIHERU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS10649615",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 5.05,
+    "diferenta": 1
+  },
+  {
+    "cod": "MS10371098",
+    "scoala": "ȘCOALA GIMNAZIALĂ HODAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS10392731",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETELEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MS10419740",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8246929",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS10007563",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CRĂCIUNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8337024",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂRGATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS8337024",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂRGATA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8088210",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS9922561",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8776074",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MS8057128",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE POP GREBENIŞU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8057128",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE POP GREBENIŞU DE CÂMPIE",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8056740",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNCRAIU DE MUREŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8575997",
+    "scoala": "LICEUL VOCAȚIONAL DE ARTĂ TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MS9425594",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9425594",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS10482535",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10482535",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10576418",
+    "scoala": "ȘCOALA GIMNAZIALĂ JABENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MS7966029",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS9967056",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNTIOANA DE MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8061444",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8012776",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8012776",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8557625",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9095005",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS10308765",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8541016",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS8541016",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS10632513",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU GRAMA CHIHERU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MS8642594",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8642594",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU CEUȘIANU REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10338940",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MS8058033",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS9090428",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8364147",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘAEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 4.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MS8067932",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8067932",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10558306",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.35,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "MS10558306",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRIEDRICH SCHILLER TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8528725",
+    "scoala": "ȘCOALA GIMNAZIALĂ ICLANDU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10277594",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MS8687528",
+    "scoala": "ȘCOALA GIMNAZIALĂ TELEKI DOMOKOS GORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MS8615933",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS8094504",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂNILA STUPAR RUŞII-MUNŢI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS9092424",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MS10419802",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS10337133",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS10337133",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUDUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS10560357",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LARGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10489388",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.75,
+    "nota_finala": 1.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10489388",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9710492",
+    "scoala": "ȘCOALA GIMNAZIALĂ IERNUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8062794",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA BOIUSIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8527664",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 5,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "MS8527664",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8356909",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS10561104",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LARGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 4,
+    "diferenta": 1
+  },
+  {
+    "cod": "MS10561104",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LARGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8726969",
+    "scoala": "ŞCOALA GIMNAZIALĂ SELEUŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS10576415",
+    "scoala": "ȘCOALA GIMNAZIALĂ JABENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MS8095847",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂNILA STUPAR RUŞII-MUNŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS8131349",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS8697004",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEL REGMAN DANEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8697004",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEL REGMAN DANEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS8611285",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MS8611285",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9425540",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MS9425540",
+    "scoala": "COLEGIUL PETRU MAIOR REGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS9091362",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8611896",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8976338",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MS8976338",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU POPA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9916080",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAK FARKAS MIERCUREA NIRAJULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.75,
+    "nota_finala": 1.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MS9999868",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CRĂCIUNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9999868",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CRĂCIUNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8944880",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MS8343716",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8258665",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADĂMUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8258665",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADĂMUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS8775191",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MS8775191",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL MOSORA SIGHIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS8792777",
+    "scoala": "ȘCOALA GIMNAZIALĂ FLOREA BOGDAN REGHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MS10488381",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MS10488381",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU TÎRGU MUREȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS9091688",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MS9091688",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOACA",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MS9137075",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MS10048483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.4,
+    "diferenta": -0.1
+  }
+]

@@ -1,0 +1,2762 @@
+[
+  {
+    "cod": "VL10046496",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10750349",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10750349",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10715012",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10107649",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL10328252",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL9437037",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11188604",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL9834481",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL9834481",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9807686",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL9836014",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VL10906827",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU LAHOVARI, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10715177",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL9482811",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9574731",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10714984",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9483434",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9483434",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10046918",
+    "scoala": "SCOALA GIMNAZIALA, COM. MATEESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10714979",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11147437",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10745089",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10745089",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10750429",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10747637",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10047046",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10122414",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10751450",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL9712667",
+    "scoala": "LICEUL PREDA BUZESCU, ORAS BERBESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10751472",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10751472",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10736079",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10334804",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10334804",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VL10051932",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL9483000",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11147447",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11197633",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9678607",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VL10750621",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10806931",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU, MUN. DRAGASANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9834589",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9642831",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL9523278",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU LAHOVARI, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL10715191",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10715191",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL11129231",
+    "scoala": "SCOALA GIMNAZIALA, SAT PAUSESTI OTASAU, COM. PAUSESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL9778110",
+    "scoala": "SCOALA GIMNAZIALA, COM. SINESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10751497",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.15,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "VL10751497",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10714992",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9439122",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL9439122",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10736784",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL6907101",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL6907101",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL11190396",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 7.85,
+    "diferenta": -1
+  },
+  {
+    "cod": "VL10446593",
+    "scoala": "LICEUL TEORETIC, COM. GRADISTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL12795378",
+    "scoala": "SCOALA GIMNAZIALA, COM. SLATIOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL9554810",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10751532",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10735919",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10272464",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VL10272464",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10750484",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10750484",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10747605",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL9724349",
+    "scoala": "LICEUL PREDA BUZESCU, ORAS BERBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL11147501",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10123275",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10907214",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10047311",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL11147462",
+    "scoala": "SCOALA GIMNAZIALA WALDORF, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL11147462",
+    "scoala": "SCOALA GIMNAZIALA WALDORF, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10736935",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL11186537",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VL10971151",
+    "scoala": "SCOALA GIMNAZIALA, COM. BUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL9836066",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.75,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "VL9553746",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VL9553746",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL10740590",
+    "scoala": "LICEUL GEORGE TARNEA, ORAS BABENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10751685",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10445018",
+    "scoala": "SCOALA GIMNAZIALA, SAT TINA, COM. LIVEZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10744426",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VL10750374",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10750374",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL11113114",
+    "scoala": "SCOALA GIMNAZIALA WALDORF, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10715104",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.2,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "VL10715104",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL9819628",
+    "scoala": "SCOALA GIMNAZIALA, COM. ORLESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10328554",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10740876",
+    "scoala": "LICEUL GEORGE TARNEA, ORAS BABENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10051769",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10051769",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10323129",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10845099",
+    "scoala": "LICEUL GEORGE TARNEA, ORAS BABENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10674827",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL9483333",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10707686",
+    "scoala": "COLEGIUL ENERGETIC, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VL10634462",
+    "scoala": "SCOALA GIMNAZIALA CAPITAN MARASANU, COM. STROESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL11147416",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10751611",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10751611",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10703506",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VL12242257",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VL12242257",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10679269",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VL10679209",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10679209",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL9834855",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VL9834855",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9003932",
+    "scoala": "ȘCOALA GIMNAZIALA, COM. PRUNDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10733489",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10747541",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL9835020",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10052420",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10052420",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10679231",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL11129208",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL10045736",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10751495",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10751495",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL9556648",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "VL9556648",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9926829",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL9483785",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL9724388",
+    "scoala": "LICEUL PREDA BUZESCU, ORAS BERBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL9523428",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL10768285",
+    "scoala": "SCOALA GIMNAZIALA, SAT URSI, COM. STOILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL11147480",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL11147480",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10883391",
+    "scoala": "SCOALA GIMNAZIALA, SAT BABENI OLTETU, COM. DICULESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL11195461",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL12024145",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10679304",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VL10715003",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10750480",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10750480",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10714203",
+    "scoala": "SCOALA GIMNAZIALA, SAT BUNGETANI, COM. FAURESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10330448",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10323587",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL10323587",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL9570532",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL9570532",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10711602",
+    "scoala": "SCOALA GIMNAZIALA, SAT BUNGETANI, COM. FAURESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VL10718116",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "VL10718116",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10329009",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VL10751587",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL10751587",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL11194756",
+    "scoala": "SCOALA GIMNAZIALA, COM. ALUNU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10331635",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9482927",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL9482927",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10744700",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL11137771",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MOLOGEȘTI, COM. LALOȘU",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10122231",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.8,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "VL10122231",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10431562",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10431562",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10573424",
+    "scoala": "LICEUL TEORETIC, COM. GRADISTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL9197134",
+    "scoala": "SCOALA GIMNAZIALA, SAT BODESTI, COM. BARBATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10444039",
+    "scoala": "SCOALA GIMNAZIALA, SAT TINA, COM. LIVEZI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL9838873",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9572761",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "VL10713871",
+    "scoala": "SCOALA GIMNAZIALA SERBAN VODA CANTACUZINO, ORAS CALIMANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10713871",
+    "scoala": "SCOALA GIMNAZIALA SERBAN VODA CANTACUZINO, ORAS CALIMANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL6266101",
+    "scoala": "SCOALA GIMNAZIALA, SAT URSI, COM. POPESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10020262",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10744226",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU, SAT ROTARASTI, COM. NICOLAE BĂLCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL10083683",
+    "scoala": "SCOALA GIMNAZIALA, SAT PAUSESTI OTASAU, COM. PAUSESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10047421",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VL10047421",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10043627",
+    "scoala": "SCOALA GIMNAZIALA, ORAS BERBESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9573264",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL9630892",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL10053132",
+    "scoala": "SCOALA GIMNAZIALA, COM. MILCOIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VL10744376",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10890003",
+    "scoala": "SCOALA GIMNAZIALA, SAT FOLESTI DE SUS, COM. TOMSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL10811970",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL9427864",
+    "scoala": "SCOALA GIMNAZIALA FERIGILE, COM. COSTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10750825",
+    "scoala": "COLEGIUL ENERGETIC, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10732351",
+    "scoala": "SCOALA GIMNAZIALA, COM. LACUSTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10732351",
+    "scoala": "SCOALA GIMNAZIALA, COM. LACUSTENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10748942",
+    "scoala": "SCOALA GIMNAZIALA, SAT BULETA, COM. MIHAESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10747546",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VL10747546",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10845241",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10845241",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10750878",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL11147467",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL12312959",
+    "scoala": "SCOALA GIMNAZIALA, COM. LAPUSATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL12312959",
+    "scoala": "SCOALA GIMNAZIALA, COM. LAPUSATA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10805762",
+    "scoala": "SCOALA GIMNAZIALA, SAT BABENI OLTETU, COM. DICULESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VL9724435",
+    "scoala": "LICEUL PREDA BUZESCU, ORAS BERBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10737265",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10737265",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10717062",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10717062",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9004334",
+    "scoala": "ȘCOALA GIMNAZIALA, COM. PRUNDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "VL10747930",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL9557966",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10722695",
+    "scoala": "SCOALA GIMNAZIALA, SAT BUNGETANI, COM. FAURESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10722695",
+    "scoala": "SCOALA GIMNAZIALA, SAT BUNGETANI, COM. FAURESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL13404299",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL1884151",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10747608",
+    "scoala": "SCOALA GIMNAZIALA, SAT BULETA, COM. MIHAESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL13712407",
+    "scoala": "SCOALA GIMNAZIALA, COM. OLANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10742653",
+    "scoala": "SCOALA GIMNAZIALA SERBAN VODA CANTACUZINO, ORAS CALIMANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10711694",
+    "scoala": "SCOALA GIMNAZIALA, SAT BUNGETANI, COM. FAURESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10327277",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10327277",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10323952",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 7.75,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "VL10323952",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL9196084",
+    "scoala": "SCOALA GIMNAZIALA, SAT BODESTI, COM. BARBATESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10727910",
+    "scoala": "SCOALA GIMNAZIALA, COM. ZATRENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL9924663",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10745452",
+    "scoala": "SCOALA GIMNAZIALA, COM. BOISOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10430009",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL8895297",
+    "scoala": "SCOALA GIMNAZIALA, COM. BUDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "VL10702147",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MIHAESCU, COM. VLADESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10709276",
+    "scoala": "SCOALA GIMNAZIALA COSTEA MARINOIU, ORAS OCNELE MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL10709276",
+    "scoala": "SCOALA GIMNAZIALA COSTEA MARINOIU, ORAS OCNELE MARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10755569",
+    "scoala": "SCOALA GIMNAZIALA, SAT TINA, COM. LIVEZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VL10755569",
+    "scoala": "SCOALA GIMNAZIALA, SAT TINA, COM. LIVEZI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10744978",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VL10734640",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10085480",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL9586298",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VL11139568",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MOLOGEȘTI, COM. LALOȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL10780748",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9592955",
+    "scoala": "SCOALA GIMNAZIALA, COM. BUDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10713708",
+    "scoala": "SCOALA GIMNAZIALA SERBAN VODA CANTACUZINO, ORAS CALIMANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "VL8144889",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.3,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "VL10764728",
+    "scoala": "SCOALA GIMNAZIALA, COM. DAESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL11147463",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL11147463",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10735699",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10735699",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL10718043",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10718043",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10742344",
+    "scoala": "SCOALA GIMNAZIALĂA SAT TEPESTI, COM. TETOIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9819810",
+    "scoala": "ȘCOALA GIMNAZIALA, COM. PRUNDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "VL9819810",
+    "scoala": "ȘCOALA GIMNAZIALA, COM. PRUNDENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10890041",
+    "scoala": "SCOALA GIMNAZIALA, SAT FOLESTI DE SUS, COM. TOMSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL9617625",
+    "scoala": "SCOALA GIMNAZIALA NR. 13, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL10780169",
+    "scoala": "SCOALA GIMNAZIALA, SAT URSI, COM. STOILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "VL10780169",
+    "scoala": "SCOALA GIMNAZIALA, SAT URSI, COM. STOILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10629902",
+    "scoala": "SCOALA GIMNAZIALA, COM. BOISOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10634686",
+    "scoala": "SCOALA GIMNAZIALA CAPITAN MARASANU, COM. STROESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10703939",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VL10727787",
+    "scoala": "LICEUL GEORGE TARNEA, ORAS BABENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10727787",
+    "scoala": "LICEUL GEORGE TARNEA, ORAS BABENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9586834",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL9640448",
+    "scoala": "SCOALA GIMNAZIALA, COM. ALUNU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10634815",
+    "scoala": "SCOALA GIMNAZIALA CAPITAN MARASANU, COM. STROESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10430478",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10430478",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10430081",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10718344",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10454571",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU LAHOVARI, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10454571",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU LAHOVARI, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10744552",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL10747850",
+    "scoala": "SCOALA GIMNAZIALA, COM. SIRINEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL11138040",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10738083",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10746058",
+    "scoala": "SCOALA GIMNAZIALA, COM. BOISOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10839422",
+    "scoala": "SCOALA GIMNAZIALA, COM. SLATIOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL11193094",
+    "scoala": "ȘCOALA GIMNAZIALA, COM. PRUNDENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL13404439",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL12252978",
+    "scoala": "SCOALA GIMNAZIALA NR 4, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10398339",
+    "scoala": "SCOALA GIMNAZIALA, SAT DEZROBITI, COM. FRANCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VL10715144",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL10715144",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10811887",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10748941",
+    "scoala": "SCOALA GIMNAZIALA, COM. OLANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10748941",
+    "scoala": "SCOALA GIMNAZIALA, COM. OLANU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10735851",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10735851",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10126258",
+    "scoala": "LICEUL CONSTANTIN BRANCOVEANU, ORAS HOREZU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10634941",
+    "scoala": "SCOALA GIMNAZIALA CAPITAN MARASANU, COM. STROESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL10634941",
+    "scoala": "SCOALA GIMNAZIALA CAPITAN MARASANU, COM. STROESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL9482885",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9482885",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL8860487",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9801590",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VL9801590",
+    "scoala": "SCOALA GIMNAZIALA TAKE IONESCU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10431669",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9801568",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL9801568",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10778853",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10888206",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11192671",
+    "scoala": "SCOALA GIMNAZIALA, SAT MAGURA, COM. MIHAESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VL11192671",
+    "scoala": "SCOALA GIMNAZIALA, SAT MAGURA, COM. MIHAESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9523188",
+    "scoala": "COLEGIUL NAȚIONAL MIRCEA CEL BATRAN, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 4.8,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "VL773401",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU, MUN. DRAGASANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL8860192",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL8860192",
+    "scoala": "SCOALA GIMNAZIALA NR. 5, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10431415",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10431415",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA SOLOMON, COM. VAIDEENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11143823",
+    "scoala": "SCOALA GIMNAZIALA, COM. GHIOROIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VL11143823",
+    "scoala": "SCOALA GIMNAZIALA, COM. GHIOROIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10780308",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10736150",
+    "scoala": "SCOALA GIMNAZIALA, COM. ROSIILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VL10431457",
+    "scoala": "SCOALA GIMNAZIALA ACHIM POPESCU, COM. PAUSESTI MAGLASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VL10294123",
+    "scoala": "SCOALA GIMNAZIALA, COM. PIETRARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VL10294123",
+    "scoala": "SCOALA GIMNAZIALA, COM. PIETRARI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9724847",
+    "scoala": "LICEUL PREDA BUZESCU, ORAS BERBESTI",
+    "materie": "Matematică",
+    "nota_initiala": 1.75,
+    "nota_finala": 1.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11187822",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9204136",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "VL9204136",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10678817",
+    "scoala": "SCOALA GIMNAZIALA, SAT COPACENI, COM. RACOVITA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VL10745232",
+    "scoala": "SCOALA GIMNAZIALA, COM. BOISOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10051608",
+    "scoala": "COLEGIUL NATIONAL DE INFORMATICA MATEI BASARAB, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10747355",
+    "scoala": "SCOALA GIMNAZIALA, SAT MAGURA, COM. MIHAESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "VL10746099",
+    "scoala": "SCOALA GIMNAZIALA, COM. BOISOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VL9185641",
+    "scoala": "SCOALA GIMNAZIALA, SAT BODESTI, COM. BARBATESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VL11143742",
+    "scoala": "SCOALA GIMNAZIALA, COM. GHIOROIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.15,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "VL11143742",
+    "scoala": "SCOALA GIMNAZIALA, COM. GHIOROIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9212781",
+    "scoala": "SCOALA GIMNAZIALA, COM. IONESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL9212781",
+    "scoala": "SCOALA GIMNAZIALA, COM. IONESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10724318",
+    "scoala": "SCOALA GIMNAZIALA, SAT DAESTI, COM. POPESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10338720",
+    "scoala": "SCOALA GIMNAZIALA, COM. ORLESTI",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL12308734",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "VL12308734",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU, MUN. RM. VÂLCEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL11129227",
+    "scoala": "SCOALA GIMNAZIALA, SAT BULETA, COM. MIHAESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10734353",
+    "scoala": "SCOALA GIMNAZIALA, COM. CRETENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL11147470",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL11147470",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VL10702442",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MIHAESCU, COM. VLADESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VL10734569",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VL10734569",
+    "scoala": "LICEUL DE ARTE VICTOR GIULEANU, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10805629",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VL10805629",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VL10744271",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU, SAT ROTARASTI, COM. NICOLAE BĂLCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VL10688740",
+    "scoala": "SCOALA GIMNAZIALA, COM. SUTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10688740",
+    "scoala": "SCOALA GIMNAZIALA, COM. SUTESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9484088",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MIHAESCU, COM. VLADESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL9484088",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MIHAESCU, COM. VLADESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9801842",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL9801842",
+    "scoala": "SCOALA GIMNAZIALA I GH DUCA, MUN. RM. VALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10495030",
+    "scoala": "SCOALA GIMNAZIALA, COM. LUNGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VL10493077",
+    "scoala": "SCOALA GIMNAZIALA, COM. LUNGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VL10812088",
+    "scoala": "SCOALA GIMNAZIALA, SAT RUSANESTI, COM. FARTATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 1,
+    "nota_finala": 1,
+    "diferenta": 0
+  }
+]

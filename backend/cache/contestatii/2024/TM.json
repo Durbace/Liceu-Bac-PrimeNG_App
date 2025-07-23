@@ -1,0 +1,6514 @@
+[
+  {
+    "cod": "TM9816939",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8119646",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10693821",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11190995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM10954010",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11120710",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8481864",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10569530",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11189548",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM9955188",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10922198",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11189965",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 10,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9357948",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11143422",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM9096589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10922581",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10922581",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11196292",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11195198",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8710636",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10320377",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10706982",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8156335",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8156335",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11000303",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11000303",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11054741",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11186825",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8897752",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10996929",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10264316",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11189872",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8707729",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8632348",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11080264",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM8556179",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8560165",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8560165",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9464543",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM9464543",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10757973",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM11191590",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8706271",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8133405",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11189910",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM8481621",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9057684",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM11012808",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM11080450",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11187662",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9992591",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9992591",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8117842",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9494271",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM8631304",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM10922541",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10948757",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8471226",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10344701",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10672532",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.12 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11191437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11191437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM13415951",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11054779",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11054779",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11061579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8716787",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10707599",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8623278",
+    "scoala": "LICEUL TEORETIC RECAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM7996405",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10925904",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9708997",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9708997",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10344489",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10344489",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11054816",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM8480399",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11192191",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11192191",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9100379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM4075701",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM8560986",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8560986",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10954281",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10289572",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10676976",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10676976",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9955289",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM9100182",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM9494257",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9011321",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR BUCURESCU NR.1 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM7998351",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM11083084",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10557877",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘAG",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11186709",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9809275",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11195655",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10970677",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9085667",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM13408753",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM13408753",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8076127",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM11039899",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9291997",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10706263",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9808778",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10649493",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARTIN ȘUBONI JEBEL",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10969050",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9493811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "TM9493811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11187471",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10982725",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9929472",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC GERHARDINUM TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11189274",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9287383",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIARMATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9287383",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIARMATA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11077976",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9326185",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM8119370",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM10998678",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM7998102",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8974639",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11186421",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9811522",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8550705",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11190253",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11190253",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10693930",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8877341",
+    "scoala": "ȘCOALA GIMNAZIALĂ BULGĂRUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11194392",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11194392",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10344258",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU ROMÂN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM9101218",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.9,
+    "diferenta": 1.05
+  },
+  {
+    "cod": "TM11002319",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8710093",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM7982144",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIPET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11061527",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8880115",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10337428",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM7938620",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM7938620",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11006802",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11006802",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9852313",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘANDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9292115",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10954373",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM5226101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9085257",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM12153289",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10409371",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM11078391",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11080280",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9211839",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9101404",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11192242",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11054791",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10703624",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM10703624",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11186602",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.75,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM9991871",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11073624",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8120477",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10699888",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM8708628",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9311996",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11187469",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10128978",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10128978",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11061591",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11074122",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM10954331",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9020219",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9981358",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM9100761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9858728",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10282039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9357520",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11191433",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10700395",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11010889",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8.25,
+    "diferenta": 1
+  },
+  {
+    "cod": "TM11060812",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11189471",
+    "scoala": "LICEUL TEOLOGIC BAPTIST TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM4532551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TM11189296",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9356158",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM9356158",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM7958805",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUDEȘTII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9096426",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9096426",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11191440",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8260706",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM8260706",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11186590",
+    "scoala": "LICEUL TEOLOGIC BAPTIST TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "TM9599823",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11190865",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8120536",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM4075951",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10702354",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10702354",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM9095724",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM11195567",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9287708",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TM9023200",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCĂLAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8480434",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9327044",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9096708",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9818070",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM13912333",
+    "scoala": "ȘCOALA GIMNAZIALĂ REMETEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8470131",
+    "scoala": "LICEUL DE ARTĂ ION VIDU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM8470131",
+    "scoala": "LICEUL DE ARTĂ ION VIDU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11188000",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM14721083",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 6.95,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "TM8746011",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9354869",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9354869",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10672219",
+    "scoala": "ȘCOALA GIMNAZIALĂ UTVIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TM8558421",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM9357373",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9357373",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8150379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8150379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11190138",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8323931",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8710465",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9916617",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEREGSĂU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM4562301",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9288975",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIARMATA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8118202",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM12314798",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM12314798",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9180958",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8550295",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM11193235",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.1,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "TM11193235",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10384432",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM10384432",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10997636",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9326309",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10761024",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9356912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9094693",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM11186258",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11186258",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9312775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "TM9312775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9022447",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10673146",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9128928",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM10968716",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM10384601",
+    "scoala": "LICEUL TEORETIC IULIA HAȘDEU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9819303",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM9819303",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9817005",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9830286",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11061590",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11073631",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9095202",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11012784",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11187647",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM11187911",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "TM11187911",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11186589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11186589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10469419",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIEBLING",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM8240433",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11007068",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8481839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10699342",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10699342",
+    "scoala": "COLEGIUL NAȚIONAL CONSTANTIN DIACONOVICI LOGA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "TM9023429",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8816532",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM12147225",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9494361",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11026397",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9355142",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "TM8281647",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10343747",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "TM11054985",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9331264",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "TM9331264",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8954989",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9001954",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TM10949555",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9817400",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10922174",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9312631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.05,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TM9312631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM9095698",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM10128211",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11081599",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8363122",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11054978",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10104271",
+    "scoala": "LICEUL TEORETIC GĂTAIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10969451",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10969451",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8472684",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM8399665",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM8399665",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11005117",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8826128",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8826128",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10995596",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9327150",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM9327150",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM7949089",
+    "scoala": "ȘCOALA GIMNAZIALĂ CHECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM10693533",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM8402596",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TM8402596",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9449150",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8556752",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8701804",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "TM8632222",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM11007007",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11007007",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11189963",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9312687",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8707374",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11187976",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9331439",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11041823",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11041823",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9021369",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9901523",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9901523",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9146165",
+    "scoala": "ȘCOALA GIMNAZIALĂ GELU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9308780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9308780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM11059943",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "TM10565165",
+    "scoala": "LICEUL TEORETIC PERIAM",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10707492",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10669826",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10698610",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TM10992508",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10992508",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9127927",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11188981",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11188981",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10129889",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TM10129889",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9113187",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11188250",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11188250",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10999602",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.65,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TM8703029",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11053200",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9821488",
+    "scoala": "LICEUL TEORETIC BARTÓK BÉLA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8117742",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM8117742",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11004702",
+    "scoala": "ȘCOALA GIMNAZIALĂ REMETEA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9285494",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCĂLAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9285494",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCĂLAZ",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9830342",
+    "scoala": "LICEUL TEHNOLOGIC ROMULUS PARASCHIVOIU LOVRIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM9830342",
+    "scoala": "LICEUL TEHNOLOGIC ROMULUS PARASCHIVOIU LOVRIN",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9299290",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM8132967",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM8132967",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11088340",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "TM11088340",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9308689",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8094105",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM9348859",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9354852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "TM9354852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10999117",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOHANISFELD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM10999117",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOHANISFELD",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM11081799",
+    "scoala": "LICEUL MONTESSORI TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11001608",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10360338",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10962375",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9980317",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9811200",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9357020",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM9302272",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10363933",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11189270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9096776",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL LOGOS TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM8706911",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9101604",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9101604",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM11005562",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUCOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11005562",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUCOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM11061437",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11186726",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 7.65,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "TM9357165",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9357165",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM10132217",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10132217",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9352233",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE MUZICĂ FILARET BARBU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10570027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10289017",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM4076801",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TM9344190",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11061028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8362858",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11041139",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM8783790",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM8783790",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9331404",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9331404",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM8913323",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM10344266",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU ROMÂN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11191830",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9357897",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM9357897",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10706210",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM9201828",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM11187569",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10925204",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9356701",
+    "scoala": "LICEUL DE ARTĂ ION VIDU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11190668",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM11190668",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9817904",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM9817904",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11044988",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9405085",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8898702",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.35,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "TM10922651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10922651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9808286",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9808286",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10493284",
+    "scoala": "ȘCOALA GIMNAZIALĂ BILED",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9101259",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9356923",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10953909",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM8917613",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8917613",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11054899",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM11054899",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10569273",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM10569273",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9819339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11190315",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10309132",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10309132",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8470933",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8916808",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9494252",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9331365",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9184051",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM11060740",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10694233",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM10408806",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9194182",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11060821",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9053044",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10558010",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM10558010",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10999710",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TM9021151",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE LEONIDA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11001177",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM8995589",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8560240",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11190106",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE MUZICĂ FILARET BARBU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM11190106",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE MUZICĂ FILARET BARBU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9405039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM5710851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9307795",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM9307795",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9057732",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11044630",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCHITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11191988",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9019614",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM11197197",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11197197",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11005173",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUCOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8731717",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM8731717",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10500962",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10999185",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10999185",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8735854",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8735854",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11076379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11195009",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM10947852",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11005277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM10512669",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10778077",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM8728729",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ȚICHINDEAL” BECICHERECU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9356763",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM9356763",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8263083",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9349396",
+    "scoala": "LICEUL TEORETIC DOSITEI OBRADOVICI TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "TM9349396",
+    "scoala": "LICEUL TEORETIC DOSITEI OBRADOVICI TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM9029277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9029405",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11188120",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11188120",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9352805",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM8623317",
+    "scoala": "LICEUL TEORETIC RECAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9405216",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE MUZICĂ FILARET BARBU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM9311850",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM12148424",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM12148424",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11026299",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TM11026299",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM5697601",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9553322",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIVOI TRIFUNSCHI SÂNPETRU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10346357",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINO SERVITE VOITEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10409672",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM10409672",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9308998",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11094505",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM9541491",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEREGSĂU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "TM9541491",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEREGSĂU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10709610",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM9128028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.20 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9357171",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM7931620",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11195500",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM11188446",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9374368",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8631347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8631347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9096676",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9358035",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM10997007",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM8552438",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CARMEN SYLVA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9428325",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM8714158",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM8714158",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9738852",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.65,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "TM9738852",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11027066",
+    "scoala": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM10693408",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10693408",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10557859",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM10557859",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11007179",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM11007194",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9131112",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM2853851",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHIRODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM2853851",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHIRODA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM9356937",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TM10698854",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM10962389",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM12475922",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM12475922",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11039993",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11039993",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11189564",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11000392",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM9331384",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9287030",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.18 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM11195949",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8790104",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11187460",
+    "scoala": "LICEUL TEORETIC ”BABEL” TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9292034",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9312674",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9493858",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM9493858",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9164262",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUDEȘTII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9095400",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9405521",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11000133",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9180384",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8711173",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM11124893",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMNATIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9085486",
+    "scoala": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10569949",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9349290",
+    "scoala": "ȘCOALA GIMNAZIALĂ UTVIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9349290",
+    "scoala": "ȘCOALA GIMNAZIALĂ UTVIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11189046",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.16 TAKE IONESCU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM9101204",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "TM9101204",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8625215",
+    "scoala": "LICEUL TEORETIC RECAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM8625215",
+    "scoala": "LICEUL TEORETIC RECAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10309660",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORȚIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10309660",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORȚIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10476290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11059451",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10998375",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOHANISFELD",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10354630",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.45,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "TM10354630",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9169436",
+    "scoala": "ȘCOALA GIMNAZIALĂ VARIAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM9169436",
+    "scoala": "ȘCOALA GIMNAZIALĂ VARIAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9373199",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9016656",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9312468",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10922590",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9194153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TM9194153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10992261",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.12 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10387291",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11045127",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10698253",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 4.8,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "TM10922038",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9356730",
+    "scoala": "LICEUL DE ARTE PLASTICE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9356730",
+    "scoala": "LICEUL DE ARTE PLASTICE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10953687",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9331350",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9331350",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9379583",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TM9858904",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11051590",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11051590",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10387269",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9817159",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM9097144",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9097144",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9992263",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8632830",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM8632830",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10335488",
+    "scoala": "LICEUL TEORETIC PECIU NOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10387007",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10128824",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM9023908",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9023908",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM10998247",
+    "scoala": "ȘCOALA GIMNAZIALĂ JIMBOLIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TM11073767",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM9194609",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9907255",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10999116",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM8603759",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.19 AVRAM IANCU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9357999",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9357999",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10264261",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10264261",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9316453",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘTEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM9379664",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8549285",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9348815",
+    "scoala": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM11088560",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM10370160",
+    "scoala": "LICEUL TEORETIC BARTÓK BÉLA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8527037",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11197510",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORȚIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM11197510",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORȚIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10962383",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "TM10962383",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.13 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM2859101",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TM10387680",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10672936",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10672936",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10093463",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10341985",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM9327206",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10998944",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOHANISFELD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8631316",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.6,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "TM8631316",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.25 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10349548",
+    "scoala": "LICEUL TEHNOLOGIC SFÂNTU NICOLAE DETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM7996188",
+    "scoala": "LICEUL TEHNOLOGIC TRAIAN GROZĂVESCU NĂDRAG",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11050658",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9096333",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM11088817",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TM11088817",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM11186762",
+    "scoala": "LICEUL TEORETIC GĂTAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11088750",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9405299",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM9299662",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOLDUR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM4561101",
+    "scoala": "LICEUL TEORETIC CORIOLAN BREDICEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 4.8,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "TM10264206",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM10264206",
+    "scoala": "LICEUL TEORETIC GRIGORE MOISIL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM7958860",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUDEȘTII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM7958860",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUDEȘTII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10349026",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITEG",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9024937",
+    "scoala": "ȘCOALA GIMNAZIALĂ IZVIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10995485",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11194193",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘTEIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9356321",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9356321",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM12888901",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘAG",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9196076",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9196076",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11054873",
+    "scoala": "LICEUL TEORETIC JEAN LOUIS CALDERON TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11013028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.12 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11013028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.12 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10648206",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARTIN ȘUBONI JEBEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11088163",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TM11088163",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10485902",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9312705",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11190014",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11080779",
+    "scoala": "LICEUL TEORETIC NIKOLAUS LENAU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8915487",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCĂLAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10354716",
+    "scoala": "LICEUL DE ARTĂ ION VIDU TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8317415",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.05,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "TM10344535",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU ROMÂN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10344535",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU ROMÂN",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8579946",
+    "scoala": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8579946",
+    "scoala": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TM9830724",
+    "scoala": "LICEUL TEHNOLOGIC ROMULUS PARASCHIVOIU LOVRIN",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9356794",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL LOGOS TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8999431",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM8999431",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10468866",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10386766",
+    "scoala": "ȘCOALA GIMNAZIALĂ PARȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "TM10386766",
+    "scoala": "ȘCOALA GIMNAZIALĂ PARȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9458805",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9095024",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9079946",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8290460",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM8290460",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIUCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9430195",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUDRIAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9430195",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUDRIAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10569606",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11072515",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEBA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM11072515",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEBA VECHE",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10386612",
+    "scoala": "ȘCOALA GIMNAZIALĂ PARȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM10075506",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TM10075506",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9405651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM9405651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9285971",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCĂLAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10885472",
+    "scoala": "ȘCOALA GIMNAZIALĂ MORAVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10563831",
+    "scoala": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10563831",
+    "scoala": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10131494",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.21 VICENȚIU BABEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9458867",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIUCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TM10375385",
+    "scoala": "ȘCOALA GIMNAZIALĂ PARȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TM10375385",
+    "scoala": "ȘCOALA GIMNAZIALĂ PARȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8404176",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9311910",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TM8324712",
+    "scoala": "ȘCOALA GIMNAZIALĂ BENCECU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8324712",
+    "scoala": "ȘCOALA GIMNAZIALĂ BENCECU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10130032",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM10688098",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10688098",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10644109",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARTIN ȘUBONI JEBEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM11187262",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM9817873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM4077051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM4077051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.27 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10687824",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8001864",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHAUSEN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM8001864",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHAUSEN",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM10392676",
+    "scoala": "ȘCOALA GIMNAZIALĂ CHEVEREȘU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10392676",
+    "scoala": "ȘCOALA GIMNAZIALĂ CHEVEREȘU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10925313",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIERA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TM9312018",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM11078420",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEBA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11078420",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEBA VECHE",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM9304694",
+    "scoala": "ȘCOALA GIMNAZIALĂ BEBA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8133531",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM8133531",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10097024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM10097024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9024318",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9024318",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9817847",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM10065422",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BANATUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TM11024496",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11024496",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9355495",
+    "scoala": "LICEUL TEORETIC DAVID VONIGA GIROC",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TM9022332",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR BUCURESCU NR.1 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.9,
+    "diferenta": 1
+  },
+  {
+    "cod": "TM9022332",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR BUCURESCU NR.1 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10387185",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM10387185",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10386922",
+    "scoala": "LICEUL TEORETIC PECIU NOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 3.75,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "TM10386922",
+    "scoala": "LICEUL TEORETIC PECIU NOU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9016581",
+    "scoala": "COLEGIUL NAȚIONAL BĂNĂȚEAN TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "TM9022653",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TM10449030",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM10534114",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10534114",
+    "scoala": "LICEUL WALDORF TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8701095",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8701095",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 SFÂNTA MARIA TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11057191",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMNATIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9236214",
+    "scoala": "LICEUL TEORETIC GĂTAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM11004997",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUCOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM8258480",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TM10106287",
+    "scoala": "ȘCOALA GIMNAZIALĂ UIVAR",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8992598",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALINȚ",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9023167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TM9023167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9100829",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM9100829",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.24 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11194179",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM11194179",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE MURGU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10558734",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9299786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM9299786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8258353",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM8531803",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CIOROGARIU CHIȘODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8531803",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CIOROGARIU CHIȘODA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9343519",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9343519",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFÂNTUL ANTIM IVIREANUL TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM10129705",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM8322654",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRĂVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM11057245",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMNATIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9196245",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TM9196245",
+    "scoala": "LICEUL TEORETIC WILLIAM SHAKESPEARE TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8294060",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘTEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM8294060",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘTEIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11073804",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9429281",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUDRIAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9429281",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUDRIAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9316651",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHAUSEN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9316651",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHAUSEN",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11064824",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMNATIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TM10128376",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.25,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TM10128376",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.30 TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM10279668",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIEBLING",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.85,
+    "nota_finala": 3.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TM10279668",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIEBLING",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9289686",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC GERHARDINUM TIMIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TM9289686",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC GERHARDINUM TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM9855121",
+    "scoala": "LICEUL TEORETIC ALEXANDRU MOCIONI CIACOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TM9860469",
+    "scoala": "LICEUL TEORETIC ALEXANDRU MOCIONI CIACOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9860469",
+    "scoala": "LICEUL TEORETIC ALEXANDRU MOCIONI CIACOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TM12163660",
+    "scoala": "LICEUL TEORETIC VLAD ȚEPEȘ TIMIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9462055",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIA BRINDEA PESAC",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM11191045",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.2,
+    "diferenta": -1
+  },
+  {
+    "cod": "TM11191045",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANIȘOARA ODEANU LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TM9352086",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHAUSEN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM8824401",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 1.9,
+    "nota_finala": 1.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8010155",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘNIȚA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM10347248",
+    "scoala": "LICEUL TEHNOLOGIC SFÂNTU NICOLAE DETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TM11058430",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMNATIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM10342125",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 LUGOJ",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9236329",
+    "scoala": "LICEUL TEORETIC GĂTAIA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8893170",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDURENI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM8711694",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂRPINIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.7,
+    "nota_finala": 1.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TM8728270",
+    "scoala": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TM8728270",
+    "scoala": "LICEUL TEORETIC TRAIAN VUIA FĂGET",
+    "materie": "Matematică",
+    "nota_initiala": 1,
+    "nota_finala": 1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TM9381066",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR OPREAN NR.2 SÂNNICOLAU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3,
+    "diferenta": 0.1
+  }
+]

@@ -23,6 +23,12 @@ export const routes: Routes = [
     path: 'ultimul-admis',
     loadComponent: () =>
       import('../ultimul-admis/ultimul-admis.component').then(m => m.UltimulAdmisChartComponent)
+  },
+
+   {
+    path: 'istoric-contestatii',
+    loadComponent: () =>
+      import('../istoric-contestatii/istoric-contestatii.component').then(m => m.IstoricContestatiiComponent)
   }
 
 

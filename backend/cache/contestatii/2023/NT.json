@@ -1,0 +1,4234 @@
+[
+  {
+    "cod": "NT7926582",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10609019",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8816173",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT8816173",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT8201150",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT8062938",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9027584",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8460356",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7956992",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "NT13074710",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7924798",
+    "scoala": "COLEGIUL TEHNIC ION CREANGĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT6536701",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7911265",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7986257",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.8,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "NT7913592",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT10424511",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8812756",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8796467",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT10295927",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT6584151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT8811915",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT10425139",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7976210",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7976210",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8009715",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TRIFEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7928074",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "NT7911940",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "NT7956347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7866781",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8461454",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8700782",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT8470731",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8047404",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BOZIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7993139",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7993139",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7950269",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7899764",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8799521",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT8646860",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA DRĂGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT10609801",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT10609801",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8812558",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "NT8921661",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GHERĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7927234",
+    "scoala": "LICEUL GH. RUSET ROZNOVANU, ORAȘ ROZNOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8223675",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BULEU, COMUNA MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT8901863",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9519274",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BORLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7905836",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7992524",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7928451",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT7955124",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8925945",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7906907",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT7906907",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT6303001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT9519072",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BORLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7940881",
+    "scoala": "ȘCOALA GIMNAZIALĂ IUSTIN PIRVU, COMUNA POIANA TEIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8814627",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7899224",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7958776",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9110948",
+    "scoala": "ȘCOALA GIMNAZIALĂ BARTICEȘTI, COMUNA BOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.75,
+    "diferenta": 1
+  },
+  {
+    "cod": "NT8307224",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7884003",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLUTON, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7884003",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLUTON, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8902066",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT8327219",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8327219",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8821476",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8821476",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT7926952",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT8623511",
+    "scoala": "LICEUL MIHAIL SADOVEANU, COMUNA BORCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT9715406",
+    "scoala": "ȘCOALA GIMNAZIALĂ BISTRIŢA, COMUNA ALEXANDRU CEL BUN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT7906330",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT7866023",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.65,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7997238",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7932883",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8828332",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT8898356",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7927301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7994787",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7997231",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7956094",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7956094",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7908485",
+    "scoala": "COLEGIUL TEHNIC ION CREANGĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7914188",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT8811147",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT10285089",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, SAT CUT, COMUNA DUMBRAVA ROȘIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT9026838",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT9026838",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT10424075",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7930861",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7964277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9032137",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT8225253",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT8225253",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7898113",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8470780",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7867152",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7867152",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT10605492",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU VODĂ, COMUNA POIANA TEIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7989775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7989775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9898722",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUMINIŞ, COMUNA PIATRA ȘOIMULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT10608396",
+    "scoala": "COLEGIUL TEHNIC ION CREANGĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "NT7899577",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7988690",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8919753",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT8201799",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7905807",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.8,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "NT12566974",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT6524601",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7914156",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7925786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7926338",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7915456",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7978571",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT9885984",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA CÂNDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT7909888",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7986569",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7895112",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA CORDUN",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT12270769",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 7.8,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "NT8818458",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8898642",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT9241246",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT9241246",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT10632547",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7917284",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8545318",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8545318",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT8960531",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8307264",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GHERĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7867300",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7867300",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8525217",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7993174",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7915592",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT10422458",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7994404",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8581670",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7925407",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT9233573",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT9233573",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT6590551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8461245",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT9032041",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7982344",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8813269",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9047660",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9047660",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT6525501",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7912674",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7912674",
+    "scoala": "COLEGIUL NAȚIONAL ROMAN VODĂ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8041694",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BOZIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7960387",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT8932122",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7899937",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE CONTA, COMUNA GHINDĂOANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT8051663",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MOLDOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT7983004",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7983004",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT10048754",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, SAT PÂNGĂRĂCIOR, COMUNA PÂNGĂRAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8496159",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, COMUNA ZĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9519179",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BORLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT9519179",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BORLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7961782",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7993880",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT10425412",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT11026103",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT13104047",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, SAT CUT, COMUNA DUMBRAVA ROȘIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8793525",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.1,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "NT8793525",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT9503451",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ONICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8814229",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8792825",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7913658",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7913658",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7972748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.05,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT7902713",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7902713",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT10608907",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7992555",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9047482",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9047869",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8812124",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7994229",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT6428051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT10048499",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, SAT PÂNGĂRĂCIOR, COMUNA PÂNGĂRAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8778326",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BULEU, COMUNA MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT10423844",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.85,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "NT7914479",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7914479",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT10423045",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT10423045",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7913969",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT8899730",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8899730",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7902155",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8528871",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DUMBRAVA ROȘIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7985479",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8327574",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PĂSTRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT8778700",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BULEU, COMUNA MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT10271526",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7980750",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7980750",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9314359",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8060144",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8060144",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT12217563",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT10425165",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT10425165",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7954781",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT8488428",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 11, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8963990",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8963990",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT6545201",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8514832",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT8514832",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8036659",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT8036659",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT7927494",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT9108710",
+    "scoala": "ȘCOALA GIMNAZIALĂ BARTICEȘTI, COMUNA BOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9108710",
+    "scoala": "ȘCOALA GIMNAZIALĂ BARTICEȘTI, COMUNA BOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT10426923",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7983683",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7969544",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.4,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "NT8895953",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT12853033",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "NT8535287",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9172400",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA BICAZ-CHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7975239",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT9031651",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT8857806",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7925828",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7929143",
+    "scoala": "LICEUL TEORETIC VASILE ALECSANDRI, COMUNA SĂBĂOANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7914516",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8919949",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT7913227",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "NT8806678",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE MITRU, COMUNA TAȘCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT8856558",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 6.75,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "NT10605146",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA REDIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT6308401",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7996244",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.2,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "NT7996244",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7977769",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT8962555",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT9577155",
+    "scoala": "ȘCOALA PROFESIONALĂ ADJUDENI, COMUNA TAMĂȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8808333",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT8716536",
+    "scoala": "ȘCOALA GIMNAZIALA IEREMIA IRIMESCU, COMUNA BRUSTURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8716536",
+    "scoala": "ȘCOALA GIMNAZIALA IEREMIA IRIMESCU, COMUNA BRUSTURI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT8026992",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN, COMUNA TRIFEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "NT8806861",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7908136",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7990883",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 6.75,
+    "diferenta": -1.3
+  },
+  {
+    "cod": "NT7930555",
+    "scoala": "LICEUL CU PROGRAM SPORTIV, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 8,
+    "diferenta": 1
+  },
+  {
+    "cod": "NT8314652",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BOZIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7898792",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7898792",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT12147376",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7916989",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT13370278",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7,
+    "diferenta": -1.2
+  },
+  {
+    "cod": "NT13370278",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7958413",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7958413",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7976628",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT9616665",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8048119",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT8793633",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT10422880",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT13370323",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 5.8,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "NT8160130",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7898934",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7898934",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8348552",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMBRAVA, COMUNA TIMIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.75,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "NT7907516",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7963965",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7959798",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7925707",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.05,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "NT8185482",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA DĂMUC",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7866938",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7866938",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT6411651",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT6411651",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10604179",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA REDIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.65,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "NT10604179",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA REDIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8811197",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7902529",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE CONTA, COMUNA GHINDĂOANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT8535611",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT8749689",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.1,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "NT8749689",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT8306862",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GHERĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8804020",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7911908",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORE TEODORESCU, SAT RUSENI, COMUNA BORLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT7911908",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORE TEODORESCU, SAT RUSENI, COMUNA BORLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8471037",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT10621147",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DUMBRAVA ROȘIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "NT8898696",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7923621",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT7923621",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8051303",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BOZIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT8793805",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9396066",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA URECHENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT6324501",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT8327641",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8327641",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7997830",
+    "scoala": "COLEGIUL NAȚIONAL DE INFORMATICĂ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7907269",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8902605",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8902605",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8102849",
+    "scoala": "LICEUL TEORETIC VASILE ALECSANDRI, COMUNA SĂBĂOANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT9283662",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PĂSTRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9283662",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PĂSTRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT7915759",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7910676",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT10427256",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9696000",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PIATRA ȘOIMULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7865978",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT13998610",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7961594",
+    "scoala": "ȘCOALA GIMNAZIALĂ EPISCOP MELCHISEDEC STEFĂNESCU, COMUNA GÂRCINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9047819",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT9047819",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7884028",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLUTON, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7884028",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLUTON, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7913490",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7913490",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT10427783",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT8306763",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GHERĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT9898610",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUMINIŞ, COMUNA PIATRA ȘOIMULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT8009431",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TRIFEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7974002",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.45,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "NT7956027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7915961",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DOCHIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7962649",
+    "scoala": "ȘCOALA GIMNAZIALĂ EPISCOP MELCHISEDEC STEFĂNESCU, COMUNA GÂRCINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8797407",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT12157709",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TRIFEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7866866",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT9104774",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7897447",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7926901",
+    "scoala": "LICEUL TEORETIC VASILE ALECSANDRI, COMUNA SĂBĂOANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT2619401",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BÂRGĂUANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8018557",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.5,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "NT8226694",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BULEU, COMUNA MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7993406",
+    "scoala": "COLEGIUL NAȚIONAL CALISTRAT HOGAȘ, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT8032516",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.35,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "NT8032516",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7899704",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT8335574",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DUMBRAVA ROȘIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7979805",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7912971",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9965477",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, SAT PÂNGĂRĂCIOR, COMUNA PÂNGĂRAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8302989",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "NT9576940",
+    "scoala": "ȘCOALA PROFESIONALĂ ADJUDENI, COMUNA TAMĂȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT7866769",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT7953069",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DOCHIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT9153929",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "NT8800982",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "NT9457682",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMAN MUȘAT, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7908857",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7984464",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "NT7984464",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8397696",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7952109",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.2,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "NT8906729",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.35,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "NT8906729",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7908758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.15,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT7908758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7902062",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7983937",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7953655",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA DOCHIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7909558",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7866721",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8903449",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT8903449",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8468875",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.85,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "NT8468875",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7954279",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT7954279",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT10467057",
+    "scoala": "LICEUL MIHAIL SADOVEANU, COMUNA BORCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8149779",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BORLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT8008458",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TRIFEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT6320451",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT6320451",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8778867",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BULEU, COMUNA MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "NT7916618",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT7926315",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7897286",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8327362",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8882340",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT8463409",
+    "scoala": "LICEUL VASILE CONTA, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT8072509",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICU ALBU, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10422169",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT10422169",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7925557",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7916908",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "NT9368057",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "NT8442774",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. EMANUIEL RIGLER, COMUNA ȘTEFAN CEL MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT7901730",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE PĂTRAȘCU, SAT BURUIENEȘTI, COMUNA DOLJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT9066123",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SECUIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9066123",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SECUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7898753",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE PĂTRAȘCU, SAT BURUIENEȘTI, COMUNA DOLJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT9850813",
+    "scoala": "ȘCOALA PROFESIONALĂ ADJUDENI, COMUNA TAMĂȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7958370",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUEJDIU, COMUNA GÂRCINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.8,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT8469152",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7978616",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7978616",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8800498",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9233305",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT9233305",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT10069532",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, COMUNA ŢIBUCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "NT8800334",
+    "scoala": "ȘCOALA GIMNAZIALĂ BARTICEȘTI, COMUNA BOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.55,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT9048095",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT10412196",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT10412196",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT7911763",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "NT8800765",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT8800765",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7866679",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7866679",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT9617546",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMNEASCĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "NT9334681",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9334681",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9325877",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT8918930",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8918930",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9235117",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9286135",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 4.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT8143277",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALISTRAT HOGAȘ, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8143277",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALISTRAT HOGAȘ, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7899097",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE PĂTRAȘCU, SAT BURUIENEȘTI, COMUNA DOLJEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT10422203",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "NT10422203",
+    "scoala": "COLEGIUL TEHNOLOGIC SPIRU HARET, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT9185080",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA BICAZ-CHEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7895354",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, COMUNA CORDUN",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT10449500",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI PETRESCU, SAT MĂDEI, COMUNA BORCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8327162",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TIMIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT10415455",
+    "scoala": "ȘCOALA PROFESIONALĂ OGLINZI, COMUNA RĂUCEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7894312",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, SAT PILDEȘTI, COMUNA CORDUN",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT9726462",
+    "scoala": "ȘCOALA GIMNAZIALĂ BISTRIŢA, COMUNA ALEXANDRU CEL BUN",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7908491",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8921654",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GHERĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "NT7986629",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN LUCA, COMUNA FARCAȘA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT8137057",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA POIENARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT12463754",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "NT12463754",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10449300",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI PETRESCU, SAT MĂDEI, COMUNA BORCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10449300",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI PETRESCU, SAT MĂDEI, COMUNA BORCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8793413",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT8966315",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT8215246",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 11, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7906480",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT8032920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT8914589",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8809475",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIA HĂLĂUCESCU, COMUNA TARCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.15,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "NT8444445",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT10529605",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT10529605",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7948850",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUEJDIU, COMUNA GÂRCINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7948850",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUEJDIU, COMUNA GÂRCINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9676182",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "NT9676182",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA, ORAȘ BICAZ",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8529463",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "NT8529463",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT9511862",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, SAT IVANEŞ, COMUNA BICAZ-CHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.1,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "NT7924445",
+    "scoala": "LICEUL TEORETIC VASILE ALECSANDRI, COMUNA SĂBĂOANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT8545698",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8545698",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTONIE MUREȘIANU, COMUNA BIRA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT8814159",
+    "scoala": "LICEUL GH. RUSET ROZNOVANU, ORAȘ ROZNOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.1,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "NT7926519",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7926519",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7996837",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7996837",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8063892",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.55,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT8063892",
+    "scoala": "LICEUL TEHNOLOGIC ARHIMANDRIT CHIRIAC NICOLAU, COMUNA VÂNĂTORI-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT10609663",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "NT10609663",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7930994",
+    "scoala": "COLEGIUL TEHNIC ION CREANGĂ, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT12864532",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT8471269",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TUPILAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT14388861",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT9233795",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, SAT TELEC, COMUNA BICAZU ARDELEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "NT7901076",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT9326328",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "NT9326328",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT10070844",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, COMUNA ŢIBUCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.5,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "NT10070844",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3, COMUNA ŢIBUCANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8444220",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7909404",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7898428",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7963992",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7963992",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT10416214",
+    "scoala": "ȘCOALA PROFESIONALĂ OGLINZI, COMUNA RĂUCEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT10416214",
+    "scoala": "ȘCOALA PROFESIONALĂ OGLINZI, COMUNA RĂUCEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8048461",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BOZIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT10614473",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA REDIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT8919672",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE ALECSANDRI, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7867052",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT7903975",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TĂMĂȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "NT7903975",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TĂMĂȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7963523",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT12217694",
+    "scoala": "ȘCOALA GIMNAZIALĂ DANIELA CUCIUC, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT12735634",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "NT7884786",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "NT9286014",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT9286014",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT12746406",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORE TEODORESCU, SAT RUSENI, COMUNA BORLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT12164980",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8624008",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL DUMITRAȘCU, SAT SABASA, COMUNA BORCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "NT8624008",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL DUMITRAȘCU, SAT SABASA, COMUNA BORCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT8829558",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7910510",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "NT10605665",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT10605665",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE, ORAȘ TÂRGU NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7966517",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA VALEA URSULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "NT7966517",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA VALEA URSULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7963378",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7963378",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT9325824",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ICUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 3.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "NT7931201",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "NT10048364",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, SAT PÂNGĂRĂCIOR, COMUNA PÂNGĂRAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "NT10048364",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, SAT PÂNGĂRĂCIOR, COMUNA PÂNGĂRAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7910952",
+    "scoala": "LICEUL TEOLOGIC ORTODOX SFINȚII ÎMPARAȚI CONSTANTIN ȘI ELENA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT6301251",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA CUZA, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7961392",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU PODOLEANU, COMUNA PODOLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "NT7897332",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "NT7897332",
+    "scoala": "LICEUL DE ARTE VICTOR BRAUNER, MUNICIPIUL PIATRA-NEAMȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "NT7866707",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "NT7866707",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ, COMUNA PIPIRIG",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "NT7964188",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.65,
+    "nota_finala": 1.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "NT7964188",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "NT7980978",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "NT7980978",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I, MUNICIPIUL ROMAN",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2,
+    "diferenta": -0.3
+  }
+]

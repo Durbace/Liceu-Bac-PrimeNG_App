@@ -29,4 +29,7 @@ export class RecomandariComponent {
   goToUltimulAdmis() {
     this.router.navigate(['/ultimul-admis']);
   }
+  goToIstoricContestatii() {
+    this.router.navigate(['/istoric-contestatii']);
+  }
 }

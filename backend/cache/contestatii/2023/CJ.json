@@ -1,0 +1,6506 @@
+[
+  {
+    "cod": "CJ10116894",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10119256",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ13619351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PASCU APAHIDA, COM. APAHIDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10565799",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9354666",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10318212",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 10,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10318212",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10075442",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10075442",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10128333",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10673964",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ7915705",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10096117",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10127456",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9355446",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9355446",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10094781",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10464239",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10315152",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10173496",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10478659",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10076839",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10292099",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ9182526",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10323042",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10112827",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10112827",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10310507",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10114705",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10114705",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10322663",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10438603",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10114073",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10131269",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10284630",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10267339",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10477674",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10320510",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10084457",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10177640",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10325863",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10846805",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10095801",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ9684100",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ9684100",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10346779",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10090436",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10491541",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10476474",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9354578",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10266166",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10438173",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ9724921",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10353704",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA LUCA BĂIȘOARA, COM. BĂIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10091617",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10265127",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10127192",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10093713",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10129830",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10489362",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10128925",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10697319",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10697319",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10099052",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ12766135",
+    "scoala": "ȘCOALA PRIMARĂ MONTESSORI SCHULE CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10131018",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10437117",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10439758",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10330592",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10284196",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10284196",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10085709",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8940278",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10329940",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9945052",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10314805",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10314535",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ12795565",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ12795565",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10626520",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10322014",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10331005",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10177565",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10271481",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10490406",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10272916",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10176199",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10173445",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9355092",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10311415",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10311415",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10329767",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10559812",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BELIȘ, COM. BELIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10697486",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9181893",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9183469",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10061853",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ7920617",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10328099",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10328099",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10074517",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10074517",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10313026",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10313026",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10474357",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.35,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ10128919",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CIUCEA, COM. CIUCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9932641",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10485034",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10474932",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10128843",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10129075",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ9355988",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10110447",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10270910",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ9946786",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9946786",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10103685",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ9185357",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ8945311",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ9356127",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10271210",
+    "scoala": "LICEUL GRECO-CATOLIC INOCHENTIE MICU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10625478",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10562205",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10832316",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9183240",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10001157",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10335404",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA IERII, COM. VALEA IERII",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10177837",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9346630",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10062296",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10062296",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10176261",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ5792001",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10561559",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10103358",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10103358",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10111121",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10108584",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9347030",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9355707",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9355707",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10331649",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10331649",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10625008",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10625008",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10328536",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10068482",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10315824",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10315824",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ8935299",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10103497",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10276832",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9934872",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10481750",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9906235",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10085824",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.35,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10085824",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10076111",
+    "scoala": "ȘCOALA GIMNAZIALĂ CÂȚCĂU, COM. CÂȚCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ10413648",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10626601",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10626601",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10099548",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10269435",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10177496",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ9354542",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9354542",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10108380",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10108380",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10271131",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10271131",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10075550",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ10093950",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9904976",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10110008",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ8935744",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ8935744",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10287840",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9347346",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ9269789",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9354477",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10625551",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9901296",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ9901296",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10097698",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10438276",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.35,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10438276",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10439274",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10581496",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLĂȚELE, COM. CĂLĂȚELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10267503",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10176396",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10625816",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10072898",
+    "scoala": "LICEUL UNITARIAN JANOS ZSIGMOND CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10072898",
+    "scoala": "LICEUL UNITARIAN JANOS ZSIGMOND CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10290180",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9355037",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ9355037",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10130070",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10283941",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10318139",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10318139",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9356047",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9271004",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10082723",
+    "scoala": "LICEUL TEORETIC BATHORY ISTVAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10085880",
+    "scoala": "LICEUL TEORETIC BATHORY ISTVAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10289593",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10108035",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10108035",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10102592",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ9346818",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ9346818",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ8933145",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ8933145",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9802155",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10102294",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10415697",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10638864",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9355209",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10695892",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10560699",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10564772",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10564772",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9355657",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10265042",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR MURĂȘANU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10265042",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR MURĂȘANU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10063837",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9348516",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.25,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10329444",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10478099",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10129000",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10478929",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ13050188",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10437959",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ9355531",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10074886",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10087450",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10101595",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10847602",
+    "scoala": "TRANSYLVANIA COLLEGE THE CAMBRIDGE INTERNATIONAL SCHOOL IN CLUJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ8881635",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9021780",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10846612",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ9181061",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9181061",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9356306",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ9356306",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ8620129",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9270994",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10176317",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10281934",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10112795",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10625049",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10304462",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10095209",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10063155",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9047228",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10062902",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10626250",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10280277",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10296029",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10479555",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10480594",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ9724136",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10603038",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLĂȚELE, COM. CĂLĂȚELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10102892",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10129933",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9355391",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10309920",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10270690",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10315605",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10431502",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10177686",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10177686",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10275556",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10412705",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUGĂȘEȘTI, COM. CĂȘEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ9355457",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10290450",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.85,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10293364",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10278269",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10098712",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10098712",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10100767",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10062957",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10113054",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9356219",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9356219",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10282291",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10069508",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10697671",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10295242",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10439210",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10978998",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10281501",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10073741",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10073741",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10438732",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ9234392",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10693009",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10131352",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10265528",
+    "scoala": "LICEUL TEORETIC KEMÉNY ZSIGMOND GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10698890",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ8942317",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ8942317",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9018484",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10697001",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10263281",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10474446",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10270220",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10475796",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ7948918",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ7948918",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10324341",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10324341",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10481165",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10291168",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10130540",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10286021",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10320986",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ9355264",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9355264",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10095558",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10173344",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10173344",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10086362",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ10086362",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10561421",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ9924945",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10564398",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10564398",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ12568908",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.45,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "CJ10847043",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10520497",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ1860801",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10440033",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ10167523",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10266117",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "CJ10266117",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9724018",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10626446",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ9908935",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9920697",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10332322",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10560558",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10560558",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10087311",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10273486",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10271171",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10271171",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9182643",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10117929",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ9347495",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9723803",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ10282699",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10119128",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10055987",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10300693",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ9354940",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ12594950",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ12195324",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10298830",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9903367",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10560540",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10280912",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10565711",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10095101",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10178032",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10094668",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ10346459",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10346459",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9062412",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10517790",
+    "scoala": "ȘCOALA GIMNAZIALĂ GÂRBĂU, COM. GÂRBĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10517790",
+    "scoala": "ȘCOALA GIMNAZIALĂ GÂRBĂU, COM. GÂRBĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9311515",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 9.2,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "CJ10300421",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ8062101",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ8062101",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10330914",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10067590",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10067590",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10115611",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10115611",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ11100116",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ11193771",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ11193771",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10694665",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10297781",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10086111",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10093841",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ9007904",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ8533356",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ8533356",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ8947806",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10115594",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR MURĂȘANU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10323990",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10558498",
+    "scoala": "ȘCOALA GIMNAZIALĂ IARA, COM. IARA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10104423",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ9071073",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10285103",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10310731",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9922190",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9346403",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9346403",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10438095",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10115076",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ8932524",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10324026",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10131843",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10086893",
+    "scoala": "LICEUL TEORETIC BATHORY ISTVAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10068161",
+    "scoala": "LICEUL TEORETIC APACZAI CSERE JANOS CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9356899",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10104002",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10439858",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10063844",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ11140650",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10295688",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 7.8,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "CJ10085591",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10055819",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9903239",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10073098",
+    "scoala": "LICEUL UNITARIAN JANOS ZSIGMOND CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.3,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "CJ10482723",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10075769",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10301715",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10129311",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10624848",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10492267",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10767843",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PASCU APAHIDA, COM. APAHIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10273684",
+    "scoala": "ȘCOALA GIMNAZIALĂ AGHIREȘU - FABRICI, COM. AGHIREȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ8938757",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10267005",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10101176",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10432985",
+    "scoala": "LICEUL TEHNOLOGIC VLĂDEASA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10432985",
+    "scoala": "LICEUL TEHNOLOGIC VLĂDEASA HUEDIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ9347561",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10439980",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10439980",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9347539",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ9347539",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10116579",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10269923",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.7,
+    "diferenta": 1
+  },
+  {
+    "cod": "CJ10105289",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9346297",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10113042",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ9355350",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9354611",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9354611",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10130474",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10266203",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9347249",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10089689",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10324659",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10324659",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10107455",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10087083",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10087083",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10056052",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10129575",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9022606",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ8927193",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ10322613",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10347081",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10326423",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10132461",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10315586",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10110753",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10449493",
+    "scoala": "LICEUL TEHNOLOGIC VLĂDEASA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10670324",
+    "scoala": "ȘCOALA GIMNAZIALĂ ICLOD, COM. ICLOD",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9913754",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10794491",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10326771",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10326771",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ7897525",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ9356077",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ9356077",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10475666",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ9180683",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10313550",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ9021627",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ8935181",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9260676",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ10076072",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8997038",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10480434",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10464117",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10464117",
+    "scoala": "LICEUL TEORETIC CREȘTIN PRO DEO CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10695738",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10092503",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10503715",
+    "scoala": "ȘCOALA GIMNAZIALĂ PELAGHIA ROȘU MĂRIȘEL, COM. MĂRIȘEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10368062",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10368062",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9048932",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BUJOR PETREȘTII DE JOS, COM. PETREȘTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ8936954",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10783866",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PASCU APAHIDA, COM. APAHIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10066368",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10130784",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10112725",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10571606",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVADA, COM. ICLOD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10571606",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVADA, COM. ICLOD",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10081547",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10702165",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10117963",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10117963",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10529750",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCUIEU, COM. SĂCUIEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ10529750",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂCUIEU, COM. SĂCUIEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10482908",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10097646",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10057683",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10057683",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9927400",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9029937",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10492430",
+    "scoala": "ȘCOALA GIMNAZIALĂ BONȚIDA, COM. BONȚIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10438812",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10692677",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10002569",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ9345389",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10636550",
+    "scoala": "LICEUL TEOLOGIC REFORMAT CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10477553",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10477553",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ13060824",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10437252",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ9886011",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9919304",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10084822",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.55,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ9312133",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9347236",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9347236",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10565871",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10263575",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10478335",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10118985",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10684380",
+    "scoala": "TRANSYLVANIA COLLEGE THE CAMBRIDGE INTERNATIONAL SCHOOL IN CLUJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10910171",
+    "scoala": "ȘCOALA GIMNAZIALĂ NIREȘ, COM. MICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6.15,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ10068155",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CJ10440251",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8525476",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ MIHAI VITEAZU, COM. MIHAI VITEAZU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ8584285",
+    "scoala": "LICEUL TEORETIC APACZAI CSERE JANOS CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ9023462",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10299871",
+    "scoala": "ȘCOALA GIMNAZIALĂ AGHIREȘU - FABRICI, COM. AGHIREȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10328430",
+    "scoala": "LICEUL DE COREGRAFIE ȘI ARTĂ DRAMATICĂ OCTAVIAN STROIA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.65,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10565466",
+    "scoala": "LICEUL TEORETIC AVRAM IANCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10061991",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ12138312",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ10703529",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10703529",
+    "scoala": "LICEUL TEORETIC ELF CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9745382",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ8507278",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ9926356",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10268016",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.45,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "CJ10524665",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10612048",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.25,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CJ10586105",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10269289",
+    "scoala": "LICEUL GRECO-CATOLIC INOCHENTIE MICU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10327931",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10177728",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10491344",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10368113",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ7957338",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10320961",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10327381",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10327381",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10074851",
+    "scoala": "ȘCOALA GIMNAZIALĂ CÂȚCĂU, COM. CÂȚCĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10328733",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CJ10328733",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10306838",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10265169",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10173952",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10301989",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10491251",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10491251",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10089498",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10312832",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10116501",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10075495",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10075495",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10055520",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10055520",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ10279023",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ8629037",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10109408",
+    "scoala": "LICEUL DE INFORMATICĂ TIBERIU POPOVICIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10550493",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10280600",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10096580",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10057021",
+    "scoala": "COLEGIUL ORTODOX MITROPOLITUL NICOLAE COLAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ10364471",
+    "scoala": "ȘCOALA GIMNAZIALĂ SOMEȘU RECE COM. GILĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10364013",
+    "scoala": "ȘCOALA GIMNAZIALĂ SOMEȘU RECE COM. GILĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9691912",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CJ9354896",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9354896",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10086627",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10436759",
+    "scoala": "ȘCOALA GIMNAZIALĂ FINIȘEL, COM. SĂVĂDISLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10494311",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9047867",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ10547039",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10091711",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10091711",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10103922",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9749306",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10638288",
+    "scoala": "LICEUL TEOLOGIC BAPTIST EMANUEL CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10104411",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ9750101",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9185039",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10494780",
+    "scoala": "ȘCOALA GIMNAZIALĂ SUCEAGU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10093261",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10315453",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ9685691",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10111342",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10072625",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10299349",
+    "scoala": "ȘCOALA GIMNAZIALĂ AȘCHILEU MARE, COM. AȘCHILEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10299349",
+    "scoala": "ȘCOALA GIMNAZIALĂ AȘCHILEU MARE, COM. AȘCHILEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8999739",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9706865",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9706865",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10552050",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENI, COM. POIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10273889",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE BARIȚIU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10068079",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10087909",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10476352",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10100253",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10311904",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10562673",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 4.5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "CJ10416218",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10085943",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10061423",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUZA, COM. BUZA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10130761",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ10130761",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10115045",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR MURĂȘANU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10411130",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUGĂȘEȘTI, COM. CĂȘEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10492088",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10174149",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.05,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "CJ10174149",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9682695",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9682695",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10173590",
+    "scoala": "COLEGIUL NAȚIONAL EMIL RACOVIȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ13904262",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10454356",
+    "scoala": "ȘCOALA GIMNAZIALĂ PELAGHIA ROȘU MĂRIȘEL, COM. MĂRIȘEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10454356",
+    "scoala": "ȘCOALA GIMNAZIALĂ PELAGHIA ROȘU MĂRIȘEL, COM. MĂRIȘEL",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10330714",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9921090",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10130822",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ9346032",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9745889",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10503856",
+    "scoala": "ȘCOALA GIMNAZIALĂ PELAGHIA ROȘU MĂRIȘEL, COM. MĂRIȘEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9345934",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10450119",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUZA, COM. BUZA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10066008",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10126899",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10126899",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU DEJ",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10301576",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CJ10301576",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10307073",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10290524",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10131409",
+    "scoala": "LICEUL TEHNOLOGIC VLĂDEASA HUEDIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10320822",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10320822",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BOB CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10368158",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȘINCAI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10091370",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂIANU, COM. CĂIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.55,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ10277697",
+    "scoala": "LICEUL TEORETIC JOSIKA MIKLOS TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.05,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "CJ10377663",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN OPRIȘ TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10111955",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6.15,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ13715729",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ12846883",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10074229",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10119505",
+    "scoala": "COLEGIUL DE MUZICĂ SIGISMUND TODUȚĂ CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ10283358",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10313072",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10281689",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10109483",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10109483",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10396873",
+    "scoala": "ȘCOALA GIMNAZIALĂ TURENI, COM. TURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ8937367",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DEJ",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 4.9,
+    "diferenta": -1
+  },
+  {
+    "cod": "CJ10083593",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR MURĂȘANU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10351754",
+    "scoala": "LICEUL TEORETIC ALEXANDRU PAPIU ILARIAN DEJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ8392459",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.45,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CJ10120108",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10481560",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10132319",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10069091",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ12143106",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10317812",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ13381718",
+    "scoala": "LICEUL TEORETIC NICOLAE BĂLCESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10114601",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10558612",
+    "scoala": "ȘCOALA GIMNAZIALĂ IARA, COM. IARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10558612",
+    "scoala": "ȘCOALA GIMNAZIALĂ IARA, COM. IARA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9269837",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10429466",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNA DE SUS, COM. FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10066624",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9682571",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ9682571",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10298982",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU HAȚIEGANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ11140303",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ11140303",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9271016",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ8533189",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10496863",
+    "scoala": "LICEUL TEOLOGIC REFORMAT CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10301107",
+    "scoala": "ȘCOALA GIMNAZIALĂ BONȚIDA, COM. BONȚIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10302985",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10284309",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10284309",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU BACIU, COM. BACIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ9749503",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9749503",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10113173",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 4.8,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "CJ8524456",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "CJ8613692",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ8997199",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9745448",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CJ9745448",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10070332",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10070332",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10112771",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10112771",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ11173569",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ11173569",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10397983",
+    "scoala": "ȘCOALA GIMNAZIALĂ TURENI, COM. TURENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10591464",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPUȘU MARE, COM. CĂPUȘU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10591464",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPUȘU MARE, COM. CĂPUȘU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ13880782",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10090413",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10412216",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUGĂȘEȘTI, COM. CĂȘEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ10412216",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUGĂȘEȘTI, COM. CĂȘEIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10517907",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10359343",
+    "scoala": "LICEUL TEORETIC GELU VOIEVOD GILĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10359343",
+    "scoala": "LICEUL TEORETIC GELU VOIEVOD GILĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ8956671",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ8956671",
+    "scoala": "LICEUL TEORETIC LUCIAN BLAGA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10080472",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN ALEXANDRU SÂNPAUL, COM. SÂNPAUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CJ10080472",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN ALEXANDRU SÂNPAUL, COM. SÂNPAUL",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10365090",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CJ10365090",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10111509",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN DÂRJAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10111509",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN DÂRJAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ8999070",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ8999070",
+    "scoala": "LICEUL TEORETIC EUGEN PORA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10477072",
+    "scoala": "ȘCOALA GIMNAZIALĂ VAD, COM. VAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CJ10477072",
+    "scoala": "ȘCOALA GIMNAZIALĂ VAD, COM. VAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10425509",
+    "scoala": "LICEUL TEORETIC OCTAVIAN GOGA HUEDIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10312298",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CJ10276272",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC GHEORGHE LAZĂR CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ8158840",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10364506",
+    "scoala": "ȘCOALA GIMNAZIALĂ SOMEȘU RECE COM. GILĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10273842",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU DEJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10112304",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10097282",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ9180796",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10117273",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ MIHAI VITEAZU, COM. MIHAI VITEAZU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9049056",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BUJOR PETREȘTII DE JOS, COM. PETREȘTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ9269797",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDURENI, COM. TRITENII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "CJ10359309",
+    "scoala": "LICEUL TEORETIC GELU VOIEVOD GILĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10381012",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALUNIȘ, COM. ALUNIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10117943",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ MIHAI VITEAZU, COM. MIHAI VITEAZU",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10518516",
+    "scoala": "ȘCOALA GIMNAZIALĂ GÂRBĂU, COM. GÂRBĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10518516",
+    "scoala": "ȘCOALA GIMNAZIALĂ GÂRBĂU, COM. GÂRBĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ10066346",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10086599",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CJ10265022",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ10265022",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10098979",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CJ10110738",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10265266",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9347608",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.9,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CJ9347608",
+    "scoala": "LICEUL WALDORF CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9685996",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ9685996",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10511691",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ9311756",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CJ9311756",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10090465",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AGÂRBICEANU CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "CJ10263924",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ10263924",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10115021",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ9124849",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRATA, COM. FRATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10100403",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10100403",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ7919433",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CJ7919433",
+    "scoala": "LICEUL DE ARTE VIZUALE ROMULUS LADEA CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10503247",
+    "scoala": "ȘCOALA GIMNAZIALĂ PELAGHIA ROȘU MĂRIȘEL, COM. MĂRIȘEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9078970",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ9078970",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10356715",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂȘEIU, COM. CĂȘEIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CJ10356715",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂȘEIU, COM. CĂȘEIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ13178568",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA, COM. VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ9311801",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CJ9311801",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10104168",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 3.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CJ10104168",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ11173541",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CLOȘCA ȘI CRIȘAN TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ9667044",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂMĂRAȘU, COM. CĂMĂRAȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CJ10100490",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CJ10087799",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10087799",
+    "scoala": "ȘCOALA GIMNAZIALĂ EMIL ISAC CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CJ10578122",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10578122",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CJ10602619",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLĂȚELE, COM. CĂLĂȚELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CJ10602619",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLĂȚELE, COM. CĂLĂȚELE",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10297407",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CJ10297407",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10359580",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE ȘINCAI FLOREȘTI, COM. FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8930931",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN DÂRJAN CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 4.7,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "CJ8930931",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN DÂRJAN CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 3.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "CJ9886543",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE BARIȚIU JUCU DE SUS, COM. JUCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 3.8,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "CJ9886543",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE BARIȚIU JUCU DE SUS, COM. JUCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8573377",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CJ8573377",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ10303714",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10303714",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU VAIDA VOEVOD CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ8571328",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ8571328",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU TURDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10110822",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CJ10110822",
+    "scoala": "LICEUL TEORETIC ANA IPĂTESCU GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10283529",
+    "scoala": "ȘCOALA GIMNAZIALĂ MINTIU GHERLII, COM. MINTIU GHERLII",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CJ10385668",
+    "scoala": "ȘCOALA GIMNAZIALĂ BORBELY JOZSEF SĂVĂDISLA, COM. SĂVĂDISLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CJ10302001",
+    "scoala": "LICEUL TEORETIC KEMÉNY ZSIGMOND GHERLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 2.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "CJ10302001",
+    "scoala": "LICEUL TEORETIC KEMÉNY ZSIGMOND GHERLA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CJ10562544",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CJ10562544",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CLUJ-NAPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CJ9312732",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CJ9312732",
+    "scoala": "LICEUL TEORETIC PAVEL DAN CÂMPIA TURZII",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  }
+]

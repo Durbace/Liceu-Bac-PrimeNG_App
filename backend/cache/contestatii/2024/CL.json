@@ -1,0 +1,1610 @@
+[
+  {
+    "cod": "CL9376004",
+    "scoala": "SCOALA GIMNAZIALA DRAGOS MARIN STEFAN CEL MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10688234",
+    "scoala": "SCOALA GIMNAZIALA NR.2 BORCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CL10888763",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU VASILATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CL8542828",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGOS VODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL11192858",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CL9400193",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CL8947436",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9151891",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9600928",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10715605",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL10696933",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CL10696933",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL10548962",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CL7997525",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU-GARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL10603102",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN TEODORESCU SOLDANU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL8270789",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL10537236",
+    "scoala": "SCOALA GIMNAZIALA NR.1 SARULESTI GARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10111254",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL10715708",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "CL9078628",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CL9816833",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9258398",
+    "scoala": "SCOALA GIMNAZIALA IANCU ROSETTI ROSETI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9789372",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL9935434",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9960807",
+    "scoala": "SCOALA GIMNAZIALA NR.1 GALBINASI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CL9789350",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL10727939",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10301457",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL9340580",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "CL9340580",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL7999920",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU-GARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL9884165",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "CL9884165",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL9078241",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL10102258",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10113292",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL10113292",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10472074",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CL8777556",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VLAD TEPES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL8777556",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VLAD TEPES",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9959071",
+    "scoala": "SCOALA GIMNAZIALA NR.1 CHIRNOGI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CL10646229",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRUMUSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CL11145861",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10099875",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CL10505174",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10092977",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9177458",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10714467",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL8831628",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL10618214",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL10505334",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10505334",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10066528",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL10086908",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10473516",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL10473516",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9609825",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CL10092036",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CL10102441",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA VODA CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CL8638344",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL13677830",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL13677830",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL10526894",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PERISORU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9079120",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9401181",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8.15,
+    "diferenta": 1
+  },
+  {
+    "cod": "CL9401181",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10644998",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9790815",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL9790815",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL8541921",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CL9341486",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9341486",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10628456",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL9844231",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9965009",
+    "scoala": "SCOALA GIMNAZIALA NR.1 GALBINASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10588214",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LUICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9934464",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN GEORGE CĂLINESCU GRĂDIȘTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL9589996",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL9589996",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL10648341",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRUMUSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL9258646",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL10688359",
+    "scoala": "SCOALA GIMNAZIALA TUDOR VLADIMIRESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9372263",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9372263",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10107351",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10107351",
+    "scoala": "SCOALA GIMNAZIALA NR.1 LEHLIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL9789940",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CL9789940",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL8939143",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL8939143",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL9172406",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL8772036",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA VODA CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.65,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "CL10093681",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9994621",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL8984522",
+    "scoala": "SCOALA GIMNAZIALA ”PROF.UNIV. DR. ADRIAN V RADULESCU” DOROBANTU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10758345",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VALEA ROSIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL9610243",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9610243",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9259433",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DICHISENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9143163",
+    "scoala": "SCOALA GIMNAZIALA ”PROF.UNIV. DR. ADRIAN V RADULESCU” DOROBANTU",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL8944771",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CL8944771",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL9401146",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9931825",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CL10102780",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA VODA CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL9179802",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CL9154499",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CL8833376",
+    "scoala": "SCOALA GIMNAZIALA IANCU ROSETTI ROSETI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL8833376",
+    "scoala": "SCOALA GIMNAZIALA IANCU ROSETTI ROSETI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10628205",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CL10628205",
+    "scoala": "COLEGIUL ECONOMIC CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9592948",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9134200",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10428888",
+    "scoala": "SCOALA GIMNAZIALA ”PROF.UNIV. DR. ADRIAN V RADULESCU” DOROBANTU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL10677224",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10677224",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL8946073",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "CL8946073",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9452238",
+    "scoala": "SCOALA GIMNAZIALA NR.1 NICOLAE BALCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL9452238",
+    "scoala": "SCOALA GIMNAZIALA NR.1 NICOLAE BALCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL9338952",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "CL9338952",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9003421",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL8996698",
+    "scoala": "SCOALA GIMNAZIALA NR.1 CUZA VODA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL8836574",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10677301",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VALEA ROSIE",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL10553300",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.35,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "CL10553300",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL8950039",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL8950039",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10635875",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PLATARESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CL10472797",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10525730",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PERISORU",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL10457997",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU VASILATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CL10457997",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU VASILATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL10676618",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VALEA ROSIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL10676618",
+    "scoala": "SCOALA GIMNAZIALA NR.1 VALEA ROSIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10528657",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PERISORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CL10715841",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10715841",
+    "scoala": "COLEGIUL NATIONAL NEAGOE BASARAB OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL9353216",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CL10450075",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CL10567646",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU VASILATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10449267",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10449267",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL ULMENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9925058",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9912918",
+    "scoala": "SCOALA GIMNAZIALA NR.1 CUZA VODA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9822080",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9959536",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL12151810",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL12151810",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9932965",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9932965",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9341523",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL9341523",
+    "scoala": "SCOALA GIMNAZIALA NR.1 BELCIUGATELE",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL9947381",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9947381",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DOR MARUNT SAT",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL11198674",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9137923",
+    "scoala": "SCOALA GIMNAZIALA NR.2 MODELU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL9406634",
+    "scoala": "SCOALA GIMNAZIALA NR.1 MODELU",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9840800",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9840800",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL10549774",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL8692008",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CL8692008",
+    "scoala": "SCOALA GIMNAZIALA PROF. LUCIAN PAVEL OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9959725",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL9959725",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10661248",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRUMUSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL10447870",
+    "scoala": "SCOALA GIMNAZIALA NR.1 SOHATU",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9601594",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL9601594",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10883201",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PLATARESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9400744",
+    "scoala": "SCOALA GIMNAZIALA CAROL I CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9790200",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CL9790200",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9789893",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DRAGALINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9929366",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL9929366",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CL9370345",
+    "scoala": "SCOALA GIMNAZIALA DRAGOS MARIN STEFAN CEL MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CL10596628",
+    "scoala": "SCOALA GIMNAZIALA ”PROF.UNIV. DR. ADRIAN V RADULESCU” DOROBANTU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL9568049",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9568049",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CL9541794",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CL9541794",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9440716",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CHIRNOGI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10310130",
+    "scoala": "SCOALA GIMNAZIALA NR.1 PLATARESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL8968158",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 5.8,
+    "diferenta": -1
+  },
+  {
+    "cod": "CL8968158",
+    "scoala": "LICEUL TEORETIC MIHAI EMINESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CL9540077",
+    "scoala": "SCOALA GIMNAZIALA NR.2 MODELU",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CL10567797",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN BRANCOVEANU VASILATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CL10521911",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL10518674",
+    "scoala": "SCOALA GIMNAZIALA NR.1 CURCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL9961783",
+    "scoala": "SCOALA GIMNAZIALA NR.1 GALBINASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CL10315891",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CL9157710",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9157710",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE TITULESCU CALARASI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL9898837",
+    "scoala": "SCOALA GIMNAZIALA NR.1 FRASINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CL9609882",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CL9609882",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA NEDELCIU FUNDULEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10545886",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "CL10545886",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET OLTENITA",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.55,
+    "diferenta": 0.05
+  }
+]

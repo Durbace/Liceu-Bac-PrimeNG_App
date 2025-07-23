@@ -1,0 +1,1658 @@
+[
+  {
+    "cod": "MH8773858",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8341943",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9770356",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MH9770356",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH9705722",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9705722",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9157465",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH9157465",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8777958",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH8815748",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9158059",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH9159452",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9159452",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8827375",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8529688",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MH9561682",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MH9158159",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH8342207",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8569930",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8828699",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8828699",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MH9424179",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8096295",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MH8546472",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH8183200",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8183200",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8721805",
+    "scoala": "LICEUL TEORETIC CUJMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8721805",
+    "scoala": "LICEUL TEORETIC CUJMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8183850",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MH8512269",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH9302197",
+    "scoala": "ȘCOALA GIMNAZIALĂ EȘELNIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MH9302197",
+    "scoala": "ȘCOALA GIMNAZIALĂ EȘELNIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8971315",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH9083764",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH8327730",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9844732",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH8771825",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH11194502",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH9145815",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH9418307",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MH9418307",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9156956",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH9291474",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8300047",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEVESEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH8452599",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MH8565567",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MH8565567",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8814270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MH10422281",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9024028",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8814915",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8529149",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH8529149",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8263616",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8660837",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH8660837",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH10582524",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH8971470",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MH11191708",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH11191708",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8021880",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8778158",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH8580799",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH8546800",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8546800",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH8454578",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MH8454578",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH9423937",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8342771",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH8342771",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH8912907",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH9083890",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH8913891",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH10093558",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRUNIȘOR",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH13664062",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH13664062",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8097623",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH9158366",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MH9730224",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MH9502521",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9502521",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MH8772306",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH8772306",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8022175",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9289638",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MH8074128",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEVESEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MH8718053",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL STREHAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.05,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MH8718053",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL STREHAIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH8539530",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH9296632",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE ȚIȚEICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH9298020",
+    "scoala": "ȘCOALA PROFESIONALĂ CORLĂȚEL",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9788196",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.2,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MH9788196",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9303139",
+    "scoala": "ȘCOALA GIMNAZIALĂ PODENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH9303139",
+    "scoala": "ȘCOALA GIMNAZIALĂ PODENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8563773",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN NEGREANU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MH8787750",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9105794",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH9105794",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8814747",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRĂȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH8814747",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH9676556",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞIMIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH8700577",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL STREHAIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH11187605",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH9305232",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH9305232",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8568028",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MH8568028",
+    "scoala": "COLEGIUL NAȚIONAL TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH9302319",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MH8623331",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8623331",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH8021616",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8808899",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH9303460",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGELE MIHAI I DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MH9306233",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÂCLEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MH9730433",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MH9741323",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9156574",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MH9305171",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9296564",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MH8658257",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN NEGREANU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MH9046186",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH8533127",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 6.9,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "MH9639937",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH9775362",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9775362",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH9296584",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MH9103217",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MH13664073",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8769331",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH9762305",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂNĂTORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH9762305",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂNĂTORI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH9679739",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MH8920794",
+    "scoala": "ȘCOALA PROFESIONALĂ CORLĂȚEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH8920794",
+    "scoala": "ȘCOALA PROFESIONALĂ CORLĂȚEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH8912950",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9302193",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9302193",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8151003",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEVESEL",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9307916",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÂCLEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MH8793007",
+    "scoala": "LICEUL DE ARTE I.ȘT.PAULIAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8559840",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR COSTESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8559840",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR COSTESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH8090667",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MH8090667",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9215504",
+    "scoala": "ȘCOALA GIMNAZIALĂ MALOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH10424138",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8770914",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8769695",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MH8721278",
+    "scoala": "LICEUL TEORETIC CUJMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8128276",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN NEGREANU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8128276",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN NEGREANU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MH10383839",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂZĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MH10383839",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂZĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9287122",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH9287122",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9679704",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MH11094341",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9643233",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE SERGESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8530447",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 5.8,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "MH8530447",
+    "scoala": "COLEGIUL TEHNOLOGIC CONSTANTIN BRÂNCOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8825988",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MH8825988",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9302263",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH8621377",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH9408095",
+    "scoala": "ȘCOALA GIMNAZIALĂ EȘELNIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH7019451",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN RĂDULESCU MOTRU BUTOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MH9094212",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8825393",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 4.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MH8818414",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH9732037",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN NEGREANU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH8620696",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGELE MIHAI I DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9096113",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9130846",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOGOȘU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9296547",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MH9296547",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH8021516",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9107754",
+    "scoala": "ŞCOALA GIMNAZIALĂ DUMITRU CRAŞOVEANU IZVORU BÂRZII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH9107754",
+    "scoala": "ŞCOALA GIMNAZIALĂ DUMITRU CRAŞOVEANU IZVORU BÂRZII",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9664543",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9502574",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRAINICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MH9502574",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRAINICI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH8801185",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR COSTESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9507761",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9507761",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9092156",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR COSTESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MH9092156",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR COSTESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MH9094487",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MH9094487",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.15 DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MH8299769",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEVESEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8299769",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEVESEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9303485",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.14 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MH9302188",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MH9053944",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH7047501",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN RĂDULESCU MOTRU BUTOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MH8488600",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN TRUŞCĂ PĂTULELE",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH9643283",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.6 DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH11035779",
+    "scoala": "ŞCOALA GIMNAZIALA GRUIA",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8719964",
+    "scoala": "LICEUL TEORETIC CUJMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MH8723502",
+    "scoala": "LICEUL TEORETIC CUJMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MH8021969",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MH8021969",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALICE VOINESCU DROBETA TURNU SEVERIN",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MH9291461",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MH9291461",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL ȘEICARU ORȘOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8795261",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ȘTEFAN ODOBLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MH8560570",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGELE MIHAI I DROBETA TURNU SEVERIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MH9069669",
+    "scoala": "ȘCOALA GIMNAZIALĂ BREZNIȚA-MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  }
+]

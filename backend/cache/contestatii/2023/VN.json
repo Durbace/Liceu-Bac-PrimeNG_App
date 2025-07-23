@@ -1,0 +1,2610 @@
+[
+  {
+    "cod": "VN8729673",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN9321376",
+    "scoala": "COLEGIUL NATIONAL UNIREA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN7947976",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN10295016",
+    "scoala": "SCOALA GIMNAZIALA VASILE IFTIMESCU VALEA SARII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8133265",
+    "scoala": "SCOALA GIMNAZIALA MOVILITA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8065200",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8065200",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8735192",
+    "scoala": "COLEGIUL NATIONAL UNIREA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN9297404",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE SERBAN GHICA SI PRINCIPESA ARISTITA GHICA SIHLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8395318",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8657618",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN10012537",
+    "scoala": "LICEUL TEORETIC DUILIU ZAMFIRESCU ODOBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8413394",
+    "scoala": "SCOALA GIMNAZIALA PROF.GENERAL GHEORGHE GHEORGHIU GOLOGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN12873300",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN9686146",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN7995132",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 8.75,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "VN9902254",
+    "scoala": "SCOALA GIMNAZIALA MAICANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8413256",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA GUGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN9324425",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN9296284",
+    "scoala": "SCOALA GIMNAZIALA OBREJITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN7999955",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8053515",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8731144",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN12135451",
+    "scoala": "SCOALA GIMNAZIALA ION BACIU TULNICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN7958546",
+    "scoala": "LICEUL TEORETIC DUILIU ZAMFIRESCU ODOBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8684514",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VN8074629",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9694039",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN14407312",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN14407312",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9745915",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8810433",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA GUGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8117079",
+    "scoala": "COLEGIUL NATIONAL UNIREA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8549728",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VN9745469",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8734188",
+    "scoala": "SCOALA GIMNAZIALA PETRACHE BLINDU CIUSLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8079770",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8011830",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "VN8067685",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8135010",
+    "scoala": "SCOALA GIMNAZIALA ION BACIU TULNICI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8526356",
+    "scoala": "SCOALA GIMNAZIALA VULTURU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN8526356",
+    "scoala": "SCOALA GIMNAZIALA VULTURU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8070704",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN9364515",
+    "scoala": "SCOALA GIMNAZIALA ”VALERIU D. COTEA” VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN7991546",
+    "scoala": "LICEUL TEORETIC DUILIU ZAMFIRESCU ODOBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8117238",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN7991072",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8369206",
+    "scoala": "SCOALA GIMNAZIALA MOVILITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8722871",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8069905",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8700297",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8074310",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8085629",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN9084050",
+    "scoala": "LICEUL TEORETIC GRIGORE GHEBA DUMITRESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9744086",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8565037",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8056719",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9.15,
+    "diferenta": 1
+  },
+  {
+    "cod": "VN7989239",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8067283",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN9503365",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN9503365",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN7982526",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8676241",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN8676241",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8106355",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8387097",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 8.5,
+    "diferenta": 1.8
+  },
+  {
+    "cod": "VN8945840",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE RADU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9296369",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE SERBAN GHICA SI PRINCIPESA ARISTITA GHICA SIHLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8744103",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8996564",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN9583543",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VN9320710",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VN9320710",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN9744831",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN12502755",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN8012990",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN10043399",
+    "scoala": "SCOALA GIMNAZIALA INVATATOR GHEORGHE ASANACHE BORDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN10043399",
+    "scoala": "SCOALA GIMNAZIALA INVATATOR GHEORGHE ASANACHE BORDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8492119",
+    "scoala": "LICEUL DE ARTA GHEORGHE TATTARESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8492119",
+    "scoala": "LICEUL DE ARTA GHEORGHE TATTARESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8546462",
+    "scoala": "COLEGIUL NATIONAL UNIREA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8546462",
+    "scoala": "COLEGIUL NATIONAL UNIREA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8086324",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8940923",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN13660690",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.35,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "VN8385249",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "VN8499247",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN7986884",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9324670",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VN9324670",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN13198044",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN9763772",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN9763772",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8012565",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.6,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "VN8051667",
+    "scoala": "SCOALA GIMNAZIALA VARTESCOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN7998122",
+    "scoala": "LICEUL TEORETIC DUILIU ZAMFIRESCU ODOBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9275989",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE GUSTI NEREJU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VN8012196",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9685562",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8506703",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8506703",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8777691",
+    "scoala": "SCOALA GIMNAZIALA NEREJU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VN8558480",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9748001",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN8072783",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU IOAN CUZA PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8386599",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8250502",
+    "scoala": "SCOALA GIMNAZIALA OBREJITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8730579",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN9765408",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9329673",
+    "scoala": "SCOALA GIMNAZIALA ANGHELESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9329673",
+    "scoala": "SCOALA GIMNAZIALA ANGHELESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN9320422",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VN13433005",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN9924097",
+    "scoala": "SCOALA GIMNAZIALA PETRE MIRONESCU-MERA MERA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN9765258",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN8851558",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8851558",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8214276",
+    "scoala": "SCOALA GIMNAZIALA URECHESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8067759",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8312557",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8312557",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9444722",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN7985815",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8863860",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN9765192",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN7952407",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN7952407",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8510420",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8076134",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN6041201",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8066287",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN12139053",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE RADU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8083271",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8727791",
+    "scoala": "SCOALA GIMNAZIALA PROFESOR GROZEA NICU RASTOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN9445504",
+    "scoala": "SCOALA GIMNAZIALA ADRIAN PAUNESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8869193",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8995849",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8877831",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.65,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "VN8877831",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8868821",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8107804",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "VN8107804",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8809670",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8096575",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VN8575391",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8865658",
+    "scoala": "SCOALA GIMNAZIALA EMIL ATANASIU GAROAFA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN13454434",
+    "scoala": "SCOALA GIMNAZIALA SURAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN8412108",
+    "scoala": "SCOALA GIMNAZIALA PROF.GENERAL GHEORGHE GHEORGHIU GOLOGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VN9765698",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN9587771",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN9587771",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8073944",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN8107281",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8092516",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "VN8013057",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8421364",
+    "scoala": "SCOALA GIMNAZIALA IOAN VODA CEL VITEAZ SLOBOZIA CIORASTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8421364",
+    "scoala": "SCOALA GIMNAZIALA IOAN VODA CEL VITEAZ SLOBOZIA CIORASTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN10011464",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN7947746",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8544655",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.6,
+    "diferenta": 1
+  },
+  {
+    "cod": "VN9723741",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9723741",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9323830",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN9004997",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9296648",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE SERBAN GHICA SI PRINCIPESA ARISTITA GHICA SIHLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8089972",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN10083174",
+    "scoala": "SCOALA GIMNAZIALA SPULBER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN10083174",
+    "scoala": "SCOALA GIMNAZIALA SPULBER",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN9685821",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN8011917",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8011917",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "VN8093032",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8093032",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9745341",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 6.85,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "VN8682700",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9365179",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8507168",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.7,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "VN9755234",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN9746519",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8433355",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "VN8388074",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8388074",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8734288",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8663220",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VN9325459",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN13433015",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VN13433015",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN7989633",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8492759",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN9534449",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN8136052",
+    "scoala": "SCOALA GIMNAZIALA ION BACIU TULNICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VN8136052",
+    "scoala": "SCOALA GIMNAZIALA ION BACIU TULNICI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN8026372",
+    "scoala": "SCOALA GIMNAZIALA JARISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN7957456",
+    "scoala": "LICEUL TEHNOLOGIC EREMIA GRIGORESCU MARASESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN8396472",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "VN13109192",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.85,
+    "diferenta": 1.45
+  },
+  {
+    "cod": "VN13177639",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8553926",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8080944",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN9325040",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8509851",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN8499740",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "VN9980352",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8778760",
+    "scoala": "SCOALA GIMNAZIALA GOLESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.5,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "VN8072211",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8072211",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8807496",
+    "scoala": "LICEUL TEORETIC IOAN SLAVICI PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN8214595",
+    "scoala": "SCOALA GIMNAZIALA URECHESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN7951024",
+    "scoala": "SCOALA GIMNAZIALA CAMPURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN9329854",
+    "scoala": "SCOALA GIMNAZIALA ANGHELESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8499471",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8728775",
+    "scoala": "SCOALA GIMNAZIALA PROFESOR GROZEA NICU RASTOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8415186",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8211061",
+    "scoala": "SCOALA GIMNAZIALA PROF.GENERAL GHEORGHE GHEORGHIU GOLOGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "VN8084377",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN9412540",
+    "scoala": "SCOALA GIMNAZIALA PROFESOR PANAITE C. MAZILU BROSTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "VN8558047",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "VN8071547",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN7996112",
+    "scoala": "LICEUL TEHNOLOGIC EREMIA GRIGORESCU MARASESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8724975",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8501212",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN8692461",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8692461",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8724354",
+    "scoala": "SCOALA GIMNAZIALA PROFESOR GROZEA NICU RASTOACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VN9483983",
+    "scoala": "SCOALA GIMNAZIALA COROTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "VN7992085",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN7988430",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "VN7988430",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8414852",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8414852",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8727970",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9321711",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9722645",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "VN9722645",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8485737",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN9002699",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "VN8065595",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN12885702",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "VN9324265",
+    "scoala": "SCOALA GIMNAZIALA DUILIU ZAMFIRESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8675867",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8670188",
+    "scoala": "SCOALA GIMNAZIALA MIRCESTII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN13421114",
+    "scoala": "COLEGIUL NATIONAL AL. I. CUZA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8732807",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN8732807",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL SALIGNY FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9297572",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE SERBAN GHICA SI PRINCIPESA ARISTITA GHICA SIHLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8676683",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8676683",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN9605252",
+    "scoala": "SCOALA GIMNAZIALA ”VALERIU D. COTEA” VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8433922",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN9445514",
+    "scoala": "SCOALA GIMNAZIALA ADRIAN PAUNESCU FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8376698",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL ARMENCEA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8376698",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL ARMENCEA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN9010284",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN7966085",
+    "scoala": "SCOALA GIMNAZIALA NR.2 MARASESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN11137154",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC SPIRU HARET FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "VN8022453",
+    "scoala": "LICEUL TEORETIC IOAN SLAVICI PANCIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8397046",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN8071878",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "VN8071878",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN8209019",
+    "scoala": "SCOALA GIMNAZIALA EMIL ATANASIU GAROAFA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN8369891",
+    "scoala": "SCOALA GIMNAZIALA MOVILITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.4,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "VN8448099",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN10025883",
+    "scoala": "SCOALA GIMNAZIALA INVATATOR GHEORGHE ASANACHE BORDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN7963579",
+    "scoala": "SCOALA GIMNAZIALA MILCOVUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN7963579",
+    "scoala": "SCOALA GIMNAZIALA MILCOVUL",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN9625639",
+    "scoala": "SCOALA GIMNAZIALA JITIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "VN9625639",
+    "scoala": "SCOALA GIMNAZIALA JITIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8051133",
+    "scoala": "SCOALA GIMNAZIALA VARTESCOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "VN7991656",
+    "scoala": "LICEUL TEHNOLOGIC EREMIA GRIGORESCU MARASESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "VN12255315",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN12255315",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN9177694",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU VLAHUTA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "VN7965817",
+    "scoala": "SCOALA GIMNAZIALA SIMION MEHEDINTI SOVEJA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN7998862",
+    "scoala": "LICEUL TEORETIC IOAN SLAVICI PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8535248",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9009517",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL ARMENCEA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9009725",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL ARMENCEA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8723957",
+    "scoala": "SCOALA GIMNAZIALA PROFESOR GROZEA NICU RASTOACA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN13983606",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "VN8394891",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN7975399",
+    "scoala": "SCOALA GIMNAZIALA NANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN7994518",
+    "scoala": "LICEUL TEORETIC IOAN SLAVICI PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN12287461",
+    "scoala": "SCOALA GIMNAZIALA INVATATOR GHEORGHE ASANACHE BORDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8492934",
+    "scoala": "SCOALA GIMNAZIALA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8929421",
+    "scoala": "SCOALA GIMNAZIALA NR.2 GUGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN10026197",
+    "scoala": "SCOALA GIMNAZIALA INVATATOR GHEORGHE ASANACHE BORDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN12135891",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "VN12135891",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN7962541",
+    "scoala": "SCOALA GIMNAZIALA MILCOVUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN7962541",
+    "scoala": "SCOALA GIMNAZIALA MILCOVUL",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN14350224",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU IOAN CUZA PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN9498533",
+    "scoala": "SCOALA GIMNAZIALA HOMOCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "VN8938636",
+    "scoala": "SCOALA GIMNAZIALA PRINCIPELE RADU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 4.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VN8993862",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.45,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "VN8517343",
+    "scoala": "SCOALA GIMNAZIALA ECATERINA TEODOROIU MARASESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8065499",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "VN8065499",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN7958728",
+    "scoala": "SCOALA GIMNAZIALA BARBU STEFANESCU DELAVRANCEA NARUJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "VN8993674",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "VN8993674",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8091424",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8430831",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "VN8430831",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9343420",
+    "scoala": "SCOALA GIMNAZIALA ANGELA GHEORGHIU ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8051383",
+    "scoala": "SCOALA GIMNAZIALA VARTESCOIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8940619",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8940619",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8397811",
+    "scoala": "SCOALA GIMNAZIALA TIFESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8083566",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "VN8083566",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9646228",
+    "scoala": "SCOALA GIMNAZIALA ”VALERIU D. COTEA” VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "VN8825050",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "VN8825050",
+    "scoala": "SCOALA GIMNAZIALA PAUNESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN9765794",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "VN7963726",
+    "scoala": "SCOALA GIMNAZIALA OANA DIANA RENEA FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN8669279",
+    "scoala": "SCOALA GIMNAZIALA MIRCESTII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN8669279",
+    "scoala": "SCOALA GIMNAZIALA MIRCESTII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN9130531",
+    "scoala": "LICEUL TEORETIC IOAN SLAVICI PANCIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN9746711",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VN9746711",
+    "scoala": "SCOALA GIMNAZIALA ION BASGAN FOCSANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "VN8106933",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU IOAN CUZA PANCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VN8106933",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU IOAN CUZA PANCIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "VN9460196",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "VN9460196",
+    "scoala": "COLEGIUL NATIONAL EMIL BOTTA ADJUD",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "VN9726235",
+    "scoala": "SCOALA GIMNAZIALA SPULBER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "VN9726235",
+    "scoala": "SCOALA GIMNAZIALA SPULBER",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  }
+]

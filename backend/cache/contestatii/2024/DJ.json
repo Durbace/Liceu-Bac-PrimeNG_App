@@ -1,0 +1,7530 @@
+[
+  {
+    "cod": "DJ11188168",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11188168",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9390788",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8972735",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8972735",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ330151",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ330151",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8119784",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ11186447",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8628896",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11194086",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8251260",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8251260",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8598119",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11034147",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11095720",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11095720",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9312637",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8896222",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ8896222",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9413458",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ282951",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ282951",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ281601",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9019568",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9019568",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ11190025",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ11190025",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9356640",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9360596",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 10,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9442801",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9442742",
+    "scoala": "SCOALA GIMNAZIALA VARVORU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9437939",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9275943",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9275943",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11190619",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9303157",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9420042",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9451379",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9440566",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9440566",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9435595",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9018039",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9357640",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9606059",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9262166",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ286251",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9448226",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9476960",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ228451",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8431644",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9427194",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9427194",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9444241",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8887569",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ9031344",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9390927",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9439900",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9968708",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9571059",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9476299",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9125763",
+    "scoala": "SCOALA GIMNAZIALA PIELESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9440050",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9440050",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9210436",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ8888541",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8629942",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ8629942",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9432356",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9045303",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ9308372",
+    "scoala": "SCOALA GIMNAZIALA PETRACHE POENARU BRADESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ9098332",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9098332",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9491051",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11193849",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11193849",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ8887927",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11189188",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9606404",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9606404",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8709669",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8709669",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8251589",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9488042",
+    "scoala": "SCOALA GIMNAZIALA SADOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ10956050",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9156494",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9432807",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9414336",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9435692",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8592648",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8592648",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9731814",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9429484",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9420395",
+    "scoala": "SCOALA GIMNAZIALA APELE VII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ10520986",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9093323",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9093323",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ325451",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ281051",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ11187971",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ11187971",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9312463",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9554745",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9554745",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9112848",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8888748",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8888748",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ331151",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ331151",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9425095",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9425095",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8890691",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9273690",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9273690",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ228301",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8957888",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9273696",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9437857",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9023889",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9413858",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9413858",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ11192549",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11186751",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ11186751",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8597931",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9436999",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ8251947",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9437963",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9331882",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9152040",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8960111",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9358098",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8754115",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.55,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ8629895",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ8629895",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9429837",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8015242",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8442025",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9436818",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ237751",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9024592",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9018839",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9449024",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9449024",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8442531",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8442531",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9358222",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ9237047",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 DABULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8599248",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.3,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "DJ9608206",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8605505",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ8605505",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9524665",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9569890",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9569890",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9423608",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9158924",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9764137",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ11194783",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ10170131",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ330451",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9115345",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ9115345",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8599147",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9651469",
+    "scoala": "SCOALA GIMNAZIALA PLENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9358148",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9413597",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8888252",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9839627",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9839627",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8598018",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9448196",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9434959",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9442933",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9442933",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9414354",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9414354",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8590016",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9611911",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9303201",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9303201",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9273563",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9361729",
+    "scoala": "SCOALA GIMNAZIALA BREASTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9361729",
+    "scoala": "SCOALA GIMNAZIALA BREASTA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9605810",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9968239",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9968239",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.15,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DJ8712559",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8712559",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9024257",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9024257",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9404230",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ9404230",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9276048",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9276048",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ12583832",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ326601",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9358049",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9503137",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.35,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ8888438",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8888438",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8732088",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ12453470",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9424106",
+    "scoala": "SCOALA GIMNAZIALA NEGOIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ8251890",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ11195709",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ10269582",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10269582",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9439536",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9449077",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9435463",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9435463",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8888866",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9262185",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9483635",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9483635",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8925816",
+    "scoala": "SCOALA GIMNAZIALA AFUMATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ8925816",
+    "scoala": "SCOALA GIMNAZIALA AFUMATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9190357",
+    "scoala": "LICEUL TEORETIC CONSTANTIN BRANCOVEANU DABULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9431878",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9262253",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9476266",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9435826",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9435826",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9709253",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9709253",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9440785",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11194423",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9390190",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8887249",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8889873",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DJ8889873",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11192018",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ10919097",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9431084",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11194205",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9838806",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9357726",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9357726",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8890274",
+    "scoala": "SCOALA GIMNAZIALA NR. 38 CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9414331",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ12878655",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ12878655",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8969763",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ12163878",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8628198",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9019043",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ9031282",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9031282",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9438285",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9438285",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9420005",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9420005",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8720886",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11187254",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8785300",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8785300",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ11189008",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 7.65,
+    "diferenta": -1
+  },
+  {
+    "cod": "DJ8578924",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8578924",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11190173",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9018479",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9018479",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9430509",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DJ9361819",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9361819",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9439004",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8252138",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9111835",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9111835",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9182364",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9450353",
+    "scoala": "SCOALA GIMNAZIALA ION CREANGA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ8251938",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11187596",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11187596",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ10549426",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ10549426",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9065706",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9065706",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ10719673",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.1,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "DJ9429075",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9435661",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9958615",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ323401",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.15,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "DJ323401",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9525758",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9975945",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9113913",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9113913",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9451811",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9448449",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9106486",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9106486",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9569750",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DJ9479033",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ13934544",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ13934544",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8887524",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ10550178",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ11187900",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ11187900",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9430863",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8.15,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "DJ9839582",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9476996",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9524778",
+    "scoala": "SCOALA GIMNAZIALA CALARASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9491912",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9491912",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9449359",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9449359",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10969206",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ10969206",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9434916",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9434916",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9075032",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9023311",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9023311",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ8890621",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9449005",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9413906",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9413906",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9093283",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9020721",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ9020721",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8601901",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ8601901",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ11187151",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ11187151",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9437721",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8886208",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DJ8082424",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ232401",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ232401",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9158183",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9158183",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ8972231",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ8972231",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9061957",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ228351",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9439997",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9119980",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9119980",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9477278",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9647609",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9438198",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9438198",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9840920",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9864821",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9436857",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9436857",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ13461059",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9413578",
+    "scoala": "SCOALA GIMNAZIALA BRALOSTITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9438514",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9262147",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9435163",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9435163",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8848208",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8848208",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9183489",
+    "scoala": "SCOALA GIMNAZIALA DOBRESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ232951",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9476894",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9360771",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ9360771",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8872516",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ8872516",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9303228",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ278401",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ278401",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ13461060",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ13461060",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9343756",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9343756",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ11187689",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11187689",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9269771",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9346791",
+    "scoala": "SCOALA GIMNAZIALA BREASTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ332651",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9065618",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9065618",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9360533",
+    "scoala": "SCOALA GIMNAZIALA TERRAVEDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ10532824",
+    "scoala": "SCOALA GIMNAZIALA CASTRANOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8731092",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9104449",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9448210",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9553759",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9469443",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU MACEDONSKI MELINESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9606254",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ325201",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ8541825",
+    "scoala": "LICEUL TEORETIC BECHET",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9361937",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9600186",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ237901",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9045034",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ7049051",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9374865",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9275948",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9414550",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9414550",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ10562851",
+    "scoala": "SCOALA GIMNAZIALA CASTRANOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ10562851",
+    "scoala": "SCOALA GIMNAZIALA CASTRANOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8977930",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8977930",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8346633",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ8251092",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ11196543",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11196543",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9353816",
+    "scoala": "SCOALA GIMNAZIALA BREASTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9430267",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.15,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DJ7941989",
+    "scoala": "SCOALA GIMNAZIALA PISCU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9448253",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9448253",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ8786906",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9441070",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ8033666",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9190283",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9190283",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9438778",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9437685",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9437685",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9554325",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9554325",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9273688",
+    "scoala": "SCOALA GIMNAZIALA NR. 38 CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9278490",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9278490",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 POIANA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9433087",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.75,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ9443714",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ11190459",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11190459",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9448691",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ328851",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8604859",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ8708172",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9182553",
+    "scoala": "SCOALA GIMNAZIALA DOBRESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.6,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "DJ9715319",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9018314",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9122371",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8879542",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ8879542",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9442882",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8964703",
+    "scoala": "SCOALA GIMNAZIALA PIELESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ8964703",
+    "scoala": "SCOALA GIMNAZIALA PIELESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ11189089",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9477442",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9150729",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9331879",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8610066",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8610066",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9276045",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.05,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "DJ9276045",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9493491",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9493491",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9105719",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9105719",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9569675",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ11193099",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.9,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DJ329551",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ329551",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9450495",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9450495",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8251183",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.4,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "DJ8251183",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9432172",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9432172",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9074963",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8576816",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ285151",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ285151",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ11034063",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ8887399",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DJ8887399",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9606537",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.85,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "DJ9606537",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9291655",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9291655",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9023914",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9023914",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8595268",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8629841",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9411413",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9120620",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8550836",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DJ8550836",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9413728",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9413728",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8120138",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8120138",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9207810",
+    "scoala": "SCOALA GIMNAZIALA COSOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9413433",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9413433",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9025448",
+    "scoala": "SCOALA GIMNAZIALA NICA BARBU LOCUSTEANU LEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9025448",
+    "scoala": "SCOALA GIMNAZIALA NICA BARBU LOCUSTEANU LEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9440078",
+    "scoala": "SCOALA GIMNAZIALA RADOVAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ286901",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ286901",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9442620",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9221934",
+    "scoala": "SCOALA GIMNAZIALA GALICEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.2,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DJ9304933",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9358383",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8586713",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ288501",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8344268",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9598103",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9493556",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9493556",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9262155",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9262155",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9564910",
+    "scoala": "SCOALA PROFESIONALA VALEA STANCIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10045624",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "DJ8119667",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8119667",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DJ9438659",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9872676",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9872676",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9028262",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.1,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "DJ9476943",
+    "scoala": "SCOALA GIMNAZIALA BARBU IONESCU URZICUTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ9476943",
+    "scoala": "SCOALA GIMNAZIALA BARBU IONESCU URZICUTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9763415",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9354302",
+    "scoala": "SCOALA GIMNAZIALA COTOFENII DIN DOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9354302",
+    "scoala": "SCOALA GIMNAZIALA COTOFENII DIN DOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9275940",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9362005",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9362005",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8086184",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10723849",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ10551232",
+    "scoala": "SCOALA GIMNAZIALA ION CREANGA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ8884049",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11172799",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ11172799",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ11032060",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ11032060",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9065702",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9065702",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9442978",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8119704",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 7.7,
+    "diferenta": 1.55
+  },
+  {
+    "cod": "DJ9608095",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DJ11194933",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9445945",
+    "scoala": "SCOALA GIMNAZIALA PETRACHE CERNATESCU CERNATESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9444431",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11123771",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ8341169",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9037898",
+    "scoala": "SCOALA GIMNAZIALA TUGLUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8970891",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9328022",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9328022",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9708173",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9437758",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9432239",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DJ9432239",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ10549729",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8890499",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9450567",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9269803",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8348818",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8348818",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9768787",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9768787",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8250796",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9455452",
+    "scoala": "SCOALA GIMNAZIALA LESILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9479061",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9519949",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ11191950",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8343770",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9600762",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9097872",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9097872",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ330901",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ330901",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9449648",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9432002",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9022985",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9437163",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DJ329951",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8348776",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8348776",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9438868",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9438868",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8029780",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9192648",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9192648",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10553665",
+    "scoala": "LICEUL DE INDUSTRIE ALIMENTARA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9438340",
+    "scoala": "COLEGIUL NATIONAL NICOLAE TITULESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ8961311",
+    "scoala": "SCOALA GIMNAZIALA PIELESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.9,
+    "diferenta": 1
+  },
+  {
+    "cod": "DJ9098561",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9098561",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ327151",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ327151",
+    "scoala": "SCOALA GIMNAZIALA TRAIAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9559142",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9559142",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8252035",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ8252035",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9478802",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ9477208",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9477208",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11190754",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ11190029",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9303288",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9025329",
+    "scoala": "SCOALA GIMNAZIALA ION TUCULESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9519715",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8575730",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ12734035",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ12734035",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9440402",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9243027",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU MACESU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9334904",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9185645",
+    "scoala": "SCOALA GIMNAZIALA GALICEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9839039",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9839039",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ11192044",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8873854",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.95,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DJ8855040",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8855040",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9318416",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10278504",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8969362",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9105458",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.9,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ9493580",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9442908",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ237801",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ278901",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ278901",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9436874",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DJ9025588",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9025588",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ13992112",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9448526",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9448526",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9693383",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9024282",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9611274",
+    "scoala": "SCOALA GIMNAZIALA VARTOP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9305020",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.4,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "DJ9305020",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9615293",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE CARAS CIUPERCENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9425006",
+    "scoala": "SCOALA GIMNAZIALA PETRACHE POENARU BRADESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9278174",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9761850",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GHEORGHITA PODARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9312702",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9312702",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9273894",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9448410",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9448410",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9570986",
+    "scoala": "SCOALA GIMNAZIALA ROBANESTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9439988",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9114165",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "DJ9114165",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ10048785",
+    "scoala": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.65,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "DJ9157068",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9158894",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9158894",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ10267387",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ10267387",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9303943",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9106756",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9106756",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9708414",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9278222",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 POIANA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8194257",
+    "scoala": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ8526626",
+    "scoala": "SCOALA GIMNAZIALA BUCOVAT",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9281654",
+    "scoala": "SCOALA PROFESIONALA DANETI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9281654",
+    "scoala": "SCOALA PROFESIONALA DANETI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8889053",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9410462",
+    "scoala": "LICEUL MATEI BASARAB CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 5.95,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "DJ9410462",
+    "scoala": "LICEUL MATEI BASARAB CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9024116",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9449804",
+    "scoala": "SCOALA PROFESIONALA CONSTANTIN ARGETOIANU ARGETOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9968387",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9012357",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9735396",
+    "scoala": "SCOALA GIMNAZIALA SALCUTA-CALOPAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ326251",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ326251",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9024173",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.85,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DJ9024173",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9616901",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 6.75,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "DJ9616901",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ11196532",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9442725",
+    "scoala": "SCOALA GIMNAZIALA VARVORU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9525474",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9838733",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9422739",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9422739",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8727971",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ10267925",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.05,
+    "diferenta": -1
+  },
+  {
+    "cod": "DJ8557511",
+    "scoala": "SCOALA GIMNAZIALA GH. JIENESCU RAST",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DJ9969427",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9444191",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ7994813",
+    "scoala": "SCOALA GIMNAZIALA PISCU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9476739",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9476739",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10882102",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10316788",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DJ9439914",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9065552",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9065552",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10006898",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DJ8732312",
+    "scoala": "SCOALA GIMNAZIALA ION CREANGA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9856243",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10266738",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9838428",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9507131",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ9507131",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ7943008",
+    "scoala": "SCOALA GIMNAZIALA PISCU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ7943008",
+    "scoala": "SCOALA GIMNAZIALA PISCU VECHI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9826958",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ12902203",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ11197471",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9038014",
+    "scoala": "SCOALA GIMNAZIALA TUGLUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ7942460",
+    "scoala": "SCOALA GIMNAZIALA PISCU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ8628763",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ8628763",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8973010",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7.15,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DJ9121247",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9420697",
+    "scoala": "SCOALA GIMNAZIALA APELE VII",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9442541",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9431935",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9431935",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ329851",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ329851",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8889972",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8886628",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ8886628",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ11089989",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ11089989",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10849544",
+    "scoala": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 5.95,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "DJ10849544",
+    "scoala": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9020317",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ11186522",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9278338",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9762829",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9762829",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9261956",
+    "scoala": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9261956",
+    "scoala": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8015549",
+    "scoala": "LICEUL TEHNOLOGIC AUTO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9755748",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ13151020",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ8970792",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9075466",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ11190975",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11190975",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9391607",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9391607",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ329701",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ329701",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9544712",
+    "scoala": "SCOALA PROFESIONALA CONSTANTIN ARGETOIANU ARGETOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9544712",
+    "scoala": "SCOALA PROFESIONALA CONSTANTIN ARGETOIANU ARGETOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9451388",
+    "scoala": "LICEUL TEORETIC TUDOR ARGHEZI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.8,
+    "diferenta": 1
+  },
+  {
+    "cod": "DJ9334518",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ8344289",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8015130",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.2,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "DJ9361175",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9447585",
+    "scoala": "SCOALA GIMNAZIALA MARIN SORESCU BULZESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9447585",
+    "scoala": "SCOALA GIMNAZIALA MARIN SORESCU BULZESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9437894",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.55,
+    "diferenta": 1
+  },
+  {
+    "cod": "DJ9437894",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9525330",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9352594",
+    "scoala": "SCOALA GIMNAZIALA ION CREANGA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9544266",
+    "scoala": "SCOALA PROFESIONALA CONSTANTIN ARGETOIANU ARGETOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8684700",
+    "scoala": "LICEUL TEORETIC INDEPENDENTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9559575",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ9018340",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ9486881",
+    "scoala": "SCOALA GIMNAZIALA ION CREANGA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9024471",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DJ9024471",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9438811",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9666297",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ8863299",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ8863299",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9427296",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9030999",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9030999",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9451614",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9841467",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10268792",
+    "scoala": "SCOALA GIMNAZIALA PLENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8849217",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8849217",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ8972067",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9413387",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9768012",
+    "scoala": "SCOALA GIMNAZIALA PARTICULARA ETHOS CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9269701",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 POIANA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11189441",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ237951",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ237951",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9428107",
+    "scoala": "SCOALA GIMNAZIALA VERBITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9428107",
+    "scoala": "SCOALA GIMNAZIALA VERBITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9410114",
+    "scoala": "COLEGIUL NATIONAL NICOLAE TITULESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9438474",
+    "scoala": "SCOALA GIMNAZIALA VALEA LUI PATRU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9519793",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9519793",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9507239",
+    "scoala": "SCOALA GIMNAZIALA BARBU IONESCU URZICUTA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9358300",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8663501",
+    "scoala": "SCOALA GIMNAZIALA MALU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9477240",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.1,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DJ9477240",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8683794",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GEROTA CALAFAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8786920",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DJ8786920",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ10718087",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9442954",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9697767",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9697767",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9438082",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ12220396",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ12220396",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9019100",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9318184",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 5.95,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "DJ9318184",
+    "scoala": "SCOALA GIMNAZIALA ELIZA OPRAN ISALNITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ10314780",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ10314780",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ10535211",
+    "scoala": "SCOALA GIMNAZIALA CASTRANOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ10535211",
+    "scoala": "SCOALA GIMNAZIALA CASTRANOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8344226",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.15,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DJ8344226",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ8120289",
+    "scoala": "COLEGIUL NATIONAL NICOLAE TITULESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9166734",
+    "scoala": "LICEUL TEORETIC MIHAI VITEAZUL BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9641153",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9714893",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "DJ9438258",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DJ9438258",
+    "scoala": "COLEGIUL NATIONAL FRATII BUZESTI CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ8628922",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ10277339",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ325051",
+    "scoala": "SCOALA GIMNAZIALA SF. GHEORGHE CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.85,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DJ9464441",
+    "scoala": "SCOALA GIMNAZIALA LESILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9480057",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9480057",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9023717",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9312795",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9680422",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE CARAS CIUPERCENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DJ8932312",
+    "scoala": "SCOALA GIMNAZIALA GHIDICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DJ8932312",
+    "scoala": "SCOALA GIMNAZIALA GHIDICI",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9411420",
+    "scoala": "SCOALA GIMNAZIALA TEASC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11196892",
+    "scoala": "SCOALA GIMNAZIALA BARBU IONESCU URZICUTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ8677252",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8677252",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9455448",
+    "scoala": "SCOALA GIMNAZIALA LESILE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ8972185",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DJ8972185",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9487980",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9020297",
+    "scoala": "SCOALA GIMNAZIALA MIRCEA ELIADE CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ10317636",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.35,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DJ10317636",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 POIANA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11187126",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ11187126",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9107499",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9768825",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC STEFAN VELOVAN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 4.75,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "DJ10969082",
+    "scoala": "LICEUL TEORETIC HENRI COANDA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ9392083",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8837996",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8881512",
+    "scoala": "SCOALA GIMNAZIALA ELENA FARAGO CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9427199",
+    "scoala": "SCOALA GIMNAZIALA BRALOSTITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ13091410",
+    "scoala": "SCOALA GIMNAZIALA GIGHERA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ13091410",
+    "scoala": "SCOALA GIMNAZIALA GIGHERA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9026310",
+    "scoala": "SCOALA GIMNAZIALA NICA BARBU LOCUSTEANU LEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9516375",
+    "scoala": "SCOALA GIMNAZIALA SALCIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ9516375",
+    "scoala": "SCOALA GIMNAZIALA SALCIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9593674",
+    "scoala": "SCOALA GIMNAZIALA GIURGITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9487995",
+    "scoala": "SCOALA GIMNAZIALA LESILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ228501",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ228501",
+    "scoala": "SCOALA GIMNAZIALA SF. DUMITRU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ12771248",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DJ12771248",
+    "scoala": "SCOALA GIMNAZIALA ANTON PANN CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10315803",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ8581958",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU MACEDONSKI CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ10275915",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ10266816",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ10266816",
+    "scoala": "SCOALA GIMNAZIALA UNIREA",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ12513946",
+    "scoala": "SCOALA GIMNAZIALA VERBITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DJ10008418",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10008418",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9422705",
+    "scoala": "SCOALA GIMNAZIALA GIGHERA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9422705",
+    "scoala": "SCOALA GIMNAZIALA GIGHERA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9610848",
+    "scoala": "SCOALA GIMNAZIALA VARTOP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9314501",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 DABULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DJ8714955",
+    "scoala": "SCOALA GIMNAZIALA SEGARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ8714955",
+    "scoala": "SCOALA GIMNAZIALA SEGARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9974913",
+    "scoala": "SCOALA GIMNAZIALA NR. 5 AV. P. IVANOVICI BAILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9680991",
+    "scoala": "SCOALA GIMNAZIALA CALOPAR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9680991",
+    "scoala": "SCOALA GIMNAZIALA CALOPAR",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9436651",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9436651",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8045392",
+    "scoala": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8045392",
+    "scoala": "LICEUL TEOLOGIC ADVENTIST CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9410210",
+    "scoala": "SCOALA GIMNAZIALA ION TUCULESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ11046740",
+    "scoala": "SCOALA GIMNAZIALA PLENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9589551",
+    "scoala": "SCOALA GIMNAZIALA GIURGITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8973046",
+    "scoala": "COLEGIUL NATIONAL CAROL I CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9262051",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8560019",
+    "scoala": "SCOALA GIMNAZIALA GH. JIENESCU RAST",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ8885671",
+    "scoala": "SCOALA GIMNAZIALA PRAPOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9691586",
+    "scoala": "LICEUL TEORETIC GH. VASILICHI CETATE",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8890131",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9907628",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ9907628",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE BIBESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9305098",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9305098",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE TITEICA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9525358",
+    "scoala": "SCOALA GIMNAZIALA STEFAN ISPAS MAGLAVIT",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8547469",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8690664",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8690664",
+    "scoala": "LICEUL TEHNOLOGIC HORIA VINTILA SEGARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8552014",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ8552014",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9413666",
+    "scoala": "SCOALA GIMNAZIALA BRALOSTITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9413666",
+    "scoala": "SCOALA GIMNAZIALA BRALOSTITA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ228901",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ228901",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ13097007",
+    "scoala": "SCOALA GIMNAZIALA GHERCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ13097007",
+    "scoala": "SCOALA GIMNAZIALA GHERCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 1.75,
+    "nota_finala": 1.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9186488",
+    "scoala": "SCOALA GIMNAZIALA DOBRESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DJ9425075",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DJ8713955",
+    "scoala": "LICEUL DE ARTE MARIN SORESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DJ9434878",
+    "scoala": "SCOALA GIMNAZIALA PLESOI",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DJ9910317",
+    "scoala": "SCOALA GIMNAZIALA FILIASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9756063",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ9756063",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE ROMANESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9647208",
+    "scoala": "SCOALA GIMNAZIALA PLENITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ9647208",
+    "scoala": "SCOALA GIMNAZIALA PLENITA",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9304276",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ8971195",
+    "scoala": "SCOALA GIMNAZIALA DESA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DJ8037215",
+    "scoala": "SCOALA GIMNAZIALA GOIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ8037215",
+    "scoala": "SCOALA GIMNAZIALA GOIESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9003733",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 POIANA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9003733",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 POIANA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9569612",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DJ9569612",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ9516418",
+    "scoala": "SCOALA GIMNAZIALA SALCIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DJ11190122",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DJ11190122",
+    "scoala": "COLEGIUL NATIONAL ELENA CUZA CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9261735",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10078120",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 3.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DJ10078120",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9437584",
+    "scoala": "LICEUL ENERGETIC CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9450184",
+    "scoala": "SCOALA PROFESIONALA CONSTANTIN ARGETOIANU ARGETOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DJ9525424",
+    "scoala": "SCOALA GIMNAZIALA ION TUCULESCU CRAIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ9525424",
+    "scoala": "SCOALA GIMNAZIALA ION TUCULESCU CRAIOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DJ8674342",
+    "scoala": "SCOALA GIMNAZIALA GHINDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DJ9745439",
+    "scoala": "SCOALA GIMNAZIALA MURGASI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DJ9745439",
+    "scoala": "SCOALA GIMNAZIALA MURGASI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9521913",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE GH. POPESCU INTORSURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.8,
+    "nota_finala": 1.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9450561",
+    "scoala": "SCOALA GIMNAZIALA SALCIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DJ9450561",
+    "scoala": "SCOALA GIMNAZIALA SALCIA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9221879",
+    "scoala": "SCOALA GIMNAZIALA GALICEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DJ9615962",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE CARAS CIUPERCENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ9615962",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE CARAS CIUPERCENII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DJ10303329",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DJ10303329",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOTATEI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  }
+]

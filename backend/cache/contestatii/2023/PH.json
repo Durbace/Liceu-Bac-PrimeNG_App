@@ -1,0 +1,6666 @@
+[
+  {
+    "cod": "PH7885752",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH6452501",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH10622780",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH10737749",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH8069255",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10559622",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9153643",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH10776754",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9202805",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10341499",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7913697",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9983724",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH10790151",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH6563801",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH3854551",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7867512",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7867289",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7867289",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9216504",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH10438827",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8357065",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH10611320",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10611320",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10622690",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.45,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH9215635",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4753151",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7945594",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PLOPU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH3911651",
+    "scoala": "LICEUL TEHNOLOGIC PROFESOR ILIE GAVRILĂ, SAT CIORANII DE JOS, COMUNA CIORANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7945645",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PLOPU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH7908932",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH9002246",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10732118",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAREȘ VODĂ, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH10732118",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAREȘ VODĂ, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH4534551",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH6566951",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH10836527",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL COMARNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7866904",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7868255",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9621150",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9232609",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH8038682",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8038682",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8518665",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH10365746",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7906580",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH5017151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 9.4,
+    "diferenta": 1.35
+  },
+  {
+    "cod": "PH8090321",
+    "scoala": "ȘCOALA GIMNAZIALĂ EROU ÎNV. I. DRĂGĂNESCU, SAT TRĂISTENI, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9004104",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9285317",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7906554",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7924453",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH10406831",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7902370",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7868301",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 9.3,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "PH5343601",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9805566",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH9805566",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH4944201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9766263",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TINOSU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9234683",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10623696",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH9285165",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9285165",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8315792",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH4742151",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH4540451",
+    "scoala": "LICEUL CAROL I , ORAȘUL PLOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9235727",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH4505501",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.7,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "PH9912862",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT LOLOIASCA, COMUNA TOMȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9912862",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT LOLOIASCA, COMUNA TOMȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4335451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7867169",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10043238",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH3963901",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA CARAGIU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9366735",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH6571301",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.3,
+    "diferenta": 1
+  },
+  {
+    "cod": "PH7880785",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STREJNICU, COMUNA TÂRGȘORUL VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH8317075",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9218500",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9363587",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9621527",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8970367",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH13174441",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9041058",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB, COMUNA BREBU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9237152",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH10623225",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10623225",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9830078",
+    "scoala": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10624379",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9218355",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH7869159",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH4068651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7894872",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8067658",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH10796595",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAREȘ VODĂ, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8246809",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TÂRGȘORU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8246809",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TÂRGȘORU VECHI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9216410",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7869005",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8908358",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH8908358",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH10765968",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH7879506",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STREJNICU, COMUNA TÂRGȘORUL VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH7880848",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STREJNICU, COMUNA TÂRGȘORUL VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7945542",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PLOPU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH8005573",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7867700",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH4346001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH9233446",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH5344651",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH9271156",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH9271156",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH6990151",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7898438",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10712244",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH9156469",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH7871187",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IONESCU, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH4244801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH3949201",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9002907",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH4908651",
+    "scoala": "COLEGIUL DE ARTĂ CARMEN SYLVA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9621092",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9090980",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH10400581",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU TUDORAN, COMUNA BLEJOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH10895601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR URECHIA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7846001",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BUDA, COMUNA RÂFOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH7867740",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH4926851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7253051",
+    "scoala": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7253051",
+    "scoala": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9091036",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH4722151",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH10739996",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9085405",
+    "scoala": "ȘCOALA GIMNAZIALĂ MITROPOLIT PIMEN GEORGESCU, COMUNA PROVIȚA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4699601",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8282289",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT COȚOFENEȘTI, COMUNA VĂRBILĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7911424",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH5826501",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SĂLCIILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10586246",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7869087",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH4061851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH4061851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9369550",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.9,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH8036707",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8578799",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT CORLĂTEȘTI, COMUNA BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7343351",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7894486",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH8001850",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH10559599",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7902534",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH4080601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH8010658",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7903151",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7868407",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH8603296",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH9091016",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH4743501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 9.3,
+    "diferenta": 1.65
+  },
+  {
+    "cod": "PH8701000",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE COSTESCU, COMUNA ALUNIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10612947",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3145701",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH10586433",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7869372",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9918875",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MIREȘU MARE, COMUNA SÂNGERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH10611220",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH9040862",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB, COMUNA BREBU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH8361335",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9479789",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8542836",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH8542836",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9216828",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9479001",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH10795093",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9222211",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7871932",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH5204101",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9510027",
+    "scoala": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10788911",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH5488551",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.35,
+    "diferenta": 1
+  },
+  {
+    "cod": "PH5488551",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH8706463",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN DUHOVNICUL, COMUNA BĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8706463",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN DUHOVNICUL, COMUNA BĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7860658",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH5025601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH8032133",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8032133",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8050658",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CÂMPINEANU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8050658",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CÂMPINEANU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9235623",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH3239301",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7899318",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH8031996",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH4322801",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.4,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "PH9218818",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH12308761",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT POSEȘTII-PĂMÂNTENI, COMUNA POSEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7809101",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7809101",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7867635",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9091104",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.4,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "PH9091104",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH9807542",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.25,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH7933421",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU HERA, SAT BĂTEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8190405",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT OLOGENI, COMUNA POIENARII BURCHII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8190405",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT OLOGENI, COMUNA POIENARII BURCHII",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9002602",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4315901",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9265837",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLATON MOCANU, SAT DRAJNA DE JOS, COMUNA DRAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4699801",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂTĂRANI, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8436495",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂNECIU-PĂMÂNTENI, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH8033560",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4726701",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH9476924",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANTON PANN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH9984901",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10025646",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH6868401",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH8500796",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH9003945",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8119320",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BABA ANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "PH10765120",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8575152",
+    "scoala": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8013548",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH3958401",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH3958401",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8900272",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8900272",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8931896",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9153357",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH8006951",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH9588331",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH5452201",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10790092",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10088731",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH10088731",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4945301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10340289",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10585470",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9807479",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.6,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "PH9807479",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8110588",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8110588",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10340606",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9807680",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9807680",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9011491",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH4148001",
+    "scoala": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4533251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH8034787",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10099745",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9806034",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9806034",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9011239",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR URECHIA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH5352051",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9285510",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10720520",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PLOIEȘTIORI, COMUNA BLEJOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH10734481",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TÂRGȘORU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH10054361",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH10054361",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7898268",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH8030876",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH4748301",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH4748301",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4950201",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7867830",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8005018",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH4742901",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8005211",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7867479",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IONESCU, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7867479",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IONESCU, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7858719",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8977680",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH9147623",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH13459902",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9805630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH8165428",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9807158",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH8055633",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH8908704",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH8908704",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9534565",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR DINU NICOLAE, COMUNA DUMBRAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7867632",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7867632",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8816486",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH8816486",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7895671",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH10094292",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH10094292",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9899606",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9001877",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH3888801",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH3954801",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9153541",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.9,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH9542355",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9542355",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9621123",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8779114",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10617782",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH10617782",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10282369",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10282369",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9998912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4353951",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7897956",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH7897956",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH8648538",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BRĂTĂȘANCA, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7868688",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH5242351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10589325",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH3955101",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7868919",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "PH9035410",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PIETRICEAUA, COMUNA BREBU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 7.5,
+    "diferenta": 1.55
+  },
+  {
+    "cod": "PH7867725",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IONESCU, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9807358",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10617619",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH4935601",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7945014",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH7926004",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7920461",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH8896043",
+    "scoala": "LICEUL TEHNOLOGIC AGROMONTAN ROMEO CONSTANTINESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10788886",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4207951",
+    "scoala": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH4901951",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH10743716",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH8031738",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7903976",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH7903976",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10756778",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9893093",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICHITA STĂNESCU, COMUNA CEPTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.9,
+    "diferenta": 1.35
+  },
+  {
+    "cod": "PH3991651",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂNECIU-PĂMÂNTENI, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7869051",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH9180230",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA CERAȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7895930",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH4745851",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8470372",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BRĂTĂȘANCA, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.75,
+    "diferenta": 1
+  },
+  {
+    "cod": "PH7867859",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7869122",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7886819",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7886819",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7980020",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH7925585",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH9921869",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT POIENARII APOSTOLI, COMUNA GORGOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8316970",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10815878",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH10815878",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10738891",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10738891",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8003362",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8974487",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH7349151",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7349151",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH10627900",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH5207101",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH5207101",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7924040",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH5885701",
+    "scoala": "COLEGIUL NAȚIONAL NICHITA STĂNESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "PH7867393",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7867393",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH3895001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH6987651",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8211545",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7897785",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4631801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH4631801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH10712337",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10712337",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8207771",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.8,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "PH6574651",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH5355201",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9863139",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE GRIGORESCU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9987541",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9987541",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7867426",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH7868367",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7868367",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9093461",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "PH8052479",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8048942",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH8048942",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10623542",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH9011770",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH9011770",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8161120",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9640256",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH9640256",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH4743051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.5,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "PH12283502",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8650541",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BRĂTĂȘANCA, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH3874301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH8908567",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH6868951",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH8248510",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA TÂRGȘORU VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH6386051",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH6386051",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10573852",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH3872351",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.6,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "PH5120601",
+    "scoala": "ȘCOALA GIMNAZIALĂ B.P. HAȘDEU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH4942051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH4631051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH4631051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10539596",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH9478722",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9478722",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10973290",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CÂMPINEANU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH10973290",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CÂMPINEANU, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9009410",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH9009410",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI VITEAZUL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH9807150",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH3876451",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8702673",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN DUHOVNICUL, COMUNA BĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9991937",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂTĂRANI, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH10300538",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SURANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9006842",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9006842",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9640139",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10586278",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8561686",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8561686",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10332315",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH10332315",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4079201",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10342336",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9478593",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7894313",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7894313",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10601351",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SURANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH8395269",
+    "scoala": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH6379851",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH6379851",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10340957",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10340957",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9479568",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9479568",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7858528",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT POSEȘTII-PĂMÂNTENI, COMUNA POSEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "PH8908627",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT INOTEȘTI, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10771564",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH7925352",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH6987451",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH4324451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4496401",
+    "scoala": "COLEGIUL DE ARTĂ CARMEN SYLVA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH4496401",
+    "scoala": "COLEGIUL DE ARTĂ CARMEN SYLVA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9221674",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH10776615",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH12600365",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.95,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH12600365",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH5087751",
+    "scoala": "LICEUL CAROL I , ORAȘUL PLOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH3905501",
+    "scoala": "LICEUL TEHNOLOGIC PROFESOR ILIE GAVRILĂ, SAT CIORANII DE JOS, COMUNA CIORANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9620746",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "PH9285254",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH4507101",
+    "scoala": "COLEGIUL DE ARTĂ CARMEN SYLVA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH4507101",
+    "scoala": "COLEGIUL DE ARTĂ CARMEN SYLVA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9152664",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8649734",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BRĂTĂȘANCA, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH8619942",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH3874901",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH6381901",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10366254",
+    "scoala": "ȘCOALA GIMNAZIALĂ CENTRALĂ, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH4944851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH4944851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8576021",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8576021",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9248338",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10680375",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.4,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "PH6995851",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXCELSIS, MUNICIPIUL PLOIEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9805782",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH9805782",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10025575",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7904881",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH9806796",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9807382",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH4750751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9899759",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH9723588",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH8065843",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH7869876",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU HERA, SAT BĂTEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH8359164",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH6581001",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7931730",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH10560468",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9807277",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4640851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7903562",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7903562",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8994202",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MEHEDINȚA, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8160406",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH7394701",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT FULGA DE JOS, COMUNA FULGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8091966",
+    "scoala": "ȘCOALA GIMNAZIALĂ EROU ÎNV. I. DRĂGĂNESCU, SAT TRĂISTENI, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7918944",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7918944",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8091475",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CÂMPINEANU, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7357251",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA VÂLCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH7357251",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA VÂLCĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10610149",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.7,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH10610149",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7882788",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10836820",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL COMARNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH9479848",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8900117",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH5067951",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH5067951",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7896178",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7896178",
+    "scoala": "COLEGIUL NAȚIONAL ALEXANDRU IOAN CUZA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH3885751",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT NEDELEA, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 7.25,
+    "diferenta": 1.3
+  },
+  {
+    "cod": "PH9993999",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH6995601",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH9010681",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH6990851",
+    "scoala": "ȘCOALA GIMNAZIALĂ IENĂCHIȚĂ VĂCĂRESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7860706",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7860706",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9183607",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8060374",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH9363725",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9376495",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT DÂRVARI, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH10719837",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10560403",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10560403",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8246182",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7868586",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH10775602",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH9156822",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH7908628",
+    "scoala": "ȘCOALA GIMNAZIALĂ INTERNAȚIONALĂ SPECTRUM, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7843651",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT BUDA, COMUNA RÂFOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH4739951",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH7898312",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "PH9833684",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH3841451",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3841451",
+    "scoala": "COLEGIUL NAȚIONAL NICOLAE IORGA, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH4080151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.9,
+    "diferenta": 1
+  },
+  {
+    "cod": "PH8359373",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH8359373",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9902799",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "PH9375980",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH4709701",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE SFETESCU, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "PH9041377",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB, COMUNA BREBU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7948829",
+    "scoala": "ȘCOALA GIMNAZIALĂ IENĂCHIȚĂ VĂCĂRESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH3897801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH10711559",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9791285",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂRGINENII DE JOS, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8063918",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FILIPEȘTII DE TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4851901",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH9009565",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH10775380",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10711786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH9620523",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7866930",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂNECIU-PĂMÂNTENI, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH4401451",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT DRAJNA DE SUS, COMUNA DRAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH7931639",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8647029",
+    "scoala": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH4948901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9006631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR URECHIA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9006631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NESTOR URECHIA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4491501",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4491501",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4657801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH3262201",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH5018701",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH5018701",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9805769",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH9805769",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH8903285",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH8528395",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR DINU NICOLAE, COMUNA DUMBRAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH4710201",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLATON MOCANU, SAT DRAJNA DE JOS, COMUNA DRAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10789136",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7894021",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8579268",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT CORLĂTEȘTI, COMUNA BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH10400306",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU TUDORAN, COMUNA BLEJOI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8509530",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH4345751",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.7,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "PH10625550",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.1,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "PH10625550",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH4633801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9479355",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9479355",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9546850",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, SAT POTIGRAFU, COMUNA GORGOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9546850",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA, SAT POTIGRAFU, COMUNA GORGOTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9498503",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICHITA STĂNESCU, COMUNA CEPTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9498503",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICHITA STĂNESCU, COMUNA CEPTURA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9361433",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA MARIA, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10623147",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH4749201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH10775463",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH7944984",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9441000",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8051580",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7867191",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10743895",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7958967",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7886917",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH7886917",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9546414",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH9401201",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA MARIA, ORAȘUL MIZIL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7908418",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7908418",
+    "scoala": "COLEGIUL NAȚIONAL ION LUCA CARAGIALE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "PH8005383",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH8005383",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7977307",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH4216351",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂNUȚĂ IONESCU, ORAȘUL URLAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8992437",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MEHEDINȚA, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7982050",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8163508",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8315843",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT CIORANII DE SUS, COMUNA CIORANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7945356",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8316997",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8979668",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT ROMÂNEȘTI, COMUNA BĂRCĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH8979668",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT ROMÂNEȘTI, COMUNA BĂRCĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH11113384",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT VALEA CUCULUI, COMUNA IORDĂCHEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH11113384",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT VALEA CUCULUI, COMUNA IORDĂCHEANU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9985609",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH7885961",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8518398",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.75,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH7947249",
+    "scoala": "ȘCOALA GIMNAZIALĂ IENĂCHIȚĂ VĂCĂRESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH10332187",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10332187",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH8705000",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE COSTESCU, COMUNA ALUNIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH10740086",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH8004500",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9813512",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH10764362",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9101526",
+    "scoala": "LICEUL TEORETIC ȘERBAN VODĂ, ORAȘUL SLĂNIC",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9574931",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9807309",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8969802",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10586550",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH10624066",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH13602380",
+    "scoala": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH13602380",
+    "scoala": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8206051",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH8206051",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10765682",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH7918808",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH3895801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH3895801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7896702",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH5203401",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH8778313",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH8778313",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH5264051",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR DINU NICOLAE, COMUNA DUMBRAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH10005638",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7868213",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH7871959",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STREJNICU, COMUNA TÂRGȘORUL VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH7871959",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STREJNICU, COMUNA TÂRGȘORUL VECHI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8044111",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "PH4702651",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7885951",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRINCIPESA MARIA, ORAȘUL SINAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8679007",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH10559352",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8179832",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH9813592",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT STOENEȘTI, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH4749651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 5.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "PH3904801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH3904801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8053507",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10609012",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8781777",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8781777",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH13893283",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8642775",
+    "scoala": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH10796100",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH7945506",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH7349701",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9479643",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8056895",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7895952",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7869415",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH7951685",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH9905608",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8050252",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10944609",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT DÂRVARI, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH10944609",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT DÂRVARI, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9271126",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9271126",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3146201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH3146201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4500101",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU STANIAN, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH7867239",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GORNET-CRICOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH3871351",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH3871351",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9480095",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "PH9480095",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9285379",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PUCHENII MOȘNENI, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH4646051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH4646051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7905936",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH7905936",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA, ORAȘUL BUȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH5205451",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH5205451",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH7868612",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7340551",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH7340551",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8657082",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂNECIU-PĂMÂNTENI, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "PH9893309",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICHITA STĂNESCU, COMUNA CEPTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10739148",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH10739148",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4743401",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8092689",
+    "scoala": "ȘCOALA GIMNAZIALĂ EROU ÎNV. I. DRĂGĂNESCU, SAT TRĂISTENI, COMUNA VALEA DOFTANEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8168197",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH8168197",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH9807317",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 4.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH5244351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8180077",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4654751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9807428",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH7829901",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE DIBOȘ, COMUNA MĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10587942",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10587942",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRI MATHIAS BERTHELOT, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10356586",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU BREZEANU, COMUNA TEIȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8890188",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DINU MIHAIL DAN, SAT MAGULA, COMUNA TOMȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "PH8039829",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂNUȚĂ IONESCU, ORAȘUL URLAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8039829",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂNUȚĂ IONESCU, ORAȘUL URLAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4601801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 3.8,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "PH8167588",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9639844",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.A.BASSARABESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9477720",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PLOIEȘTIORI, COMUNA BLEJOI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7868234",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH7868234",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR NICOLAE SIMACHE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8364885",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH10711607",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.6,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH8433377",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MĂNECIU-PĂMÂNTENI, COMUNA MĂNECIU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8974337",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT TĂRICENI, COMUNA ȘIRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH8043213",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH8790627",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT VALEA DULCE, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH3888301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "PH3888301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ING. GHEORGHE PĂNCULESCU, ORAȘUL VĂLENII DE MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9389890",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT PODENII VECHI, COMUNA BĂLȚEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9833402",
+    "scoala": "LICEUL TEHNOLOGIC MECANIC, MUNICIPIUL CÂMPINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH4739801",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GURA VITIOAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH4739801",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GURA VITIOAREI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8945629",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH8945629",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH9248192",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT DÂRVARI, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "PH10769706",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH10769706",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10010153",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH10010153",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8980681",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COCORĂȘTII MISLII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH9255792",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MEHEDINȚA, COMUNA PODENII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8015806",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SCORȚENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH4890751",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH7346601",
+    "scoala": "LICEUL TEHNOLOGIC CAROL I, COMUNA VALEA DOFTANEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH3238401",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA CARAGIU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "PH8042141",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH11117153",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT VĂRBILA, COMUNA IORDĂCHEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "PH11117153",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT VĂRBILA, COMUNA IORDĂCHEANU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3872101",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9987734",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8253807",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN SĂVULESCU, COMUNA IZVOARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.8,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "PH8253807",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN SĂVULESCU, COMUNA IZVOARELE",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8979907",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT ROMÂNEȘTI, COMUNA BĂRCĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH12136098",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT CĂTINA, COMUNA FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH7918307",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂNUȚĂ IONESCU, ORAȘUL URLAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8779656",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8779656",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7860890",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH5092101",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SURANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH5092101",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SURANI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9990006",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH3870601",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH3870601",
+    "scoala": "LICEUL TEHNOLOGIC DE SERVICII SFÂNTUL APOSTOL ANDREI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9620423",
+    "scoala": "LICEUL TEORETIC GRIGORE TOCILESCU, ORAȘUL MIZIL",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH7870772",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IONESCU, COMUNA VALEA CĂLUGĂREASCĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "PH8900514",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH10351831",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA VĂRBILĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH4968351",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BĂTRÂNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH9807332",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "PH9807332",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10298011",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10298011",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10614386",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SĂLCIILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10614386",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA SĂLCIILE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8562904",
+    "scoala": "LICEUL TEORETIC, COMUNA FILIPEȘTII DE PĂDURE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9466043",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PROVIȚA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH9466043",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PROVIȚA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7909166",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH4978801",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA BĂTRÂNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH7887969",
+    "scoala": "LICEUL TEHNOLOGIC CONSTANTIN CANTACUZINO, ORAȘUL BĂICOI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8006862",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8006862",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7867500",
+    "scoala": "LICEUL TEORETIC BRÂNCOVEANU VODĂ, ORAȘUL URLAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 2.85,
+    "nota_finala": 2.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH10026207",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8803693",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH8803693",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH3955751",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH3955751",
+    "scoala": "COLEGIUL FERDINAND I, COMUNA MĂNECIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8562846",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "PH8562846",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR RADU ION, SAT VADU PĂRULUI, COMUNA ALBEȘTI-PALEOLOGU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4878101",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA GURA VITIOAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH8920463",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DINU MIHAIL DAN, SAT MAGULA, COMUNA TOMȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "PH8920463",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DINU MIHAIL DAN, SAT MAGULA, COMUNA TOMȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "PH8365527",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8365553",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "PH8365553",
+    "scoala": "ȘCOALA PROFESIONALĂ, COMUNA STARCHIOJD",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3868151",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10559358",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH10559358",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8163621",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA PUCHENII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8316908",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COLCEAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "PH8316908",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA COLCEAG",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9232839",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 4.8,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "PH9232839",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL VASILE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH3908501",
+    "scoala": "LICEUL TEHNOLOGIC PROFESOR ILIE GAVRILĂ, SAT CIORANII DE JOS, COMUNA CIORANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH7974444",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7974444",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU, ORAȘUL BREAZA",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH10560541",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH10560541",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR OPREA MIHAI, SAT NEGOIEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH8890414",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DINU MIHAIL DAN, SAT MAGULA, COMUNA TOMȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "PH7952452",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH7952452",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR CRISTEA STĂNESCU, COMUNA CORNU",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "PH8253406",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN SĂVULESCU, COMUNA IZVOARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "PH9918606",
+    "scoala": "ȘCOALA GIMNAZIALĂ, SAT MIREȘU MARE, COMUNA SÂNGERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "PH8180869",
+    "scoala": "LICEUL SIMION STOLNICU, ORAȘUL COMARNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "PH10797138",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "PH10797138",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH8781000",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VODĂ, SAT PLEAȘA, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH6448901",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGINA MARIA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9910645",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA T. SOCOLESCU, COMUNA PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH9478668",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "PH9478668",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9229410",
+    "scoala": "ȘCOALA GIMNAZIALĂ CANDIANO POPESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH9229410",
+    "scoala": "ȘCOALA GIMNAZIALĂ CANDIANO POPESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH4748651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "PH4748651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "PH9982652",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "PH9982652",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN GRIGORESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH7867493",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU HERA, SAT BĂTEȘTI, COMUNA BRAZI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH4651601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "PH4651601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2, ORAȘUL BOLDEȘTI-SCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10497972",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10497972",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN STERE, COMUNA BUCOV",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9807017",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9807017",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DOAMNA, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "PH8051680",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE EMIL PALADE, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "PH7947556",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "PH7947556",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH9090972",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "PH9090972",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VINERI, MUNICIPIUL PLOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "PH10025623",
+    "scoala": "ȘCOALA GIMNAZIALĂ, COMUNA ARICEȘTII RAHTIVANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.1,
+    "diferenta": -0.1
+  }
+]

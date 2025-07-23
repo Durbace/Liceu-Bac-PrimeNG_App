@@ -1,0 +1,7626 @@
+[
+  {
+    "cod": "AG9461295",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11066673",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8732387",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11109734",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG8439680",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9232086",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9488768",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10775382",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9822279",
+    "scoala": "ȘCOALA GIMNAZIALĂ BABAROAGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10815841",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10847459",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG12518550",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10802721",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10802721",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10883539",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR AMAN CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9624747",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG8746683",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9407726",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10847346",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.85,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG10900296",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8421952",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9485597",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10847704",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG11191992",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9449329",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10825671",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10411431",
+    "scoala": "LICEUL TEHNOLOGIC VICTOR SLĂVESCU RUCĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9055279",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9634941",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10972176",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9432706",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11191239",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG11191239",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9590946",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9590946",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9179212",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11068052",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10849168",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG10883488",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10837437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VALEA DANULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AG9407951",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9240258",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10770569",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10814732",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10814685",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10786711",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10847540",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9418943",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "AG10833406",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11060851",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9215280",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 9,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG9215280",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10813274",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL IACOB CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9485351",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9569997",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9569997",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG34451",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10801596",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11187615",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9570180",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8440487",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9841925",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10901199",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9485121",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10075426",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE EXCELENȚĂ SFÂNTA MUCENIȚĂ FILOTEEA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9444624",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9441411",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9449833",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG7923041",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG7923041",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10945663",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9474220",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9105956",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG11033487",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10847380",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG8458647",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9445086",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9445086",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10978796",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10978796",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10894047",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10410806",
+    "scoala": "LICEUL TEHNOLOGIC VICTOR SLĂVESCU RUCĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG9409237",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9409237",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG10333462",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10333462",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9442834",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10395612",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10395612",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8592995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VALEA DANULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10955326",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 8.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG10955326",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10884016",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10884016",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10074276",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG8452830",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG12251770",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG11049769",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG9052891",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10827500",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10827500",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10901832",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9051188",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9051188",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG11068088",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9402540",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10011176",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CATRINESCU DRAGOSLAVELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9569830",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11196922",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG11196922",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9359458",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG2045951",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8443528",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9449840",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9449840",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10969701",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10969701",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10333528",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10850934",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10850934",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9403511",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9615485",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG8588300",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL IACOB CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG9504486",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG10827681",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9268187",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9268187",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9529028",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10162669",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9097479",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10898518",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG8025900",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HÎRTIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10855186",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG10857979",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG10972660",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10813332",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10551690",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10551690",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10884100",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9706054",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAUM RÂMNICEANU CORBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG1022301",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10477415",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10077467",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG8954718",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8954718",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10860047",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9389955",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10770008",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG11110495",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9055345",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG8638999",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL IACOB CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9056459",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10856840",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9403610",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10815781",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG11190678",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10833634",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10969949",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10900371",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG11189762",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9625288",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10869344",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN BRANIȘTE SUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9987538",
+    "scoala": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9441350",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9569690",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10856052",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AG10856052",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10897360",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8196522",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LUI ENACHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8257133",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRĂTIA-CIOMĂGEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8257133",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRĂTIA-CIOMĂGEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG1178101",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG1178101",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10954559",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10918163",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10814970",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG11187048",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10826967",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10826967",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9794555",
+    "scoala": "ȘCOALA GIMNAZIALĂ PURCĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG11066298",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11066298",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG1884001",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9052837",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG8305001",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA BRĂTIANU ȘUICI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9400555",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10579501",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9354996",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MOCANU ROCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10364310",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU UDRESCU SĂPATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG9028024",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9028024",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11188704",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11188704",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG8441612",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG8441612",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10788668",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10788668",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10089667",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10971072",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9445281",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10971920",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10333669",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10333669",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9568973",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9162352",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9162352",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11053518",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG8907336",
+    "scoala": "ȘCOALA GIMNAZIALĂ VINTILĂ BRĂTIANU ȘTEFĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10815090",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11189630",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10333947",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10333947",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10096381",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PIETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9624899",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9624899",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9384463",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11071485",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG10439172",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 POIANA LACULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9268276",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10855479",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10884224",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10427554",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA BRĂTIANU ȘUICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AG10427554",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA BRĂTIANU ȘUICI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10413387",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂLĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10827149",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10827149",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9052972",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10265551",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10691197",
+    "scoala": "ȘCOALA GIMNAZIALĂ BROȘTENI-ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG2039751",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG2039751",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9448823",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9591652",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10589853",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9453339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ȘTEFĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG11139394",
+    "scoala": "ȘCOALA GIMNAZIALĂ VICTOR ȚÂRCOVNICUL POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG11186519",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10661642",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9130916",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8442328",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG11198443",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9052035",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9052035",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9403103",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9403103",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11098758",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG11098758",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9244892",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11066327",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG11066327",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9711774",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9408665",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9408665",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8904923",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10898571",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9442687",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9185046",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10815611",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10815611",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10122898",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10895472",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8556919",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9975775",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9097456",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9097456",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11195867",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9639529",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA URSULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9639529",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA URSULUI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10079812",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10930604",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8434202",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10815717",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9887260",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG11192021",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11192021",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG8972347",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG8972347",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10973115",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9054453",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10900871",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10900871",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG7858091",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9374296",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG9485536",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9485536",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10070441",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9226709",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9267986",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG10945157",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9105590",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG10805410",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10813736",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR ARGHEZI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10112459",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9708827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG9841629",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9841629",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9635622",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10083279",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10083279",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9591329",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9591329",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10907701",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10714973",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG1022601",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ȘTEFAN CEL MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG1022601",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ȘTEFAN CEL MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10869099",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10511786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10955374",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10955374",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11066644",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11066644",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG11188828",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE EXCELENȚĂ SFÂNTA MUCENIȚĂ FILOTEEA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG11188828",
+    "scoala": "ȘCOALA GIMNAZIALĂ DE EXCELENȚĂ SFÂNTA MUCENIȚĂ FILOTEEA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9405127",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9282866",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CETĂȚENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9358673",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10904380",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10904380",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11193298",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10826784",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9448744",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9448744",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9402895",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.55,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG9159469",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10856755",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10825395",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10825395",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9122959",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG10833687",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10786824",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10786824",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9487736",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9282830",
+    "scoala": "ȘCOALA GIMNAZIALĂ VINTILĂ BRĂTIANU ȘTEFĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10285515",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG9450840",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ARGEȘELU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9561624",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11191165",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11188821",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG11188821",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8906876",
+    "scoala": "ȘCOALA GIMNAZIALĂ VINTILĂ BRĂTIANU ȘTEFĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11127417",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10859504",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10973674",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG10973240",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10973240",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9702981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10847213",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10847213",
+    "scoala": "COLEGIUL NAȚIONAL ZINCA GOLESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG10996114",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8975247",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9706164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAUM RÂMNICEANU CORBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9706164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAUM RÂMNICEANU CORBI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10850265",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG8962943",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG8962943",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10912682",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8.25,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "AG10912682",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9380711",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG8992943",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10579734",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9453364",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG1970801",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG1970801",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10717570",
+    "scoala": "ȘCOALA GIMNAZIALĂ BROȘTENI-ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9450811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9450811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10884096",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG10884096",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10893630",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10119986",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG11189721",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9379891",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9147192",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG10814617",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10899366",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10899366",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9608191",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG11196870",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG9061134",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9061134",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9406335",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG8986285",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.2,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG8986285",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG8911669",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10359242",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9527204",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG9527204",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10902590",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10857199",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG8906525",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9406000",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG9406000",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9673068",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG9673068",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9096574",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10528015",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10528015",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10835164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10835164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG11076328",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10496873",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8451432",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8451432",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10878517",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8385965",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LUI ENACHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG8385965",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LUI ENACHE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11190881",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10857310",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10809033",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10809033",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8978567",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10952688",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10775321",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10775321",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9889046",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9624728",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG11068190",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10073406",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9072384",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8457832",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG8457832",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10317820",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10317820",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10850109",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE MARINESCU DRĂGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG9702318",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG57451",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9409341",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9120590",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10070104",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10070104",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11192146",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11085953",
+    "scoala": "ȘCOALA GIMNAZIALĂ SF. APOSTOL ANDREI CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10323998",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9461479",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10854239",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8083347",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8083347",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10477694",
+    "scoala": "ȘCOALA GIMNAZIALĂ RETEVOIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10869870",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10869870",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9472863",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10787058",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10787058",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG1178651",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8082082",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8082082",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG11198121",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA URSULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10804008",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9889290",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG9889290",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10898915",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10582002",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9385794",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG10860284",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10860284",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8740578",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG8740578",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10895107",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8972985",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10786257",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10975432",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10810153",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8728970",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8973428",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9453379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10691085",
+    "scoala": "ȘCOALA GIMNAZIALĂ BROȘTENI-ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10357569",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9590219",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 6.9,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "AG10965851",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10868410",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10868410",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10303726",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ȘTEFAN CEL MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10894579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10894579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9055889",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8442490",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10602584",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11186618",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG11186618",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10909544",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10884098",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG10884098",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10364460",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8990717",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10969694",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10969694",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9282759",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CETĂȚENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9417802",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG9417802",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10459035",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9051802",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10346799",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8898567",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8349857",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10770950",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10770950",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9442036",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG9442036",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG1408651",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.25,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AG1408651",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9183617",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AG9183617",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8467549",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU UDRESCU SĂPATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10979345",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10986614",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9977440",
+    "scoala": "ȘCOALA GIMNAZIALĂ SANDA MOVILĂ ALBOTA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10826097",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG10596259",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10803986",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11066214",
+    "scoala": "ȘCOALA GIMNAZIALĂ SF. APOSTOL ANDREI CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10450129",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10450129",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10883978",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10941434",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9561926",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10285671",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10943433",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10943433",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9590687",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9590687",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9574632",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE STEPHĂNESCU AREFU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG9574632",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE STEPHĂNESCU AREFU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9055585",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG11192131",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10977741",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG8912090",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG8992980",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG8992980",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG8339855",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂTEASCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9051370",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9051370",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9634575",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9634575",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10803217",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.85,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG10803217",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9272759",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9272759",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10786865",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8186863",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG9056349",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10970413",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10836698",
+    "scoala": "LICEUL TEORETIC ION MIHALACHE TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10808912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.35,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AG10808912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11191271",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG9150289",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9150289",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10347090",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9404561",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "AG9584723",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9053857",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG9053857",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9388737",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG9108356",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROFESOR DOCTOR VASILE VASILESCU OEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9453385",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9453385",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG11066556",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG10078000",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10531859",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10897111",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10897111",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10883544",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8255790",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIREȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8255790",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIREȘU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9267970",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG9635516",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10365061",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG8025907",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HÎRTIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9569859",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9569859",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10429246",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10264885",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10264885",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10945704",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10842826",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10842826",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9485028",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG9273184",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG9273184",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8882544",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9569873",
+    "scoala": "COLEGIUL NAȚIONAL ION C. BRĂTIANU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9849032",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AG8451732",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8451732",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10096539",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.3,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG9370168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ARGEȘELU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9624772",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG2056151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 8.1,
+    "diferenta": 1
+  },
+  {
+    "cod": "AG2056151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10849383",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9178413",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10129156",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG2051151",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10883540",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG4610901",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂICULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10499974",
+    "scoala": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10499974",
+    "scoala": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10786464",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10091600",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PIETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.65,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "AG10091600",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PIETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10909242",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10909242",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9405931",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10849831",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10849831",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9305176",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10366009",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10949833",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9834057",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.55,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG9834057",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10098768",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10833073",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10833073",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10109990",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.65,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG9957892",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10603024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10603024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9449041",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG9449041",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG8973317",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG8906464",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ȘTEFĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9215166",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9215166",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8258622",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂTEASCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9988741",
+    "scoala": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10399369",
+    "scoala": "LICEUL TEHNOLOGIC I.C. PETRESCU STÎLPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10399369",
+    "scoala": "LICEUL TEHNOLOGIC I.C. PETRESCU STÎLPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10122247",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.45,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG9358135",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10965011",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10965011",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9570245",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9793282",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9793282",
+    "scoala": "LICEUL DE ARTE DINU LIPATTI PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9624679",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG9624679",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9502611",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BĂLĂCEANU STOLNICI STOLNICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG9502611",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BĂLĂCEANU STOLNICI STOLNICI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9487665",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10075036",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10075036",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10846657",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SCHITU GOLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10941271",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8973787",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9473136",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.55,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG9406914",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9406914",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10849213",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10870269",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN BRANIȘTE SUSENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10063095",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11074557",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11074557",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10995817",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG8639782",
+    "scoala": "ȘCOALA GIMNAZIALĂ C.D. ARICESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.75,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "AG10118274",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG8161394",
+    "scoala": "ȘCOALA GIMNAZIALĂ COTEȘTI-GODENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG8965102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.25,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AG8965102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG8955359",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10081555",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10081555",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10894434",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10894434",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11195505",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10123132",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9705509",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAUM RÂMNICEANU CORBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9705509",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAUM RÂMNICEANU CORBI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10950916",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG11188414",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG10323855",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ALBEȘTII DE MUSCEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10323855",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ALBEȘTII DE MUSCEL",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9106282",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AG9106282",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10878943",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10853062",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG9485412",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG9485412",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10894370",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11191848",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9358716",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9027374",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9027374",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.L. CARAGIALE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9061211",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9967233",
+    "scoala": "ȘCOALA GIMNAZIALĂ ILIE STOENESCU BOȚEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10390912",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10390912",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10098368",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9400787",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8201669",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG9168450",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "AG9168450",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG11066532",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 6.6,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "AG11066532",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10884956",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9060941",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG9060941",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8468797",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10835120",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10867186",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10842808",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10653934",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10653934",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9443573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9443573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8255942",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIREȘU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10786310",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10786310",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9635298",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG1179101",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR ARGHEZI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AG10529883",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9889185",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE MARINESCU DRĂGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.45,
+    "diferenta": 1
+  },
+  {
+    "cod": "AG9883998",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IORGULESCU MIHĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10851121",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG10851121",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11085201",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG11085201",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8975514",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8975514",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8992604",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8596129",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AG8596129",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG11187798",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AG11187798",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10086916",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG9400528",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAE A GHICA RUCĂR",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10968035",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10968035",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10951347",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG10951347",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10869764",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10810931",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE VELEA CEPARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.65,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "AG10365465",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9301334",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPREA IORGULESCU CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10096940",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10847177",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10847177",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG8975728",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10594319",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG10510780",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂMARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG12119400",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ALBEȘTII DE MUSCEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AG12119400",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ALBEȘTII DE MUSCEL",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9842215",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9842215",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9231853",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10884958",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL IACOB CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10884958",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL IACOB CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9889533",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE MARINESCU DRĂGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AG9889533",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE MARINESCU DRĂGANU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9528736",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG9528736",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PILLAT PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9170132",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA GHIȚULESCU CUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG6741851",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11073116",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOFRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG8975127",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG9925823",
+    "scoala": "ȘCOALA GIMNAZIALĂ HÂRSEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9925823",
+    "scoala": "ȘCOALA GIMNAZIALĂ HÂRSEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10807981",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG11071402",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIOARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG11071402",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIOARELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10931403",
+    "scoala": "ȘCOALA GIMNAZIALĂ MORĂREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11073438",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10279897",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN RĂDULESCU CODIN PRIBOIENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8892416",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10849453",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9482546",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG9482546",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10836727",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU CEL MARE BOGAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11085336",
+    "scoala": "ȘCOALA GIMNAZIALĂ SF. APOSTOL ANDREI CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10813920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10117366",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ALBEȘTII DE MUSCEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9672060",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10977571",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALBEȘTII DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9569585",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR ARGHEZI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AG10799622",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AG10799622",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9834249",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10055063",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11011742",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG8143557",
+    "scoala": "ȘCOALA GIMNAZIALĂ COTEȘTI-GODENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG9705272",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG11195623",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG11195623",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG13672962",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10273973",
+    "scoala": "ȘCOALA GIMNAZIALĂ ADRIAN PĂUNESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9505057",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8978961",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10346164",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9393704",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MOCANU ROCIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9250194",
+    "scoala": "ȘCOALA GIMNAZIALĂ IORDACHE PĂCESCU COȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10481706",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDUROIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10481706",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDUROIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10809836",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10550029",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10550029",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG13694536",
+    "scoala": "ȘCOALA GIMNAZIALĂ MORĂREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG13694536",
+    "scoala": "ȘCOALA GIMNAZIALĂ MORĂREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10086232",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10086232",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION MINULESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9959393",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 POIENARII DE MUSCEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9959393",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 POIENARII DE MUSCEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9789057",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10058210",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZĂRNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10413121",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA GHIȚULESCU CUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10413121",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA GHIȚULESCU CUCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10906034",
+    "scoala": "ȘCOALA GIMNAZIALĂ GLÎMBOCATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AG11193277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG11099448",
+    "scoala": "COLEGIUL NAȚIONAL DINICU GOLESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG9564869",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10768228",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11061863",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7.15,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AG9504782",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG8432345",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU CEL MARE BOGAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG8595857",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG8595857",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA MARIA CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10906331",
+    "scoala": "ȘCOALA GIMNAZIALĂ GLÎMBOCATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG10906331",
+    "scoala": "ȘCOALA GIMNAZIALĂ GLÎMBOCATA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10349351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10092804",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10092804",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9548740",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DAVILA PERTICARI IZVORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.3,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AG11060870",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG11060870",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARAB I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG14001596",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE I.I.C. BRĂTIANU RĂTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG14001596",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE I.I.C. BRĂTIANU RĂTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9729570",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9884809",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IORGULESCU MIHĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9232354",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10825189",
+    "scoala": "ȘCOALA GIMNAZIALĂ IORDACHE PĂCESCU COȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10825189",
+    "scoala": "ȘCOALA GIMNAZIALĂ IORDACHE PĂCESCU COȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8454694",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HÎRTIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.55,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG8454694",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HÎRTIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9792765",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AG10804082",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10804082",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE IORGA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9485039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9485039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10885165",
+    "scoala": "ȘCOALA GIMNAZIALĂ THEODOR AMAN CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10873349",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10873349",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10945541",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AG10945541",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG8531492",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9817098",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN RĂDULESCU CODIN PRIBOIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10365907",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9636995",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9637287",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9637287",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL CALOTESCU BASCOV",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9272834",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9272834",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10092209",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10836742",
+    "scoala": "ȘCOALA GIMNAZIALĂ RADU CEL MARE BOGAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG1966451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10488619",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE VELEA CEPARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG11109682",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAROL I CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9075262",
+    "scoala": "ȘCOALA GIMNAZIALĂ PODU-DÂMBOVIȚEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG8966524",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG10884039",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.65,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AG10884039",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9230300",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAE A GHICA RUCĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG9032518",
+    "scoala": "ȘCOALA GIMNAZIALĂ GENERAL CONSTANTIN CRISTESCU LUNCA CORBULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10551751",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG10551751",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8775641",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8775641",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG11110671",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG11110671",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9473652",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10081461",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG10081461",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AG9794328",
+    "scoala": "ȘCOALA GIMNAZIALĂ PURCĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG12875344",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG12875344",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10013561",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CATRINESCU DRAGOSLAVELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9971283",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CATRINESCU DRAGOSLAVELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG8892295",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8995521",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR ARGHEZI PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG8995521",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR ARGHEZI PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9091376",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 LEREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AG10899835",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARIN PREDA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.15,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG10803681",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SCHITU GOLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG11195937",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELENA DAVILA PERTICARI IZVORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9380519",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10063413",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG10063413",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10939260",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE BĂLCESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10587418",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUGHEA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG8286245",
+    "scoala": "ȘCOALA GIMNAZIALĂ C.D. ARICESCU CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG10884048",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AG10884048",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10940975",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10940975",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8596364",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10966487",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG10078121",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRE TUDOSE MĂLURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG10866930",
+    "scoala": "ȘCOALA GIMNAZIALĂ NANU MUSCEL CÂMPULUNG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AG9730061",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG9887578",
+    "scoala": "ȘCOALA GIMNAZIALĂ VINTILĂ BRĂTIANU ȘTEFĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AG9887578",
+    "scoala": "ȘCOALA GIMNAZIALĂ VINTILĂ BRĂTIANU ȘTEFĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10974747",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG10974747",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10851942",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10851942",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9281320",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9281320",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARMAND CĂLINESCU CURTEA DE ARGEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG9381428",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AG9381428",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9375158",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 MĂRĂCINENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10807761",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC CAROL I CÂMPULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG11018172",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG1024251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AG1024251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRU VODĂ PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10502124",
+    "scoala": "LICEUL TEHNOLOGIC PETRE IONESCU MUSCEL DOMNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG9639004",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9639004",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10590983",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10076655",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AG10076655",
+    "scoala": "LICEUL TEORETIC IULIA ZAMFIRESCU MIOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9504682",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG9504682",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DAVILA PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9590358",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AG9590358",
+    "scoala": "ȘCOALA GIMNAZIALĂ MATEI BASARAB PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10067969",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CATRINESCU DRAGOSLAVELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10067969",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOSIF CATRINESCU DRAGOSLAVELE",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9358229",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG9380144",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AG9380144",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10312912",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE I.I.C. BRĂTIANU RĂTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10971049",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG8959741",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10482687",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDUROIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AG10482687",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂDUROIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10960420",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6.05,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AG10960420",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10391026",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10391026",
+    "scoala": "LICEUL TEHNOLOGIC TOPOLOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG9711443",
+    "scoala": "ȘCOALA GIMNAZIALĂ VRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AG10821513",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMA ARNĂUȚOIU NUCȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG9514291",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOZĂCENI-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9484507",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA URSULUI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG9568723",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOPÎRCEANU MIOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 3.85,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AG9843148",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOZĂCENI-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AG1409051",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUDOR MUȘATESCU PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10894775",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOȘOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10629528",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE I.I.C. BRĂTIANU RĂTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AG10969595",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AG10969595",
+    "scoala": "LICEUL TEHNOLOGIC VEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG8907623",
+    "scoala": "ȘCOALA GIMNAZIALĂ GLÎMBOCATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AG10915783",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AG10915783",
+    "scoala": "LICEUL CU PROGRAM SPORTIV VIITORUL PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10810484",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÂRSEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AG10810484",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÂRSEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AG10590748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AG10590748",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE SIMONIDE PITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  }
+]

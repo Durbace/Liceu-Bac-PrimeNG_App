@@ -1,0 +1,5274 @@
+[
+  {
+    "cod": "SB10120546",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10120546",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10020565",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB11191438",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10563393",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10175258",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB661951",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10009404",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB11191598",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB9095888",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SB9095888",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10115084",
+    "scoala": "LICEUL TEORETIC ROTH - OBERTH MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10307000",
+    "scoala": "ŞCOALA GIMNAZIALĂ BATHORY ISTVAN MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10665653",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10463452",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB8542937",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8965052",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10352019",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10386139",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB11059869",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11116417",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10263703",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10342399",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10532099",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10357083",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9518346",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10387619",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB11116424",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9699092",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB8568425",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10452804",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB7943631",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9757550",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB8963755",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB6236401",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10094373",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB663601",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB8799901",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB8799901",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10457969",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9555798",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9125527",
+    "scoala": "ŞCOALA GIMNAZIALĂ MATEI BASARAB TURNU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB11186539",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10122221",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10457610",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB7984098",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN BAN - DASCĂLU POIANA SIBIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SB7984098",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN BAN - DASCĂLU POIANA SIBIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10132098",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB662751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10051800",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11049794",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10097729",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10046465",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11050285",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10048556",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB10175388",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10089433",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SB10537380",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10537380",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB11098706",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB11098706",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10008303",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10296177",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9757139",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10412610",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB11059867",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB11087098",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10522865",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB11187359",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB666701",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10269140",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB9387823",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10561012",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB666651",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11080093",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9620674",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB11116213",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10553563",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10459965",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10748610",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10463208",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10475729",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10263751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10263751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10453251",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9729736",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9175864",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9162166",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9908208",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11075766",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10460755",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9560229",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9593017",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10563070",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10563070",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10269043",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10993627",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10466828",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9977625",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10866257",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB11188593",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10390255",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SB10390255",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10446269",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10414336",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10414336",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9208644",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB6703451",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.85,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SB6703451",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10535274",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB8464604",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9630847",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10089923",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB500101",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10663206",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SB10173539",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10345653",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB664701",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9560186",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9560186",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10130852",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11188183",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB11195495",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB1991951",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB1991951",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10174819",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9208787",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB12879555",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10175137",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10385682",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.25,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "SB9756633",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9939589",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10969168",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUCIAN BOLOGA MARPOD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB666001",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10780569",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB1991601",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB9520658",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB10357419",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10357419",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9387529",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9138802",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10459361",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10459361",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10463588",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10306377",
+    "scoala": "ŞCOALA GIMNAZIALĂ BATHORY ISTVAN MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9729048",
+    "scoala": "ŞCOALA GIMNAZIALĂ CRISTIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 8.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB9729048",
+    "scoala": "ŞCOALA GIMNAZIALĂ CRISTIAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10172962",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10459765",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SB10459765",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10534441",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10427387",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11186250",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9756280",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10295780",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB666251",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9807824",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9807824",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10085710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10085710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9939464",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8465526",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8465526",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11030265",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10462775",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10130802",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10484630",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10084759",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9562127",
+    "scoala": "COLEGIUL NAȚIONAL GHEORGHE LAZĂR SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SB10329611",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10386014",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10459157",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SB10459157",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10087988",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11189520",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10320783",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10320783",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB10465344",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10465344",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB11116643",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB12894204",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10323072",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10323072",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9517990",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10107363",
+    "scoala": "LICEUL TEORETIC ROTH - OBERTH MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB6270501",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9620606",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10551327",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB11188319",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10386476",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10060121",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10969757",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10347675",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.15,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB10347675",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB10047989",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10047989",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9952134",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB11194595",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11194595",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10129958",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SB10129958",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10328189",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB12140884",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB667501",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9438171",
+    "scoala": "ŞCOALA GIMNAZIALĂ LOAMNEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB12839728",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB9806259",
+    "scoala": "ŞCOALA GIMNAZIALĂ TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9643290",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB9643290",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11188116",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB13640742",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10577161",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10577161",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10384297",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9977681",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB11073449",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB11073449",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10431476",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10431476",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB11045861",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB11045861",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB6220201",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB10462944",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ANDREI ŞAGUNA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10461198",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ANDREI ŞAGUNA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB4092701",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10329287",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB11191277",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB8568593",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB8568593",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9176462",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB10434291",
+    "scoala": "LICEUL TEORETIC ROTH - OBERTH MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10112984",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SB10112984",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB2679001",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB2679001",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10460516",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SB11188014",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9155138",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB10495160",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9094646",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9208537",
+    "scoala": "ŞCOALA GIMNAZIALĂ SLIMNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB8042584",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN BAN - DASCĂLU POIANA SIBIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB8042584",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN BAN - DASCĂLU POIANA SIBIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9807803",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10113017",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 8,
+    "diferenta": 1.45
+  },
+  {
+    "cod": "SB10113017",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10345864",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10421373",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ANDREI ŞAGUNA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9080307",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.5,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "SB9080307",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB12856962",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB12856962",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10607589",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SB9939350",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9172379",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10467103",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10346466",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SB665651",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB6906001",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.7,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "SB6906001",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10560684",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10388854",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ANDREI ŞAGUNA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB9838887",
+    "scoala": "ŞCOALA GIMNAZIALĂ LOAMNEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "SB6269501",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10386324",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10386324",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11075724",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB9517830",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9136899",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10466754",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB11049642",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10474574",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SB10474574",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9338734",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9096371",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9096371",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10489534",
+    "scoala": "LICEUL TEORETIC ROTH - OBERTH MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10884106",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9864052",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION POP RETEGANUL ORLAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9871800",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10453653",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10552093",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10452329",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10343582",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB12598204",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.55,
+    "diferenta": 1
+  },
+  {
+    "cod": "SB667001",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB10046761",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB11116218",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB3978751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.9,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB12519234",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11197995",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB11197995",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9865245",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION POP RETEGANUL ORLAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10460295",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB8549558",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10412198",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB11045476",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SB11045476",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11190231",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10534597",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB9208850",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9208850",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10293601",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11189787",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB11189787",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10470419",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB663901",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9818864",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB8133339",
+    "scoala": "ŞCOALA GIMNAZIALĂ RACOVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB8133339",
+    "scoala": "ŞCOALA GIMNAZIALĂ RACOVIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9473411",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL DECEI GURA RÂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10096921",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10096921",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9939091",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9939091",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10467271",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB665501",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10460040",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10460040",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10400364",
+    "scoala": "ŞCOALA GIMNAZIALĂ NOCRICH",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10462508",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10462508",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10593891",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 6.7,
+    "diferenta": -1.3
+  },
+  {
+    "cod": "SB11193211",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB11193211",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10384973",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10048918",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10486378",
+    "scoala": "ŞCOALA GIMNAZIALĂ CORNELIU PĂCURARIU MICĂSASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10486378",
+    "scoala": "ŞCOALA GIMNAZIALĂ CORNELIU PĂCURARIU MICĂSASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10678814",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10678814",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10797058",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10797058",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9760476",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB9760476",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10563430",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10607805",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9118388",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB9118388",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10102456",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9623156",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9623156",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10048642",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9560041",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.75,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SB9518044",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10120724",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10120724",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9094697",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11187305",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUCIAN BOLOGA MARPOD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9208196",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10534819",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10534819",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10283390",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SB10283390",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9807924",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9807924",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10110081",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9644167",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB6269351",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.15,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "SB6269351",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10357128",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10357128",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB11192694",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10562874",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.75,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB10562874",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10173018",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10319398",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB11197213",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10048842",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10393990",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10393990",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10607564",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10607564",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB8727492",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB8540141",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10826683",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB9940236",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8962127",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB10296513",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB11186959",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10173091",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.95,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "SB9698988",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9562253",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB11142583",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB11142583",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9727060",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9727060",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9667146",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11188419",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB8808116",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALMA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10475618",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB9942899",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.4,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SB9942899",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10383893",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10383893",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB12303032",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10663819",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 COPȘA MICĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9976876",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11186458",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB11186458",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11075799",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10447006",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB4059001",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB4092601",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.05,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB4092601",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10270336",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10384175",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9884513",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB9884513",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10427065",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10297364",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10174898",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.05,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "SB10174898",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10456159",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10463539",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9374333",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9758236",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10266576",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SB10342586",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10460557",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10460557",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10687264",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10687264",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB4093301",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB4093301",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9189669",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9936751",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂUCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB9746690",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10386400",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10386400",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8923854",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10080366",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10080366",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10099170",
+    "scoala": "LICEUL TEHNOLOGIC MÂRŞA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10310395",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORG DANIEL TEUTSCH AGNITA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10451395",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9908780",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB9908780",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10796847",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10796847",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10347495",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10104486",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10321289",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB10976777",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SB10976777",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9942608",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB664851",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9862380",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.05,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SB9862380",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB10970883",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.55,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SB8315339",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB8315339",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB9378221",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB11059915",
+    "scoala": "LICEUL TEORETIC ONISIFOR GHIBU SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10529807",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10529807",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10690621",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION ALBESCU BOIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB675651",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB675651",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11045594",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9438046",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10461587",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10461587",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10459242",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10329441",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10329441",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9208478",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB9208478",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11086873",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB11086873",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10052051",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10327858",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB9699191",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB9699191",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10607946",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB11187681",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB11187681",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10469786",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB10469786",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB13458661",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB13458661",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB11186302",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SB10353695",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10292737",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORG DANIEL TEUTSCH AGNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SB10078999",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB4093351",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10905669",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 23 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10905669",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 23 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10063106",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ANDREI ŞAGUNA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB11023752",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10009048",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB12226529",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB12226529",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10276236",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10270395",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 3 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9372896",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB9372896",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10330981",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SB10283286",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB667851",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB667851",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9338849",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB8569650",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB11145710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11145710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9387254",
+    "scoala": "LICEUL TEORETIC GUSTAV GUNDISCH CISNĂDIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10456380",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB10456380",
+    "scoala": "COLEGIUL NAȚIONAL SAMUEL VON BRUKENTHAL SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9338956",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10278074",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10345330",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9621264",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SB8960704",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10993351",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10308165",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE POPA MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9725755",
+    "scoala": "ŞCOALA GIMNAZIALĂ VEŞTEM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9725755",
+    "scoala": "ŞCOALA GIMNAZIALĂ VEŞTEM",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9767302",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRIG",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9080358",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9080358",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10266544",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11192271",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10461861",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB10461861",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9936554",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9936554",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂUCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB4087551",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB4087551",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9473088",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL DECEI GURA RÂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9862812",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION POP RETEGANUL ORLAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SB8253145",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAMUIL MICU SADU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB8669534",
+    "scoala": "ŞCOALA GIMNAZIALĂ BRĂDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB10979883",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SB10979883",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9545433",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 25 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9130412",
+    "scoala": "ŞCOALA GIMNAZIALĂ MATEI BASARAB TURNU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9096063",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB9096063",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9095854",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10342802",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIREŞARII MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9094795",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9620825",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9939172",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB10657550",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10657550",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10690745",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB10132108",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.35,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SB10132108",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9838574",
+    "scoala": "ŞCOALA GIMNAZIALĂ LOAMNEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10506611",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9156410",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10283123",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORG DANIEL TEUTSCH AGNITA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9338649",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10890085",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10890085",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10460494",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9119618",
+    "scoala": "ŞCOALA GIMNAZIALĂ MATEI BASARAB TURNU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10132354",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB8253581",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAMUIL MICU SADU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SB8253581",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAMUIL MICU SADU",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB9943042",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB9095809",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB331901",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB331901",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9338996",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10357142",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SB10357142",
+    "scoala": "ŞCOALA GIMNAZIALĂ TILIŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB9562180",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB2673451",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 CISNĂDIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9870828",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9870828",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB8358923",
+    "scoala": "ŞCOALA GIMNAZIALĂ ANDREI ȘAGUNA ŞURA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SB8358923",
+    "scoala": "ŞCOALA GIMNAZIALĂ ANDREI ȘAGUNA ŞURA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9304777",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10400403",
+    "scoala": "ŞCOALA GIMNAZIALĂ NOCRICH",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB12139183",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL DECEI GURA RÂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB12139183",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL DECEI GURA RÂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10446949",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 18 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11187205",
+    "scoala": "ŞCOALA GIMNAZIALĂ ANDREI ȘAGUNA ŞURA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB11187205",
+    "scoala": "ŞCOALA GIMNAZIALĂ ANDREI ȘAGUNA ŞURA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9494282",
+    "scoala": "ŞCOALA GIMNAZIALĂ LOAMNEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB10174257",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9938470",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB667601",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB11145709",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10313947",
+    "scoala": "LICEUL AUGUST TREBONIU LAURIAN AGNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB12839239",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB12839239",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9775253",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR AVRIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SB9002825",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB9002825",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9562034",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 4.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB9868096",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB9761361",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9518093",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10693673",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10992976",
+    "scoala": "LICEUL TEORETIC CONSTANTIN NOICA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB9839064",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCOREIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB8525220",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZU ŞELIMBĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SB10448430",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB10448430",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU SELEJAN SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10463278",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10463278",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 13 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9276317",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIREŞARII MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9276317",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIREŞARII MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9941738",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB9941738",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB10712627",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROŞIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9647279",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10459983",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SB10656871",
+    "scoala": "ŞCOALA GIMNAZIALĂ NOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SB10656871",
+    "scoala": "ŞCOALA GIMNAZIALĂ NOU",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9869501",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9419933",
+    "scoala": "ŞCOALA GIMNAZIALĂ BRADU",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB11191784",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11191784",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB12886483",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SB9118598",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9118598",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB667351",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB667351",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9095199",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9401208",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB10065440",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB665101",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SB665101",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB11196048",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB11196048",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMÂNO -FINLANDEZĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB7923127",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB9942509",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 4.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB9942509",
+    "scoala": "LICEUL TEHNOLOGIC JOHANNES LEBEL TĂLMACIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9338682",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB12839288",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SB12839288",
+    "scoala": "LICEUL DE ARTĂ SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10384795",
+    "scoala": "COLEGIUL NAȚIONAL OCTAVIAN GOGA SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9716420",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SB9716420",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB11145711",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAŞOLŢ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9181772",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB9181772",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 21 SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9423599",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRIG",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SB9620112",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 8 SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9488626",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB9870539",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SB9870539",
+    "scoala": "ŞCOALA GIMNAZIALĂ STEPHAN LUDWIG ROTH MOŞNA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9552995",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10535802",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SB10535802",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE SIBIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9909379",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SB9909379",
+    "scoala": "LICEUL TEHNOLOGIC IOAN LUPAŞ SĂLIŞTE",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB10129960",
+    "scoala": "LICEUL AUGUST TREBONIU LAURIAN AGNITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10129960",
+    "scoala": "LICEUL AUGUST TREBONIU LAURIAN AGNITA",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SB10414710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 5 MEDIAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SB10414710",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 5 MEDIAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB9565708",
+    "scoala": "ŞCOALA GIMNAZIALĂ JINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SB9565708",
+    "scoala": "ŞCOALA GIMNAZIALĂ JINA",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SB7866984",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCNA SIBIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SB7866984",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCNA SIBIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SB10638008",
+    "scoala": "LICEUL TIMOTEI CIPARIU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.55,
+    "diferenta": 0
+  }
+]

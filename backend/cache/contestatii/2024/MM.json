@@ -1,0 +1,4490 @@
+[
+  {
+    "cod": "MM8203968",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9194725",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9985789",
+    "scoala": "SCOALA GIMNAZIALA DESESTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM11186799",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM11186799",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8846320",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9162304",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM11129394",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM7967902",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM11198634",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MM8180060",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10736113",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 10,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM7938665",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8975076",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MM11015440",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM11015440",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM8959218",
+    "scoala": "SCOALA PROFESIONALA ROZAVLEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9721710",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU SALISTEA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM11198933",
+    "scoala": "SCOALA GIMNAZIALA PETRE DULFU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 9,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MM11198933",
+    "scoala": "SCOALA GIMNAZIALA PETRE DULFU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM9191735",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM9329207",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 STRAMTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9329207",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 STRAMTURA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10561448",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9182462",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM8181288",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8657336",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10020397",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9189432",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11193671",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9197298",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8133450",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9329523",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 STRAMTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM7903803",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.15,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MM8715987",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8368688",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM7937129",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM7937129",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8889857",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "MM8889857",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8517504",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8872855",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM13680120",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8464619",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM8464619",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9189562",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9189562",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9274874",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10175107",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8793414",
+    "scoala": "LICEUL TEORETIC IOAN BUTEANU SOMCUTA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10566443",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM11095888",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8931832",
+    "scoala": "SCOALA GIMNAZIALA SIEU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM7908931",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MM7908931",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8839712",
+    "scoala": "SCOALA GIMNAZIALA NR. 7 VISEU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MM11200333",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9213961",
+    "scoala": "SCOALA GIMNAZIALA NISTRU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8275318",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.55,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MM8132769",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM10429357",
+    "scoala": "SCOALA GIMNAZIALA RUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8807858",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM8367986",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM10339607",
+    "scoala": "SCOALA GIMNAZIALA RECEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8524061",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM14380784",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10605520",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM11015496",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM11015905",
+    "scoala": "LICEUL INTERNATIONAL BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8973812",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8973812",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM10524722",
+    "scoala": "SCOALA GIMNAZIALA DR. ILIE LAZAR GIULESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9190096",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10549248",
+    "scoala": "SCOALA PROFESIONALA RUSCOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM9713168",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM9713168",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9192636",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8812372",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8974503",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9666001",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM7936943",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM10115971",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10115971",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM4717651",
+    "scoala": "LICEUL BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM8251554",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM9123684",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10900155",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM7938459",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9189633",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9712876",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM10341824",
+    "scoala": "SCOALA GIMNAZIALA VALEA VISEULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM9135579",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9135579",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9859827",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM9859827",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM7944967",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8880593",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8732027",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9201086",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10985668",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9220509",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8133165",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9426961",
+    "scoala": "SCOALA GIMNAZIALA POIENILE IZEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM9426961",
+    "scoala": "SCOALA GIMNAZIALA POIENILE IZEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8844465",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10132077",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.7,
+    "diferenta": 1
+  },
+  {
+    "cod": "MM10540854",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM10540854",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM10736814",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM10736814",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10565303",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10565303",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9979608",
+    "scoala": "SCOALA PROFESIONALA ROMÂNO-GERMANĂ VISEU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9979608",
+    "scoala": "SCOALA PROFESIONALA ROMÂNO-GERMANĂ VISEU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10339518",
+    "scoala": "SCOALA GIMNAZIALA RECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10339518",
+    "scoala": "SCOALA GIMNAZIALA RECEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM10736628",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10003019",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM10003019",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9495284",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10175446",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9339320",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZU VALEA CHIOARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8320121",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8607098",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOISEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM11041326",
+    "scoala": "LICEUL TEORETIC IOAN BUTEANU SOMCUTA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9144178",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9418272",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9418272",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10590521",
+    "scoala": "SCOALA GIMNAZIALA RONA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM8979303",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10175185",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9498040",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9201119",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8443508",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8201862",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE LUPAN GROSI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9191608",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9191608",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10149479",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10149479",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM11015882",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9145186",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.75,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MM8557950",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 MOISEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8192438",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM8192438",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8439929",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10900293",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10020174",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8805857",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9859624",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM10340290",
+    "scoala": "SCOALA GIMNAZIALA RECEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM8656047",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10472944",
+    "scoala": "SCOALA GIMNAZIALA BERBESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM10472944",
+    "scoala": "SCOALA GIMNAZIALA BERBESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM13469173",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8917715",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM9982444",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9457982",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MM9457982",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8434207",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8434207",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM7956417",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MM10972798",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM10972798",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MM12792167",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9821632",
+    "scoala": "SCOALA GIMNAZIALA LIVIU REBREANU DRAGOMIRESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10593941",
+    "scoala": "SCOALA GIMNAZIALA RONA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8518037",
+    "scoala": "SCOALA GIMNAZIALA BREB",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10337573",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8459551",
+    "scoala": "SCOALA GIMNAZIALA SIMION BARNUTIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8028630",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10003193",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM9389400",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.8,
+    "diferenta": 1
+  },
+  {
+    "cod": "MM12193141",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9906701",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM9906701",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM7944482",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8880836",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8432342",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8028623",
+    "scoala": "SCOALA GIMNAZIALA NR. 18 BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8166630",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM8166630",
+    "scoala": "COLEGIUL NATIONAL GHEORGHE SINCAI BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9390185",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9138398",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MM9138398",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM11096893",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10175257",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM10175257",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM10175541",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM10175541",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8275025",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MM8275025",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9177825",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9925985",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9925985",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10841167",
+    "scoala": "SCOALA GIMNAZIALA DR. TEODOR MIHALI BOIU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10841167",
+    "scoala": "SCOALA GIMNAZIALA DR. TEODOR MIHALI BOIU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9204861",
+    "scoala": "SCOALA GIMNAZIALA NISTRU",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM11073848",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM7944504",
+    "scoala": "SCOALA GIMNAZIALA ION POPESCU DE COAS COAS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM10379645",
+    "scoala": "SCOALA GIMNAZIALA BISTRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9821233",
+    "scoala": "SCOALA GIMNAZIALA LIVIU REBREANU DRAGOMIRESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.55,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MM8628465",
+    "scoala": "SCOALA GIMNAZIALA CUPSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7945969",
+    "scoala": "SCOALA GIMNAZIALA NR. 18 BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8955409",
+    "scoala": "SCOALA GIMNAZIALA SIEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9906489",
+    "scoala": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO BAIA SPRIE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8979742",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10482214",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10482214",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM7875135",
+    "scoala": "SCOALA PROFESIONALA NR. 4 VISEU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10021056",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9204569",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM9204569",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM7936420",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM10544868",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10544868",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8791612",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM8464341",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM7942005",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM7938648",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8975458",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MM9192137",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8024298",
+    "scoala": "SCOALA GIMNAZIALA CICARLAU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM13599330",
+    "scoala": "SCOALA PROFESIONALA FARCASA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10115794",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MM10603244",
+    "scoala": "SCOALA GIMNAZIALA ILBA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9584022",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU FILIPASCU PETROVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10337427",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM10337427",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM7900032",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7900032",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10422075",
+    "scoala": "SCOALA PROFESIONALA RUSCOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MM8689570",
+    "scoala": "COLEGIUL ECONOMIC PINTEA VITEAZUL CAVNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9034319",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM8123543",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8123543",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM12536994",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM9034330",
+    "scoala": "SCOALA GIMNAZIALA BARSANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM11129418",
+    "scoala": "SCOALA GIMNAZIALA FLOREA MURESANU SUCIU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MM10556739",
+    "scoala": "SCOALA GIMNAZIALA SACEL",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM7944843",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MM8808336",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM8808336",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM13670124",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7909248",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10337237",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM7893392",
+    "scoala": "SCOALA GIMNAZIALA ION LUCA CARAGIALE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MM8651852",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8651852",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8890025",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM12504102",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM12504102",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10486156",
+    "scoala": "SCOALA PROFESIONALA RUSCOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8710994",
+    "scoala": "SCOALA GIMNAZIALA SAT SUGATAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8710994",
+    "scoala": "SCOALA GIMNAZIALA SAT SUGATAG",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM14305869",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9249145",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8932187",
+    "scoala": "SCOALA GIMNAZIALA OCTAVIAN GOGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM10377967",
+    "scoala": "SCOALA GIMNAZIALA CRASNA VISEULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM10377967",
+    "scoala": "SCOALA GIMNAZIALA CRASNA VISEULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10524226",
+    "scoala": "SCOALA GIMNAZIALA DR. ILIE LAZAR GIULESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8951366",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM1378701",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM1378701",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM9110881",
+    "scoala": "SCOALA GIMNAZIALA POIENILE IZEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9221563",
+    "scoala": "SCOALA GIMNAZIALA BUDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8607227",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7942378",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.05,
+    "diferenta": -1
+  },
+  {
+    "cod": "MM8192623",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8922535",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8377719",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7882770",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM7882770",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM9404549",
+    "scoala": "SCOALA GIMNAZIALA SALSIG",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM9236753",
+    "scoala": "SCOALA GIMNAZIALA NR. 18 BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM8343697",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM7944523",
+    "scoala": "SCOALA GIMNAZIALA NR. 18 BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8631897",
+    "scoala": "SCOALA GIMNAZIALA NR. 18 BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8922559",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM8922559",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM8525814",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM10447389",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8045965",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9205289",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "MM9034201",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 BARSANA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10779986",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM12140728",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM12140728",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM7882419",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MM7882419",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9195571",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "MM9195571",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9274955",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8201108",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE LUPAN GROSI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9971136",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9971136",
+    "scoala": "COLEGIUL NATIONAL VASILE LUCACIU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10783461",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.65,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "MM9190463",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10713835",
+    "scoala": "SCOALA GIMNAZIALA VASILE BERCI CALINESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9191505",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MM10342076",
+    "scoala": "SCOALA GIMNAZIALA VALEA VISEULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "MM9458784",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8802523",
+    "scoala": "SCOALA PROFESIONALA FARCASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8802523",
+    "scoala": "SCOALA PROFESIONALA FARCASA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM11186488",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10524666",
+    "scoala": "SCOALA GIMNAZIALA POIENILE IZEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.7,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "MM10952636",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 7.95,
+    "diferenta": 1.85
+  },
+  {
+    "cod": "MM9410022",
+    "scoala": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO BAIA SPRIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8885966",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM8885966",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM13679028",
+    "scoala": "SCOALA GIMNAZIALA BUDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM11071585",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM11071585",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM11051932",
+    "scoala": "SCOALA PROFESIONALA REPEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9195712",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.7,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "MM8161878",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM13943082",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8917640",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8917640",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10817831",
+    "scoala": "SCOALA GIMNAZIALA VADU IZEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10603919",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9612665",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9612665",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM9661029",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MM11192321",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM11192321",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10603508",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10603508",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8027536",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.6,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "MM8027536",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8433845",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10131168",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.6,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "MM8862287",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9589203",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU FILIPASCU PETROVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9589203",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU FILIPASCU PETROVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM9986907",
+    "scoala": "SCOALA GIMNAZIALA DESESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9986907",
+    "scoala": "SCOALA GIMNAZIALA DESESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM13384607",
+    "scoala": "LICEUL TEHNOLOGIC OCNA SUGATAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9146705",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9146705",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8046321",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8132418",
+    "scoala": "SCOALA GIMNAZIALA SATULUNG",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10546830",
+    "scoala": "SCOALA GIMNAZIALA CERNESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8556883",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8556883",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8731313",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9329430",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 STRAMTURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10442869",
+    "scoala": "SCOALA GIMNAZIALA RUS",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10559011",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10572575",
+    "scoala": "SCOALA GIMNAZIALA REMETEA CHIOARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8028593",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM8028593",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM8555684",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM7944701",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8447225",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8447225",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM12289805",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM12289805",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9205834",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MM9205834",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8807679",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MM7905947",
+    "scoala": "COLEGIUL ECONOMIC PINTEA VITEAZUL CAVNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM8950340",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM9195387",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10847231",
+    "scoala": "SCOALA GIMNAZIALA ROGOZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10417288",
+    "scoala": "SCOALA GIMNAZIALA MAIDAN CRASNA VISEULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9193983",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM9353417",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8949421",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM11074142",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9142606",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM9142606",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8945048",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU SALISTEA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9495325",
+    "scoala": "LICEUL TEORETIC PETRU RARES TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM8951170",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM8951170",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8149262",
+    "scoala": "LICEUL TEHNOLOGIC DR. FLORIAN ULMEANU ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM11041204",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM11015339",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM12515924",
+    "scoala": "SCOALA GIMNAZIALA BARSANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8165571",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8847764",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM11035011",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM11035011",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM8185123",
+    "scoala": "LICEUL TEHNOLOGIC TRAIAN VUIA TAUTII-MAGHERAUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9619627",
+    "scoala": "LICEUL TEHNOLOGIC DR. FLORIAN ULMEANU ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8052043",
+    "scoala": "SCOALA GIMNAZIALA NR. 8 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM9860936",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM10481282",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 LEORDINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9819221",
+    "scoala": "SCOALA GIMNAZIALA BISTRA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9352619",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10806627",
+    "scoala": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO BAIA SPRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MM10806627",
+    "scoala": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO BAIA SPRIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9513323",
+    "scoala": "COLEGIUL NATIONAL DRAGOS VODA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM9219984",
+    "scoala": "SCOALA GIMNAZIALA BUDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9178050",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9178050",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10604039",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "MM10175098",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10429251",
+    "scoala": "SCOALA GIMNAZIALA RUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM11199960",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM11199960",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9451819",
+    "scoala": "SCOALA GIMNAZIALA VIMA MICA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7873232",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "MM7873232",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8652367",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM8803202",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM10825759",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10825759",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXIU BERINDE SEINI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8518720",
+    "scoala": "SCOALA GIMNAZIALA BAIA SPRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM8888596",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "MM8888596",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9495584",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9495584",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8684885",
+    "scoala": "LICEUL TEHNOLOGIC OCNA SUGATAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8684885",
+    "scoala": "LICEUL TEHNOLOGIC OCNA SUGATAG",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8043500",
+    "scoala": "SCOALA GIMNAZIALA NR. 8 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8043500",
+    "scoala": "SCOALA GIMNAZIALA NR. 8 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM8463693",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8320533",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8441031",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM8053038",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM8053038",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9004404",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM9004404",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8509168",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM8509168",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM10779595",
+    "scoala": "COLEGIUL NATIONAL PEDAGOGIC REGELE FERDINAND SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8509338",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10855555",
+    "scoala": "SCOALA GIMNAZIALA ION POPESCU DE COAS COAS",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8203091",
+    "scoala": "LICEUL TEORETIC PETRU RARES TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8203091",
+    "scoala": "LICEUL TEORETIC PETRU RARES TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM12889110",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "MM9497976",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8729731",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM4730901",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM12282353",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM12282353",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9192783",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MM9192783",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8922437",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM4707501",
+    "scoala": "LICEUL BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM4707501",
+    "scoala": "LICEUL BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9458312",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9458312",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9404371",
+    "scoala": "SCOALA GIMNAZIALA SALSIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM10117147",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10117147",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM8659173",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM8659173",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11129419",
+    "scoala": "SCOALA GIMNAZIALA FLOREA MURESANU SUCIU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8027622",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM9198612",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9198612",
+    "scoala": "LICEUL TEOLOGIC PENTICOSTAL BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM10809588",
+    "scoala": "SCOALA GIMNAZIALA BAIA SPRIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10508679",
+    "scoala": "SCOALA GIMNAZIALA PETRE DULFU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8203049",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM11051111",
+    "scoala": "SCOALA PROFESIONALA REPEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8699574",
+    "scoala": "LICEUL TEHNOLOGIC DR. FLORIAN ULMEANU ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8103723",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8103723",
+    "scoala": "SCOALA GIMNAZIALA AUGUSTIN BUZURA COPALNIC-MANASTUR",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8202624",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM8202624",
+    "scoala": "SCOALA GIMNAZIALA MIRESU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8715337",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN DIPSE SURDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.3,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "MM9512480",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MM9512480",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM10175298",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 4.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MM10175298",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IVASIUC BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10020245",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MM10495089",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9223146",
+    "scoala": "LICEUL TEHNOLOGIC OCNA SUGATAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8922439",
+    "scoala": "COLEGIUL DE ARTE BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM8719154",
+    "scoala": "SCOALA GIMNAZIALA VASILE GHETIE BERINTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MM8719154",
+    "scoala": "SCOALA GIMNAZIALA VASILE GHETIE BERINTA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9464680",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM9464680",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10498360",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM10337288",
+    "scoala": "SCOALA GIMNAZIALA RECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM9210894",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10417870",
+    "scoala": "SCOALA GIMNAZIALA MAIDAN CRASNA VISEULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7905698",
+    "scoala": "COLEGIUL ECONOMIC PINTEA VITEAZUL CAVNIC",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9145726",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM10604658",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM8993331",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8993331",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10846901",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8945622",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU SALISTEA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8727718",
+    "scoala": "SCOALA GIMNAZIALA VASILE GHETIE BERINTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8727718",
+    "scoala": "SCOALA GIMNAZIALA VASILE GHETIE BERINTA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8947224",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.2,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "MM11106115",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "MM11106115",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM10956872",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "MM11032876",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM11032876",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE IORGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM7908606",
+    "scoala": "COLEGIUL ECONOMIC PINTEA VITEAZUL CAVNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8022121",
+    "scoala": "LICEUL BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM8022121",
+    "scoala": "LICEUL BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM10845053",
+    "scoala": "SCOALA GIMNAZIALA ROGOZ",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11186958",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 3.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM11049697",
+    "scoala": "SCOALA PROFESIONALA REPEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9683816",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM13675692",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.9,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "MM13675692",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8857178",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "MM8857178",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE BALCESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9389616",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 2.15,
+    "nota_finala": 2.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM11048175",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 REPEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM11048175",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 REPEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM9034280",
+    "scoala": "SCOALA GIMNAZIALA NR. 10 SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8652855",
+    "scoala": "SCOALA GIMNAZIALA NR. 7 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "MM8652855",
+    "scoala": "SCOALA GIMNAZIALA NR. 7 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9495432",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "MM9353130",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.65,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "MM9353130",
+    "scoala": "SCOALA GIMNAZIALA LUCACESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8131712",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9144334",
+    "scoala": "SCOALA GIMNAZIALA IEUD",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM12161363",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9495655",
+    "scoala": "LICEUL TEORETIC PETRU RARES TARGU LAPUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "MM9495655",
+    "scoala": "LICEUL TEORETIC PETRU RARES TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9391165",
+    "scoala": "SCOALA GIMNAZIALA BOGDAN VODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM7944937",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM7944937",
+    "scoala": "SCOALA GIMNAZIALA DR. VICTOR BABES BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM9364136",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9364136",
+    "scoala": "SCOALA GIMNAZIALA VISEU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM9195439",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "MM11049169",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 REPEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9577755",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU FILIPASCU PETROVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM9457983",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8147369",
+    "scoala": "LICEUL TEHNOLOGIC DR. FLORIAN ULMEANU ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8147369",
+    "scoala": "LICEUL TEHNOLOGIC DR. FLORIAN ULMEANU ULMENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8043158",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "MM8043158",
+    "scoala": "SCOALA GIMNAZIALA NICHITA STANESCU BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9177596",
+    "scoala": "SCOALA GIMNAZIALA ONCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM7937335",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM8343855",
+    "scoala": "SCOALA GIMNAZIALA PRIBILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8343855",
+    "scoala": "SCOALA GIMNAZIALA PRIBILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM9458682",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "MM8131594",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11073528",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "MM11073528",
+    "scoala": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM8796941",
+    "scoala": "SCOALA PROFESIONALA FARCASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "MM7936290",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MM7936290",
+    "scoala": "SCOALA GIMNAZIALA DR. IOAN MIHALYI DE APSA SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9889941",
+    "scoala": "SCOALA GIMNAZIALA NR. 10 SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9126425",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR BAIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "MM8023940",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "MM8023940",
+    "scoala": "SCOALA GIMNAZIALA NR. 9 BORSA",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM8039798",
+    "scoala": "SCOALA GIMNAZIALA NR. 8 BORSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "MM8564347",
+    "scoala": "SCOALA GIMNAZIALA BEN CORLACIU GROSII TIBLESULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "MM8564347",
+    "scoala": "SCOALA GIMNAZIALA BEN CORLACIU GROSII TIBLESULUI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11048337",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 REPEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "MM11048337",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 REPEDEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM9978444",
+    "scoala": "SCOALA PROFESIONALA ROMÂNO-GERMANĂ VISEU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "MM9978444",
+    "scoala": "SCOALA PROFESIONALA ROMÂNO-GERMANĂ VISEU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11151281",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM11151281",
+    "scoala": "SCOALA GIMNAZIALA GEORGE COSBUC SIGHETU MARMATIEI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "MM11129395",
+    "scoala": "SCOALA GIMNAZIALA FLOREA MURESANU SUCIU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "MM7875443",
+    "scoala": "SCOALA PROFESIONALA NR. 4 VISEU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "MM11195116",
+    "scoala": "SCOALA GIMNAZIALA DR. GHEORGHE TITE SAPANTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "MM11195116",
+    "scoala": "SCOALA GIMNAZIALA DR. GHEORGHE TITE SAPANTA",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "MM10508264",
+    "scoala": "LICEUL TEHNOLOGIC GRIGORE C MOISIL TARGU LAPUS",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.05,
+    "diferenta": 0.05
+  }
+]

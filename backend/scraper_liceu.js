@@ -12,7 +12,7 @@ async function scrapeJudet(judet, cod, an) {
 
   let results = [];
   let currentPage = 1;
-  let pozCounter = 1; // contor global de poziție
+  let pozCounter = 1; 
 
   while (true) {
     try {
@@ -44,7 +44,6 @@ async function scrapeJudet(judet, cod, an) {
         .filter(Boolean);
     });
 
-    // atașăm poziție fiecărui candidat
     const withPos = pageResults.map((entry, index) => ({
       ...entry,
       pozitie: pozCounter + index
@@ -84,7 +83,6 @@ async function scrapeJudet(judet, cod, an) {
 
   await browser.close();
 
-  // Grupăm pe liceu|specializare ca să determinăm poziția ultimului admis
   const grouped = {};
   results.forEach(({ liceu, specializarea, medieAdmitere, pozitie }) => {
     const specKey = specializarea.replace(/\s+/g, "");
@@ -93,15 +91,13 @@ async function scrapeJudet(judet, cod, an) {
     grouped[key].push({ medie: medieAdmitere, poz: pozitie });
   });
 
-  // Construim un array de rezumate
   const summary = Object.entries(grouped).map(([key, arr]) => {
     const [liceu, spec] = key.split("|");
     const minMedie = Math.min(...arr.map(o => o.medie));
-    const pozUltim = arr.length; // ultimul intrat este pe poziția numărul de candidați
+    const pozUltim = arr.length;
     return { liceu, specializarea: spec, medieUltim: minMedie, pozitiaUltim: pozUltim };
   });
 
-  // Scriem atât raw, cât și summary
   const outputDir = path.resolve(`./cache/${an}`);
   fs.mkdirSync(outputDir, { recursive: true });
   fs.writeFileSync(

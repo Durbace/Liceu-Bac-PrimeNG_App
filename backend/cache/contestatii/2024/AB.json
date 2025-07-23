@@ -1,0 +1,3314 @@
+[
+  {
+    "cod": "AB8991863",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB11105235",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9479984",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AB10081970",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB10549850",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9286570",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 10,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB8238261",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AB8073670",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9286678",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB11045844",
+    "scoala": "SCOALA GIMNAZIALA CIURULEASA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8042008",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10632115",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB9537225",
+    "scoala": "COLEGIUL NATIONAL LUCIAN BLAGA SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB9349266",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ZLATNA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB9061846",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB8252699",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8312615",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB12307019",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB9093195",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8251189",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AB8080728",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB8080728",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8897886",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9518859",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9518859",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9772532",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AB7132901",
+    "scoala": "LICEUL TEHNOLOGIC TARA MOTILOR ALBAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8040953",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8040953",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB11013957",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB8074551",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9536596",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB8042809",
+    "scoala": "LICEUL TEORETIC SFANTUL IOSIF ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB7894631",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8951437",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AB8951437",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8921717",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10413726",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10630988",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10088448",
+    "scoala": "SCOALA GIMNAZIALA SUGAG",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB11009703",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10870506",
+    "scoala": "COLEGIUL NATIONAL LUCIAN BLAGA SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB8141940",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9000160",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9000160",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB9003923",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB10668686",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8329800",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB9287274",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9007380",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB8546492",
+    "scoala": "SCOALA GIMNAZIALA CAMPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB10316214",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10786743",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10786743",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9093011",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB9996521",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 8.95,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9996521",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9646603",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB10630062",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AB10709285",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB11198390",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8312482",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB7898380",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB9627816",
+    "scoala": "SCOALA GIMNAZIALA DAIA ROMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10490141",
+    "scoala": "LICEUL TEHNOLOGIC DE TURISM SI ALIMENTATIE ARIESENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB10079882",
+    "scoala": "SCOALA GIMNAZIALA BENIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9426442",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ZLATNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB8238060",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8238060",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10549614",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB10549614",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9006042",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9006042",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8312527",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8074259",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10285754",
+    "scoala": "LICEUL TEHNOLOGIC DE TURISM SI ALIMENTATIE ARIESENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8312585",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8312585",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB13617331",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB13617331",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB4797451",
+    "scoala": "SCOALA GIMNAZIALA CIUGUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10375153",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB10374791",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB10732217",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB8880501",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9598477",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AB11191991",
+    "scoala": "SCOALA GIMNAZIALA CRACIUNELU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB8310756",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9592539",
+    "scoala": "SCOALA GIMNAZIALA „TIMOTEIU OVIDIU TARNU” STREMT",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB8139583",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8139583",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB9094313",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10630168",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10630168",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 7.95,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB9675044",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB7896154",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB7896154",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10082260",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9094255",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB8311242",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AB10675783",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10675783",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB10672213",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10672213",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB8978998",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10328762",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ZLATNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB13669556",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB13669556",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB8145486",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AB9654915",
+    "scoala": "SCOALA GIMNAZIALA TOMA COCISIU BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9605393",
+    "scoala": "COLEGIUL NATIONAL LUCIAN BLAGA SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AB8236321",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9850891",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9520396",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 8.2,
+    "diferenta": 1.45
+  },
+  {
+    "cod": "AB9520396",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9005966",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9005966",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10080958",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10080958",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB8460997",
+    "scoala": "SCOALA GIMNAZIALA OVIDIU HULEA AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB10454998",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB10561017",
+    "scoala": "SCOALA GIMNAZIALA RAMET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10561017",
+    "scoala": "SCOALA GIMNAZIALA RAMET",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10321518",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB10321518",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB8695296",
+    "scoala": "SCOALA GIMNAZIALA POSAGA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8695296",
+    "scoala": "SCOALA GIMNAZIALA POSAGA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10567164",
+    "scoala": "SCOALA GIMNAZIALA SASCIORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB10709530",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10709530",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10288468",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9777638",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB8235899",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB11191923",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9633526",
+    "scoala": "SCOALA GIMNAZIALA SILVIU CARPINISIANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10413611",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10413611",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB8252903",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.05,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "AB10853569",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10011829",
+    "scoala": "SCOALA GIMNAZIALA DRASOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB11189462",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10448036",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10448036",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9771116",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB11195669",
+    "scoala": "COLEGIUL NATIONAL LUCIAN BLAGA SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB11195669",
+    "scoala": "COLEGIUL NATIONAL LUCIAN BLAGA SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9605530",
+    "scoala": "SCOALA GIMNAZIALA PETRESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10520463",
+    "scoala": "SCOALA GIMNAZIALA BLANDIANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AB9061644",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9061644",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB7898214",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB7898214",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10374585",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8075863",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9002346",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB9002346",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8235471",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB10631930",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9651163",
+    "scoala": "SCOALA GIMNAZIALA GARBOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9546190",
+    "scoala": "LICEUL GERMAN SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.75,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9546190",
+    "scoala": "LICEUL GERMAN SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8311346",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9093144",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10350503",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA OCNA MURES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB10350503",
+    "scoala": "SCOALA GIMNAZIALA LUCIAN BLAGA OCNA MURES",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB10318091",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8953239",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB8953239",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8551094",
+    "scoala": "COLEGIUL NATIONAL AVRAM IANCU CAMPENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB8995524",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9778528",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8995016",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10632245",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AB10632245",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9421842",
+    "scoala": "SCOALA GIMNAZIALA MIRASLAU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8139641",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB8139641",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10856158",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10858761",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10447597",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10447597",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9536339",
+    "scoala": "SCOALA GIMNAZIALA SARD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB10709661",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10709661",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8897315",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9287322",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AB9527908",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB13605173",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.3,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "AB10579793",
+    "scoala": "SCOALA GIMNAZIALAGHEORGHE DANCU BIIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AB10525993",
+    "scoala": "SCOALA GIMNAZIALA BARABANT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AB10668860",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10668860",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8000728",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB8921702",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB8898767",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8331497",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB11048487",
+    "scoala": "SCOALA GIMNAZIALA CIURULEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB11197792",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB11197792",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9316307",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB12184105",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB11191100",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB9991774",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9653378",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU IGHIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB8988597",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8988597",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10642841",
+    "scoala": "SCOALA GIMNAZIALA IOSIF SARBU SIBOT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10642841",
+    "scoala": "SCOALA GIMNAZIALA IOSIF SARBU SIBOT",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB10643361",
+    "scoala": "SCOALA GIMNAZIALA IOSIF SARBU SIBOT",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9627826",
+    "scoala": "SCOALA GIMNAZIALA DAIA ROMANA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8578086",
+    "scoala": "SCOALA GIMNAZIALA CAMPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8251883",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8251883",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SFANTUL SIMION STEFAN ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AB10856293",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10856293",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9001007",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AB8081133",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB9988912",
+    "scoala": "LICEUL GERMAN SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB8752824",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.3,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AB8752824",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9598986",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB7943601",
+    "scoala": "SCOALA GIMNAZIALA SEPTIMIU ALBINI CUT",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8346612",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AB10793556",
+    "scoala": "SCOALA GIMNAZIALA TOMA COCISIU BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB11192252",
+    "scoala": "LICEUL GERMAN SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9675085",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9102783",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9102783",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9287479",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8839571",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AB10509069",
+    "scoala": "SCOALA GIMNAZIALA LAZESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB10296076",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE CETATEA DE BALTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AB8762651",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9007152",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9932467",
+    "scoala": "SCOALA GIMNAZIALA POSAGA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB10505067",
+    "scoala": "SCOALA GIMNAZIALA RAMET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB8139242",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9601526",
+    "scoala": "SCOALA GIMNAZIALA SILVIU CARPINISIANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB9328981",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.55,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9328981",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9599879",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AB8897532",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6.15,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AB9393987",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AB10305335",
+    "scoala": "SCOALA GIMNAZIALA PETRESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9627586",
+    "scoala": "SCOALA GIMNAZIALA DAIA ROMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AB9627586",
+    "scoala": "SCOALA GIMNAZIALA DAIA ROMANA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9599607",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB9690829",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9799556",
+    "scoala": "LICEUL CU PROGRAM SPORTIV FLORIN FLESERIU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB9599502",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB9754113",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB11191836",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9067800",
+    "scoala": "SCOALA GIMNAZIALA PETRU PAVEL AARON BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8963117",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8547046",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB10448326",
+    "scoala": "SCOALA GIMNAZIALA SILVIU CARPINISIANU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8071847",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8071847",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB8816558",
+    "scoala": "SCOALA GIMNAZIALA HOREA HOREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9095754",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB8750676",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8750676",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10550039",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AB9791240",
+    "scoala": "SCOALA GIMNAZIALA IOAN MIHU VINEREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9791240",
+    "scoala": "SCOALA GIMNAZIALA IOAN MIHU VINEREA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9023823",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9023823",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9316323",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10450082",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 6.45,
+    "diferenta": -1.2
+  },
+  {
+    "cod": "AB10450082",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9650746",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8921727",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "AB9347704",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB11196477",
+    "scoala": "SCOALA GIMNAZIALA NICOLAE DRAGAN GALDA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9546668",
+    "scoala": "LICEUL GERMAN SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9522340",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9522340",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL KOGALNICEANU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9851229",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9851229",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8987598",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB11200127",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10607885",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AB9287744",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9096262",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB10954512",
+    "scoala": "SCOALA GIMNAZIALA BERGHIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10856215",
+    "scoala": "SCOALA GIMNAZIALA SILVIU CARPINISIANU SEBES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AB10856215",
+    "scoala": "SCOALA GIMNAZIALA SILVIU CARPINISIANU SEBES",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9641950",
+    "scoala": "SCOALA GIMNAZIALA GARBOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9977877",
+    "scoala": "SCOALA GIMNAZIALA POSAGA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB7898497",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB7898497",
+    "scoala": "COLEGIUL NATIONAL INOCHENTIE MICU CLAIN BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9418467",
+    "scoala": "SCOALA GIMNAZIALA SAVA ALBESCU FENES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9418467",
+    "scoala": "SCOALA GIMNAZIALA SAVA ALBESCU FENES",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9815132",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9815132",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9536790",
+    "scoala": "SCOALA GIMNAZIALA SARD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8889527",
+    "scoala": "COLEGIUL NATIONAL BETHLEN GABOR AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AB8795154",
+    "scoala": "LICEUL DR. LAZAR CHIRILA BAIA DE ARIES",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9586825",
+    "scoala": "SCOALA GIMNAZIALA SASCIORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9586825",
+    "scoala": "SCOALA GIMNAZIALA SASCIORI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB8076012",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR OCNA MURES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB9992410",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRICAU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9220736",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AB9220736",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8947866",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB9798208",
+    "scoala": "SCOALA GIMNAZIALA METES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9798208",
+    "scoala": "SCOALA GIMNAZIALA METES",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9674970",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AB8897404",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB9880757",
+    "scoala": "SCOALA GIMNAZIALA NICODIM GANEA BISTRA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9627597",
+    "scoala": "SCOALA GIMNAZIALA DAIA ROMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AB12185522",
+    "scoala": "LICEUL TEOLOGIC GRECO-CATOLIC SFANTUL VASILE CEL MARE BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.65,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AB9306153",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8578389",
+    "scoala": "SCOALA GIMNAZIALA CAMPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB10443275",
+    "scoala": "LICEUL TEHNOLOGIC DORIN PAVEL ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB10443275",
+    "scoala": "LICEUL TEHNOLOGIC DORIN PAVEL ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9593370",
+    "scoala": "SCOALA GIMNAZIALA „TIMOTEIU OVIDIU TARNU” STREMT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB9851352",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9851352",
+    "scoala": "SCOALA GIMNAZIALA TELNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9592460",
+    "scoala": "SCOALA GIMNAZIALA „TIMOTEIU OVIDIU TARNU” STREMT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB11009618",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB11009618",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB9286826",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10171876",
+    "scoala": "SCOALA GIMNAZIALA ALMASU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8841185",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER MANARADE",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB11047993",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU BUCIUM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9537271",
+    "scoala": "SCOALA GIMNAZIALA SARD",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10080837",
+    "scoala": "SCOALA GIMNAZIALA MICESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10963102",
+    "scoala": "SCOALA GIMNAZIALA SINGIDAVA CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10732300",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10732300",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10051505",
+    "scoala": "SCOALA GIMNAZIALA TOMA COCISIU BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9135292",
+    "scoala": "SCOALA GIMNAZIALA IULIU MANIU VINTU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9531652",
+    "scoala": "SCOALA GIMNAZIALA SINGIDAVA CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB13694509",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU IGHIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB13694509",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU IGHIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9994387",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRICAU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9994387",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRICAU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9860191",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9860191",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10858095",
+    "scoala": "SCOALA GIMNAZIALA PETRESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9096178",
+    "scoala": "SCOALA GIMNAZIALA DAVID PRODAN SALISTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB9096178",
+    "scoala": "SCOALA GIMNAZIALA DAVID PRODAN SALISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9948123",
+    "scoala": "LICEUL TEHNOLOGIC JIDVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB9948123",
+    "scoala": "LICEUL TEHNOLOGIC JIDVEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10672881",
+    "scoala": "SCOALA GIMNAZIALA ION AGARBICEANU ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10980169",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU DOMSA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB12180606",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB12237870",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB12237870",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB12451264",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU UNIREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.9,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AB8797779",
+    "scoala": "LICEUL DR. LAZAR CHIRILA BAIA DE ARIES",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10577226",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10641422",
+    "scoala": "SCOALA GIMNAZIALA IOSIF SARBU SIBOT",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9880833",
+    "scoala": "SCOALA GIMNAZIALA NICODIM GANEA BISTRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AB9880833",
+    "scoala": "SCOALA GIMNAZIALA NICODIM GANEA BISTRA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB9289909",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB9289909",
+    "scoala": "LICEUL DE ARTE REGINA MARIA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB10410119",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR OCNA MURES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB10410119",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR OCNA MURES",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8791975",
+    "scoala": "SCOALA GIMNAZIALA LIVEZILE",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9337281",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10467214",
+    "scoala": "SCOALA GIMNAZIALA PONOREL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10467214",
+    "scoala": "SCOALA GIMNAZIALA PONOREL",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10292274",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AB10292274",
+    "scoala": "COLEGIUL NATIONAL TITU MAIORESCU AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB12454497",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.2,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AB10467140",
+    "scoala": "SCOALA GIMNAZIALA PONOREL",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB10467074",
+    "scoala": "SCOALA GIMNAZIALA PONOREL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB10467074",
+    "scoala": "SCOALA GIMNAZIALA PONOREL",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB11101453",
+    "scoala": "SCOALA GIMNAZIALA IOAN DE HUNEDOARA SANTIMBRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AB10556217",
+    "scoala": "LICEUL TEORETIC PETRU MAIOR OCNA MURES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AB8792249",
+    "scoala": "SCOALA GIMNAZIALA LIVEZILE",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB12804319",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB12804319",
+    "scoala": "SCOALA GIMNAZIALA VASILE GOLDIS ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB9342868",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB9342868",
+    "scoala": "SCOALA GIMNAZIALA NR.3 CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9629425",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AB9629425",
+    "scoala": "SCOALA GIMNAZIALA IOSIF PERVAIN CUGIR",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9854606",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB9854606",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB9062012",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AB9062012",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB8461548",
+    "scoala": "SCOALA GIMNAZIALA OVIDIU HULEA AIUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB8461548",
+    "scoala": "SCOALA GIMNAZIALA OVIDIU HULEA AIUD",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10577222",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB10577222",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10373908",
+    "scoala": "SCOALA GIMNAZIALA TOMA COCISIU BLAJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AB10373908",
+    "scoala": "SCOALA GIMNAZIALA TOMA COCISIU BLAJ",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8842937",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER MANARADE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AB8842937",
+    "scoala": "SCOALA GIMNAZIALA AXENTE SEVER MANARADE",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB9649932",
+    "scoala": "LICEUL TEORETIC TEIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AB8165190",
+    "scoala": "SCOALA GIMNAZIALA CAMPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB10382746",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ABRUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AB10382746",
+    "scoala": "SCOALA GIMNAZIALA AVRAM IANCU ABRUD",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9992498",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRICAU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9992498",
+    "scoala": "SCOALA GIMNAZIALA DECEBAL CRICAU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8727967",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXANDRU BORZA CIUMBRUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AB8727967",
+    "scoala": "LICEUL TEHNOLOGIC AGRICOL ALEXANDRU BORZA CIUMBRUD",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9935874",
+    "scoala": "LICEUL TEHNOLOGIC JIDVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.35,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AB9935874",
+    "scoala": "LICEUL TEHNOLOGIC JIDVEI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10415207",
+    "scoala": "LICEUL TEHNOLOGIC DORIN PAVEL ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AB10415207",
+    "scoala": "LICEUL TEHNOLOGIC DORIN PAVEL ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AB11009585",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU DOMSA ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AB10880832",
+    "scoala": "SCOALA GIMNAZIALA RAHAU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AB10880832",
+    "scoala": "SCOALA GIMNAZIALA RAHAU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB8803151",
+    "scoala": "LICEUL DR. LAZAR CHIRILA BAIA DE ARIES",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AB8803151",
+    "scoala": "LICEUL DR. LAZAR CHIRILA BAIA DE ARIES",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9601747",
+    "scoala": "SCOALA GIMNAZIALA SASCIORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AB10577224",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AB10577224",
+    "scoala": "SCOALA GIMNAZIALA DR.PETRU SPAN LUPSA",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "AB9552675",
+    "scoala": "LICEUL TEHNOLOGIC DORIN PAVEL ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AB8414716",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AB8414716",
+    "scoala": "COLEGIUL TEHNIC APULUM ALBA IULIA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  }
+]

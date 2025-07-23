@@ -1,0 +1,96 @@
+<!-- IstoricContestatiiComponent template -->
+<div
+  class="w-[98%] max-w-6xl mx-auto mt-6 bg-white/90 backdrop-blur rounded-2xl py-8 px-8 shadow-lg transition-all duration-500 min-h-[600px]"
+>
+  <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
+    Istoric contestații pe ani, județ și materie
+  </h2>
+
+  <div class="flex flex-col md:flex-row gap-4 mb-6">
+    <p-dropdown
+      [options]="years"
+      [(ngModel)]="selectedYear"
+      (ngModelChange)="onYearChange($event)"
+      optionLabel="label"
+      placeholder="Selectează anul"
+      [showClear]="true"
+      class="w-full md:w-1/3"
+      name="year"
+    ></p-dropdown>
+
+    <p-dropdown
+      [options]="judete"
+      [(ngModel)]="selectedJudet"
+      (ngModelChange)="onJudetChange($event)"
+      optionLabel="label"
+      placeholder="Selectează județul"
+      [showClear]="true"
+      class="w-full md:w-1/3"
+      name="judet"
+    ></p-dropdown>
+
+    <p-dropdown
+      [options]="subjects"
+      [(ngModel)]="selectedSubject"
+      (ngModelChange)="onSubjectChange($event)"
+      optionLabel="label"
+      placeholder="Selectează materia"
+      [showClear]="true"
+      class="w-full md:w-1/3"
+      name="subject"
+    ></p-dropdown>
+  </div>
+
+  <ng-container
+    *ngIf="
+      selectedYear != null && selectedJudet && selectedSubject;
+      else noSelection
+    "
+  >
+    <div
+      *ngIf="afiseazaStatistici"
+      class="mb-6 bg-purple-50 rounded-xl p-6 shadow-md text-gray-800"
+    >
+      <h3 class="text-xl font-semibold mb-4 text-purple-700">
+        Statistici contestații:
+      </h3>
+      <ul class="space-y-1">
+        <li>
+          Total contestații: <strong>{{ total }}</strong>
+        </li>
+        <li>
+          Note crescute: <strong>{{ noteCrescute }}</strong>
+        </li>
+        <li>
+          Note scăzute: <strong>{{ noteScazute }}</strong>
+        </li>
+        <li>
+          Fără modificare: <strong>{{ noteNeschimbate }}</strong>
+        </li>
+        <li>
+          Diferență medie:
+          <strong>{{ diferentaMedie | number : "1.2-2" }}</strong>
+        </li>
+      </ul>
+    </div>
+
+    <div class="py-4">
+      <canvas
+        baseChart
+        [datasets]="chartData"
+        [labels]="chartLabels"
+        [options]="chartOptions"
+        [type]="chartType"
+        style="min-height: 500px; width: 100%"
+      ></canvas>
+    </div>
+  </ng-container>
+
+  <ng-template #noSelection>
+    <div class="flex items-center justify-center h-64">
+      <span class="text-center text-2xl font-semibold text-purple-700/50">
+        Te rugăm să selectezi anul, județul și materia pentru a vedea graficul.
+      </span>
+    </div>
+  </ng-template>
+</div>

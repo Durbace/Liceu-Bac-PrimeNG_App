@@ -1,0 +1,3794 @@
+[
+  {
+    "cod": "AR143251",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 10,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR4686101",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR10373806",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR10373806",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9669165",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9693574",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR9146051",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR9571781",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIRGIL IOVĂNAŞ ŞOFRONEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9097977",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR4691351",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR9717122",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR12232456",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.85,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR12232456",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9651223",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.65,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR8829769",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR10303132",
+    "scoala": "LICEUL TEORETIC PÂNCOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR9684463",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10281343",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR7928434",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9783880",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9783880",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR10055903",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ CURTICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR146301",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR4643901",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10370936",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR10370936",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9168994",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9218319",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9716598",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8745662",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 9,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR9670095",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9672299",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR9729264",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR12136592",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9696655",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9696655",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9648860",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR8339840",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE POP BOCSIG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR4651651",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AR9663804",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR10652954",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR12191537",
+    "scoala": "ŞCOALA GIMNAZIALĂ SABIN MANUILĂ SÎMBĂTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR8830935",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR9702827",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8203796",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR8203796",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9672476",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9672476",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR10277750",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9671282",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9671282",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR419751",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR8213387",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞIMAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR10696990",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR10696990",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9672148",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 8.3,
+    "diferenta": -1.15
+  },
+  {
+    "cod": "AR9672148",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9504425",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR7929078",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.6,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "AR9670699",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AR9670699",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8676545",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR10119901",
+    "scoala": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR8689517",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR10369929",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9667002",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR7907981",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR4639601",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10373047",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR8398302",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8398302",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9459806",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR149851",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 7.8,
+    "diferenta": -1.05
+  },
+  {
+    "cod": "AR9805677",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9805677",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8941966",
+    "scoala": "ŞCOALA GIMNAZIALĂ HORIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8106111",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR9719053",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR9719053",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9146790",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.55,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR9715854",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9715854",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR7915573",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR.IOAN DANICICO SEMLAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.55,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR9682801",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR9357915",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9763573",
+    "scoala": "SCOALA GIMNAZIALA MADERAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR9763573",
+    "scoala": "SCOALA GIMNAZIALA MADERAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR7908872",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8396346",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR8396346",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9726373",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9667612",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9712931",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR10396951",
+    "scoala": "LICEUL TEHNOLOGIC VASILE JUNCU MINIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR10396951",
+    "scoala": "LICEUL TEHNOLOGIC VASILE JUNCU MINIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR9671641",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR8112793",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR8112793",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9763333",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR10544774",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROMUL MOTORCA -AGRIŞU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR10055157",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ CURTICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR4690901",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8742490",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR9683560",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR9099727",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARON COTRUŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR9667976",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9718888",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9718888",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8950336",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR8950336",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9591583",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR9682159",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9671000",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR9671113",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8076555",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9503841",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.65,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR9220532",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9541475",
+    "scoala": "LICEUL TEHNOLOGIC SAVA BRANCOVICI INEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR9660504",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9096642",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR8851946",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR10607863",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR10607863",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR7928491",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR8858417",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8858417",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR8270765",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUSIGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR5295301",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8820155",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR12513699",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AR8504388",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR8681212",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR10076600",
+    "scoala": "ŞCOALA GIMNAZIALĂ TAUŢ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10651852",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR10651852",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9670012",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AR10370127",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9717343",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.3,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR7995124",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR9671106",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR8830120",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR8830120",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR12142220",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.9,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR12142220",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10371078",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9702267",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR8206595",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR9686007",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10278838",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR7931127",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9685534",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10542032",
+    "scoala": "SCOALA GIMNAZIALA MORODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8406200",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9099581",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARON COTRUŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR9099004",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR9702137",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR5428101",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9206247",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂULIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.4,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR8594681",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE POPOVICI APATEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR11186841",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8.2,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR11186841",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9684626",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9459291",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9169707",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR8662005",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9683806",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR140201",
+    "scoala": "LICEUL TEOLOGIC BAPTIST ALEXA POPOVICI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9787256",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR9683082",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR7928803",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9682253",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR9095137",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARON COTRUŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9664953",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10382454",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMUŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "AR9805157",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9561806",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLEŞCUŢA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.45,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "AR10370662",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR7964284",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR7980401",
+    "scoala": "ŞCOALA GIMNAZIALĂ PAVEL COVACI MACEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR7951770",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMUŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 7.2,
+    "diferenta": 1.05
+  },
+  {
+    "cod": "AR10374398",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 7.05,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR8069811",
+    "scoala": "LICEUL TEHNOLOGIC VASILE JUNCU MINIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR8069811",
+    "scoala": "LICEUL TEHNOLOGIC VASILE JUNCU MINIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR145501",
+    "scoala": "COLEGIUL NAŢIONAL MOISE NICOARĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR10372069",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10282061",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR9162540",
+    "scoala": "COLEGIUL NAŢIONAL ELENA GHIBA BIRTA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR9206849",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂULIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR9648688",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9648688",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10397130",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR9217933",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9217933",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9717925",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9714433",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8737033",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂRAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR8737033",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂRAND",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR9543226",
+    "scoala": "COLEGIUL MIHAI VITEAZUL INEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8833512",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AR8112004",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10054844",
+    "scoala": "LICEUL TEHNOLOGIC ION CREANGĂ CURTICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR4678501",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9490707",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR7998163",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR8490895",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR8825918",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8064906",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8064906",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR9672284",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR8561778",
+    "scoala": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10382790",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMUŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.35,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR5440501",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9731303",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR9670739",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR7952984",
+    "scoala": "COLEGIUL NAŢIONAL ELENA GHIBA BIRTA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10280997",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR7997551",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂDĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9218146",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AR9529868",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR8488009",
+    "scoala": "LICEUL TEORETIC SEBIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR8852478",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9151375",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9388675",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR8079891",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR10001711",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞIMAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10001711",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞIMAND",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR12173587",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR12173587",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10007811",
+    "scoala": "ŞCOALA GIMNAZIALĂ BÂRZAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR9784050",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR8584903",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10696926",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR10403113",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVADA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR9717737",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR9694223",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR9683690",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR9672092",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8710015",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR4649551",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR4649551",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR4683801",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR7914863",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9596888",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9701344",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9701344",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9663627",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "AR9575073",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9575073",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR12867211",
+    "scoala": "ŞCOALA GIMNAZIALĂ PAVEL COVACI MACEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9315216",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂRAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR10309285",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR8673763",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR8673763",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR8114406",
+    "scoala": "COLEGIULCSIKY GERGELY ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR8937959",
+    "scoala": "LICEUL TEORETIC PÂNCOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR8271314",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUSIGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.25,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR8271314",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUSIGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9566096",
+    "scoala": "ŞCOALA GIMNAZIALĂ HORIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR9095761",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR8112598",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR9672847",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9698254",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.8,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AR10270468",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9388892",
+    "scoala": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR9392774",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR9867048",
+    "scoala": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR10651942",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9393304",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARON COTRUŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8565120",
+    "scoala": "LICEUL TEHNOLOGIC SAVA BRANCOVICI INEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR9670928",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9670928",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9866653",
+    "scoala": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR7930037",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR10279541",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.35,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR13723164",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR13723164",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10505443",
+    "scoala": "ŞCOALA GIMNAZIALĂ PETRU BĂRDAN CHIER",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR12152143",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂULIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR8081217",
+    "scoala": "ŞCOALA GIMNAZIALĂ ADAM NICOLAE ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AR8081217",
+    "scoala": "ŞCOALA GIMNAZIALĂ ADAM NICOLAE ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9734688",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR8800598",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOSIF MOLDOVAN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR193351",
+    "scoala": "ŞCOALA GIMNAZIALĂ NĂDAB",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10280033",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9671212",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9671212",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8061729",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9596007",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR8153045",
+    "scoala": "ŞCOALA GIMNAZIALĂ TITUS POPOVICI MIŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR9682178",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR7952438",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR7952438",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10815690",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9659297",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR9659297",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8105494",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AR10507049",
+    "scoala": "ŞCOALA GIMNAZIALĂ SABIN DRĂGOI PETRIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR7975444",
+    "scoala": "ŞCOALA GIMNAZIALĂ PAVEL COVACI MACEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR8115524",
+    "scoala": "COLEGIULCSIKY GERGELY ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10506784",
+    "scoala": "ŞCOALA GIMNAZIALĂ SABIN DRĂGOI PETRIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR7951377",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10467158",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMUŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR9504266",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9504266",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9715833",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9672589",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9672589",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9458726",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR148501",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVADA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9731535",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8083464",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR10372701",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR8981426",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN CICIO-POP CONOP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7.2,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR9653523",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR10079849",
+    "scoala": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR9670176",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9670176",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "AR9670798",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AR8514476",
+    "scoala": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR10696340",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR7927985",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9717585",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AR9717585",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AR10516746",
+    "scoala": "LICEUL TEORETIC PÂNCOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.4,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "AR9655773",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR7904058",
+    "scoala": "LICEUL TEHNOLOGIC MOGA VOIEVOD HĂLMAGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR7904058",
+    "scoala": "LICEUL TEHNOLOGIC MOGA VOIEVOD HĂLMAGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9575289",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIRGIL IOVĂNAŞ ŞOFRONEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.1,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AR8108727",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR10374815",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "AR10374815",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR7952327",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR9656137",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR8047522",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR13053280",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR.IOAN DANICICO SEMLAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9665179",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "AR9589318",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR9589318",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR7961581",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "AR8502404",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9491107",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10696104",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AR10696104",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8372418",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9664509",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR8233135",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "AR8233135",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8860916",
+    "scoala": "COLEGIUL MIHAI VITEAZUL INEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8860916",
+    "scoala": "COLEGIUL MIHAI VITEAZUL INEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10292245",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR10674148",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU MOCIONI BIRCHIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR9682392",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR8561063",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8709668",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR8709668",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8903718",
+    "scoala": "ŞCOALA GIMNAZIALĂ IUSTIN MARȘIEU SOCODOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR8745117",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AR8568758",
+    "scoala": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "AR8568758",
+    "scoala": "LICEUL TEHNOLOGIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10397100",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR10397100",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR9459774",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR9393013",
+    "scoala": "ŞCOALA GIMNAZIALĂ ARON COTRUŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10697774",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR8534081",
+    "scoala": "ŞCOALA GIMNAZIALĂ ”NICOLAE HORGA POPOVICI” SELEUŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8855137",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR8077563",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR9394678",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 3.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "AR10500985",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂRAND",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10271703",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "AR11087938",
+    "scoala": "ŞCOALA GIMNAZIALĂ CHESINŢ",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8957603",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9575529",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIRGIL IOVĂNAŞ ŞOFRONEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR9575529",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIRGIL IOVĂNAŞ ŞOFRONEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8981745",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN CICIO-POP CONOP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR7931207",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR10270083",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10369878",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR12579680",
+    "scoala": "ŞCOALA GIMNAZIALĂ ADAM NICOLAE ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR12579680",
+    "scoala": "ŞCOALA GIMNAZIALĂ ADAM NICOLAE ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8271152",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUSIGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR12864441",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR9593774",
+    "scoala": "ŞCOALA GIMNAZIALĂ AVRAM IANCU ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8869336",
+    "scoala": "COLEGIUL MIHAI VITEAZUL INEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "AR9718776",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9718776",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "AR10467181",
+    "scoala": "ŞCOALA GIMNAZIALĂ SABIN MANUILĂ SÎMBĂTENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR8746635",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOSIF MOLDOVAN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "AR9315319",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂRAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 3.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AR10316375",
+    "scoala": "LICEUL NAŢIONAL DE INFORMATICĂ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "AR10084441",
+    "scoala": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "AR10084441",
+    "scoala": "LICEUL TEORETIC JOZEF GREGOR TAJOVSKY NĂDLAC",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10370906",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR9571872",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIRGIL IOVĂNAŞ ŞOFRONEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.3,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AR9389206",
+    "scoala": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR9389206",
+    "scoala": "LICEUL TEORETIC MIHAI VELICIU CHISINEU-CRIS",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10696162",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR10696162",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8368348",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AR9574000",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRAȚII NEUMAN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "AR10696374",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AR10508496",
+    "scoala": "SCOALA GIMNAZIALA SICLAU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 3.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AR10697974",
+    "scoala": "ŞCOALA GIMNAZIALĂ GALŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9490837",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9490837",
+    "scoala": "COLEGIUL NAŢIONAL VASILE GOLDIŞ ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8402635",
+    "scoala": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR8497971",
+    "scoala": "LICEUL TEHNOLOGIC BELIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10583410",
+    "scoala": "ŞCOALA GIMNAZIALĂ ILARION FELEA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10583410",
+    "scoala": "ŞCOALA GIMNAZIALĂ ILARION FELEA ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9084891",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "AR9084891",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10301266",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRNOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "AR10301266",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRNOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR10371217",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAIUS IACOB ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10055489",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "AR10055489",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR3440801",
+    "scoala": "ŞCOALA GIMNAZIALĂ TEODOR PĂCĂŢIAN USUSĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR3440801",
+    "scoala": "ŞCOALA GIMNAZIALĂ TEODOR PĂCĂŢIAN USUSĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9682486",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AR9682486",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR7932967",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR7932967",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR10658423",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI ŞIRIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8047349",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR9659766",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR9659766",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "AR9560712",
+    "scoala": "ŞCOALA GIMNAZIALĂ VÂRFURILE",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10382128",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMUŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8741078",
+    "scoala": "COLEGIUL MIHAI VITEAZUL INEU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10454602",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIECI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.15,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "AR10454602",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIECI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8657857",
+    "scoala": "SCOALA GIMNAZIALA STEFAN AUGUSTIN DOINAS CAPORAL ALEXA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.9,
+    "diferenta": 1
+  },
+  {
+    "cod": "AR8502014",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "AR8502014",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR9703421",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "AR8653369",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR8045818",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "AR12595669",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL SEBEŞAN FELNAC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR12595669",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL SEBEŞAN FELNAC",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8269755",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR8269755",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR7930695",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR7930695",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8660951",
+    "scoala": "SCOALA GIMNAZIALA STEFAN AUGUSTIN DOINAS CAPORAL ALEXA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR10519870",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "AR8654029",
+    "scoala": "LICEUL ATANASIE MARIENESCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10505136",
+    "scoala": "ŞCOALA GIMNAZIALĂ PETRU BĂRDAN CHIER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8062436",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "AR8062436",
+    "scoala": "LICEUL TEORETIC GHEORGHE LAZĂR PECICA",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8230943",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 2.9,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "AR8230943",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR8821874",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOSIF MOLDOVAN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8497770",
+    "scoala": "LICEUL TEHNOLOGIC BELIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR9497483",
+    "scoala": "ŞCOALA GIMNAZIALĂ GROŞENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "AR10270845",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10270845",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR10305820",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRNOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR10305820",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRNOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9667374",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "AR8231614",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "AR8231614",
+    "scoala": "LICEUL SEVER BOCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "AR8056715",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTA ANA SÂNTANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "AR10674096",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU MOCIONI BIRCHIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "AR10674096",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU MOCIONI BIRCHIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR14312255",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR14312255",
+    "scoala": "COLEGIUL DE ARTE SABIN DRAGOI ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR191751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NĂDAB",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR191751",
+    "scoala": "ŞCOALA GIMNAZIALĂ NĂDAB",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9206874",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂULIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9206874",
+    "scoala": "ŞCOALA GIMNAZIALĂ PĂULIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "AR9664313",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR9664313",
+    "scoala": "COLEGIUL NAŢIONAL PREPARANDIA-DIMITRIE ŢICHINDEAL ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "AR7909399",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "AR7909399",
+    "scoala": "LICEUL TEORETIC ADAM MULLER GUTTENBRUNN ARAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  }
+]

@@ -1,0 +1,2514 @@
+[
+  {
+    "cod": "HR8393185",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "HR10660749",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAJLÁTH GUSZTÁV KÁROLY LUNCA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR7922400",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR6568751",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON ÁRON SÂNDOMINIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR10539683",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTONFFI JÁNOS VLĂHIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR6603551",
+    "scoala": "ȘCOALA GIMNAZIALĂ FOGARASY MIHÁLY GHEORGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10056079",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR7907002",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR218551",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR8368499",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HR7951211",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR8618574",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR9754705",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR8367103",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR8367103",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR9843719",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR8396718",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR7909144",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR8696184",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR9989487",
+    "scoala": "LICEUL TEHNOLOGIC ZIMMETHAUSEN BORSEC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR9843940",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR7955790",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR9699200",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR8388118",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR8877865",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR6474701",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR6474701",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR6667551",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON ÁRON SÂNDOMINIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.65,
+    "diferenta": 1
+  },
+  {
+    "cod": "HR7194851",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR9697915",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR8368214",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR10002332",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR7930472",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9753146",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR230401",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "HR225551",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR225551",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR8380374",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.95,
+    "diferenta": 1
+  },
+  {
+    "cod": "HR8380374",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR8045598",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZENT ISTVÁN SÂNCRAI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR8393889",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR9936871",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR8365800",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.15,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "HR8365800",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR8728314",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR6564451",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR8367503",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HR8033838",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR DEALU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR7930174",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR8653307",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7.45,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "HR6533151",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR9976835",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR7957069",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR9829437",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAGY ISTVÁN MISENTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10323421",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARMĂŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10603032",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR9706543",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR7973559",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR7973559",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9941047",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR10130416",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARANY JÁNOS MIHĂILENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR8332592",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR9843565",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR6547501",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR9755595",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.2,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR9753349",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6.15,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR9753349",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR10373323",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR10065888",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR8391088",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR8391088",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10509795",
+    "scoala": "ȘCOALA GIMNAZIALĂ GÁL SÁNDOR CIUCSÂNGEORGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HR9510630",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR9510630",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9717696",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR7904890",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR8879941",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HR9755284",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR217451",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6.85,
+    "diferenta": 1.75
+  },
+  {
+    "cod": "HR7906885",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR10055936",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 7.05,
+    "diferenta": 1.8
+  },
+  {
+    "cod": "HR8552813",
+    "scoala": "ȘCOALA GIMNAZIALĂ CSEREI MIHÁLY RACU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR9050900",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÜKÖSD FERENC OCNA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR226901",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR8734592",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10823877",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR9509780",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9141870",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON CRISTEA TOPLIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR8387604",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR220401",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR10816666",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10816666",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR9051301",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÜKÖSD FERENC OCNA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR10660657",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAJLÁTH GUSZTÁV KÁROLY LUNCA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR9019116",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZÉKELY MÓZES LUETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR9639505",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÁLINT VILMOS TOMEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HR9639505",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÁLINT VILMOS TOMEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR8087622",
+    "scoala": "ȘCOALA GIMNAZIALĂ ELEKES VENCEL SUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR9510231",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR9509672",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR6549801",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10589047",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTONFFI JÁNOS VLĂHIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR9098983",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR6382801",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR7906679",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR7906679",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR8882444",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.65,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "HR7906179",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR9758253",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HR10663886",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAJLÁTH GUSZTÁV KÁROLY LUNCA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.65,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HR10663886",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAJLÁTH GUSZTÁV KÁROLY LUNCA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR7967206",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SEGITŐ MÁRIA MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.25,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR7966347",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR7966347",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9670555",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR7949280",
+    "scoala": "LICEUL TEHNOLOGIC CORUND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR8721556",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HR9671071",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR8778169",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC PĂULENI-CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 5.1,
+    "diferenta": 1.65
+  },
+  {
+    "cod": "HR4695801",
+    "scoala": "LICEUL TEORETIC SFÂNTU NICOLAE GHEORGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR9716245",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR9716245",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HR8796375",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HR7980077",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR9755467",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR10400275",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRÁTER GYÖRGY REMETEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR219801",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SEGITŐ MÁRIA MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR219801",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SEGITŐ MÁRIA MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR10761681",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9020127",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZÉKELY MÓZES LUETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9451961",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMOKOS PÁL PÉTER LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR7912876",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "HR7912876",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR5997451",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIKLODI LŐRINC DITRĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR9919247",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARANY JÁNOS MIHĂILENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "HR9919175",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR6541951",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR8369870",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR8510723",
+    "scoala": "ȘCOALA GIMNAZIALĂ CSEREI MIHÁLY RACU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HR10761418",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR9369155",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SEGITŐ MÁRIA MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HR8847664",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR226101",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR7979273",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR9051432",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÜKÖSD FERENC OCNA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR7880095",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON ÁRON SÂNDOMINIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR6622701",
+    "scoala": "ȘCOALA GIMNAZIALĂ FOGARASY MIHÁLY GHEORGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR225951",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SEGITŐ MÁRIA MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HR9671300",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR9718211",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR9718211",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10817016",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR6384051",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR6384051",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9936491",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 5.05,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR7993728",
+    "scoala": "LICEUL PEDAGOGIC BENEDEK ELEK ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR10391759",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZÖLD PÉTER SICULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR10487529",
+    "scoala": "LICEUL TEHNOLOGIC PETŐFI SÁNDOR DĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10603772",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.05,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "HR224651",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5.05,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "HR10851301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 5.45,
+    "diferenta": 2.25
+  },
+  {
+    "cod": "HR9509445",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10324809",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARMĂŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR10324809",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARMĂŞENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR9639872",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÁLINT VILMOS TOMEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 4.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR10816959",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR10391980",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZÖLD PÉTER SICULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR8397946",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.05,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HR8397946",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR8031780",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR CRISTURU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR10475812",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 4.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR9098767",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR6547751",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR9465188",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAJLÁTH GUSZTÁV KÁROLY LUNCA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR9051242",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÜKÖSD FERENC OCNA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR10266914",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON VLĂHIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10266914",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON VLĂHIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR6846551",
+    "scoala": "ȘCOALA GIMNAZIALĂ BERZENCZEI LÁSZLÓ LUTIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR10762016",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR8982972",
+    "scoala": "ȘCOALA GIMNAZIALĂ TULGHEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR8049540",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZENT ISTVÁN SÂNCRAI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR9758824",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR10852296",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR217951",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.85,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "HR10001712",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR217651",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR9979893",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 5.1,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "HR7967453",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HR9019454",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZÉKELY MÓZES LUETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR7960916",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR6700201",
+    "scoala": "ȘCOALA GIMNAZIALĂ FOGARASY MIHÁLY GHEORGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR10851329",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9019275",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZÉKELY MÓZES LUETA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR8970600",
+    "scoala": "LICEUL TEORETIC O.C.TĂSLĂUANU TOPLIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR8970600",
+    "scoala": "LICEUL TEORETIC O.C.TĂSLĂUANU TOPLIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9755772",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HR9984049",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 5,
+    "diferenta": 1.9
+  },
+  {
+    "cod": "HR6838801",
+    "scoala": "ȘCOALA GIMNAZIALĂ BERZENCZEI LÁSZLÓ LUTIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "HR10823356",
+    "scoala": "ŞCOALA GIMNAZIALĂ KRIZA JÁNOS CĂPÂLNIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 4.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR8879554",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 4.3,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "HR6608351",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "HR10004271",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.25,
+    "nota_finala": 3.5,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "HR8614320",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 4.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HR228151",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR8880948",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "HR8880948",
+    "scoala": "ȘCOALA GIMNAZIALĂ ORBÁN BALÁZS ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR6556051",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR6556051",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9651420",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÁLINT VILMOS TOMEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR5868001",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIKLODI LŐRINC DITRĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR7960793",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR7967602",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9932989",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.15,
+    "nota_finala": 3.3,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "HR9199449",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR10267090",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON VLĂHIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR10267090",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON VLĂHIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR9332033",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU GAFTON GĂLĂUŢAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR9332033",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU GAFTON GĂLĂUŢAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10761734",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR7966205",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HR8137871",
+    "scoala": "LICEUL DE ARTE DR.PALLÓ IMRE ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 4.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HR9757938",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 4,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR10005675",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10044073",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HR8729337",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR9754520",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR10853117",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HR10853117",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR7606701",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR7951715",
+    "scoala": "LICEUL TEHNOLOGIC CORUND",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR8391299",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR10085239",
+    "scoala": "ȘCOALA GIMNAZIALĂ NYIRŐ JÓZSEF FRUMOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR7135001",
+    "scoala": "LICEUL DE ARTE DR.PALLÓ IMRE ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10302741",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTU ILIE TOPLIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10302741",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTU ILIE TOPLIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR6551751",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR10110357",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIKLODI LŐRINC DITRĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HR8917612",
+    "scoala": "LICEUL TEHNOLOGIC SÖVÉR ELEK JOSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR10852254",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.35,
+    "nota_finala": 3.25,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR10102535",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖRÖSI CSOMA SÁNDOR VĂRȘAG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR9970728",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR10853304",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.95,
+    "nota_finala": 2.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HR10660444",
+    "scoala": "LICEUL DE ARTE NAGY ISTVÁN MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9638557",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.35,
+    "nota_finala": 2.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR6840151",
+    "scoala": "ȘCOALA GIMNAZIALĂ ERŐSS ZSOLT JOLOTCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "HR6937351",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASKERTES GHEORGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 3.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR5962601",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÓS KÁROLY GHEORGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10299185",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTU ILIE TOPLIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR8964140",
+    "scoala": "LICEUL TEORETIC O.C.TĂSLĂUANU TOPLIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR12733493",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 5,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "HR10762242",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR8710217",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 4.45,
+    "diferenta": 1.05
+  },
+  {
+    "cod": "HR8710217",
+    "scoala": "ŞCOALA GIMNAZIALĂ JÓZSEF ATTILA -2 MIERCUREA CIUC",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR7907600",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.05,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HR7907600",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEO BOGZA BĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9509599",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9509599",
+    "scoala": "ȘCOALA GIMNAZIALĂ BETHLEN GÁBOR LĂZAREA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR10064496",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMPA LÁSZLÓ ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR8333115",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.85,
+    "nota_finala": 2.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HR9621738",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HR9753299",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.2,
+    "nota_finala": 1.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HR7607101",
+    "scoala": "ŞCOALA GIMNAZIALĂ MÁRTONFFY GYÖRGY CÂRŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.1,
+    "nota_finala": 2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR216801",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.75,
+    "diferenta": 1.05
+  },
+  {
+    "cod": "HR10851187",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENDES JÓZSEF SÂNSIMION",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR9199478",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9699082",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR9699082",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR4697451",
+    "scoala": "LICEUL TEORETIC SFÂNTU NICOLAE GHEORGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR4697451",
+    "scoala": "LICEUL TEORETIC SFÂNTU NICOLAE GHEORGHENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9978323",
+    "scoala": "ŞCOALA GIMNAZIALĂ NAGY IMRE MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 2.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HR8790344",
+    "scoala": "LICEUL TEORETIC DR.P. BOROS FORTUNAT ZETEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR7954713",
+    "scoala": "COLEGIUL NAŢIONAL OCTAVIAN GOGA MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR9948313",
+    "scoala": "ȘCOALA GIMNAZIALĂ TOMPA LÁSZLÓ ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR8653984",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 3.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HR8653984",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR7950760",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HR9197502",
+    "scoala": "ȘCOALA GIMNAZIALĂ SZÉKELY MÓZES OCNA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR10324093",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARMĂŞENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR10324093",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARMĂŞENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR6558301",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR9621492",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HR9621492",
+    "scoala": "LICEUL TEOLOGIC ROMANO-CATOLIC SZENT ERZSÉBET LUNCA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR8008230",
+    "scoala": "ȘCOALA GIMNAZIALĂ CSEREI MIHÁLY RACU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2,
+    "nota_finala": 2.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HR8366807",
+    "scoala": "LICEUL TEORETIC TAMÁSI ÁRON ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR9583272",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU GAFTON GĂLĂUŢAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR228201",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR MIERCUREA CIUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2,
+    "nota_finala": 2.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR9098696",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.25,
+    "nota_finala": 2.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR9698647",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.1,
+    "nota_finala": 1.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HR9698647",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÓRA FERENC ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9243459",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASKERTES GHEORGHENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HR6530001",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÜLÖP ÁRON FELICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.8,
+    "nota_finala": 2.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HR10400295",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRÁTER GYÖRGY REMETEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10762330",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR8615570",
+    "scoala": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 2.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR9829502",
+    "scoala": "ȘCOALA GIMNAZIALĂ NAGY ISTVÁN MISENTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.15,
+    "nota_finala": 1.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HR6550751",
+    "scoala": "COLEGIUL REFORMAT BACZKAMADARASI KIS GERGELY ODORHEIU SECUIESC",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR8550218",
+    "scoala": "ȘCOALA GIMNAZIALĂ CSEREI MIHÁLY RACU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR8030766",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETŐFI SÁNDOR CRISTURU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.9,
+    "nota_finala": 1.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HR10303873",
+    "scoala": "LICEUL TEORETIC O.C.TĂSLĂUANU TOPLIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR10303873",
+    "scoala": "LICEUL TEORETIC O.C.TĂSLĂUANU TOPLIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10761827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.45,
+    "nota_finala": 1.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HR10761827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MÁRTON FERENC BANCU",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR7990472",
+    "scoala": "LICEUL MARIN PREDA ODORHEIU SECUIESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR9244669",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA LUI PAVEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 2.8,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "HR9581292",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTU ANDREI SĂRMAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HR8654226",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HR14357039",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZÖLD PÉTER SICULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.6,
+    "nota_finala": 1.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR10391282",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZÖLD PÉTER SICULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HR10391282",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZÖLD PÉTER SICULENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HR8066501",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.85,
+    "nota_finala": 2.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HR8066501",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HR8950179",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.6,
+    "nota_finala": 1.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HR8950179",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR.LUKÁCS MIHÁLY PLĂIEŞII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HR9098972",
+    "scoala": "ȘCOALA GIMNAZIALĂ KÖLLŐ MIKLÓS CIUMANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.35,
+    "nota_finala": 2.5,
+    "diferenta": 0.15
+  }
+]

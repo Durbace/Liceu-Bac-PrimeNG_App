@@ -1,0 +1,3026 @@
+[
+  {
+    "cod": "OT10404072",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8071342",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 10,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT8024883",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 10,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT8024883",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT10939971",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8009436",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8243718",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "OT9038840",
+    "scoala": "LICEUL TEHNOLOGIC ”TĂNASE CONSTANTIN” IZVOARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10475711",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT8232388",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT10491210",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL BĂBICIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8919442",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT7939851",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT8481242",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "OT8212566",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8165010",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8649682",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10656588",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8007508",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "OT8225848",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8489079",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRUNȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT9593574",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDASTRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT8261039",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT7975348",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT7975348",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT11149400",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "OT7966912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT10008406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "OT10015923",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT9068489",
+    "scoala": "ȘCOALA GIMNAZIALĂ OBÎRȘIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.5,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "OT10939247",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT9077845",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBROTEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9077845",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBROTEASA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8415870",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.55,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT8415870",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10512279",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDĂSTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10512279",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDĂSTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8327002",
+    "scoala": "SCOALA GIMNAZIALA ION POPESCU NEGRENI NEGRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8919653",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8515851",
+    "scoala": "SCOALA GIMNAZIALA NR.1 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8012703",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT7986456",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT10934691",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT7970369",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8599041",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT9854984",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8479731",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT7988530",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8594340",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8373072",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8208434",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8662296",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUSĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8662296",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUSĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT8006250",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9614688",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8228940",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10318095",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8748276",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU BUZDUN CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8279387",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU POPOVICI ȘERBĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8242037",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8242037",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8163227",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "OT7956176",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8941288",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8669688",
+    "scoala": "ȘCOALA GIMNAZIALĂ OBÎRȘIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8215889",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8215889",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT7976124",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT8171204",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRASTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT7992303",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.1,
+    "diferenta": -1
+  },
+  {
+    "cod": "OT7982789",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT7964433",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8086697",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8075311",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8222389",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9522868",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9522868",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10315192",
+    "scoala": "LICEUL TEORETIC TUDOR VLADIMIRESCU DRĂGĂNEȘTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8006865",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8236266",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT13419357",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT9277216",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT10940467",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT9253435",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8685180",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT8031817",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUGEN IONESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8633860",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8699435",
+    "scoala": "ȘCOALA GIMNAZIALĂ POGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8487959",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRUNȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT7997067",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUGEN IONESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9521700",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8566865",
+    "scoala": "ȘCOALA GIMNAZIALĂ PÂRȘCOVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT9037089",
+    "scoala": "LICEUL TEHNOLOGIC ION POPESCU-CILIENI CILIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8941494",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9362455",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂVĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT8208286",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT8919360",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT7984937",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT10477172",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT9277230",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8676802",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVIATOR ALEXANDRU ȘERBANESCU COLONEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT9291988",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "OT9709774",
+    "scoala": "LICEUL TEHNOLOGIC IANCU JIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.1,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT8770900",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8235432",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8689810",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "OT8689810",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8536920",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂLCELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8658288",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUSĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8686514",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT10934835",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT9132147",
+    "scoala": "ȘCOALA GIMNAZIALĂ LEONIDA MARINEANU TIA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 6.9,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT9077565",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBROTEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT9599800",
+    "scoala": "ȘCOALA GIMNAZIALĂ OSICA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8688857",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT10943013",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9570138",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT11149399",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT8007818",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8253885",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9346302",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT8908007",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8568951",
+    "scoala": "ȘCOALA GIMNAZIALĂ PÂRȘCOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT7926981",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT7926981",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10563634",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.7,
+    "diferenta": 1
+  },
+  {
+    "cod": "OT10476317",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT11073706",
+    "scoala": "LICEUL TEORETIC ION GH. ROȘCA OSICA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT10564451",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT10564451",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8209430",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT8006353",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT10485850",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "OT8085228",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT8495958",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRUNȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT10015054",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9523299",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT8215085",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.15,
+    "diferenta": -1.05
+  },
+  {
+    "cod": "OT8215085",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8214793",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT8214793",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT10473704",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "OT7967607",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.75,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "OT9077738",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBROTEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8245338",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "OT8245338",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8406468",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT9304443",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT9649425",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT11090428",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8692505",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10562536",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT7939892",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT10012675",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8245762",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8075175",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8816381",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8216017",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT12199443",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8261319",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8261319",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8215139",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "OT9286308",
+    "scoala": "ȘCOALA GIMNAZIALĂ POGANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8117350",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9429518",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9253232",
+    "scoala": "ȘCOALA GIMNAZIALĂ CUNGREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT10659404",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT9277222",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.3,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "OT9513236",
+    "scoala": "LICEUL TEHNOLOGIC VĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8969884",
+    "scoala": "LICEUL TEORETIC ALEXANDRU IOAN CUZA CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT8939597",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8228142",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "OT9753373",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂLCELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "OT9709628",
+    "scoala": "LICEUL TEHNOLOGIC IANCU JIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10013250",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT10013250",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8577760",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8200956",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT9594807",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDASTRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT8646782",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 BALȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8176283",
+    "scoala": "ȘCOALA GIMNAZIALĂ LEOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10011237",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT10011237",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT10322914",
+    "scoala": "LICEUL TEORETIC TUDOR VLADIMIRESCU DRĂGĂNEȘTI-OLT",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8116865",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT8598572",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8598572",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8908121",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT7958304",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT9522979",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIUVĂRĂȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT10320560",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT10320560",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9360721",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT7954317",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8175691",
+    "scoala": "ȘCOALA GIMNAZIALĂ LEOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9277203",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT10314811",
+    "scoala": "LICEUL TEORETIC TUDOR VLADIMIRESCU DRĂGĂNEȘTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8908309",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8908309",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8010504",
+    "scoala": "ȘCOALA GIMNAZIALĂ CURTIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "OT8529844",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT8529844",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8771403",
+    "scoala": "LICEUL ȘTEFAN DIACONESCU POTCOAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8119728",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT9220253",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10948613",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "OT10948613",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU CORABIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8208588",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 6.4,
+    "diferenta": -1.25
+  },
+  {
+    "cod": "OT8684609",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT8537305",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU POPOVICI ȘERBĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8537305",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU POPOVICI ȘERBĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT10939545",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE MARINEANU CEZIENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8480657",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT7967547",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT10656286",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "OT10656286",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8261703",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8568890",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8275780",
+    "scoala": "ȘCOALA GIMNAZIALĂ TESLUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8259855",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "OT8259855",
+    "scoala": "COLEGIUL NAȚIONAL RADU GRECEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8202599",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8403812",
+    "scoala": "ȘCOALA GIMNAZIALĂ STREJEȘTII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8574356",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8011361",
+    "scoala": "ȘCOALA GIMNAZIALĂ CURTIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8071729",
+    "scoala": "COLEGIUL NAȚIONAL ION MINULESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT9206186",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8340303",
+    "scoala": "SCOALA GIMNAZIALA CORNATELU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT7927641",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT10015990",
+    "scoala": "ȘCOALA GIMNAZIALĂ STREJEȘTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT12594300",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPTAȘI-MĂGURA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8689956",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT9219873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT9219873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8011524",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "OT9039845",
+    "scoala": "ȘCOALA GIMNAZIALĂ OPTAȘI-MĂGURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10562727",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8479856",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "OT7982557",
+    "scoala": "ȘCOALA GIMNAZIALĂ EUGEN IONESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT7926873",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8684382",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT8696480",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8940322",
+    "scoala": "ȘCOALA GIMNAZIALĂ SCHITU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9331816",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT11198650",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9600118",
+    "scoala": "ȘCOALA GIMNAZIALĂ OSICA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9600118",
+    "scoala": "ȘCOALA GIMNAZIALĂ OSICA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT7939774",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT9560161",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALDOVINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.2,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "OT10047952",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDĂSTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9360798",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILCOVU DIN DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9753180",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂLCELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8261076",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT9319604",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "OT8652581",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUSĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8260929",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8260929",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT10564677",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT10564677",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIRCII",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10016103",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9519017",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10078428",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIȘINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10475842",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8326542",
+    "scoala": "SCOALA GIMNAZIALA ION POPESCU NEGRENI NEGRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9022779",
+    "scoala": "LICEUL ȘTEFAN DIACONESCU POTCOAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8171773",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRASTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT7928962",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "OT7982261",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT9988988",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9988988",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10320545",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT10320545",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8004869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8004869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL DRUMEȘ BALȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT7969270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "OT8941811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "OT8941811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9503165",
+    "scoala": "ȘCOALA GIMNAZIALĂ LELEASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT7940819",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT7940819",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8225399",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "OT9037002",
+    "scoala": "LICEUL TEHNOLOGIC ION POPESCU-CILIENI CILIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "OT8642754",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8200441",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "OT8119561",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8648185",
+    "scoala": "ȘCOALA GIMNAZIALĂ RUSĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT10271473",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT12566643",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.4,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "OT12566643",
+    "scoala": "LICEUL TEHNOLOGIC NR. 1 BALȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10947879",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8367884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8210134",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 4.55,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "OT8210134",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT7960024",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT7960024",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9298507",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "OT7927928",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE POBORAN SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10473109",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9968026",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIȘINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10297594",
+    "scoala": "LICEUL TEORETIC TUDOR VLADIMIRESCU DRĂGĂNEȘTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8952725",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BALȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT7939665",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8340421",
+    "scoala": "SCOALA GIMNAZIALA CORNATELU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10940364",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIRGIL MAZILESCU CORABIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8062587",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8497468",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRU POPOVICI ȘERBĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 4.75,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "OT10784194",
+    "scoala": "LICEUL TEHNOLOGIC VĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10784194",
+    "scoala": "LICEUL TEHNOLOGIC VĂLENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10493991",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8494433",
+    "scoala": "ȘCOALA GIMNAZIALĂNICOLAE IORGA SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "OT8117772",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MAGHERU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT7933534",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9277235",
+    "scoala": "ȘCOALA GIMNAZIALĂ GOSTAVĂȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8075671",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 4.3,
+    "diferenta": -1
+  },
+  {
+    "cod": "OT8075671",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9664166",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLĂDILA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10627592",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMANI DRAGANESTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10627843",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMANI DRAGANESTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT12200889",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8940542",
+    "scoala": "LICEUL TEORETIC NICOLAE TITULESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8936994",
+    "scoala": "LICEUL TEORETIC ALEXANDRU IOAN CUZA CORABIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8690435",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8690435",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT7957498",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8371363",
+    "scoala": "LICEUL TEHNOLOGIC IANCU JIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9473395",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEACA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8239959",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8239959",
+    "scoala": "ȘCOALA GIMNAZIALĂ VLAICU VODĂ SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9710434",
+    "scoala": "LICEUL TEHNOLOGIC IANCU JIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9710434",
+    "scoala": "LICEUL TEHNOLOGIC IANCU JIANU",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8681056",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.65,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT13637175",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT13637175",
+    "scoala": "LICEUL TEHNOLOGIC CRÂMPOIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8117074",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TITULESCU CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "OT10498012",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "OT8292474",
+    "scoala": "ȘCOALA GIMNAZIALĂ FĂLCOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT8292474",
+    "scoala": "ȘCOALA GIMNAZIALĂ FĂLCOIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9034464",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION I. GRAURE BĂLTENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8144300",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8179402",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "OT8179402",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9593842",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDASTRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9593842",
+    "scoala": "ȘCOALA GIMNAZIALĂ VĂDASTRA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT11078649",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOVILENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "OT11140090",
+    "scoala": "LICEUL TEORETIC PETRE PANDREA BALȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8292590",
+    "scoala": "ȘCOALA GIMNAZIALĂ FĂLCOIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8010036",
+    "scoala": "ȘCOALA GIMNAZIALĂ CURTIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 3.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "OT10926246",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROJDIBODU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT8688301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8688301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8680081",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8680081",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10323991",
+    "scoala": "LICEUL TEORETIC TUDOR VLADIMIRESCU DRĂGĂNEȘTI-OLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT9560277",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALDOVINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "OT8771326",
+    "scoala": "SCOALA GIMNAZIALA SINESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9521873",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT9521873",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "OT8682391",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COCULESCU SCORNICEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT9473356",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.4,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT10989435",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBRUN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "OT10015871",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT8564403",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8564403",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂNEASA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT9518525",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "OT9518525",
+    "scoala": "LICEUL TEORETIC IONIȚĂ ASAN CARACAL",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "OT10015662",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "OT8218389",
+    "scoala": "SCOALA GIMNAZIALA BERINDEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT8218389",
+    "scoala": "SCOALA GIMNAZIALA BERINDEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8175607",
+    "scoala": "ȘCOALA GIMNAZIALĂ LEOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "OT8175607",
+    "scoala": "ȘCOALA GIMNAZIALĂ LEOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "OT9473264",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "OT8658196",
+    "scoala": "ȘCOALA GIMNAZIALĂ STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "OT8658196",
+    "scoala": "ȘCOALA GIMNAZIALĂ STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "OT10492424",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.4,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "OT10492424",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT10016925",
+    "scoala": "ȘCOALA GIMNAZIALĂ TESLUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "OT10016925",
+    "scoala": "ȘCOALA GIMNAZIALĂ TESLUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "OT8413742",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN PROTOPOPESCU SLATINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  }
+]

@@ -1,0 +1,3658 @@
+[
+  {
+    "cod": "BT9142762",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BT9295794",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9295794",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9269747",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT9000881",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT10441617",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9944818",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.6,
+    "diferenta": 1
+  },
+  {
+    "cod": "BT9559871",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9297511",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9297511",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8604884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8604884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT8462573",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 STORESTI FRUMUSICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT9298110",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8180389",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT9946793",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BT8278048",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT9296687",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10619342",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT6651701",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT6651701",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT591451",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT6553801",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT6553801",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10649712",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9340210",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT9296567",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT9297107",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT9297107",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT6370501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT6370501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8771320",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10718441",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT10716285",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10632207",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10081676",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9297368",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7889538",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 CĂLĂRAŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT13637381",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT13637381",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT9012984",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9340356",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10561774",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9295564",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT6405801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT9562938",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT8280371",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BT8050308",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT3157001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9573125",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VORNICENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9340761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9297472",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT3503551",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10737812",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10737812",
+    "scoala": "COLEGIUL NAȚIONAL „A.T.LAURIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9948379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8770333",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT8774228",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT10696296",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT7929669",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT10648897",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10271036",
+    "scoala": "SCOALA GIMNAZIALA ION BOJOI FLAMÂNZI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9294857",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT9294598",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT3540501",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 DRACSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8329474",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT10691147",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.65,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BT10560873",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT7617151",
+    "scoala": "SCOALA GIMNAZIALA ’’ALECU IVAN GHILEA’’ SENDRICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BT5998501",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9340903",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10653598",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10716424",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9298774",
+    "scoala": "SCOALA GIMNAZIALA NR 10 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BT9815257",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT3955351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT3955351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10844962",
+    "scoala": "SCOALA GIMNAZIALA ’’PETRU ZAMFIRESCU’’ PRISACANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10844962",
+    "scoala": "SCOALA GIMNAZIALA ’’PETRU ZAMFIRESCU’’ PRISACANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT3095751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SULIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT9294649",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT8646903",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10647969",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9298946",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT8686195",
+    "scoala": "LICEUL TEHNOLOGIC TODIRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT10049212",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10620853",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BT10620853",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BT10391091",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAV BĂNCILĂ CORNI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT3943351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10339609",
+    "scoala": "SCOALA GIMNAZIALA NR.2 LIVENI MANOLEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10339609",
+    "scoala": "SCOALA GIMNAZIALA NR.2 LIVENI MANOLEASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8512772",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 ROMANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8775062",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT10560572",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT9340443",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT8334634",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COPĂLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BT9038676",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN CERNAT” HAVÂRNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9038676",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN CERNAT” HAVÂRNA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9189322",
+    "scoala": "SCOALA GIMNAZIALA PETRE SUSTER COSTESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10387032",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7962728",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT7962728",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10648203",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT9278204",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9278204",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8999261",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNȚENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10363627",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT10363627",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT6669251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT9013132",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10718698",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8345023",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8775225",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9294813",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9157435",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BT10797615",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT8451692",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT10560922",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT9946150",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT8490249",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10619510",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT941351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT941351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT10537517",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8187625",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT8867624",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ORĂŞENI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8867624",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ORĂŞENI-DEAL",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8048410",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BT9922993",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9922993",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT8645925",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT3156651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT10497247",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GORBĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10497247",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GORBĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT5912851",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BT9946391",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BT9946391",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT8281339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BT9341979",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8884880",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9065597",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 STĂUCENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT11194115",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 CATAMARESTI-DEAL",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT3541551",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 DRACSANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT11198322",
+    "scoala": "SCOALA GIMNAZIALA NR.1 SAVENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10928604",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9419094",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10363750",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9738861",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DURNESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10561874",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MANOLEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BT9294567",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9419742",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10834867",
+    "scoala": "LICEUL TEHNOLOGIC „NICOLAE BĂLCESCU” FLĂMÂNZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10839500",
+    "scoala": "SCOALA GIMNAZIALA NR 10 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT8188009",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8188009",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT7882109",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIMITRIE POMPEIU BROSCĂUŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9789620",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT2863301",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT2863301",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT13617723",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT10657537",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10543584",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT10543584",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8528207",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10487135",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8529069",
+    "scoala": "SCOALA GIMNAZIALA NR 10 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8529069",
+    "scoala": "SCOALA GIMNAZIALA NR 10 BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8898477",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 12 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8187733",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT592001",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 CATAMARESTI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT591551",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 CATAMARESTI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8278736",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT10828630",
+    "scoala": "SCOALA GIMNAZIALA NR 2 ONEAGA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8459484",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 ROMANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.1,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BT8459484",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 ROMANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT10050247",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 DRAXINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT13689632",
+    "scoala": "SCOALA GIMNAZIALA NR 2 DUMENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT11200724",
+    "scoala": "LICEUL PEDAGOGIC „NICOLAE IORGA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9298813",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9946192",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT3540201",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 DRACSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8241527",
+    "scoala": "ȘCOALA GIMNAZIALĂ „EPISCOP DOCTOR PARTENIE CIOPRON” PĂLTINIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.55,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "BT8280073",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT9297432",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT9847245",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8331636",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT8459727",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 SANTA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8459727",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 SANTA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8771226",
+    "scoala": "COLEGIUL NAȚIONAL „MIHAI EMINESCU” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9728915",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT10711184",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT7962844",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8740095",
+    "scoala": "LICEUL TEHNOLOGIC „ȘTEFAN CEL MARE ȘI SFÂNT” VORONA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9561309",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT9561309",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT12734185",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.25,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT8673267",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT12481281",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT12481281",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9760868",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNȚENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT949251",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT6548601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT3156451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT3156451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT3490451",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT3490451",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9296374",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9296374",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10548818",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN ALEXANDRU ZUB” VÂRFU CÂMPULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BT10548818",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN ALEXANDRU ZUB” VÂRFU CÂMPULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8980039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT8980039",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT5915001",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT5915001",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.9,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BT2864051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT3095601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SULIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BT9297397",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10475825",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SARAFINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10475825",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SARAFINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9764158",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNȚENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8184735",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9464686",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 SANTA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10622199",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT10622199",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10043438",
+    "scoala": "SCOALA GIMNAZIALA TEOFIL VALCU HANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.1,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BT10043438",
+    "scoala": "SCOALA GIMNAZIALA TEOFIL VALCU HANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8899438",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10839251",
+    "scoala": "LICEUL TEHNOLOGIC „NICOLAE BĂLCESCU” FLĂMÂNZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT6055901",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8774164",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BT14016624",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 CATAMARESTI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8334688",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT7963775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT7963775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT9406842",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 MINDRESTI VLADENI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10648271",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9922788",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT9922788",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10610520",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT10610520",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT574701",
+    "scoala": "SCOALA GIMNAZIALA MIHAI EMINESCU IPOTESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9141330",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BT9141330",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8670120",
+    "scoala": "LICEUL TEHNOLOGIC TODIRENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8883594",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT8883594",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7871181",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT7871181",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNGURENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8604981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT8604981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8278303",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT9045455",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 VATRA HUDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8646219",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT8646219",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT11195011",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10303197",
+    "scoala": "SCOALA GIMNAZIALA ’’CONSTANTIN COMICESCU’’ FLAMÂNZI",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9727912",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9044928",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT8721525",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10527456",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8357679",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TUDOR VLADIMIRESCU-ALBEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8187481",
+    "scoala": "SCOALA GIMNAZIALA NR 11 BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BT9135517",
+    "scoala": "LICEUL„ȘTEFAN D. LUCHIAN” ȘTEFĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT12457232",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8916584",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 4 OROFTIANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT3744701",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MITOC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT9949608",
+    "scoala": "SCOALA GIMNAZIALA NR 10 BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9322504",
+    "scoala": "SCOALA GIMNAZIALA NR 2 DUMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8049351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BT10441565",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9263390",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ROMA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT9263390",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ROMA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10272365",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT13692354",
+    "scoala": "LICEUL DE ARTĂ „ȘTEFAN LUCHIAN” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT8334165",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT10378329",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL KOGĂLNICEANU” DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10903168",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 NEGRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT12492365",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT13351254",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10555741",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELENA RAREȘ” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9263171",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ROMA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT13145106",
+    "scoala": "SCOALA GIMNAZIALA ’’PATRIARH TEOCTIST’’ TOCILENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BT10827422",
+    "scoala": "SCOALA GIMNAZIALA NR 2 ONEAGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10827422",
+    "scoala": "SCOALA GIMNAZIALA NR 2 ONEAGA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10086225",
+    "scoala": "LICEUL TEHNOLOGIC COŢUŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10646725",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BT3749401",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MITOC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BT6049601",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 ZLATUNOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT6049601",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 ZLATUNOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8048792",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BT8048792",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10835426",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT10835426",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8778291",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT8778291",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8281382",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.25,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BT8276162",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9294789",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9294789",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8187981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT8187981",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9145515",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10848728",
+    "scoala": "LICEUL TEHNOLOGIC „NICOLAE BĂLCESCU” FLĂMÂNZI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9676996",
+    "scoala": "LICEUL TEHNOLOGIC COŢUŞCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9676996",
+    "scoala": "LICEUL TEHNOLOGIC COŢUŞCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT12182210",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT576501",
+    "scoala": "SCOALA GIMNAZIALA PETRU RARES CERVICESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9263162",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ROMA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BT9263162",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 ROMA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT10486519",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9296530",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 CĂLĂRAŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9296530",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 CĂLĂRAŞI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8605207",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT8605207",
+    "scoala": "LICEUL TEORETIC „GRIGORE ANTIPA” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9507592",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.65,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BT9507592",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT8183558",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 MIORCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8183558",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 MIORCANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9789631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BT9789631",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8850411",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE CĂLINESCU’’ COŞULA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9139601",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT9139601",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7872307",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNGURENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9518451",
+    "scoala": "LICEUL TEORETIC „DR. MIHAI CIUCĂ” SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT8335739",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT3919151",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9269660",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT9269660",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8049677",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT7881843",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIMITRIE POMPEIU BROSCĂUŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9136284",
+    "scoala": "LICEUL„ȘTEFAN D. LUCHIAN” ȘTEFĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10326473",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 RAUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT10326473",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 RAUSENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9578190",
+    "scoala": "SCOALA GIMNAZIALA NR. 3 MINDRESTI VLADENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8333731",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT10489152",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8185534",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10418185",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BT9013409",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9543726",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 CORLĂTENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7862557",
+    "scoala": "SCOALA GIMNAZIALA ’’ALECU IVAN GHILEA’’ SENDRICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BT7862557",
+    "scoala": "SCOALA GIMNAZIALA ’’ALECU IVAN GHILEA’’ SENDRICENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT9510386",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8248148",
+    "scoala": "SCOALA GIMNAZIALA NR. 2 HILISEU-CRISAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BT9781411",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN ALEXANDRU ZUB” VÂRFU CÂMPULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9781411",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN ALEXANDRU ZUB” VÂRFU CÂMPULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT8361592",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TUDOR VLADIMIRESCU-ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT12738487",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT9038615",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 BARANCA HUDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9038615",
+    "scoala": "SCOALA GIMNAZIALA NR. 4 BARANCA HUDESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8180984",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT10843337",
+    "scoala": "SCOALA GIMNAZIALA ’’PETRU ZAMFIRESCU’’ PRISACANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BT10843337",
+    "scoala": "SCOALA GIMNAZIALA ’’PETRU ZAMFIRESCU’’ PRISACANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9730425",
+    "scoala": "SCOALA GIMNAZIALA ’’ALEXANDRU CEL BUN’’ ICUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BT9730425",
+    "scoala": "SCOALA GIMNAZIALA ’’ALEXANDRU CEL BUN’’ ICUSENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT12593253",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9630852",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT9630852",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT10700641",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TRUŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT8336192",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT8336192",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9062144",
+    "scoala": "ŞCOALA GIMNAZIALĂ ”MIHAI MUNTEANU” CORDĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10649862",
+    "scoala": "SCOALA GIMNAZIALA LEON DANAILA DARABANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT9140406",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT9140406",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT10051713",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BT10476182",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SARAFINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BT10476182",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 SARAFINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10772586",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.85,
+    "nota_finala": 2.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT11200579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT11200579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9280149",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAIL SADOVEANU” DUMBRĂVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10693841",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10693841",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT14008132",
+    "scoala": "SCOALA GIMNAZIALA ALEXANDRU IOAN CUZA DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8335194",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COPĂLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8611040",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 SUHARAU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10404137",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TRUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10765329",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10947434",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 RAUSENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9743734",
+    "scoala": "SCOALA GIMNAZIALA IOAN MURARIU’’ CRISTINESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10593641",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT10593641",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE IORGA” DERSCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT13636258",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 12 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8235846",
+    "scoala": "ȘCOALA GIMNAZIALĂ „EPISCOP DOCTOR PARTENIE CIOPRON” PĂLTINIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT9627688",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 CONCEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9263478",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8317048",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COPĂLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT8542404",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 CONCEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT9112853",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE COMAN’’ BRĂEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8463325",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8463325",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ȘTEFAN CEL MARE” BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT3734851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MITOC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 4.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BT3734851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MITOC",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT3154751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 17 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT8345515",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT8345515",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7949713",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT8004918",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 CORLĂTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8004918",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 CORLĂTENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT7870486",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 UNGURENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT11194614",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BT10363884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT10491156",
+    "scoala": "ȘCOALA GIMNAZIALĂ „GH. POPOVICI” LOZNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT12135128",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TRUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT12135128",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TRUŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10695376",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 TRUŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BT10696741",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BT10696741",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT8333834",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8333834",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE ANTIPA BOTOSANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9189066",
+    "scoala": "SCOALA GIMNAZIALA PETRE SUSTER COSTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT9189066",
+    "scoala": "SCOALA GIMNAZIALA PETRE SUSTER COSTESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9586638",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VLĂDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8599144",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8599144",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10617358",
+    "scoala": "LICEUL TEHNOLOGIC BUCECEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8334697",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COPĂLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT10404028",
+    "scoala": "ȘCOALA GIMNAZIALĂ „GH. POPOVICI” LOZNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8259841",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VLĂDENI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BT9863829",
+    "scoala": "SCOALA GIMNAZIALA ’’RALUCA IURASCU’’ JOLDESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8334514",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 COPĂLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8358859",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TUDOR VLADIMIRESCU-ALBEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10863207",
+    "scoala": "SCOALA GIMNAZIALA ’’PETRU ZAMFIRESCU’’ PRISACANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT11193371",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIHĂLĂȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT11193371",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MIHĂLĂȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8260503",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VLĂDENI-DEAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT10363488",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PRĂJENI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9863914",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10271758",
+    "scoala": "SCOALA GIMNAZIALA ION BOJOI FLAMÂNZI",
+    "materie": "Matematică",
+    "nota_initiala": 1.9,
+    "nota_finala": 1.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8775124",
+    "scoala": "SCOALA GIMNAZIALA NR.2 VICTORIA HLIPICENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8359069",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TUDOR VLADIMIRESCU-ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT8359069",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.2 TUDOR VLADIMIRESCU-ALBEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BT10403636",
+    "scoala": "ȘCOALA GIMNAZIALĂ „GH. POPOVICI” LOZNA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9610376",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 12 BOTOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT9610376",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 12 BOTOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT9122166",
+    "scoala": "LICEUL TEHNOLOGIC „ȘTEFAN CEL MARE ȘI SFÂNT” VORONA",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT12885006",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 STĂUCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT12885006",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 STĂUCENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT10086241",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BT10086241",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8916363",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DURNESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BT8916363",
+    "scoala": "SCOALA GIMNAZIALA NR.1 DURNESTI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BT7953879",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BT8643355",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BT8643355",
+    "scoala": "SCOALA GIMNAZIALA SPIRU HARET DOROHOI",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT8637256",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 LEORDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BT8637256",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 LEORDA",
+    "materie": "Matematică",
+    "nota_initiala": 2.15,
+    "nota_finala": 2.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT10354972",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAV BĂNCILĂ CORNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BT10354972",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAV BĂNCILĂ CORNI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BT8706733",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BT8706733",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ALBEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT9866058",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BT9866058",
+    "scoala": "SCOALA GIMNAZIALA NR.4 FUNDU HERTII",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BT8908715",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 SUHARAU",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  }
+]

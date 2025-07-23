@@ -1,0 +1,1642 @@
+[
+  {
+    "cod": "SJ5792901",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ5793651",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SJ7990414",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ9216196",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SJ5791301",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ7896834",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ9467193",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂNIȘOR",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ7993850",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ8473190",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SJ5800751",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ5800751",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ7631151",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ7631151",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ10069266",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ9783408",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ5786601",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ7991768",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ8114375",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ8114375",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ6991651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MĂERIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SJ6991651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MĂERIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ8469211",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ7991280",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ5805451",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ7859568",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ6070251",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ8840254",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ7910142",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ9466758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂNIȘOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SJ8832711",
+    "scoala": "LICEUL TEHNOLOGIC IOACHIM POP ILEANDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ8832711",
+    "scoala": "LICEUL TEHNOLOGIC IOACHIM POP ILEANDA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SJ7894443",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ9063495",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ8736890",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MARCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ5800351",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SJ5798401",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ6169051",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 GÂLGĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.65,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ8335029",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRI MOR NUȘFALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8469843",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ8469843",
+    "scoala": "COLEGIUL NAȚIONAL SILVANIA ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ8473130",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ8473130",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ5517351",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ6000751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ6194901",
+    "scoala": "LICEUL REFORMAT WESSELENYI ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ9548483",
+    "scoala": "LICEUL TEHNOLOGIC OCTAVIAN GOGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ6580401",
+    "scoala": "LICEUL TEHNOLOGIC IOACHIM POP ILEANDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ9354604",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ7950409",
+    "scoala": "ȘCOALA GIMNAZIALĂ POROLISSUM ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SJ7950409",
+    "scoala": "ȘCOALA GIMNAZIALĂ POROLISSUM ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8213225",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ8536030",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ7897050",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SJ8695395",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȘIMIȘNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ8695395",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȘIMIȘNA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ9063631",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ9063570",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ7917260",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SJ7947271",
+    "scoala": "LICEUL TEHNOLOGIC CSEREY-GOGA CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ7912393",
+    "scoala": "LICEUL TEHNOLOGIC CSEREY-GOGA CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ7912393",
+    "scoala": "LICEUL TEHNOLOGIC CSEREY-GOGA CRASNA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8478890",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ6591801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PERICEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ8114143",
+    "scoala": "LICEUL CU PROGRAM SPORTIV AVRAM IANCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SJ6445151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BUCIUMI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ8620220",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 8.45,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SJ9771746",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ9771746",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ13629760",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ13629760",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ5470401",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ8616187",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ7949253",
+    "scoala": "LICEUL TEHNOLOGIC CSEREY-GOGA CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SJ8700043",
+    "scoala": "LICEUL DE ARTĂ IOAN SIMA ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ8473714",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.45,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "SJ8185046",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CIZER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.35,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SJ8619538",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ7927277",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SJ9839411",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ9839411",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SJ5632601",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SJ7862511",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ7921818",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ8595988",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCĂCEL SOMEȘ ODORHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ8479612",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ7832701",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ7993256",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ7922175",
+    "scoala": "LICEUL TEHNOLOGIC CSEREY-GOGA CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ8995655",
+    "scoala": "ȘCOALA GIMNAZIALĂ POROLISSUM ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SJ8478936",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ10047173",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ5538101",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SJ7911088",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.65,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "SJ8534700",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ9546707",
+    "scoala": "LICEUL TEHNOLOGIC OCTAVIAN GOGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SJ8210107",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MARCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ8960761",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ8960761",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ6233651",
+    "scoala": "LICEUL REFORMAT WESSELENYI ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ7923616",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ8614293",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ8115895",
+    "scoala": "LICEUL CU PROGRAM SPORTIV AVRAM IANCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SJ12138494",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ9217497",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRAIAN CREȚU NĂPRADEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ7992100",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ8479660",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.3,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SJ7896200",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ7896200",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SJ6580601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PERICEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ9063530",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SJ9063530",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU HIDA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ8203071",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ8030417",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ8482983",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ5791501",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ5799301",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ8473393",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 6.65,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SJ8473393",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SJ8695660",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȘIMIȘNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ10075840",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CAMĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ9215086",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SJ7917672",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ8677349",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU ALUNIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ5536401",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ8472772",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ8472772",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ6586951",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PERICEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ8185355",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CIZER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ8185355",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA CIZER",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ8202485",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.55,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ10075102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CAMĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SJ10075569",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CAMĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 4.4,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "SJ7895500",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SJ7913234",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ7913234",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8009032",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ7924599",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ8115732",
+    "scoala": "LICEUL CU PROGRAM SPORTIV AVRAM IANCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ7779101",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ7779101",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7894643",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "SJ8116308",
+    "scoala": "LICEUL CU PROGRAM SPORTIV AVRAM IANCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ7905439",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ7905439",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ10629518",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARCUS AURELIUS CREACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SJ6335451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GÂRBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ6335451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GÂRBOU",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7868114",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MĂERIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8666314",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VALCĂU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SJ8049131",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SJ8478807",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SJ9028671",
+    "scoala": "LICEUL REFORMAT WESSELENYI ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 5.65,
+    "diferenta": 1.75
+  },
+  {
+    "cod": "SJ9905118",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.7,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "SJ9905118",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ8614764",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ5781601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7931108",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ9643417",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SJ9643417",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ8478738",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ5800101",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ7132801",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SJ8764851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 IP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ12794246",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SJ5795951",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ5795951",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION BĂRNUȚIU ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ9720940",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "SJ9721337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BĂBENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7936511",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SJ7896201",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE LAZĂR ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ6191401",
+    "scoala": "LICEUL REFORMAT WESSELENYI ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "SJ7923453",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ7923453",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7896064",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILVANIA ȘIMLEU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ5792151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SJ7884710",
+    "scoala": "LICEUL ORTODOX SF. NICOLAE ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SJ7930372",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ8995437",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU CEHU SILVANIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ8995437",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI MUREȘANU CEHU SILVANIEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SJ6006901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SJ6006901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ8049700",
+    "scoala": "LICEUL TEHNOLOGIC NR.1 SĂRMĂȘAG",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ10356362",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HOROATU CRASNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ7896054",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ7896054",
+    "scoala": "ȘCOALA PROFESIONALĂ SÂG",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ10074070",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CAMĂR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.7,
+    "nota_finala": 1.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ10074070",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CAMĂR",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ7930862",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU MANIU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SJ9662521",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ9662521",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SJ9081740",
+    "scoala": "ȘCOALA GIMNAZIALĂ POROLISSUM ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SJ9081740",
+    "scoala": "ȘCOALA GIMNAZIALĂ POROLISSUM ZALĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ6353301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GÂRBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.1,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "SJ6353301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GÂRBOU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ10601543",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SJ10601543",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ9642845",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SJ9642845",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SÂNMIHAIU ALMAȘULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SJ6076101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SJ6076101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CHIEȘD",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ8479142",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ZALĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SJ10446749",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 AGRIJ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SJ10446749",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 AGRIJ",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SJ12466035",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SJ12466035",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA JIBOU",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.6,
+    "diferenta": -0.1
+  }
+]

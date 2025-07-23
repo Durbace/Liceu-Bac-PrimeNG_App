@@ -1,0 +1,4090 @@
+[
+  {
+    "cod": "IF8119873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GRUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF8817600",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8801089",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9067171",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE CORNELIU DOMNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9101754",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8033653",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF11165911",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF8917013",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 10,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF8605126",
+    "scoala": "LICEUL TEORETIC NR. 1 PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF9322503",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8105917",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8105917",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 10,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF11003608",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9907107",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF9907107",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8805545",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.45,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "IF9277649",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10338244",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF11165988",
+    "scoala": "LICEUL TEORETIC LITTLE LONDON PIPERA VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF12489490",
+    "scoala": "LICEUL TEORETIC LITTLE LONDON PIPERA VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF12509263",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF10507492",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF10554244",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF8516558",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9323256",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8248856",
+    "scoala": "LICEUL TEORETIC LITTLE LONDON PIPERA VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF7996989",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF7973272",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF11142566",
+    "scoala": "ŞCOALA GIMNAZIALĂ HERMANN OBERTH VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF8077225",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9912759",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8041661",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8039352",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8091125",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF504551",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 DRAGOMIREŞTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10549837",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF1292351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GRUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.4,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF11091207",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF11091207",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9216803",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARK TWAIN INTERNATIONAL SCHOOL VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF9243988",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.75,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "IF8566735",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8014214",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8186306",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "IF8186306",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF7998907",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF7992649",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF7992649",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8026715",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF10375609",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 9.1,
+    "diferenta": 1.9
+  },
+  {
+    "cod": "IF10625420",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8902878",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF7888690",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IF8741327",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9101877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF11114365",
+    "scoala": "ŞCOALA GIMNAZIALĂ HERMANN OBERTH VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF11114365",
+    "scoala": "ŞCOALA GIMNAZIALĂ HERMANN OBERTH VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF11166048",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF10374798",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8199449",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF11165910",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9627111",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9324761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF8048454",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10336410",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.8,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF7904065",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF10778325",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8035882",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8035882",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF7888575",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8175228",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8175458",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8175188",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF8811596",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF6671051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORBEANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 9,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8032759",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF8916962",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF10609239",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 MOGOSOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF11165933",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF11165933",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9626871",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8175052",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8964968",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF8619667",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF10553646",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10800277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10337917",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF8946129",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8043474",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10645648",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9101086",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9242218",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF9242218",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8788687",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF7887577",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF9128907",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF9128907",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10375379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF10375379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF7917839",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU“ BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8176114",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF9101837",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF11001016",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8306238",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 MOARA VLĂSIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8039490",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF9204051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 9,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8800782",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10500082",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 FUNDENI - DOBROEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF9627045",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8731206",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF11165983",
+    "scoala": "LICEUL BILINGV ”OLGA GUDYNN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8176119",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9101722",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF9101722",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8795364",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8795364",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF10592801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF10592801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF11089765",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF11089765",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF10867316",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF10867316",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10706991",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10706991",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF8162657",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF11022505",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF9218290",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARK TWAIN INTERNATIONAL SCHOOL VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF10273987",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.7,
+    "diferenta": 1.4
+  },
+  {
+    "cod": "IF7894972",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF2260151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COPĂCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.8,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "IF10542073",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8815649",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF10735398",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF10735398",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF11114403",
+    "scoala": "ŞCOALA GIMNAZIALĂ HERMANN OBERTH VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF2253451",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF11099925",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8559828",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF9934184",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF7905448",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GRUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF9100289",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF9099684",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF10604421",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10604421",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF8075752",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF9323262",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10369788",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF10369788",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9320956",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF7978762",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF7978762",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF1301601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GRUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF9322874",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9322874",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8832126",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF7895086",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF7895086",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF7912377",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF10606073",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8007465",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 8,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8176007",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "IF8038078",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8098655",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8098655",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF9100218",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8043629",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF10338962",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF10338962",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF12134987",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8175790",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8086070",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8086070",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF620101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF620101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9365358",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF7994257",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10800148",
+    "scoala": "LICEUL TEORETIC LITTLE LONDON PIPERA VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF7984787",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10759994",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.3,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8306239",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 MOARA VLĂSIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF8043225",
+    "scoala": "ȘCOALA GIMNAZIALĂ PRO INGENIO BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8170040",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10605316",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF10605316",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF7992829",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10290051",
+    "scoala": "LICEUL TEORETIC ALEXANDRU ROSETTI VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF13356220",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF8272180",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8272180",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF10544905",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF11145629",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF11145629",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8893385",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF10503432",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF11012161",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF11012161",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF680901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "IF694151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8078290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8078290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF7993125",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF11012332",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8813185",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF9100200",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF10557153",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10881904",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8917163",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "IF8119078",
+    "scoala": "LICEUL TEORETIC MIHAIL KOGĂLNICEANU SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF8119078",
+    "scoala": "LICEUL TEORETIC MIHAIL KOGĂLNICEANU SNAGOV",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8879031",
+    "scoala": "ȘCOALA GIMNAZIALA NR. 1 CERNICA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF9330100",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF10338027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8345935",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 AFUMATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF9330120",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IF8965270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF9798185",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SINTEŞTI - VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9798185",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SINTEŞTI - VIDRA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8305816",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 MOARA VLĂSIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.8,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "IF7951135",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF7951135",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8042226",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF8042226",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9043218",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IF10293823",
+    "scoala": "LICEUL TEORETIC ALEXANDRU ROSETTI VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8329772",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 AFUMATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF848251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8761587",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 MOGOSOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8917610",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF10507590",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8901673",
+    "scoala": "ȘCOALA GIMNAZIALĂ MARK TWAIN INTERNATIONAL SCHOOL VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF9063426",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8810995",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.4,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF10280861",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF10551730",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8529483",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF326151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DASCĂLU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "IF13593902",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF13593902",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10904296",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10904296",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8766393",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF336351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DASCĂLU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "IF10478341",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CĂŢELU - GLINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF13372562",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF13372562",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9179766",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF11032890",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF11032890",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9100720",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9100945",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "IF9950782",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8987773",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF9321186",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9321186",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8825586",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF9220767",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IF9220767",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10617289",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8917373",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "IF7876764",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9100679",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF9933876",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "IF9933876",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF7880053",
+    "scoala": "LICEUL CU PROGRAM SPORTIV ”HELMUT DUCKADAM” CLINCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IF9329166",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 DRAGOMIREŞTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8918086",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF9369245",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IF8548502",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 MOGOSOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF7928960",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 DOBROEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 7.8,
+    "diferenta": 1.8
+  },
+  {
+    "cod": "IF7928960",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 DOBROEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8039256",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8181433",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF10544669",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8175014",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF8519817",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8060380",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8075559",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF9101534",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF7976382",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LIPIA - GRUIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8530085",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF10338625",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF10707030",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF847001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8053905",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8053905",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8079761",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10739671",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF10740471",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF10740471",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8028424",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CĂŢELU - GLINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8027780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CĂŢELU - GLINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8895231",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF8895231",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂDESCU POPEȘTI LEORDENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9241733",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 7,
+    "diferenta": 1
+  },
+  {
+    "cod": "IF8042769",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF10375403",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IF8544700",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF9991281",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF9991281",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF8917483",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IF8982068",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8033400",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "IF10375839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF9217964",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8621795",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8621795",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF695801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10597093",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF694251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10487188",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF9627313",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF7971218",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COPĂCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF10899227",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF10899227",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10625947",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10292159",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF9330157",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10622275",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF10961992",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10504449",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9508014",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF10741261",
+    "scoala": "ŞCOALA GIMNAZIALĂ HERMANN OBERTH VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8816050",
+    "scoala": "LICEUL TEORETIC RADU POPESCU POPEȘTI LEORDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF13148628",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8400353",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8620949",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF7974461",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LIPIA - GRUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9355709",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 AFUMATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF10290709",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10860795",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 FUNDENI - DOBROEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "IF11099606",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF11099606",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9101812",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF10770807",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF10770807",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10996192",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF9088840",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MOARA VLĂSIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8153317",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9626919",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 2 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF8732047",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF8531436",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.7,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "IF9101873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8601837",
+    "scoala": "LICEUL TEORETIC NR. 1 PERIŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IF10613406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "IF7992977",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF7992977",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF334651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF7978168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORBEANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF8169730",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10324905",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8402200",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10300438",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF10300438",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9056132",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF9056132",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8375490",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10121683",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF9100964",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9508180",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "IF8119168",
+    "scoala": "LICEUL TEORETIC MIHAIL KOGĂLNICEANU SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF10294043",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF12585107",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF9322852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8189784",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF9323537",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IF9323537",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF843851",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF10377408",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8623737",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF13927290",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF9321939",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF8005795",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8083681",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF9101651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF8169655",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.4,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF8153378",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8153378",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10545483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10545483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF11050851",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10337498",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF10377702",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 5.4,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "IF10753550",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.3,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "IF8571266",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF8571266",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8027892",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CĂŢELU - GLINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF9055711",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "IF779251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 BĂLĂCEANCA-CERNICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF13464883",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF13464883",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8351600",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 AFUMATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.75,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "IF8586468",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8586468",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF10530482",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8169737",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF7912247",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF9180937",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF7913380",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 JILAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF8031831",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8101378",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF8459613",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8459613",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9239985",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9508142",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF11015127",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1, 1 DECEMBRIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF10294254",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10294254",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 CREŢEŞTI - VIDRA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF7996824",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF7996824",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF12257734",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF12257734",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9088098",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MOARA VLĂSIEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF323901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DASCĂLU",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8454264",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 FUNDENI - DOBROEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF7913995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF7913995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8736605",
+    "scoala": "SCOALA GIMNAZIALA NR. 1 DRAGOMIREŞTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IF9730354",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF9730354",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF12497386",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8180797",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.6,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "IF7904838",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SILIŞTEA SNAGOVULUI - GRUIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF1033301",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10551546",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "IF10551546",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF9330124",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 DRAGOMIREŞTI DEAL - DRAGOMIREȘTI VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF9322623",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF9322623",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9627260",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8917407",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8045555",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8045555",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10546302",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF8345398",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 AFUMATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10605902",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8544091",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8043918",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IF8043918",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9138801",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 5.2,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "IF8127117",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF10524107",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10524107",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF11141878",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8119744",
+    "scoala": "LICEUL TEORETIC MIHAIL KOGĂLNICEANU SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 4.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF10547338",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF7975914",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COPĂCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF9366333",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU GHERMĂNEȘTI - SNAGOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8081015",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IF8539974",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF7898526",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF10897129",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IF10777780",
+    "scoala": "LICEUL TEHNOLOGIC DOAMNA CHIAJNA ROȘU - CHIAJNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF350101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 TÂNGANU - CERNICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF350101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 TÂNGANU - CERNICA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8128545",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF8521317",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF1286101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GRUIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF845651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 TUNARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10481868",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IF350351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 TÂNGANU - CERNICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IF350351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 TÂNGANU - CERNICA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF7926825",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. ION VIŞOIU CHITILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9992231",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IF8080461",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF8546333",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8167267",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF8167267",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF8917102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8917102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF9244909",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CORNETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF10534971",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 TÂNGANU - CERNICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF7887644",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8547940",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IF8529297",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 5.7,
+    "diferenta": 1.6
+  },
+  {
+    "cod": "IF10507805",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 4.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "IF10507805",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOROGÂRLA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10549441",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8256036",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DIMITRIE GHICA CĂCIULAȚI - MOARA VLĂSIEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8176642",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 JILAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF9055282",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GLINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IF8741646",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 MOGOSOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IF8741646",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 MOGOSOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10617046",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IF10617046",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10294809",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "IF9243589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BRAGADIRU",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10766789",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 5.1,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "IF10766789",
+    "scoala": "ŞCOALA GIMNAZIALA NR. 1 PANTELIMON",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IF7929864",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 DOBROEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF7929864",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 DOBROEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF9101251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IF9101251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BUFTEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10860129",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10860129",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IF10706645",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10706645",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IF10708196",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.4,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "IF10708196",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF11166354",
+    "scoala": "LICEUL TEORETIC MIHAIL KOGĂLNICEANU SNAGOV",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF10407400",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU“ BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IF8186230",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IF8186230",
+    "scoala": "LICEUL TEORETIC HORIA HULUBEI MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF10753704",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8080711",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8080711",
+    "scoala": "LICEUL TEORETIC IOAN PETRUŞ OTOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF13989573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ANTON PANN” VOLUNTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IF8520682",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "IF8520682",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 PETRĂCHIOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IF8917811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BALOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.65,
+    "nota_finala": 3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IF7888610",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IF7888610",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CIOLPANI",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.1,
+    "diferenta": 0.05
+  }
+]

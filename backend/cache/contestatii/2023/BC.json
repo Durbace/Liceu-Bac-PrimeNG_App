@@ -1,0 +1,5514 @@
+[
+  {
+    "cod": "BC8196173",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7950286",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 10,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8050402",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7969999",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC161751",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9540473",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC7891441",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7905209",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8166303",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7785801",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7977105",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8318145",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7948937",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 10,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC9537479",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC7891544",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8173444",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7976474",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8434469",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC8501143",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC9236541",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8102370",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7891334",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7891334",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8365253",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 CLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7958173",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7958173",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8052662",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8052662",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8109366",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC10407224",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8055196",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC9737910",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8092844",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8092844",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8059814",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8535463",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC9068821",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8503629",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8070274",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7891841",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8250845",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 8.75,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BC9597049",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7968175",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7946908",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7956298",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8108982",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8384874",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC11135329",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC11135329",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8259472",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC8101718",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC7982300",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC9538517",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8006283",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC8167475",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8617468",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8513977",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC158551",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8163125",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8163125",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC7961570",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7950435",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7950435",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7891744",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8041151",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7949756",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8100463",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC157951",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC9371551",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC7947942",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7904879",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BC7974106",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC1625851",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8172373",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8415388",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC7992544",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.25,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BC7981941",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC9537229",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8144160",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC7891858",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7928192",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8106458",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC9073183",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC9073183",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC8100999",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.75,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BC8215208",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7893553",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC7893553",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC7891531",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7947014",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8017672",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8017672",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC2094701",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7969204",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC12734725",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC12734725",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8037076",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC9278045",
+    "scoala": "SCOALA GIMNAZIALA PANCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC9540746",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC8496565",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7976916",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC8017714",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8317328",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC7954568",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC7964364",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC9169432",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC7952603",
+    "scoala": "ŞCOALA GIMNAZIALĂ GLĂVĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC7944390",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC7909170",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7909170",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7981378",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC2226951",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC2226951",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC155851",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8100764",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8506937",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8407260",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.9,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "BC10433349",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8789335",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU LESPEZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8016489",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8651287",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BC8103965",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8103965",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC7944911",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7944911",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8653514",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7947587",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC7947587",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7946833",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8137419",
+    "scoala": "ŞCOALA GIMNAZIALĂ UNGURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC8166148",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7955687",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7949396",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC10404492",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION LUCA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8041674",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8094582",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8094582",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC9342532",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7117801",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9072810",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9072810",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8502376",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8502376",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC10441829",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE NEGRI NEGRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8036632",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BC8036632",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9690934",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7903760",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRGU TROTUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC10437544",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC10437544",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8524660",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC10466949",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC10466949",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7950431",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC11026177",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC2218351",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC2218351",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7948097",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8041770",
+    "scoala": "COLEGIUL NAŢIONAL COSTACHE NEGRI TÂRGU OCNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.35,
+    "diferenta": 1
+  },
+  {
+    "cod": "BC8043328",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7957448",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7957448",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8759399",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8170612",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8876279",
+    "scoala": "ŞCOALA GIMNAZIALĂ CLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8122932",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8527878",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8527878",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC9236208",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9064473",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7971360",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7971360",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC10462018",
+    "scoala": "SCOALA GIMNAZIALA NR 2 MAGURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC7893583",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8290349",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICU ENEA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9233893",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8497953",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9663173",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8417269",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN CEL MARE ZEMEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8652935",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8167420",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7988992",
+    "scoala": "LICEUL TEORETIC ION BORCEA BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8167103",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8373318",
+    "scoala": "ŞCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BC8443703",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8443703",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8320084",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8225248",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9403176",
+    "scoala": "COLEGIUL NAŢIONAL COSTACHE NEGRI TÂRGU OCNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC154001",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC154001",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7963156",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9262364",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9585606",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC9262317",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9262317",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7930703",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC7971370",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7891600",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC10406967",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE DOJA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8093671",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC7947820",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.5,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC9585443",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8590600",
+    "scoala": "ŞCOALA GIMNAZIALĂ PRELUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8214954",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8178305",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8257382",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7971876",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BC8093432",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC10335141",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8111956",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC10386740",
+    "scoala": "ŞCOALA GIMNAZIALĂ HORGEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC7947551",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9234604",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC8270155",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8270155",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BC8328806",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 SĂRATA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC5553901",
+    "scoala": "ŞCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC5553901",
+    "scoala": "ŞCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8802547",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC7985693",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8017633",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC7954593",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8464402",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU VLAHUŢĂ PODU TURCULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC13867071",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8055397",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 TÂRGU OCNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC9234743",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8005433",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC9525438",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC7938268",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC10390168",
+    "scoala": "ŞCOALA GIMNAZIALĂ AGĂŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC8441927",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BERZUNŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC9594623",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7919734",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BC9343575",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC1593151",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8503134",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC8503134",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7967303",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC7925450",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7928702",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8558357",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8169963",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8169963",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC13576274",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUIZI-CĂLUGĂRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC13576274",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUIZI-CĂLUGĂRA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8348415",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8348415",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9041917",
+    "scoala": "ŞCOALA GIMNAZIALĂ VULTURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BC8558880",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC7998027",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7998027",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7947643",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC7947643",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC7918602",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BC8225567",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8225567",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE VRĂNCEANU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC1715901",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9592871",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9592871",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7906348",
+    "scoala": "COLEGIUL NAŢIONAL DIMITRIE CANTEMIR ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC7909262",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7988364",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC12560931",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC7948626",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8006721",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7963076",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC2218401",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC2218401",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8499266",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8794826",
+    "scoala": "ȘCOALA GIMNAZIALĂ PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9370349",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8818586",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8080298",
+    "scoala": "ŞCOALA GIMNAZIALĂ SIRETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC10442300",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE NEGRI NEGRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC9235819",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC9235819",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8166870",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8166870",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7891579",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7891579",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC12807769",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8505955",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7911116",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8651159",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8215189",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 CLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8873320",
+    "scoala": "ŞCOALA GIMNAZIALĂ CLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8873320",
+    "scoala": "ŞCOALA GIMNAZIALĂ CLEJA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9147747",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BERZUNŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7893699",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRGU TROTUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC7893699",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRGU TROTUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7968253",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8006091",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC10968923",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC10968923",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10404675",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC9074269",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8335472",
+    "scoala": "ŞCOALA GIMNAZIALĂ OITUZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8335472",
+    "scoala": "ŞCOALA GIMNAZIALĂ OITUZ",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC10574247",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8104406",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8075487",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8107748",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9717349",
+    "scoala": "ȘCOALA GIMNAZIALĂ PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7987120",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC7931594",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8054695",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 TÂRGU OCNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8512954",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC7954874",
+    "scoala": "ŞCOALA GIMNAZIALĂ GLĂVĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7982129",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7946951",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9063266",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.2,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC9063266",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8203681",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8203681",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8690408",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8093488",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC10692598",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA MĂNĂSTIREA CAŞIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9343486",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC7954284",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU VLAHUŢĂ PODU TURCULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.15,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC8109403",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8625035",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7912310",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCARLAT LONGHIN DOFTEANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9373533",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.55,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BC11174023",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8320119",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN CEL MARE ZEMEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8317267",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8822421",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7951032",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7951032",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8216686",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC7944739",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7944739",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC584901",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHI S. CIOCAN COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC160301",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC160301",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7892166",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC7892166",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8000652",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8232233",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8162253",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC10688139",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA MĂNĂSTIREA CAŞIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC13424651",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7976295",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.1,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BC7976295",
+    "scoala": "COLEGIUL NAŢIONAL FERDINAND I BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC2335351",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9341122",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8008666",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8178530",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION SIMIONESCU LILIECI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC1582251",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10466904",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8415868",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7897666",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.05,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC8534584",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8005581",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC8005581",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8162411",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8162411",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC13093867",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.8,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC8541709",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC7908999",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC7908999",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7962163",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC7891499",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.15,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BC7993411",
+    "scoala": "SCOALA GIMNAZIALA DRAGUGESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC10568857",
+    "scoala": "ŞCOALA GIMNAZIALĂ EMIL BRĂESCU MĂGURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC10568857",
+    "scoala": "ŞCOALA GIMNAZIALĂ EMIL BRĂESCU MĂGURA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC10405201",
+    "scoala": "ŞCOALA GIMNAZIALĂ IONIŢĂ SANDU STURDZA SĂUCEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC10405201",
+    "scoala": "ŞCOALA GIMNAZIALĂ IONIŢĂ SANDU STURDZA SĂUCEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7781851",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC9278105",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC7905176",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 OITUZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC7905176",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 OITUZ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC10466637",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8000868",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7955466",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC1576501",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7937071",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10319368",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8167861",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC10389777",
+    "scoala": "ŞCOALA GIMNAZIALĂ AGĂŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC8904111",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 TURLUIANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8904111",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 TURLUIANU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8406093",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8057025",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8316842",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICU ENEA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8043829",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8056392",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7976616",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8443471",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9667188",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMOASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8108153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8108153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7986978",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC7967366",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC8826234",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7931734",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.45,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC7931734",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8166610",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7950707",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8621950",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC8063219",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9540934",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BC13676104",
+    "scoala": "SCOALA GIMNAZIALA PANCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC9691167",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUIZI-CĂLUGĂRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC9691167",
+    "scoala": "ŞCOALA GIMNAZIALĂ LUIZI-CĂLUGĂRA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8455762",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10466683",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC11000687",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC11000687",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8504839",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8799852",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 7,
+    "diferenta": 1.1
+  },
+  {
+    "cod": "BC8061514",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 5.8,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BC9372813",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHIŢĂ MOCANU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8623494",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8651872",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8416540",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC5562651",
+    "scoala": "ŞCOALA GIMNAZIALĂ TRAIAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC7964203",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BC7947448",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8220982",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8362077",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC7904991",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 OITUZ",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8116617",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8116617",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9593390",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9593390",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8171543",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8873694",
+    "scoala": "ŞCOALA GIMNAZIALĂ CLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8099146",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC13612644",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 VALEA SEACĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC7982460",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8515746",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9098135",
+    "scoala": "ŞCOALA GIMNAZIALĂ CORBASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC13167738",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC13167738",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC7944606",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BC8788993",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU LESPEZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8220586",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8431116",
+    "scoala": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.4,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BC8171777",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8525655",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8115784",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8115784",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7944630",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9262526",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC9182970",
+    "scoala": "SCOALA GIMNAZIALA TĂRÂȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8225902",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.3,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BC8795782",
+    "scoala": "ȘCOALA GIMNAZIALĂ PALANCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7904161",
+    "scoala": "ŞCOALA GIMNAZIALĂ TÂRGU TROTUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8656139",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8656139",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC9341782",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC12519976",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8533425",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC8940102",
+    "scoala": "SCOALA GIMNAZIALA SOMUSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BC2096401",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC11034943",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7944681",
+    "scoala": "COLEGIUL NAŢIONAL VASILE ALECSANDRI BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8392798",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8531883",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC7944689",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9664119",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7947324",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC7980135",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8667693",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8110119",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC7895820",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 6.85,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BC8903700",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 TURLUIANU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8375180",
+    "scoala": "SCOALA GIMNAZIALA BIJGHIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8876450",
+    "scoala": "ŞCOALA GIMNAZIALĂ CLEJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC10466698",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8251057",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8251057",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC9343433",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7928448",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8691233",
+    "scoala": "ŞCOALA GIMNAZIALĂ REGINA MARIA MĂNĂSTIREA CAŞIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC9062562",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC8267309",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU NICOLAE BĂLCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.8,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BC12170019",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8094804",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC9262314",
+    "scoala": "ŞCOALA GIMNAZIALĂ EXPLORATOR TEODOR GHEORGHE NEGOIȚĂ SASCUT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC8806974",
+    "scoala": "ŞCOALA GIMNAZIALĂ PÎRJOL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BC8806974",
+    "scoala": "ŞCOALA GIMNAZIALĂ PÎRJOL",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8317082",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8122826",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8234139",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 VALEA SEACĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8532276",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC13395414",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC13395414",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9074839",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 APA ASĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BC201601",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC201601",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8505239",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC8505239",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC12594685",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI DRĂGAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC9137881",
+    "scoala": "SCOALA GIMNAZIALA GEORGE ENESCU TESCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC7115501",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8026988",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8026988",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC9596370",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC13135047",
+    "scoala": "ŞCOALA GIMNAZIALĂ RĂCĂCIUNI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC10543800",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC1595401",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8406271",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU NICOLAE BĂLCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9074822",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 APA ASĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6.2,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BC7962591",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8317397",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE ENESCU MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC7980261",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC7980261",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9554545",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALECU RUSSO BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8173521",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8173521",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC13980125",
+    "scoala": "ŞCOALA GIMNAZIALĂ RĂCĂCIUNI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC10680881",
+    "scoala": "ŞCOALA GIMNAZIALĂ EMIL BRĂESCU MĂGURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.25,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC9374188",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC9374188",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8106101",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8259620",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC8259620",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. ALEXANDRU ŞAFRAN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8270860",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC8270860",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9066342",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC9066342",
+    "scoala": "COLEGIUL NAŢIONAL DE ARTĂ GEORGE APOSTU BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC10463022",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN MOSCU IZVORU BERHECIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BC9692759",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC12226277",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC13103088",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC13103088",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8593004",
+    "scoala": "ŞCOALA GIMNAZIALĂ FILIPEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8229181",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC8229181",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9178039",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCARLAT LONGHIN DOFTEANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 5.95,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC11080540",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU PIRU MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8478841",
+    "scoala": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7939885",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7939885",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8655995",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8441318",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU SEVER MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC8101461",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8823035",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOANA RADU ROSETTI BRUSTUROASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC8823035",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOANA RADU ROSETTI BRUSTUROASA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC13420941",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 SĂNDULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.4,
+    "diferenta": -1.3
+  },
+  {
+    "cod": "BC9538905",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9248951",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU CEL BUN BERZUNŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC8097357",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8097357",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9042016",
+    "scoala": "ŞCOALA GIMNAZIALĂ VULTURENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC2385301",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BC2385301",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10463852",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN MOSCU IZVORU BERHECIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC8900452",
+    "scoala": "ŞCOALA GIMNAZIALĂ BEREŞTI-TAZLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8900452",
+    "scoala": "ŞCOALA GIMNAZIALĂ BEREŞTI-TAZLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8270594",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE BĂLCESCU NICOLAE BĂLCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC13117982",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLOPANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BC200901",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC200901",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC8241621",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7930533",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8118146",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU PIRU MĂRGINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC8118146",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU PIRU MĂRGINENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9328889",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN MUSAT NICORESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8164353",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8304305",
+    "scoala": "SCOALA GIMNAZIALA NR 1 TARHAUSI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC8283961",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8283961",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC8142938",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7981972",
+    "scoala": "SCOALA GIMNAZIALA RUSENII RAZESI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC9070719",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN LUCHIAN MOINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC8444032",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 LIVEZI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8451566",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8451566",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9829999",
+    "scoala": "ŞCOALA GIMNAZIALĂ RĂCĂCIUNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC11137062",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BC8432563",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8432563",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC10463556",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN MOSCU IZVORU BERHECIULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC10463556",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN MOSCU IZVORU BERHECIULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7938341",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHIŢĂ MOCANU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC12794412",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7988381",
+    "scoala": "COLEGIUL NAŢIONAL PEDAGOGIC ŞTEFAN CEL MARE BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BC9539937",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9539937",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC7893505",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC7998287",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7998287",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8494667",
+    "scoala": "ŞCOALA GIMNAZIALĂ IONIŢĂ SANDU STURDZA SĂUCEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8494667",
+    "scoala": "ŞCOALA GIMNAZIALĂ IONIŢĂ SANDU STURDZA SĂUCEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC7908845",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC9288599",
+    "scoala": "ŞCOALA GIMNAZIALĂ LETEA VECHE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8095246",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC9666604",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9666604",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8079442",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8079442",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8378386",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8378386",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC10063992",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 SĂNDULENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8003009",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8328474",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 SĂRATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.25,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BC8283524",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 DĂRMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC12745626",
+    "scoala": "ŞCOALA GIMNAZIALĂ PARAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9405511",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 2 TÂRGU OCNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC9189657",
+    "scoala": "SCOALA GIMNAZIALA HOLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC12734753",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8624147",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE CĂLINESCU ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BC8654615",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN PLATON BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BC8402523",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION BORCEA RACOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC9924896",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC9924896",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIPRIAN PORUMBESCU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8791572",
+    "scoala": "LICEUL TEHNOLOGIC GEORGETA J.CANCICOV PARINCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC10382004",
+    "scoala": "ŞCOALA GIMNAZIALĂ RĂCĂCIUNI",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9738250",
+    "scoala": "ŞCOALA GIMNAZIALĂ RĂCĂCIUNI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8416804",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN CEL MARE ZEMEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9018983",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION STRAT GIOSENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8617928",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC8717148",
+    "scoala": "SCOALA GIMNAZIALA TUTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC12263007",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR 1 VALEA SEACĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 3.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BC9019408",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION STRAT GIOSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC7937109",
+    "scoala": "LICEUL TEORETIC ION BORCEA BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8883421",
+    "scoala": "ŞCOALA GIMNAZIALĂ GENERAL NICOLAE ŞOVA PODURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.3,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BC8376280",
+    "scoala": "ŞCOALA GIMNAZIALĂ SECUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC12595997",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC12595997",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL VOIEVOD ŞTEFAN CEL MARE ONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9371464",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU SEVER MOINEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC567301",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC567301",
+    "scoala": "ŞCOALA GIMNAZIALĂ LIVIU REBREANU COMĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8499619",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU VLAHUŢĂ PODU TURCULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8499619",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU VLAHUŢĂ PODU TURCULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8829093",
+    "scoala": "SCOALA GIMNAZIALA GEORGE ENESCU TESCANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8147506",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION STRAT GIOSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8147506",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION STRAT GIOSENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9945805",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE BACOVIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BC9341428",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BC9341428",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC7950636",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIRON COSTIN BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8493929",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8304350",
+    "scoala": "SCOALA GIMNAZIALA NR 1 TARHAUSI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8304350",
+    "scoala": "SCOALA GIMNAZIALA NR 1 TARHAUSI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8017762",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC8017762",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9144007",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCARLAT LONGHIN DOFTEANA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8796448",
+    "scoala": "ȘCOALA GIMNAZIALĂ PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8066195",
+    "scoala": "LICEUL TEHNOLOGIC PETRU RAREŞ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8304518",
+    "scoala": "SCOALA GIMNAZIALA NR 1 TARHAUSI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC8304518",
+    "scoala": "SCOALA GIMNAZIALA NR 1 TARHAUSI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC7917755",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BC9178503",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCARLAT LONGHIN DOFTEANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BC9178503",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCARLAT LONGHIN DOFTEANA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC10462053",
+    "scoala": "SCOALA GIMNAZIALA NR 2 MAGURA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8063287",
+    "scoala": "SCOALA GIMNAZIALA LARGA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8067262",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BC8067262",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC8654970",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALECU RUSSO BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BC8654970",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALECU RUSSO BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8822166",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC9676206",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRUMOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 2.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8464198",
+    "scoala": "LICEUL TEHNOLOGIC ALEXANDRU VLAHUŢĂ PODU TURCULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.15,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BC8330756",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC7978699",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU LIPOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC7978699",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU LIPOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BC9159600",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEALU MORII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC9159600",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEALU MORII",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8194778",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC8680109",
+    "scoala": "ŞCOALA GIMNAZIALĂ IOANA RADU ROSETTI BRUSTUROASA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8457580",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARAŢI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BC8457580",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARAŢI",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8079771",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC8079771",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8544058",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC8544058",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BC9287937",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BC5551351",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC8400388",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.05,
+    "diferenta": -1
+  },
+  {
+    "cod": "BC8400388",
+    "scoala": "ŞCOALA GIMNAZIALĂ DOMNIŢA MARIA BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC10102544",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BC8348442",
+    "scoala": "LICEUL TEORETIC ION BORCEA BUHUŞI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.05,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BC8348442",
+    "scoala": "LICEUL TEORETIC ION BORCEA BUHUŞI",
+    "materie": "Matematică",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BC8081348",
+    "scoala": "LICEUL TEHNOLOGIC PETRU RAREŞ BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC8081348",
+    "scoala": "LICEUL TEHNOLOGIC PETRU RAREŞ BACĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BC10874008",
+    "scoala": "ŞCOALA GIMNAZIALĂ FILIPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BC9070609",
+    "scoala": "ŞCOALA GIMNAZIALĂ ASĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BC9070609",
+    "scoala": "ŞCOALA GIMNAZIALĂ ASĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC10407292",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BC8830402",
+    "scoala": "ŞCOALA GIMNAZIALĂ OCTAVIAN VOICU BACĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 2.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BC8265005",
+    "scoala": "ŞCOALA GIMNAZIALĂ STRUGARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BC8265005",
+    "scoala": "ŞCOALA GIMNAZIALĂ STRUGARI",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BC9875524",
+    "scoala": "LICEUL TEHNOLOGIC GEORGETA J.CANCICOV PARINCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.25,
+    "nota_finala": 2.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BC9875524",
+    "scoala": "LICEUL TEHNOLOGIC GEORGETA J.CANCICOV PARINCEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  }
+]

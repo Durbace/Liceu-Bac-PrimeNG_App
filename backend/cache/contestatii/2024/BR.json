@@ -1,0 +1,2290 @@
+[
+  {
+    "cod": "BR10117078",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10117078",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10311925",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10752006",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10610166",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE GRIGORE ŞUŢU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR9603102",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10330406",
+    "scoala": "COLEGIUL NAŢIONAL NICOLAE BĂLCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10622327",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10099398",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION BĂNCILĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR8791747",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR9593572",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR9593572",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9255378",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9255323",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BR9255323",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8789689",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR8106783",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR8106783",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BR10320685",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10320685",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10877183",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10751780",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10628512",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9672459",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE ONCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10751844",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8789388",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR9720136",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10875539",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR9672076",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE ONCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8891776",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10874326",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9389619",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ÎNSURĂŢEI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8767539",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10752054",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9022697",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLAICU VODĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9022697",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLAICU VODĂ",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR7919406",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR7919406",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10014221",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9726400",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BR9726400",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10553405",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8444279",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10506713",
+    "scoala": "ŞCOALA GIMNAZIALĂ”VASILE BĂNCILĂ”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9708071",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR9733048",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9020053",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9020053",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9223373",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8777489",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR8777489",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10004638",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10553644",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10553644",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR9943029",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9711463",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9716486",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR9716486",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10023350",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BR10023350",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10327125",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION BĂNCILĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10553264",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR10301678",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE ONCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10876199",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR9019796",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9019796",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9710969",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10751857",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BR10751857",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9645122",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BR8196774",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR8855364",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10622020",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10622511",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR8105417",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BR9718657",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BR9726304",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR9726304",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR10751784",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR10751841",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10635891",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10888605",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU TUDORAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BR10872092",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR10321270",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR10551717",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BR9644602",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10514732",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10625520",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BR9658597",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR8612161",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10624993",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9461243",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEKSANDR SERGHEEVICI PUŞKIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR9797116",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9728410",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10109974",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIZIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9427684",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR9427684",
+    "scoala": "COLEGIUL NAŢIONAL GHEORGHE MUNTEANU MURGOCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9937097",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9937097",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR13329887",
+    "scoala": "ŞCOALA GIMNAZIALĂ DUDEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BR10119240",
+    "scoala": "ŞCOALA GIMNAZIALĂ ECATERINA TEODOROIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10062599",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR10062599",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BR10752063",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR10312250",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BR8766804",
+    "scoala": "COLEGIUL NAŢIONAL NICOLAE BĂLCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR8614422",
+    "scoala": "ŞCOALA GIMNAZIALĂ PETRE CARP TUFEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR8455339",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU TUDORAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR8768049",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR8768049",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10633100",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10633100",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10098958",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10098958",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR9797494",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR13677991",
+    "scoala": "ŞCOALA GIMNAZIALĂ CAZASU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10529484",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BR9976989",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10123607",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9726020",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9726020",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BR10541911",
+    "scoala": "ŞCOALA GIMNAZIALĂ SALCIA TUDOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR10541911",
+    "scoala": "ŞCOALA GIMNAZIALĂ SALCIA TUDOR",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR10116932",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7.25,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BR10471036",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BR10471036",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10532970",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEKSANDR SERGHEEVICI PUŞKIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR10304816",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR10304816",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR10864955",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR8777647",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10466252",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10752013",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9202025",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9227034",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION BĂNCILĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BR9227034",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION BĂNCILĂ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR10061402",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10061402",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10383103",
+    "scoala": "LICEUL TEORETIC GEORGE VÂLSAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR5510251",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR5510251",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9201116",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.3,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BR9975156",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR9975156",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10871510",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR9663009",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BR9663009",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10420948",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR10626773",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BR8854943",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL ANDREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR7919076",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10625754",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BR10667656",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9022771",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9022771",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BR8854402",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR8854402",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10560217",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10882287",
+    "scoala": "ŞCOALA GIMNAZIALĂ NEDELCU CHERCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9797078",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR8789758",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC DUMITRU PANAITESCU PERPESSICIUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR11193190",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BR11193190",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10506381",
+    "scoala": "ŞCOALA GIMNAZIALĂ”VASILE BĂNCILĂ”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9594727",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9725918",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9725918",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9988999",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL HORNEŢ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR9988999",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL HORNEŢ",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BR9359510",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEMENELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BR9359510",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEMENELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9945650",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BR9945650",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR8104836",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8857635",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10571244",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROŞIORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR5759351",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE TITULESCU ÎNSURĂŢEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10609892",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE GRIGORE ŞUŢU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR5511051",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR5511051",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BR9937565",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10303850",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE COŞBUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR10751850",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BR10751850",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8878567",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR9951053",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10535315",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR9825661",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI BRAVU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.75,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BR9825661",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI BRAVU",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8443817",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIMITRIE CANTEMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR8103401",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR8103401",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10811352",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR8767767",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8767923",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10634003",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL KOGĂLNICEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BR10466404",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEKSANDR SERGHEEVICI PUŞKIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BR8612335",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR9797578",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10634933",
+    "scoala": "ŞCOALA GIMNAZIALĂ VĂDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BR9019982",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9019982",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10472870",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR8199093",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR8199093",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE IORGA”",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR8444828",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10752012",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR10752012",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHU DRAGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR9732849",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BR10719229",
+    "scoala": "ŞCOALA GIMNAZIALĂ BERTEŞTII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9021931",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BR9021931",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BR10656167",
+    "scoala": "ŞCOALA GIMNAZIALĂ FRECĂŢEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BR10466765",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10121420",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU VECHIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BR10770182",
+    "scoala": "ŞCOALA GIMNAZIALĂ VIŞANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10532212",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.45,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BR10532212",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10633961",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL KOGĂLNICEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR13407038",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU TUDORAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10626901",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10626901",
+    "scoala": "LICEUL DE ARTE HARICLEA DARCLEE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10750158",
+    "scoala": "ŞCOALA PROFESIONALĂ EMIL DRĂGAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10751775",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BR10751775",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9525938",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10536095",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR10536095",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9739130",
+    "scoala": "ŞCOALA GIMNAZIALĂ VICTORIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR11089083",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10554960",
+    "scoala": "ŞCOALA GIMNAZIALĂ SILIŞTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10554960",
+    "scoala": "ŞCOALA GIMNAZIALĂ SILIŞTEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR9925621",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL HORNEŢ",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR5511201",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR5511201",
+    "scoala": "LICEUL TEORETIC PANAIT CERNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10790195",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE ALECSANDRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BR10405803",
+    "scoala": "ŞCOALA GIMNAZIALĂ GENERAL STAN POETAŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BR10405803",
+    "scoala": "ŞCOALA GIMNAZIALĂ GENERAL STAN POETAŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10609494",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE GRIGORE ŞUŢU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10581977",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BR10581977",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9504995",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR9504995",
+    "scoala": "ŞCOALA GIMNAZIALĂ DR. LUCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR7919423",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BR10330151",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10330151",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9726630",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10630877",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL KOGĂLNICEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BR10630877",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL KOGĂLNICEANU",
+    "materie": "Matematică",
+    "nota_initiala": 2.85,
+    "nota_finala": 2.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10552405",
+    "scoala": "ŞCOALA GIMNAZIALĂ RÂMNICELU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10974317",
+    "scoala": "ŞCOALA GIMNAZIALĂ TICHILEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BR10974317",
+    "scoala": "ŞCOALA GIMNAZIALĂ TICHILEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9304397",
+    "scoala": "ŞCOALA GIMNAZIALĂ GROPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9825718",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI BRAVU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BR9825718",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI BRAVU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8449732",
+    "scoala": "ŞCOALA GIMNAZIALĂ ANTON PANN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR9674967",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ANGELESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9674967",
+    "scoala": "LICEUL TEORETIC CONSTANTIN ANGELESCU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10353880",
+    "scoala": "ŞCOALA GIMNAZIALĂ UNIREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BR10353880",
+    "scoala": "ŞCOALA GIMNAZIALĂ UNIREA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10611608",
+    "scoala": "ŞCOALA GIMNAZIALĂ COSTACHE GRIGORE ŞUŢU",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9593211",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR9231480",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BR9231480",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10360860",
+    "scoala": "ŞCOALA GIMNAZIALĂ VALEA CÂNEPII",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR7916772",
+    "scoala": "LICEUL CU PROGRAM SPORTIV",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10529501",
+    "scoala": "ŞCOALA GIMNAZIALĂ SURDILA-GĂISEANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BR10529501",
+    "scoala": "ŞCOALA GIMNAZIALĂ SURDILA-GĂISEANCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR11089162",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BR11089162",
+    "scoala": "LICEUL TEHNOLOGIC MATEI BASARAB MĂXINENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR9945310",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR8778301",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10357247",
+    "scoala": "ŞCOALA GIMNAZIALĂ VALEA CÂNEPII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR10536784",
+    "scoala": "ŞCOALA GIMNAZIALĂ SALCIA TUDOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10536784",
+    "scoala": "ŞCOALA GIMNAZIALĂ SALCIA TUDOR",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10702838",
+    "scoala": "ŞCOALA GIMNAZIALĂ TICHILEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BR10702838",
+    "scoala": "ŞCOALA GIMNAZIALĂ TICHILEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BR10694730",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROŞIORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BR10694730",
+    "scoala": "ŞCOALA GIMNAZIALĂ ROŞIORI",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9672871",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE ONCESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BR9672871",
+    "scoala": "LICEUL TEHNOLOGIC NICOLAE ONCESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR10667742",
+    "scoala": "COLEGIUL NAŢIONAL ANA ASLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BR10622096",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BR10622096",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂNUŞ NEAGU",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BR9645257",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BR9645257",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL SADOVEANU",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  }
+]

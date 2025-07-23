@@ -1,0 +1,3538 @@
+[
+  {
+    "cod": "SM8000664",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8003691",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8362378",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM7905495",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8349778",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.6,
+    "diferenta": 1.3
+  },
+  {
+    "cod": "SM9099928",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM7907982",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.6,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM8384405",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.55,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM7904593",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM7904799",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM13610144",
+    "scoala": "ȘCOALA GIMNAZIALĂ GELLERT SANDOR MICULA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM6163851",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM9100150",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8367642",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM7906676",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8380353",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM9099939",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM9295809",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8350494",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8427440",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8072637",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8129168",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8157792",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8002131",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8159290",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SM8407533",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8317796",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8003505",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8044284",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHERȚA MICA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8412758",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM8398628",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8478914",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM9100107",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9100107",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8407725",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8836832",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM8836832",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM8828287",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8064180",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM9374195",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM9377056",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8003644",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM10009299",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8385184",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM7959148",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8394234",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8394234",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8089061",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8614090",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM8879937",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8368450",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8368450",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8822596",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8822596",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7947522",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.55,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "SM7925132",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM8479313",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8492178",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8,
+    "diferenta": -1
+  },
+  {
+    "cod": "SM8371230",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM6167651",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.95,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SM9098078",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM7917880",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7961412",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM7983372",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM9099885",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM9563423",
+    "scoala": "ȘCOALA GIMNAZIALĂ CERTEZE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SM12478209",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8273351",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8408225",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8129206",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM10532031",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA VINULUI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9100082",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.35,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SM9440094",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAKOCZI FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM7918139",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM7919115",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM8098454",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8350635",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM6169751",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8005644",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8129247",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8001586",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8371842",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM6194251",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.4,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "SM8153819",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8153819",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8373554",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM7906758",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8100492",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM9100113",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8394371",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8399020",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM9099775",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9099775",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM10276111",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM6178701",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8611577",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8611577",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8003395",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8003395",
+    "scoala": "COLEGIUL NAŢIONAL IOAN SLAVICI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10531429",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA VINULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM12573327",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.7,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SM12573327",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8271083",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8006632",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM9097730",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8538955",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8004981",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SM8486110",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8486110",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8930049",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8930049",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM7900311",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂTARCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7900311",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂTARCI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8273326",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8397158",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8274457",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM8071445",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9100135",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM8754824",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8754824",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9362506",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM9098852",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM12152973",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8407010",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9097916",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.1,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "SM9097916",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM6188801",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM7931722",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 7,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM8271572",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM8393319",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM12573331",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8416163",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM10531066",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.15,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SM10013886",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9295163",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8886876",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8370618",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8370618",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8002280",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9101279",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8003318",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM12132971",
+    "scoala": "ȘCOALA GIMNAZIALĂ RACȘA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM7894889",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM6183151",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.15,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM7919900",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.1,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "SM7919900",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8834587",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SM9441851",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAKOCZI FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM7899498",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8755282",
+    "scoala": "LICEUL TEHNOLOGIC PETRU CUPCEA SUPURU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM8001988",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM9373867",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADIȘU HODODULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM10014003",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM10014003",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9295466",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8829468",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8829468",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM6204401",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM8351792",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 6.2,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM8481790",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8397978",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8360935",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM9448555",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRI MOR BOGDAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM7958556",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM7960728",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM7951011",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.6,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM8487112",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8394980",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM6183501",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9808808",
+    "scoala": "ȘCOALA GIMNAZIALĂ VETIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM9678816",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8387484",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM12546252",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9295446",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9431302",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM8397754",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8409617",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM13404735",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM10823349",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. VASILE LUCACIU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8179379",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM9638244",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDRID",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SM8067074",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8067074",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8448918",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8395672",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM7969059",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM7969059",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8370086",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9099852",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SM9295511",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8060186",
+    "scoala": "ȘCOALA GIMNAZIALĂ GELLERT SANDOR MICULA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM8449457",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIILE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM7966522",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8273216",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8273216",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8483880",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9600588",
+    "scoala": "ȘCOALA GIMNAZIALĂ „LIVIU REBREANU” PĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8613232",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM8481121",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8444580",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.75,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM8072558",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM10284930",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIREAM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.95,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SM8610868",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "SM8610868",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8093417",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM10418009",
+    "scoala": "ȘCOALA GIMNAZIALĂ RACȘA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8368727",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM10826114",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8092911",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM9573527",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM10458637",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUMEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8273362",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8352069",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM7919352",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8411281",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8411281",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM6144251",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM6199401",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM6191651",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8079537",
+    "scoala": "ȘCOALA GIMNAZIALĂ NADIȘU HODODULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8361472",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM9076858",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM9295208",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.9,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "SM9295208",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM12508386",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM7905884",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂTARCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8366529",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM8063756",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8063756",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8050848",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8361169",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SM7860966",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SM8049905",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8049905",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8062742",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8462659",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM12573332",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.05,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM11069774",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM10022375",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM13620867",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8448263",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8448263",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9100070",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8836572",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8836572",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8396771",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SM6206451",
+    "scoala": "COLEGIUL NAȚIONAL DOAMNA STANCA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM7956911",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8401953",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM10088269",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM10088269",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8446740",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8163992",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8350230",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8350230",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8491552",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8491552",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8407395",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM7908320",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM7920196",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8912740",
+    "scoala": "LICEUL REFORMAT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8912740",
+    "scoala": "LICEUL REFORMAT SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM7966773",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM8075008",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM6197251",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SM6197251",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9100205",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM10088442",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SM8930186",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM9456277",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIȘCOLT",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM9127819",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM9127819",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9446478",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRI MOR BOGDAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8613027",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM9688803",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU LUCĂCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9953967",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9295706",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8446268",
+    "scoala": "ȘCOALA GIMNAZIALĂ FENYI ISTVAN CĂPLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM10087384",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10087384",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM9621375",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU COROIANU CRAIDOROLȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8092119",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8541661",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM10915544",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIREAM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM10915544",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIREAM",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8352658",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM8350178",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8337376",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM9398489",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SM7920810",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.25,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM8448964",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM8498101",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM9446649",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRI MOR BOGDAND",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SM9688960",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU LUCĂCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8133082",
+    "scoala": "LICEUL TEHNOLOGIC ARDUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.55,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SM8092684",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 3.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8092684",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM13400390",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8003974",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM10814569",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM10814569",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM7898881",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SM7933377",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETOFI SANDOR LAZURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8351732",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8482970",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM10915492",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM9561509",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU COROIANU CRAIDOROLȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM10915372",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIREAM",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10915372",
+    "scoala": "ȘCOALA GIMNAZIALĂ TIREAM",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8463065",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM9542080",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOREU",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 2.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10077522",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTIZ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM12514691",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM9138318",
+    "scoala": "ȘCOALA GIMNAZIALĂ VAMA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM9138318",
+    "scoala": "ȘCOALA GIMNAZIALĂ VAMA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8352169",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM8350300",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8004194",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9689244",
+    "scoala": "ȘCOALA GIMNAZIALĂ SANTĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SM9689244",
+    "scoala": "ȘCOALA GIMNAZIALĂ SANTĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8146753",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.65,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SM8146753",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM9679544",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDRID",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9573241",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8517676",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM13193839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM13193839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8545521",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8545521",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8826615",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8826615",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM13608178",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM7931248",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 5,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM7931248",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7960164",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM7895274",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 3.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM8843872",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8843872",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9480937",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE BULGĂR SANISLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM9446978",
+    "scoala": "LICEUL TEHNOLOGIC PETRU CUPCEA SUPURU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM10082586",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM8001222",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 5,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "SM8001222",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE MOISIL SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM6200801",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM8163278",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.6,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM8163278",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8073414",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8363635",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.4,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SM8363635",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9447373",
+    "scoala": "ȘCOALA GIMNAZIALĂ BABȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8098763",
+    "scoala": "COLEGIUL NATIONAL KOLCSEY FERENC SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM10080880",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM9101337",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.4,
+    "nota_finala": 3.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM9573361",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM9573361",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7926305",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8352595",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 3.85,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "SM9456313",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIȘCOLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM13121056",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM13121056",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8073600",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 5,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM8364399",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM9456190",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIȘCOLT",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM9295722",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SM9295722",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8520823",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM10459000",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUMEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM9098176",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM7966968",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM7966968",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM8350110",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SM8068817",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. JOSEPH SZOLOMAYER CĂMIN",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10012353",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE MARINA POMI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8843505",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SM8843505",
+    "scoala": "LICEUL TEORETIC NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8493305",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SM8493305",
+    "scoala": "LICEUL TEHNOLOGIC TARNA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7925849",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7957985",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.25,
+    "diferenta": 1
+  },
+  {
+    "cod": "SM7957985",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7966294",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂȘNAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 5.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "SM8067522",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. JOSEPH SZOLOMAYER CĂMIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM10931151",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8827529",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 NEGREȘTI OAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8468166",
+    "scoala": "ȘCOALA GIMNAZIALĂ OCTAVIAN GOGA SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM10826653",
+    "scoala": "LICEUL TEOLOGIC ORTODOX NICOLAE STEINHARDT SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM9456271",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM8406626",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂMĂRZANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8406626",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂMĂRZANA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM9456306",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8071628",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.15,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SM8071628",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8556067",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHENCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 2.9,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SM8556067",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHENCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM9794630",
+    "scoala": "ȘCOALA GIMNAZIALĂ VETIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9301133",
+    "scoala": "ȘCOALA GIMNAZIALĂ CULCIU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9301133",
+    "scoala": "ȘCOALA GIMNAZIALĂ CULCIU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SM8557701",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHENCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8557701",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHENCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM7924188",
+    "scoala": "ȘCOALA GIMNAZIALĂ CEHAL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8465839",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7895182",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL MOFTINU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM7895182",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL MOFTINU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8521262",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM8057788",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM9313020",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂDĂRAS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM8537128",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂUAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8173455",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIOROCUTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SM8173455",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIOROCUTA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8076946",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. VASILE LUCACIU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8076946",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. VASILE LUCACIU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8540174",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM8612236",
+    "scoala": "LICEUL TEORETIC GERMAN JOHANN ETTINGER SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8072329",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM9538878",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOREU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM9538878",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOREU",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM13612260",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY TURȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SM10078023",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SM10078023",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM12598270",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL MOFTINU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SM12598270",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL MOFTINU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SM8128651",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SM9447299",
+    "scoala": "ȘCOALA GIMNAZIALĂ BABȚA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM9679481",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDRID",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM9679481",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDRID",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM7895348",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "SM7895348",
+    "scoala": "LICEUL TEORETIC CAREI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SM10822620",
+    "scoala": "LICEUL DE ARTE AUREL POPP SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM9099957",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SM9099957",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA ELIADE SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM9678643",
+    "scoala": "ȘCOALA PROFESIONALĂ GEORGE COȘBUC MEDIEȘU AURIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM8513793",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI OAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SM8463787",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SM8463787",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8773388",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. VASILE LUCACIU SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SM8773388",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. VASILE LUCACIU SATU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SM8537262",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂUAȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SM8537262",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂUAȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SM8474837",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂLCESCU-PETOFI SATU MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SM9313201",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEREBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SM8071374",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE LUCACIU CAREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SM9456273",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIȘCOLT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.1,
+    "diferenta": 0.05
+  }
+]

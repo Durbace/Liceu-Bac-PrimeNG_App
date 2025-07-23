@@ -1,0 +1,1274 @@
+[
+  {
+    "cod": "CS8781917",
+    "scoala": "ŞCOALA GIMNAZIALĂ ”MARIUS ȘANDRU” REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CS9849990",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9042561",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS8740565",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "CS9827514",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CS9827514",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9042774",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CS9115499",
+    "scoala": "LICEUL HERCULES BAILE HERCULANE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9298156",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS10175716",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 OŢELU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9043263",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS9043263",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CS9850308",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "CS9042079",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CS10344048",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9906572",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS8123482",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS9030955",
+    "scoala": "ŞCOALA GIMNAZIALĂ ”MARIUS ȘANDRU” REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS9030955",
+    "scoala": "ŞCOALA GIMNAZIALĂ ”MARIUS ȘANDRU” REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9295069",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS10465357",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS9889966",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS9184486",
+    "scoala": "ŞCOALA GIMNAZIALĂ „MIHAI NOVAC“ SASCA MONTANĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10019527",
+    "scoala": "LICEUL TEORETIC GENERAL DRAGALINA ORAVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10795965",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.8 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS10795965",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.8 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10800136",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS10800136",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9326845",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9326845",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS10458727",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CS10527113",
+    "scoala": "LICEUL TEHNOLOGIC „NICOLAE STOICA DE HAŢEG“ MEHADIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CS8930513",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS8930513",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10090910",
+    "scoala": "ŞCOALA GIMNAZIALĂ „ALEXANDRU MOISI“ MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS10636071",
+    "scoala": "LICEUL DE ARTE „SABIN PĂUŢA“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS10636071",
+    "scoala": "LICEUL DE ARTE „SABIN PĂUŢA“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS9833731",
+    "scoala": "LICEUL „MATHIAS HAMMER“ ANINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CS10422578",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CS9658775",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9016074",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS10050915",
+    "scoala": "LICEUL TEHNOLOGIC „SF.DIMITRIE“ TEREGOVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9967021",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS8332655",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CS9956120",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9298203",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CS10511952",
+    "scoala": "ŞCOALA GIMNAZIALĂ „SFÂNTUL IACOB“ BREBU",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS10344414",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS10344414",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10563864",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10497333",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.8 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS10292831",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10292831",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9890965",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9776578",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS9776578",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10458803",
+    "scoala": "ŞCOALA GIMNAZIALĂ „MIHAI PEIA“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CS10025683",
+    "scoala": "LICEUL TEORETIC TATA OANCEA BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS10025683",
+    "scoala": "LICEUL TEORETIC TATA OANCEA BOCŞA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS8950999",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS8950999",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS10044617",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10044617",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9837229",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS8340099",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS8932337",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS8281203",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9809806",
+    "scoala": "ŞCOALA GIMNAZIALĂ „ALEXANDRU MOISI“ MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9799731",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 ORAVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS11125534",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIUDANOVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CS4311351",
+    "scoala": "LICEUL DE ARTE „SABIN PĂUŢA“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9905988",
+    "scoala": "COLEGIUL NAŢIONAL „MIRCEA ELIADE“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9390779",
+    "scoala": "ȘCOALA PROFESIONALA BERZOVIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CS10082389",
+    "scoala": "ŞCOALA GIMNAZIALĂ RAMNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9799647",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9799647",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9995079",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.8,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "CS9914357",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9914357",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "CS10424647",
+    "scoala": "ŞCOALA GIMNAZIALĂ „MIHAI PEIA“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS8346038",
+    "scoala": "LICEUL TEHNOLOGIC DECEBAL CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS10106320",
+    "scoala": "LICEUL TEHNOLOGIC „SF.DIMITRIE“ TEREGOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS10175646",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 OŢELU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS9906830",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMUL LADEA ORAVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9906830",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMUL LADEA ORAVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS9295319",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS9187761",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.7 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS8339400",
+    "scoala": "LICEUL TEHNOLOGIC DECEBAL CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS10403688",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9799577",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "CS9799577",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS9753652",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂVOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS9753652",
+    "scoala": "ŞCOALA GIMNAZIALĂ ZĂVOI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS10458116",
+    "scoala": "ŞCOALA GIMNAZIALĂ „MIHAI PEIA“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9999119",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "CS8128068",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9980355",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9980355",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9461458",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9660503",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CS9660503",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9677557",
+    "scoala": "ŞCOALA GIMNAZIALĂ MĂRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9677557",
+    "scoala": "ŞCOALA GIMNAZIALĂ MĂRU",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10293436",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "CS10350254",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9042206",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.9 REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CS9183854",
+    "scoala": "LICEUL DE ARTE „SABIN PĂUŢA“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "CS10922097",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMUL LADEA ORAVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "CS10841678",
+    "scoala": "ŞCOALA GIMNAZIALĂ „TRANDAFIR COCÎRLĂ“ TURNU RUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS10457697",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CS10457697",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS9862820",
+    "scoala": "LICEUL „MATHIAS HAMMER“ ANINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS9862820",
+    "scoala": "LICEUL „MATHIAS HAMMER“ ANINA",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS8953342",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS10841554",
+    "scoala": "ŞCOALA GIMNAZIALĂ SLATINA-TIMIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9931348",
+    "scoala": "ŞCOALA GIMNAZIALĂ „PETRU OALLDE“ FOROTIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "CS9809828",
+    "scoala": "ŞCOALA GIMNAZIALĂ „ALEXANDRU MOISI“ MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CS8927433",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "CS10900113",
+    "scoala": "ŞCOALA GIMNAZIALĂ DALBOŞEŢ",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9826510",
+    "scoala": "LICEUL TEHNOLOGIC CLISURA DUNĂRII MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.05,
+    "nota_finala": 3.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS10419052",
+    "scoala": "COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10108940",
+    "scoala": "LICEUL TEHNOLOGIC „SF.DIMITRIE“ TEREGOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS8970315",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9849694",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "CS9849694",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 OŢELU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS8881369",
+    "scoala": "COLEGIUL NAŢIONAL TRAIAN DODA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS10019728",
+    "scoala": "LICEUL TEORETIC GENERAL DRAGALINA ORAVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS10403644",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "CS10403644",
+    "scoala": "ŞCOALA PROFESIONALĂ AGRICOLĂ CORNEREVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS8988587",
+    "scoala": "ŞCOALA GIMNAZIALĂ MACIOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "CS8189377",
+    "scoala": "ŞCOALA GIMNAZIALĂ „TRANDAFIR COCÎRLĂ“ TURNU RUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS8182366",
+    "scoala": "ŞCOALA GIMNAZIALĂ „TRANDAFIR COCÎRLĂ“ TURNU RUIENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS8962238",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN DAICOVICIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS9681986",
+    "scoala": "ŞCOALA GIMNAZIALĂ „PETRU OALLDE“ FOROTIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS10403752",
+    "scoala": "COLEGIUL NAŢIONAL „MIRCEA ELIADE“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "CS9387750",
+    "scoala": "ȘCOALA PROFESIONALA BERZOVIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS9324042",
+    "scoala": "COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "CS9324042",
+    "scoala": "COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS9739083",
+    "scoala": "ŞCOALA GIMNAZIALĂ SICHEVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "CS9739083",
+    "scoala": "ŞCOALA GIMNAZIALĂ SICHEVIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS10409387",
+    "scoala": "ŞCOALA GIMNAZIALĂ GRUNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS10409387",
+    "scoala": "ŞCOALA GIMNAZIALĂ GRUNI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS9600968",
+    "scoala": "ŞCOALA GIMNAZIALĂ VERMEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS9753079",
+    "scoala": "ŞCOALA GIMNAZIALĂ VERENDIN",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9183974",
+    "scoala": "ŞCOALA GIMNAZIALĂ „MIHAI NOVAC“ SASCA MONTANĂ",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "CS10513060",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS10513060",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 OŢELU ROŞU",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "CS8933528",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "CS10023467",
+    "scoala": "ŞCOALA GIMNAZIALĂ VERENDIN",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "CS8969387",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.1 BOCŞA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "CS9565482",
+    "scoala": "ŞCOALA GIMNAZIALĂ MĂRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "CS9565482",
+    "scoala": "ŞCOALA GIMNAZIALĂ MĂRU",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS10008292",
+    "scoala": "ŞCOALA GIMNAZIALĂ SLATINA-TIMIŞ",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9677198",
+    "scoala": "ŞCOALA GIMNAZIALĂ MĂRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "CS9737489",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "CS9737489",
+    "scoala": "COLEGIUL NAŢIONAL C.D. LOGA CARANSEBEŞ",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "CS9959052",
+    "scoala": "ŞCOALA GIMNAZIALĂ „SOFIA ARCAN“ MOLDOVA NOUĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS9958986",
+    "scoala": "ŞCOALA GIMNAZIALĂ IABLANIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "CS9958986",
+    "scoala": "ŞCOALA GIMNAZIALĂ IABLANIŢA",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2,
+    "diferenta": -0.1
+  }
+]

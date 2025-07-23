@@ -1,0 +1,2426 @@
+[
+  {
+    "cod": "BN8866176",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN10045236",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN8837339",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN8837339",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9657479",
+    "scoala": "LICEUL TEORETIC RADU PETRESCU PRUNDU BÂRGĂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN8734453",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.15,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BN8777448",
+    "scoala": "ȘCOALA GIMNAZIALĂ DEMIAN NECHITI ILVA MICĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.05,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BN10045868",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8624281",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC NĂSĂUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN8691369",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8239949",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN8165252",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9361699",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9062936",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9062936",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8479227",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE SILAȘI BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN8715375",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8715055",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN12458982",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE SILAȘI BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9873417",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BN8920722",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN8691623",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BN10385007",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8785801",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9728886",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN9728886",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN11186842",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN11194731",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN10045405",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10045405",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9029201",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9829210",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9829210",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN12170450",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9108519",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU-ODORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8772803",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU NĂSĂUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN8772803",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU NĂSĂUD",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN10025438",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8480098",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.5,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BN9351552",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10024520",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BN8782108",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8619912",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8800711",
+    "scoala": "ȘCOALA GIMNAZIALĂ SILIVAȘU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.45,
+    "diferenta": 1
+  },
+  {
+    "cod": "BN9754815",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9829142",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9017693",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9873063",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BN9784128",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN8314365",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9725468",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEVER POP POIANA ILVEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10498070",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂRPIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9129787",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENEA GRAPINI ȘANȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10380396",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9828852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9828852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10025374",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8921024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN8748068",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.25,
+    "diferenta": -1
+  },
+  {
+    "cod": "BN8748068",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN12874865",
+    "scoala": "ȘCOALA GIMNAZIALĂ URMENIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BN12874865",
+    "scoala": "ȘCOALA GIMNAZIALĂ URMENIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8784107",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN10344327",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9656561",
+    "scoala": "LICEUL TEORETIC RADU PETRESCU PRUNDU BÂRGĂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9656561",
+    "scoala": "LICEUL TEORETIC RADU PETRESCU PRUNDU BÂRGĂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8919945",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN8688899",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9204094",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9204094",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN8836623",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8489005",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9778370",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN9664591",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN8782371",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9533281",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN11187167",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFERA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN8260220",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN8260220",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10045537",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 8.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BN9341711",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN12780949",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BN10407811",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN10407811",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8950560",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.7,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BN8339228",
+    "scoala": "ȘCOALA GIMNAZIALĂ COCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8339228",
+    "scoala": "ȘCOALA GIMNAZIALĂ COCIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN8266112",
+    "scoala": "LICEUL TEHNOLOGIC LECHINȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8266112",
+    "scoala": "LICEUL TEHNOLOGIC LECHINȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9787248",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9710022",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUNCA LEȘULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8949896",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN8949896",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN13197785",
+    "scoala": "ȘCOALA GIMNAZIALĂ IACOB SI IOACHIM MUREȘANU REBRIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN13197785",
+    "scoala": "ȘCOALA GIMNAZIALĂ IACOB SI IOACHIM MUREȘANU REBRIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN9176582",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENEA GRAPINI ȘANȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN8622945",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN8536972",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN9018211",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9117611",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9029148",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.75,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BN9029148",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8726859",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BN8726859",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9829069",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9829069",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10405990",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN8784433",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9828793",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9752910",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9745200",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8537202",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN8537202",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9828656",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10044130",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN10044130",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN8738772",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BN8738772",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8705486",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BN8783773",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN10045097",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9656115",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BN8784054",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN8733133",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN8733133",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8976591",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUDACU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN9828727",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9786395",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN9017739",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9018492",
+    "scoala": "ȘCOALA GIMNAZIALĂ IACOB SI IOACHIM MUREȘANU REBRIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.85,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BN10585348",
+    "scoala": "ȘCOALA GIMNAZIALĂ DUMITRA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10025204",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BN9177026",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENEA GRAPINI ȘANȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8573982",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBRIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BN9873131",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN8840189",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9018988",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9018988",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9900257",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BN9885045",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEUȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10380247",
+    "scoala": "ȘCOALA GIMNAZIALĂ MICEȘTII DE CÂMPIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN8735894",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN8735894",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9908493",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN8532465",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BN13940751",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9959004",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BN12137602",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN8771636",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC NĂSĂUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8771636",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC NĂSĂUD",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN13065468",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN9658427",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BN8192343",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BN8192343",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN8689163",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN8499518",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN9361781",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN9018237",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.45,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BN8793778",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9961825",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL RĂU JOSENII BÂRGĂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN10387321",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BN8920029",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN13619131",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BN13619131",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN10385237",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN10385237",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8782015",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9004646",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNCA ILVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9663931",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10024804",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9820660",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN12518277",
+    "scoala": "ȘCOALA GIMNAZIALĂ AUREL RĂU JOSENII BÂRGĂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN12877642",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIPȘA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9019436",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN9019436",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN9710134",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUNCA LEȘULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10785832",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU-ODORHEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.25,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BN10785832",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU-ODORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8785943",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN8785943",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8740053",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN8740053",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN13447379",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9017825",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN9017825",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN8404927",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9481181",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE SCURTU PARVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN9481181",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE SCURTU PARVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN11197248",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN11197248",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN10843105",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOROLEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN13401877",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9119574",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9019323",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.75,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BN9260060",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8694458",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN8694458",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9783779",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 7,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BN9783779",
+    "scoala": "COLEGIUL NAȚIONAL LIVIU REBREANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN9477977",
+    "scoala": "ȘCOALA GIMNAZIALĂ ILVA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN10501344",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIREȘOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.15,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BN10501344",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIREȘOAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN8421948",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN9018947",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9018947",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN13686153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN8622155",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9062873",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.2,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN9062873",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9199963",
+    "scoala": "ȘCOALA GIMNAZIALĂ IUSTIN ILIEȘIU ANIEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10506689",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN10778908",
+    "scoala": "ȘCOALA GIMNAZIALĂ MUREȘENII BÂRGĂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN12742227",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTEMIU PUBLIU ALEXI SÂNGEORZ-BĂI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10098395",
+    "scoala": "ȘCOALA GIMNAZIALĂ CEPARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9091359",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN10723924",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU NĂSĂUD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9955251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BN9955251",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN9558952",
+    "scoala": "ȘCOALA GIMNAZIALĂ DARIU POP MĂGURA ILVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BN10791183",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9173983",
+    "scoala": "LICEUL TEHNOLOGIC FLORIAN PORCIUS RODNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN8919638",
+    "scoala": "LICEUL TEHNOLOGIC LIVIU REBREANU MAIERU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BN10020280",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BN8786012",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN13448459",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC COȘBUC",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN9204072",
+    "scoala": "ȘCOALA GIMNAZIALĂ IUSTIN ILIEȘIU ANIEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8841485",
+    "scoala": "LICEUL CREȘTIN LOGOS BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9021518",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN9021518",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8784091",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9017849",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BN10026102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9539088",
+    "scoala": "LICEUL TEHNOLOGIC FELDRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN8087241",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU PRODAN CHIOCHIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN8486529",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ BECLEAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9131060",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN7979847",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVEZILE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN8892593",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 4.8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BN8892593",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN14771702",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘIEU-ODORHEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN8168032",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN12287047",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOROLEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.85,
+    "nota_finala": 2.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BN10449003",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN10080928",
+    "scoala": "ȘCOALA GIMNAZIALĂ CEPARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN9956572",
+    "scoala": "LICEUL TEORETIC RADU PETRESCU PRUNDU BÂRGĂULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9954753",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9019605",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE COȘBUC COȘBUC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BN9001716",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNCA ILVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9001716",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNCA ILVEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN9820402",
+    "scoala": "COLEGIUL NAȚIONAL ANDREI MUREȘANU BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9445643",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMULI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN13996919",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU REBREANU CHIUZA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8977095",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUDACU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9481360",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE SCURTU PARVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.45,
+    "nota_finala": 2.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10763772",
+    "scoala": "ȘCOALA GIMNAZIALĂ TUREAC",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9873711",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10407937",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN10407937",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9646982",
+    "scoala": "ȘCOALA GIMNAZIALĂ CICEU-GIURGEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8783875",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BN8783875",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN10458306",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10458306",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8103693",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU PRODAN CHIOCHIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN9833676",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BN9559211",
+    "scoala": "ȘCOALA GIMNAZIALĂ DARIU POP MĂGURA ILVEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN9692659",
+    "scoala": "LICEUL TEORETIC RADU PETRESCU PRUNDU BÂRGĂULUI",
+    "materie": "Matematică",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BN9019072",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BN10447076",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10447076",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN9657460",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BN9657166",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN9657166",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIOREL NIMIGEANU NIMIGEA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN11195878",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE SCURTU PARVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN11195878",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE SCURTU PARVA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9552335",
+    "scoala": "ȘCOALA GIMNAZIALĂ DARIU POP MĂGURA ILVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BN9552335",
+    "scoala": "ȘCOALA GIMNAZIALĂ DARIU POP MĂGURA ILVEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8706991",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCIAN BLAGA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BN8840948",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BN8199686",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIU PRODAN CHIOCHIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN13680721",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN13334884",
+    "scoala": "LICEUL TEHNOLOGIC ION CĂIAN ROMÂNUL CĂIANU MIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BN9019124",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN10842028",
+    "scoala": "LICEUL CU PROGRAM SPORTIV BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN10024672",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN9631376",
+    "scoala": "LICEUL TEHNOLOGIC FELDRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BN9631376",
+    "scoala": "LICEUL TEHNOLOGIC FELDRU",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BN10446622",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BN10446622",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂNMIHAIU DE CÂMPIE",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9955151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BN9955151",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE DRĂGANU ZAGRA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9022342",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BN9091973",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN S.PAVELEA RUNCU SALVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9091973",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN S.PAVELEA RUNCU SALVEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BN9019214",
+    "scoala": "LICEUL TEHNOLOGIC TELCIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN8340209",
+    "scoala": "ȘCOALA GIMNAZIALĂ COCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 4.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BN8340209",
+    "scoala": "ȘCOALA GIMNAZIALĂ COCIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BN9013751",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU NĂSĂUD",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BN8131487",
+    "scoala": "LICEUL DE ARTE CORNELIU BABA BISTRIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BN8131487",
+    "scoala": "LICEUL DE ARTE CORNELIU BABA BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9131057",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENEA GRAPINI ȘANȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9131057",
+    "scoala": "ȘCOALA GIMNAZIALĂ ENEA GRAPINI ȘANȚ",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BN9654708",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 BISTRIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.55,
+    "diferenta": 0.05
+  }
+]

@@ -1,0 +1,2338 @@
+[
+  {
+    "cod": "TR8820180",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8405619",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8294167",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8294644",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8803462",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8736851",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRATIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8200520",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR8440824",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VIDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8767823",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TR7939423",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8946662",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8297458",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8815545",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8297289",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR8202809",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON RADU PARASCHIVESCU ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8026065",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8842758",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR8027978",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8027978",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.75,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR7939260",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8734090",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR7942565",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8802181",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8805083",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TR8242934",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8242934",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8623233",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TR8623233",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR8237105",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8237105",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8909175",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂRBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8909175",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂRBENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8160764",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TR8160764",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8402236",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 COSMEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8297376",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8297376",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOSCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8619146",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8208265",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "TR8447464",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIATRA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8867105",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DOBROTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8282639",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRĂȘTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TR9485145",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRĂGĂNEȘTI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TR8229553",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON RADU PARASCHIVESCU ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TR8024827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.5,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TR8024827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8623582",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8623582",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8200919",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8200919",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR7943981",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TR8541452",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFINȚII VOIEVOZI BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8794211",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8794516",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TR8619050",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8619050",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR10985279",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VIDELE",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8865397",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DOBROTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8294409",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TR7943956",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TR10070100",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR10070100",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 ZIMNICEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8465971",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8027532",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TR8572085",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VIDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR9452984",
+    "scoala": "ȘCOALA GIMNAZIALĂ SALCIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8026012",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8395058",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TR8461717",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ORBEASCA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR11140609",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRĂŞTII DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR11140609",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRĂŞTII DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8879478",
+    "scoala": "ȘCOALA GIMNAZIALĂ GĂLĂTENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8766492",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TR8766492",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8551016",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU COLFESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR7940890",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR7940890",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8057171",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8813708",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8760152",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "TR8419272",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8342972",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON RADU PARASCHIVESCU ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.65,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TR8625790",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8511485",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TR8868122",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DOBROTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8868122",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 DOBROTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8398448",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8733441",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRATIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TR8733441",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRATIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR7940683",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TR8783267",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8540656",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU COLFESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8767334",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TR8182681",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8819593",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8541792",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR MARIN BUNESCU SUHAIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8543445",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFINȚII VOIEVOZI BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.5,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TR8373568",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8516559",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VIDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.65,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TR7940993",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.15,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TR7940993",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8231241",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON RADU PARASCHIVESCU ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TR8618110",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAHARIA STANCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8555727",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU COLFESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8096084",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRĂGĂNEȘTI-VLAȘCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8783160",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8393743",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "TR12462961",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂRTOAPE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8651815",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8227842",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8780508",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8780508",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8398888",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TR8782125",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8618757",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8618757",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8464666",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8464666",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8127997",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8778847",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR11107476",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU BĂDĂUȚĂ ZÂMBREASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR11107476",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU BĂDĂUȚĂ ZÂMBREASCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8802648",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.6,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TR8802648",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8870305",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂDOIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TR7943976",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8272757",
+    "scoala": "ȘCOALA GIMNAZIALĂ PURANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8195642",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "TR8996948",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE RACOTTĂ ȘTOROBĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TR8530067",
+    "scoala": "ȘCOALA GIMNAZIALĂ TRIVALEA MOȘTENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8544677",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFINȚII VOIEVOZI BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8799243",
+    "scoala": "LICEUL TEHNOLOGIC ANDREI ȘAGUNA BOTOROAGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8532895",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8297078",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8387638",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU DEPĂRĂȚEANU ROȘIORI DE VEDE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8294346",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8025954",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8394950",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.35,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TR8375395",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8375395",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8128038",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR3709101",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR8538510",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8538510",
+    "scoala": "ȘCOALA GIMNAZIALĂ VIIȘOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8244732",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8578695",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSMEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "TR8364756",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.65,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TR8224126",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8466729",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.4,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8222338",
+    "scoala": "ȘCOALA GIMNAZIALĂ IZVOARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR12140356",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR12140356",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8464368",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.05,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "TR8409336",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8409336",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR9343685",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8397615",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8759814",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE CROITORU SFINȚEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8759814",
+    "scoala": "ȘCOALA GIMNAZIALĂ EFTIMIE CROITORU SFINȚEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8777011",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.8,
+    "diferenta": 1
+  },
+  {
+    "cod": "TR8024333",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR12509276",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU COLFESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8273610",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8460908",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ORBEASCA DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8437005",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VIDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 5.9,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TR8227828",
+    "scoala": "ȘCOALA GIMNAZIALĂ VITĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8424969",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8759840",
+    "scoala": "LICEUL TEORETIC MARIN PREDA TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR9236474",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR8396863",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8396863",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8464843",
+    "scoala": "ȘCOALA GIMNAZIALĂ CERVENIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TR8464843",
+    "scoala": "ȘCOALA GIMNAZIALĂ CERVENIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8363713",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "TR8622214",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6.05,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "TR8465578",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TR8842549",
+    "scoala": "ȘCOALA GIMNAZIALĂ UDA CLOCOCIOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR9476504",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRĂGĂNEȘTI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8201173",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8423258",
+    "scoala": "ȘCOALA GIMNAZIALĂ FURCULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TR8846479",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8578763",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU COLFESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8811657",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR9895047",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR9895047",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR11140579",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRĂŞTII DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "TR11140579",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRĂŞTII DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8225033",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8623839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MĂLDĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TR8623839",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MĂLDĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8480188",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLMĂȚUIU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8257916",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8257916",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8842338",
+    "scoala": "ȘCOALA GIMNAZIALĂ UDA CLOCOCIOV",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8580202",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 COSMEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR7943952",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR7943952",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8160622",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR12256057",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR10070438",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON RADU PARASCHIVESCU ZIMNICEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8578747",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VIDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8578747",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VIDELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8553233",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8553233",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGU",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8986922",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE RACOTTĂ ȘTOROBĂNEASA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8151543",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOSCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8735803",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8263498",
+    "scoala": "ȘCOALA GIMNAZIALĂ TALPA",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR10071944",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR9176797",
+    "scoala": "ȘCOALA GIMNAZIALĂ CREVENICU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8423968",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8166960",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8732360",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR8619773",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFINȚII VOIEVOZI BRAGADIRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR8903659",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALACI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8161018",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "TR8472726",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLMĂŢUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8939851",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONȚEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8939851",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONȚEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8232184",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "TR8397935",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TR8678918",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEGARCEA VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8678918",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEGARCEA VALE",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8472980",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLMĂŢUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "TR8690294",
+    "scoala": "ȘCOALA GIMNAZIALĂ SEGARCEA VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.45,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "TR8502684",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ROȘIORI DE VEDE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8167742",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR8553999",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8473047",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLMĂŢUIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 3.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR13093843",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 COSMEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8167594",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8394658",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI VITEAZUL ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8469041",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.7,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TR8209036",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "TR8209036",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8162039",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR10760027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "TR10760027",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8761778",
+    "scoala": "ȘCOALA GIMNAZIALĂ SMÂRDIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "TR8258545",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRÂNCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR9269507",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR MARIN BUNESCU SUHAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "TR9269507",
+    "scoala": "ȘCOALA GIMNAZIALĂ ÎNVĂȚĂTOR MARIN BUNESCU SUHAIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8465271",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8736573",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "TR8736573",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR9344048",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR9344048",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8167115",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "TR8167115",
+    "scoala": "ȘCOALA GIMNAZIALĂ I.GH. DUCA ȚIGĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8554187",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRÂNGU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8803939",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8737195",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRATIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8737195",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRATIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8594180",
+    "scoala": "ȘCOALA GIMNAZIALĂ MERENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 1.75,
+    "nota_finala": 3.15,
+    "diferenta": 1.4
+  },
+  {
+    "cod": "TR8468734",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂBĂIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "TR8206946",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8206946",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8233920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR8233920",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8396403",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8396403",
+    "scoala": "ȘCOALA GIMNAZIALĂ FÂNTÂNELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8623757",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MĂLDĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8623757",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MĂLDĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8737209",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 3.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "TR8737209",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8226168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "TR8226168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 BLEJEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8283852",
+    "scoala": "ȘCOALA GIMNAZIALĂ NENCIULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8625471",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 MĂLDĂENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR9236402",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "TR9236402",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOPII SLĂVITEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR10066811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR9006111",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE DIMITRIE GHICA PERETU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "TR9006111",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE DIMITRIE GHICA PERETU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "TR8460062",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "TR8460062",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA CEL BĂTRÂN TURNU MĂGURELE",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR10067325",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 ZIMNICEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8903517",
+    "scoala": "ȘCOALA GIMNAZIALĂ BALACI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "TR12463503",
+    "scoala": "ȘCOALA GIMNAZIALĂ NECŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "TR8649098",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8649098",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 ALEXANDRIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR9343397",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.4,
+    "nota_finala": 3.8,
+    "diferenta": 1.4
+  },
+  {
+    "cod": "TR9343397",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRACEA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8732703",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.9,
+    "nota_finala": 3.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "TR8732703",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂSINET",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8781360",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ORBEASCA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 2.95,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "TR8242665",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "TR8370370",
+    "scoala": "ȘCOALA GIMNAZIALĂ PLOSCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8995730",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE RACOTTĂ ȘTOROBĂNEASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "TR8283615",
+    "scoala": "ȘCOALA GIMNAZIALĂ NENCIULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "TR8771380",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU BĂDĂUȚĂ ZÂMBREASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "TR8771380",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU BĂDĂUȚĂ ZÂMBREASCA",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.15,
+    "diferenta": 0.05
+  }
+]

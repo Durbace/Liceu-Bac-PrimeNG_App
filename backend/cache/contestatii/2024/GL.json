@@ -1,0 +1,5466 @@
+[
+  {
+    "cod": "GL3881401",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL12772932",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 10,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL10417301",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11126409",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11126409",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL4403651",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11028162",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL11028162",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL4152851",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11110617",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL8704487",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GL8704487",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL8713045",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11020238",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA SLOBOZIA CONACHI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL4169901",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL4169901",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11105137",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11149527",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL4385851",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL10938428",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL9328595",
+    "scoala": "SCOALA GIMNAZIALA ”DUMITRU CAPRARU”, COMUNA GRIVITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL9328595",
+    "scoala": "SCOALA GIMNAZIALA ”DUMITRU CAPRARU”, COMUNA GRIVITA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11187476",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL8855538",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11148568",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10965806",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9686215",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL9686215",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10965021",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10965021",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10419022",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL9458530",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11149235",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11149494",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11062521",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11186939",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL3857001",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11148983",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL10942300",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 8.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL10942300",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11187759",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11186736",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL4408801",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10958414",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL7936300",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10405671",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11074009",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11190086",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11176916",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11113435",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11192042",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL8427356",
+    "scoala": "SCOALA GIMNAZIALA NR.3, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL4966951",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11059967",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11050347",
+    "scoala": "SCOALA GIMNAZIALA NR.3, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GL11196723",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11104234",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11180190",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11118832",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9042303",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11192818",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11103527",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11105087",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11105087",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL4383251",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10998600",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11149011",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11149011",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11190295",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11064625",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11188299",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL11188299",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL9458429",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11020685",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA SLOBOZIA CONACHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11149539",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11148957",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9473677",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11017852",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11113890",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GL11113741",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11113741",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11050573",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11064509",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11064509",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11017793",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11103534",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11020052",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA SLOBOZIA CONACHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11047075",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11112349",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL11112349",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10971755",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, COMUNA CUZA VODA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11078284",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL3878451",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL3878451",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11112292",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL8869418",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL10641330",
+    "scoala": "SCOALA GIMNAZIALA STROE S. BELLOESCU, SAT PLESA, COMUNA BERESTI-MERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11111777",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11111777",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11072106",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL10046541",
+    "scoala": "SCOALA GIMNAZIALA STEFAN ISTRATE, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL10046541",
+    "scoala": "SCOALA GIMNAZIALA STEFAN ISTRATE, COMUNA FARTANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL4397101",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL4397101",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11111809",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11111809",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL11110439",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9511560",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA LIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GL12600971",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL7955002",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10019995",
+    "scoala": "SCOALA GIMNAZIALA STEFAN ISTRATE, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL9494094",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11017595",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10991467",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL10991467",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11189235",
+    "scoala": "SCOALA GIMNAZIALA GEORGE IVASCU, COMUNA CERTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11017522",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11017522",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GL11064615",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11062526",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11062526",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11048966",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11048966",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11196780",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 9,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "GL11189861",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11188429",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11080514",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9495748",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA LIESTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL8854203",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL8854203",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11079026",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11148571",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11148571",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11192689",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL9691492",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL9511509",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA LIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL9511509",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA LIESTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11148998",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL8722385",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11104954",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL11105454",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11062473",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10020106",
+    "scoala": "LICEUL TEHNOLOGIC EREMIA GRIGORESCU, ORAS TG.BUJOR",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11111758",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11017487",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11060414",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11177111",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11112119",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11187554",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL13182311",
+    "scoala": "SCOALA GIMNAZIALA UNIREA, COMUNA BRANISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11086545",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11060030",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11060030",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL11111686",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11111686",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11149486",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11111789",
+    "scoala": "LICEUL DE ARTE DIMITRIE CUCLIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11038041",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11164463",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11064504",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11064504",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL3865951",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11017828",
+    "scoala": "COLEGIUL NATIONAL CALISTRAT HOGAS, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11127861",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11194119",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11189073",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11189073",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL10964989",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11192555",
+    "scoala": "SCOALA GIMNAZIALA STROE S. BELLOESCU, SAT PLESA, COMUNA BERESTI-MERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11188786",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11188786",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL9116061",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL9116061",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9457955",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9457955",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10963625",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10963625",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA VANATORI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL12533571",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL9548747",
+    "scoala": "COLEGIUL NATIONAL CALISTRAT HOGAS, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10959317",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11164447",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11164447",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11112212",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10943028",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL10943028",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10554617",
+    "scoala": "SCOALA GIMNAZIALA NEGOITA DANAILA, SAT BUCESTI, COMUNA IVESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11022713",
+    "scoala": "SCOALA GIMNAZIALA TUDOR PAMFILE, COMUNA TEPU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL8427092",
+    "scoala": "SCOALA GIMNAZIALA NR.3, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL8531536",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SI GAVRIL, SAT MIHAIL KOGALNICEANU, COMUNA SMARDAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11146562",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL13696609",
+    "scoala": "SCOALA GIMNAZIALA SFANTA CUVIOASA PARASCHEVA, COMUNA SMARDAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11064454",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL11110774",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11110786",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11104606",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11112921",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11006196",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11193790",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GL11193790",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11125625",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11008173",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GL11105070",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10941613",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11079959",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "GL11050267",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11190922",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11190922",
+    "scoala": "COLEGIUL NATIONAL VASILE ALECSANDRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL11078261",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11078261",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11104010",
+    "scoala": "LICEUL TEHNOLOGIC COSTACHE CONACHI, COMUNA PECHEA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL8721851",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11015204",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL8031920",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11005235",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11104102",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11187742",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11187742",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL7961306",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11111825",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11105226",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11148993",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11077359",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.3,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "GL11077359",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL4410001",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL10964674",
+    "scoala": "SCOALA GIMNAZIALA NR.5, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10936636",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL4184101",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11060399",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11060399",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11113808",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10942852",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL7935787",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "GL7935787",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11113969",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11113969",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11190548",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11076828",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11008587",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GL11112361",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SF. ANDREI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9969021",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL9969021",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL8600045",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11086829",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL10925379",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT SIVITA, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL7958084",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL7958084",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11164444",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "GL11164444",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11047807",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL4172551",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL10563746",
+    "scoala": "SCOALA GIMNAZIALA ELENA NEGRI, COMUNA COSTACHE NEGRI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11118767",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL9474035",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11188513",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10124039",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9458030",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9458030",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11191102",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "GL11191102",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11062531",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11076472",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11073985",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11073985",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9494148",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10776862",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE HAGIU, ORAS TG.BUJOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11148509",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9473988",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL9473988",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL13428431",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL13428431",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL4399851",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL4399851",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11149548",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL4179601",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11049028",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11008348",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL7955241",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL4171501",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11015256",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE MUNTEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11015256",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE MUNTEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11111818",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11112245",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10076391",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10969860",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, COMUNA CUZA VODA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11017757",
+    "scoala": "SCOALA GIMNAZIALA ADVENTISTA, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11186863",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SF. ANDREI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL10777567",
+    "scoala": "LICEUL TEHNOLOGIC EREMIA GRIGORESCU, ORAS TG.BUJOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL9633768",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11142851",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11188382",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11188382",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11111200",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11112749",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11060126",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL8034429",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL4168901",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL4168901",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11192601",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11113470",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11113470",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11113756",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11190415",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11073060",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE CANTEMIR, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11144405",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GHEORGHE, COMUNA CUCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11074560",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10959593",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE MUNTEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL4385551",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.85,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL11122849",
+    "scoala": "SCOALA GIMNAZIALA DOAMNA NICA, COMUNA VALEA MARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL9694418",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BRAHASESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.15,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL9042402",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL9042402",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11118773",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9707352",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11008387",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9495777",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA LIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL9903684",
+    "scoala": "SCOALA GIMNAZIALA ENE PATRICIU, COMUNA SMULTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11104306",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11104306",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11189668",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11189668",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11126558",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11126558",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11186879",
+    "scoala": "SCOALA GIMNAZIALA NR.18, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL3914051",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL3914051",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11125237",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.85,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GL10970644",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, COMUNA CUZA VODA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11186860",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX SF. ANDREI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL10967615",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL9473492",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11104082",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA PECHEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9042817",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11148989",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11110777",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL11110777",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11112943",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11196987",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11196987",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11193309",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11193309",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11064601",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11064601",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11189379",
+    "scoala": "SCOALA GIMNAZIALA NR.20, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11189379",
+    "scoala": "SCOALA GIMNAZIALA NR.20, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9884105",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9884105",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11111821",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11111821",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10417801",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10751869",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11113870",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10554721",
+    "scoala": "SCOALA GIMNAZIALA NEGOITA DANAILA, SAT BUCESTI, COMUNA IVESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL13123889",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA DRAGANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11189143",
+    "scoala": "COLEGIUL NATIONAL MIHAIL KOGALNICEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11189672",
+    "scoala": "SCOALA GIMNAZIALA GEORGE IVASCU, COMUNA CERTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL10963726",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9239078",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BANEASA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11087204",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11087204",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11197645",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11080607",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11074900",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11098532",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, COMUNA PISCU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11110951",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9695478",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BRAHASESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL8252917",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE SI MARIA TASCA, COMUNA BALABANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11192617",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11192617",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10894115",
+    "scoala": "LICEUL TEHNOLOGIC NR.1, COMUNA CUDALBI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL10925384",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT SIVITA, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10925384",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT SIVITA, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11188453",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11188453",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11000422",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA DRAGANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11126676",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL9160605",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL8030310",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL8030310",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11119288",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA PRIPONESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL3858451",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL3858451",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL10938316",
+    "scoala": "SCOALA GIMNAZIALA NR.9, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL12292465",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11082194",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11082194",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL9473925",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11048860",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL11048860",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9117556",
+    "scoala": "LICEUL TEHNOLOGIC PAUL BUJOR, ORAS BERESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9117556",
+    "scoala": "LICEUL TEHNOLOGIC PAUL BUJOR, ORAS BERESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11113837",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11196715",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10913544",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL3919601",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL3919601",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9877961",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11026694",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11116393",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL10967732",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL10940430",
+    "scoala": "SCOALA GIMNAZIALA UNIREA, COMUNA BRANISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11112765",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11186859",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11186859",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL9458546",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL10963568",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10050146",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11113831",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.55,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GL11146593",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11187183",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11187183",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL10915286",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11192979",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11192979",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11008292",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11008292",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10915057",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11103353",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL7959490",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL7959490",
+    "scoala": "COLEGIUL NATIONAL COSTACHE NEGRI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10419814",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL9659547",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA BARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9659547",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA BARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11068818",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11068818",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11187537",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL11187537",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11193123",
+    "scoala": "SCOALA GIMNAZIALA SFINTII IMPARATI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11080662",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.9,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11080662",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11071019",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11071019",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11148511",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL13687068",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL9473511",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11001102",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA DRAGANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11126749",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11126749",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL9707460",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GL10942439",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA NAMOLOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GL10938238",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11111815",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11111815",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL8718817",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL8522961",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SI GAVRIL, SAT MIHAIL KOGALNICEANU, COMUNA SMARDAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10925329",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT SIVITA, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL8674827",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SI GAVRIL, SAT MIHAIL KOGALNICEANU, COMUNA SMARDAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL8674827",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SI GAVRIL, SAT MIHAIL KOGALNICEANU, COMUNA SMARDAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11014870",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11118777",
+    "scoala": "SCOALA GIMNAZIALA NR.3, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11118777",
+    "scoala": "SCOALA GIMNAZIALA NR.3, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9473892",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10994488",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA SENDRENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL10539710",
+    "scoala": "SCOALA GIMNAZIALA STEFAN ISTRATE, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL9473442",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL9473442",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10913589",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10563706",
+    "scoala": "SCOALA GIMNAZIALA ELENA NEGRI, COMUNA COSTACHE NEGRI",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11110729",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GL9590639",
+    "scoala": "SCOALA GIMNAZIALA LUDOVIC COSMA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL9590639",
+    "scoala": "SCOALA GIMNAZIALA LUDOVIC COSMA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL12828306",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA NAMOLOASA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11060380",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL9598885",
+    "scoala": "SCOALA GIMNAZIALA STROE S. BELLOESCU, SAT PLESA, COMUNA BERESTI-MERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11033913",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT FURCENII NOI, COMUNA COSMESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL4174751",
+    "scoala": "LICEUL DE ARTE DIMITRIE CUCLIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL10915042",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GL11003281",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10535282",
+    "scoala": "COLEGIUL NATIONAL SPIRU HARET, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11080064",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11112355",
+    "scoala": "LICEUL CU PROGRAM SPORTIV, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GL10942987",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9458680",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL11191769",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL10984827",
+    "scoala": "SCOALA GIMNAZIALA GABRIEL DRAGAN, COMUNA NICORESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11076509",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11064513",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL8255941",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE SI MARIA TASCA, COMUNA BALABANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL8255941",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE SI MARIA TASCA, COMUNA BALABANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11164462",
+    "scoala": "SCOALA GIMNAZIALA SFINTII IMPARATI, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10105886",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10105886",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11098446",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, COMUNA PISCU",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11112240",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11112240",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10940405",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11196297",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10991341",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10958061",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11125538",
+    "scoala": "COLEGIUL NATIONAL CALISTRAT HOGAS, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9473599",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11060169",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11060169",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11096182",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11096182",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11111769",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11098090",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE MUNTEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL7985877",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA FOLTESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL7985877",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA FOLTESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL10535731",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL10535731",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11126250",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11081379",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11094672",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE LUCHIAN, COMUNA PISCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10049034",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10889504",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT MACISENI, COMUNA CORNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11197829",
+    "scoala": "SCOALA GIMNAZIALA NR.5, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11060043",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11126584",
+    "scoala": "SCOALA GIMNAZIALA STEFAN OCTAVIAN IOSIF, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL4183001",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL12451733",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11068692",
+    "scoala": "SCOALA GIMNAZIALA GABRIEL DRAGAN, COMUNA NICORESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL10915239",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11105720",
+    "scoala": "SCOALA GIMNAZIALA NR.4, COMUNA PECHEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL9706998",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL10050082",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10050082",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11190740",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL11190740",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11142942",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BERHECI, COMUNA GOHOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10075302",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL9955341",
+    "scoala": "SCOALA GIMNAZIALA ALEXEI MATEEVICI, COMUNA MOVILENI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11193605",
+    "scoala": "SCOALA GIMNAZIALA UNIREA, COMUNA BRANISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11076867",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11150158",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11111595",
+    "scoala": "SCOALA GIMNAZIALA NR.18, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11009663",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.65,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL11009663",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11113559",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11113559",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10404669",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL10940133",
+    "scoala": "SCOALA GIMNAZIALA UNIREA, COMUNA BRANISTEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL4170001",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL4170001",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10940228",
+    "scoala": "SCOALA GIMNAZIALA UNIREA, COMUNA BRANISTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL10960312",
+    "scoala": "SCOALA GIMNAZIALA GRIGORE MOISIL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL8029492",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GL9565424",
+    "scoala": "SCOALA GIMNAZIALA NR.2, SAT CHIRAFTEI, COMUNA MASTACANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11187275",
+    "scoala": "LICEUL TEORETIC EMIL RACOVITA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11112357",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "GL11112357",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL11078302",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11013234",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BLANZI, COMUNA COROD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11013234",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BLANZI, COMUNA COROD",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL9511513",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA LIESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL10915270",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10915270",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL3921101",
+    "scoala": "SCOALA GIMNAZIALA MIHAIL SADOVEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10106381",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11104485",
+    "scoala": "LICEUL DE ARTE DIMITRIE CUCLIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9329173",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL9329173",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL8767959",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL IERARH NICOLAE, COMUNA VLADESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL9590014",
+    "scoala": "SCOALA GIMNAZIALA LUDOVIC COSMA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11006474",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11062544",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10614266",
+    "scoala": "SCOALA GIMNAZIALA SF.STELIAN, SAT UMBRARESTI DEAL, COMUNA UMBRARESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11064510",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11064510",
+    "scoala": "SCOALA GIMNAZIALA MIRON COSTIN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL8714161",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL8714161",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11191089",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9157829",
+    "scoala": "SCOALA GIMNAZIALA SFINTII IMPARATI, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11122901",
+    "scoala": "SCOALA GIMNAZIALA DOAMNA NICA, COMUNA VALEA MARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GL9707151",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA COROD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11003376",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11077153",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11034153",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT FURCENII NOI, COMUNA COSMESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11113832",
+    "scoala": "SCOALA GIMNAZIALA NR.29, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL9977229",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA JORASTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL10471540",
+    "scoala": "SCOALA GIMNAZIALA ALEXEI MATEEVICI, COMUNA MOVILENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL9163873",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL9163873",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL8030044",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL8030044",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11074961",
+    "scoala": "LICEUL TEHNOLOGIC PAUL BUJOR, ORAS BERESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11074961",
+    "scoala": "LICEUL TEHNOLOGIC PAUL BUJOR, ORAS BERESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11139320",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA GOHOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11076674",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL9693554",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BRAHASESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL8710435",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL8710435",
+    "scoala": "SCOALA GIMNAZIALA NR.28, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11187376",
+    "scoala": "LICEUL TEORETIC DUNAREA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL10049731",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11146558",
+    "scoala": "SCOALA GIMNAZIALA NR.24, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL9876799",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11015144",
+    "scoala": "SCOALA GIMNAZIALA GHEORGHE MUNTEANU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10913180",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA TULUCESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11192401",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL11192401",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11127726",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11110863",
+    "scoala": "SCOALA GIMNAZIALA NR.9, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11110863",
+    "scoala": "SCOALA GIMNAZIALA NR.9, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9251548",
+    "scoala": "SCOALA GIMNAZIALA NR.16, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11062519",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GL11143062",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA GOHOR",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11026320",
+    "scoala": "SCOALA GIMNAZIALA NR.5, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL3916851",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GL3916851",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11116504",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9158149",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 4.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL10889420",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT MACISENI, COMUNA CORNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11111794",
+    "scoala": "SCOALA GIMNAZIALA NR.7, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL4147451",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL4147451",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL GRIGORIE TEOLOGUL, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10963994",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA VANATORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11115306",
+    "scoala": "SCOALA GIMNAZIALA NR.24, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL12543110",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA GOHOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL10649621",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10130036",
+    "scoala": "SCOALA GIMNAZIALA ALEXEI MATEEVICI, COMUNA MOVILENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL8428237",
+    "scoala": "SCOALA GIMNAZIALA DAN BARBILIAN, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10421880",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL10421880",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11090663",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA DRAGUSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11080301",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL12872745",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL12872745",
+    "scoala": "SCOALA GIMNAZIALA NR.25, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9167684",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11081097",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10612568",
+    "scoala": "SCOALA GIMNAZIALA SF.STELIAN, SAT UMBRARESTI DEAL, COMUNA UMBRARESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL11079929",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GL11190019",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL11190019",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL13135332",
+    "scoala": "SCOALA GIMNAZIALA ROMANO-BRITANICA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 5.85,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "GL13135332",
+    "scoala": "SCOALA GIMNAZIALA ROMANO-BRITANICA, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11032242",
+    "scoala": "SCOALA GIMNAZIALA GENERAL DUMITRU DAMACEANU, COMUNA COSMESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL11111741",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11142844",
+    "scoala": "SCOALA GIMNAZIALA MIHAI VITEAZUL, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GL11125303",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL11125303",
+    "scoala": "SCOALA GIMNAZIALA ELENA DOAMNA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11076230",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11076230",
+    "scoala": "SCOALA GIMNAZIALA LASCAR CATARGIU, COMUNA SCHELA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL7891965",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL9329097",
+    "scoala": "SCOALA GIMNAZIALA ”DUMITRU CAPRARU”, COMUNA GRIVITA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GL9329097",
+    "scoala": "SCOALA GIMNAZIALA ”DUMITRU CAPRARU”, COMUNA GRIVITA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL11060617",
+    "scoala": "LICEUL TEHNOLOGIC NR.1, COMUNA CUDALBI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL11060617",
+    "scoala": "LICEUL TEHNOLOGIC NR.1, COMUNA CUDALBI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11115744",
+    "scoala": "LICEUL CU PROGRAM SPORTIV, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11079759",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA MATCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11105174",
+    "scoala": "SCOALA GIMNAZIALA SFANTUL NICOLAE, COMUNA VANATORI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL11034135",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11078305",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11078305",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10049096",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GL10049096",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA FARTANESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10612487",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA UMBRARESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GL11098002",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11098002",
+    "scoala": "LICEUL TEORETIC MIRCEA ELIADE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10421405",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL12828751",
+    "scoala": "SCOALA GIMNAZIALA ALEXEI MATEEVICI, COMUNA MOVILENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.05,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "GL12828751",
+    "scoala": "SCOALA GIMNAZIALA ALEXEI MATEEVICI, COMUNA MOVILENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10606813",
+    "scoala": "SCOALA GIMNAZIALA TUDOR PAMFILE, COMUNA TEPU",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL11125213",
+    "scoala": "SCOALA GIMNAZIALA DIMITRIE STURDZA, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11162077",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GL11162077",
+    "scoala": "SCOALA GIMNAZIALA NR.22, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10097665",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10097665",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9164230",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GL10076096",
+    "scoala": "SCOALA GIMNAZIALA ION PETROVICI, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL11193503",
+    "scoala": "COLEGIUL NATIONAL ALEXANDRU IOAN CUZA, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 4.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GL10424266",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA GHIDIGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.45,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GL9032333",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL9032333",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GL10662988",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BALINTESTI, COMUNA BERESTI-MERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GL8233646",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA CAVADINESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL9168261",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL9168261",
+    "scoala": "LICEUL TEHNOLOGIC TUDOR VLADIMIRESCU, COMUNA TUDOR VLADIMIRESCU",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL4155301",
+    "scoala": "SCOALA GIMNAZIALA CONSTANTIN GH. MARINESCU, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL12183988",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT MACISENI, COMUNA CORNI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL12183988",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT MACISENI, COMUNA CORNI",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GL10097974",
+    "scoala": "SCOALA GIMNAZIALA FLOREA JULEA, COMUNA NEGRILESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GL11074500",
+    "scoala": "SCOALA GIMNAZIALA NR.33, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10614331",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA BARCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10614331",
+    "scoala": "SCOALA GIMNAZIALA NR.2, COMUNA BARCEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11160356",
+    "scoala": "SCOALA GIMNAZIALA NR.10, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GL10824880",
+    "scoala": "SCOALA GIMNAZIALA ANGHEL RUGINA, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GL11126678",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GL11126678",
+    "scoala": "SCOALA GIMNAZIALA IORGU IORDAN, LOCALITATEA TECUCI",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GL10554186",
+    "scoala": "SCOALA GIMNAZIALA NEGOITA DANAILA, SAT BUCESTI, COMUNA IVESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL5714751",
+    "scoala": "SCOALA GIMNAZIALA NR.1, COMUNA BALASESTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL10980285",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BLANZI, COMUNA COROD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GL10980285",
+    "scoala": "SCOALA GIMNAZIALA NR.1, SAT BLANZI, COMUNA COROD",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GL11008277",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GL11008277",
+    "scoala": "SCOALA GIMNAZIALA STEFAN CEL MARE, LOCALITATEA GALATI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  }
+]

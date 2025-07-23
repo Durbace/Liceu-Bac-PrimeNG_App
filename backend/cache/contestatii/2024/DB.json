@@ -1,0 +1,3826 @@
+[
+  {
+    "cod": "DB8049721",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB7978545",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8511349",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8249056",
+    "scoala": "COLEGIUL NAȚIONAL ”VLADIMIR STREINU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8170695",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8698085",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ”ELENA DONICI CANTACUZINO” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8535766",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ”ELENA DONICI CANTACUZINO” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8207044",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8229022",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 9.3,
+    "diferenta": 4
+  },
+  {
+    "cod": "DB8279163",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8171531",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB10483459",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUNGULEȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB10483459",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 LUNGULEȚU",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8257937",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8120740",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB9571093",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8248814",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8227573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”I. ALEXANDRU BRĂTESCU VOINEȘTI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8789987",
+    "scoala": "ȘCOALA GIMNAZIALĂ BREZOAIA BREZOAELE",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8457088",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8620499",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8620499",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB11193297",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA SUȚII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8120005",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8183904",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8183904",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8173823",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8173823",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8259813",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IOSIF GABREA” VĂLENI DÂMBOVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8259813",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IOSIF GABREA” VĂLENI DÂMBOVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8279018",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8199700",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8279254",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8277840",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8277840",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8470348",
+    "scoala": "ȘCOALA GIMNAZIALĂ LAZURI COMIȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8470348",
+    "scoala": "ȘCOALA GIMNAZIALĂ LAZURI COMIȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8770389",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8341047",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8126816",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8126816",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DB11190101",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8263696",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI GR. VLĂDEANU” CÂNDEȘTI-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8715948",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA SUȚII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8100134",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB7991581",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8726547",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8194283",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8350832",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8154039",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8917101",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8311979",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPȘUNA COBIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8119897",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8101916",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8221045",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULCANA PANDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8159714",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8060934",
+    "scoala": "COLEGIUL NAȚIONAL ”CONSTANTIN CARABELLA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB11187555",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8700631",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE TITULESCU” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8304155",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8009834",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8085275",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8295146",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8295146",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8476497",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 9.4,
+    "diferenta": 2.65
+  },
+  {
+    "cod": "DB8163949",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8570016",
+    "scoala": "ȘCOALA GIMNAZIALĂ NUCET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8699291",
+    "scoala": "ȘCOALA GIMNAZIALĂ MALU CU FLORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB9101369",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 PICIOR DE MUNTE BOBOCI DRAGODANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8346335",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB10884209",
+    "scoala": "COLEGIUL NAȚIONAL ”VLADIMIR STREINU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB7994921",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB7994921",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8470233",
+    "scoala": "ȘCOALA GIMNAZIALĂ LAZURI COMIȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8300516",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8182916",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB7942300",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.2,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DB8819059",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8819059",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB8147226",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8266795",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI GR. VLĂDEANU” CÂNDEȘTI-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DB8266795",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI GR. VLĂDEANU” CÂNDEȘTI-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8351030",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂU ALB DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8448102",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8259616",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IOSIF GABREA” VĂLENI DÂMBOVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB9661261",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.85,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "DB9661261",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8261511",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPȘUNA COBIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8261511",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPȘUNA COBIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9396376",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8350848",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8350848",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8268809",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB9059166",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA VOIEVOZILOR RĂZVAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB9523291",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB9523291",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8610977",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOINEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB9099718",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 PICIOR DE MUNTE BOBOCI DRAGODANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB9099718",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 PICIOR DE MUNTE BOBOCI DRAGODANA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8303013",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CONSTANTIN SECĂREANU” RUNCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8351508",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂU ALB DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8350874",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 LUNGULEȚU",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8740184",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8565411",
+    "scoala": "ȘCOALA GIMNAZIALĂ NUCET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8565411",
+    "scoala": "ȘCOALA GIMNAZIALĂ NUCET",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8304186",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8694633",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE TITULESCU” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8694633",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE TITULESCU” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8681696",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DB8059202",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”I. ALEXANDRU BRĂTESCU VOINEȘTI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB9571203",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8251867",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8294715",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DB8294715",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8299466",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8299466",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8121882",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB9629147",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.65,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DB8071687",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8476628",
+    "scoala": "ȘCOALA GIMNAZIALĂ PIETRARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8303956",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8351780",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8282619",
+    "scoala": "ȘCOALA GIMNAZIALĂ BÂLDANA TĂRTĂȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.15,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DB8153393",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. PAUL BĂNICĂ” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DB8153393",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. PAUL BĂNICĂ” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8205972",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TUDOR VLADIMIRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB5898951",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8221701",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULCANA PANDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8221701",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULCANA PANDELE",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB7968593",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB7968593",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8232522",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.45,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8126130",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8146970",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASINU CORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8146970",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASINU CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8020965",
+    "scoala": "ȘCOALA GIMNAZIALĂ BILCIUREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8245864",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8299776",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8148544",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAZACI NUCET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8301742",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8447906",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8447906",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8194358",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. PAUL BĂNICĂ” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8221592",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULCANA PANDELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9521977",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8206660",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8206660",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8276846",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8523132",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ”ELENA DONICI CANTACUZINO” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8523132",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ”ELENA DONICI CANTACUZINO” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB10265873",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ION CIORĂNESCU” MOROENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8277538",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "DB8277538",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB9421564",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB9421564",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8300533",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8300533",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8280495",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA OCNIȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8245237",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8350943",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8718724",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8194613",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TUDOR VLADIMIRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.25,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8337312",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8269486",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DB8297157",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8181396",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB11189125",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8201488",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DB8476478",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8084451",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASINU CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8701549",
+    "scoala": "ȘCOALA GIMNAZIALĂ MALU CU FLORI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB13650067",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8195103",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8195103",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB9032955",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂZVAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8232252",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8205030",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”I. ALEXANDRU BRĂTESCU VOINEȘTI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB7942708",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8164619",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8164619",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB7941226",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8296833",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DB8296833",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8384940",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 7.65,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "DB8384940",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8126107",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8278536",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8278536",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8337782",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8337782",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB10021335",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TEIUL DOAMNEI” TEIȘ ȘOTÂNGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8294480",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8294480",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8190350",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DB8174765",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE GHEORGHE” DÂRZA CREVEDIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.9,
+    "diferenta": 1
+  },
+  {
+    "cod": "DB8346583",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8308682",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8308682",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB7981871",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POIANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DB8121507",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8300998",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. PAUL BĂNICĂ” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 8.05,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "DB8463051",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CONSTANTIN SECĂREANU” RUNCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8267379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 UNGURENI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8267379",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 UNGURENI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB11189350",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA OCNIȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8743002",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHINEȘTI SĂLCIOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8185390",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "DB8695002",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.7,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DB8695002",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOINEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8278995",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8735412",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8398765",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”SPIRU HARET” BRANIȘTEA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8251305",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8060348",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8345603",
+    "scoala": "LICEUL TEORETIC ”IANCU C VISSARION” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8345603",
+    "scoala": "LICEUL TEORETIC ”IANCU C VISSARION” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB12095089",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB10375917",
+    "scoala": "ȘCOALA GIMNAZIALĂ FIERBINȚI ȘELARU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 8.1,
+    "diferenta": 1.05
+  },
+  {
+    "cod": "DB8159158",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8184755",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8247979",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "DB8247979",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8582073",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8582073",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8028606",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8028606",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8072069",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂTUNU CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8027077",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8542634",
+    "scoala": "LICEUL TEHNOLOGIC DE PETROL MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8352331",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8352331",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8116143",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8303665",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ION MAREȘ” VULCANA BĂI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8190276",
+    "scoala": "ȘCOALA GIMNAZIALĂ TELEȘTI LUDEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9014483",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA FOII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8339882",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8010406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8010406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8183347",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8630138",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8251904",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8696307",
+    "scoala": "COLEGIUL NAȚIONAL ”NICOLAE TITULESCU” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8992479",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂZVAD",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8021062",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂTUNU CORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DB8021062",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂTUNU CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8174168",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8346247",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8270031",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8270031",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8363101",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8319241",
+    "scoala": "ȘCOALA GIMNAZIALĂ VÂRFURI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB9777709",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "DB8269692",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 UNGURENI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8269692",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 UNGURENI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB10438193",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIACONU CORESI” FIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB10438193",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIACONU CORESI” FIENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8001623",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8258036",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DB8101415",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8101415",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8295320",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB9817248",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE GHEORGHE” DÂRZA CREVEDIA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8303401",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8270487",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8270487",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8336486",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIACONU CORESI” FIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8336486",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIACONU CORESI” FIENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8337871",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8337871",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8314805",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”SF. NICOLAE” PIETROȘIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB8314805",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”SF. NICOLAE” PIETROȘIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8174573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE GHEORGHE” DÂRZA CREVEDIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB7989231",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB7989231",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8340086",
+    "scoala": "ȘCOALA GIMNAZIALĂ MORTENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB8304067",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8824179",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8185357",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.55,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "DB8233282",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB10375491",
+    "scoala": "ȘCOALA GIMNAZIALĂ FIERBINȚI ȘELARU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB10375491",
+    "scoala": "ȘCOALA GIMNAZIALĂ FIERBINȚI ȘELARU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8764197",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8170490",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8170490",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8267432",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 UNGURENI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8024317",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8432309",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.95,
+    "diferenta": 1.35
+  },
+  {
+    "cod": "DB8336478",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8336478",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8153862",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. PAUL BĂNICĂ” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8320816",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8320816",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8270366",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8270366",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8185062",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC ”CONSTANTIN CANTACUZINO” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB9549888",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ION CIORĂNESCU” MOROENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8337208",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB7939305",
+    "scoala": "ȘCOALA GIMNAZIALĂ CROITORI ULIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8171296",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8171296",
+    "scoala": "COLEGIUL NAȚIONAL ”IENĂCHIȚĂ VĂCĂRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB9521438",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”STAN ȘTEFAN” VLĂDENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8313418",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8313418",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8337204",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8337204",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8299646",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "DB8299646",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8301137",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CORESI” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "DB8627445",
+    "scoala": "SEMINARUL TEOLOGIC ORTODOX ”SF. IOAN GURĂ DE AUR” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB9055505",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 DOICEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB9415443",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB9415443",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8175436",
+    "scoala": "ȘCOALA GIMNAZIALĂ CREVEDIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8269933",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8299107",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8299107",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8233681",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”SMARANDA GHEORGHIU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8683366",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ION CONSTANTINESCU” VIIȘOARA ULMI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8683366",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ION CONSTANTINESCU” VIIȘOARA ULMI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8278479",
+    "scoala": "LICEUL TEORETIC ”IANCU C VISSARION” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8278920",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8278920",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8785445",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8785445",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB7938464",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8923492",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMÂNEȘTI POTLOGI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8618319",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.6,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "DB9106740",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "DB9106740",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8154300",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8278889",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 6.1,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "DB9211071",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”BUICĂ IONESCU” GLODENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8199406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 5.95,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "DB8152703",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.1,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DB8175608",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE GHEORGHE” DÂRZA CREVEDIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8733853",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.85,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB8733853",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8119219",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8141785",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TUDOR VLADIMIRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8826097",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ”ELENA DONICI CANTACUZINO” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8988812",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂZVAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DB8186639",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PANAIT GEORGESCU” DOBRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB8186639",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PANAIT GEORGESCU” DOBRA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8542242",
+    "scoala": "COLEGIUL NAȚIONAL ”ION LUCA CARAGIALE” MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8825967",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂTROAIA VALE CRÂNGURILE",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB13444509",
+    "scoala": "ȘCOALA GIMNAZIALĂ CROITORI ULIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB13444509",
+    "scoala": "ȘCOALA GIMNAZIALĂ CROITORI ULIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8337056",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERDANU LUNGULEȚU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8337056",
+    "scoala": "ȘCOALA GIMNAZIALĂ SERDANU LUNGULEȚU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8015392",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8221672",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8229039",
+    "scoala": "ȘCOALA GIMNAZIALĂ VALEA VOIEVOZILOR RĂZVAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8174399",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8174399",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PROF. ILIE POPESCU” ȘOTÂNGA",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8351589",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂU ALB DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8147668",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASINU CORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "DB9421447",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB9571193",
+    "scoala": "LICEUL TEHNOLOGIC ”UDREA BĂLEANU” BĂLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8186399",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PANAIT GEORGESCU” DOBRA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8785373",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8300399",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.55,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DB8300399",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB9326629",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8279142",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8279071",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8122188",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8309663",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.2,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DB8309663",
+    "scoala": "ȘCOALA GIMNAZIALĂ TĂTĂRANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8907283",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA OCNIȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8470512",
+    "scoala": "ȘCOALA GIMNAZIALĂ LAZURI COMIȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8295065",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MATEI BASARAB” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8294174",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8294174",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8539793",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5.3,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "DB9030844",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”BUICĂ IONESCU” GLODENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB8385003",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂNCACIOV DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8385003",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂNCACIOV DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8260931",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IOSIF GABREA” VĂLENI DÂMBOVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8244122",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8244122",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB7945289",
+    "scoala": "ȘCOALA GIMNAZIALĂ COLACU RĂCARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8277695",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.35,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8277695",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8301542",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHERGHEȘTI PETREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.4,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "DB8301542",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHERGHEȘTI PETREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8186118",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PANAIT GEORGESCU” DOBRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "DB8297248",
+    "scoala": "LICEUL TEORETIC ”IANCU C VISSARION” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB8159599",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8159599",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8605613",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEBOAIA FINTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8247936",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB7903288",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 I. L. CARAGIALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8544368",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8580582",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8009816",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "DB8238617",
+    "scoala": "ȘCOALA GIMNAZIALĂ VULCANA PANDELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8297313",
+    "scoala": "LICEUL TEORETIC ”IANCU C VISSARION” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8294483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TEIUL DOAMNEI” TEIȘ ȘOTÂNGA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8294483",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TEIUL DOAMNEI” TEIȘ ȘOTÂNGA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8923301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMÂNEȘTI POTLOGI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB17951",
+    "scoala": "ȘCOALA GIMNAZIALĂ CREVEDIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8446811",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂNCACIOV DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "DB8446811",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂNCACIOV DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8185180",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8596365",
+    "scoala": "ȘCOALA GIMNAZIALĂ PITARU POTLOGI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8311601",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8185268",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HULUBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8256017",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.4,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "DB8119586",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”ȘERBAN CIOCULESCU” GĂEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8547510",
+    "scoala": "COLEGIUL NAȚIONAL ”ION LUCA CARAGIALE” MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8339966",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "DB8339966",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB7879036",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "DB13414404",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TITU TIRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "DB13414404",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TITU TIRG",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "DB8341427",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”RADU CEL MARE” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8153827",
+    "scoala": "LICEUL DE ARTE ”BĂLAȘA DOAMNA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8346478",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8346478",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”PICTOR NICOLAE GRIGORESCU” TITU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8320226",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE ALEXANDRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8739376",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB8739376",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.4,
+    "nota_finala": 2.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8342743",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIOCĂNARI NICULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8342743",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIOCĂNARI NICULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8416832",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MAREȘAL CONSTANTIN PREZAN” BUTIMANU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8339820",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "DB8649423",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8649423",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8126611",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZUL” PUCIOASA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8341194",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE ALEXANDRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB7930634",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TITU TIRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "DB7930634",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TITU TIRG",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8186523",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HULUBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8186523",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HULUBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB8539715",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DORA DALLES” BUCȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8339381",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOGOȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB7941071",
+    "scoala": "ȘCOALA GIMNAZIALĂ ULIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB8336608",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8336608",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB7945093",
+    "scoala": "ȘCOALA GIMNAZIALĂ COLACU RĂCARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.5,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "DB7945093",
+    "scoala": "ȘCOALA GIMNAZIALĂ COLACU RĂCARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8174105",
+    "scoala": "ȘCOALA GIMNAZIALĂ ULMI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8161115",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE ALEXANDRESCU” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8161115",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”GRIGORE ALEXANDRESCU” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8727770",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "DB8280777",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA OCNIȚEI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8546707",
+    "scoala": "COLEGIUL NAȚIONAL ”ION LUCA CARAGIALE” MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "DB10994001",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8739561",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB8859330",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "DB8859330",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MORENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8293621",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8009927",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB13992926",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB13992926",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9378102",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB9378102",
+    "scoala": "ȘCOALA GIMNAZIALĂ DECINDENI DRAGOMIREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB13992931",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "DB13992931",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9032910",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂZVAD",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9483117",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "DB9483117",
+    "scoala": "ȘCOALA GIMNAZIALĂ ODOBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8293031",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8293031",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROZĂVEȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB7945036",
+    "scoala": "ȘCOALA GIMNAZIALĂ COLACU RĂCARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8653210",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘUȚA SEACĂ RACIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "DB8653210",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘUȚA SEACĂ RACIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.1,
+    "nota_finala": 2.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8184112",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HULUBEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "DB8184112",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 HULUBEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8341043",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIOCĂNARI NICULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8341043",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIOCĂNARI NICULEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB8252039",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB8252039",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”VASILE CÎRLOVA” TÂRGOVIȘTE",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "DB9100347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 PICIOR DE MUNTE BOBOCI DRAGODANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "DB9100347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 PICIOR DE MUNTE BOBOCI DRAGODANA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8302670",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "DB8302670",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETREȘTI CORBII MARI",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "DB8462108",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CONSTANTIN SECĂREANU” RUNCU",
+    "materie": "Matematică",
+    "nota_initiala": 1,
+    "nota_finala": 1,
+    "diferenta": 0
+  }
+]

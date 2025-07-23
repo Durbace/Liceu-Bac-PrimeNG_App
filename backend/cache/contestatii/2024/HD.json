@@ -1,0 +1,3282 @@
+[
+  {
+    "cod": "HD10124169",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Matematică",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD8462462",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9038924",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9428242",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD8397359",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9334694",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD10800231",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HD10800931",
+    "scoala": "LICEUL TEORETIC I. C. BRĂTIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8658053",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD13600206",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HD13600206",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBRA",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8326192",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD10175827",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD9414733",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD11065403",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9923992",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9889711",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD9889711",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9414838",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9565226",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9565226",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD11118579",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD11065388",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9184676",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA, CLOȘCA ȘI CRIȘAN BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD9114405",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA, CLOȘCA ȘI CRIȘAN BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD6263401",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD11109298",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD9507172",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD9659166",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD10732778",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD9060480",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 URICANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD11065168",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD11068639",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD11068639",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8549394",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8459928",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10733680",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9728970",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD11065402",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9565429",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HD9624665",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOBRA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8710627",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD11118582",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD10535353",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.45,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD9440833",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HD11187643",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD11187643",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9497166",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD11064873",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9985337",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÎNTĂMĂRIA-ORLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HD8971807",
+    "scoala": "LICEUL TEHNOLOGIC RETEZAT URICANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9114147",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.2,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "HD9114147",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10106464",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD9375677",
+    "scoala": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD10785080",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD10785080",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD11065137",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD11187096",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11065165",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD11191117",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 7.95,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "HD11191117",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11064712",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11065124",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD6265001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6265001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD11188803",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8446126",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8446126",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9880627",
+    "scoala": "LICEUL TEORETIC AUREL VLAICU ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD6264051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD11065127",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9835734",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD10173715",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8990406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION DESIDERIU SÎRBU PETRILA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD11187466",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9414824",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9414824",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD6141351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD6141351",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9472423",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD9135765",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9433597",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD9433597",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8792444",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9889425",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HD8584011",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD8460459",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9338990",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD9758433",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD12886213",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD9414951",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD9729585",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.05,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HD9729585",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10782008",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9118365",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10971579",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD7951691",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD8711328",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD8711328",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9101931",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9101931",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8313324",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8313324",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9038598",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9060383",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 URICANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD11065152",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HD11065152",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9418690",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD4964551",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD4964551",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD11041522",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD8326041",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD8326041",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9211712",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11037324",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD10121633",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD8270645",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8270645",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD9060427",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 URICANI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD8874833",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8793485",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HD9434052",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9434052",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD6482151",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD6482151",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD12257878",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUNCA CERNII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8667215",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD8667215",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8460025",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 7.95,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "HD8460025",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD9415060",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD9415060",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD9376096",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD9376096",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9414894",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD8326901",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "HD12737224",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9414756",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HD8554516",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEȚEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD8327757",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HD9926347",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD8326785",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD8901533",
+    "scoala": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD8901533",
+    "scoala": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8998604",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 PETRILA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD11200883",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HD9414817",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9173500",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD6936001",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD9414964",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9414964",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9565058",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HD9724239",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD11065372",
+    "scoala": "LICEUL DE ARTE SIGISMUND TODUȚĂ DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD10889711",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD10954327",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10889908",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8333027",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD9367098",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD10166050",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD10166050",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8682870",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8682870",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9436699",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD8118119",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9797765",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9797765",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9453789",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9453789",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9374965",
+    "scoala": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10173851",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD10175432",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9666875",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.3,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "HD6281001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9038620",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD11018469",
+    "scoala": "LICEUL PROF. BORA TIT LIVIU BARU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD8460312",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD8111905",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9978822",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.45,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "HD8333617",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HD8333617",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9550377",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD7950480",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD7950480",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9473716",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9453755",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD5938901",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "HD5938901",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD2973551",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD2973551",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD11065161",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD11065161",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9926916",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD9375051",
+    "scoala": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.55,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "HD9186164",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA, CLOȘCA ȘI CRIȘAN BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.85,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "HD9881935",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD11065089",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD11065089",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD9375497",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.05,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "HD8817347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.75,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD8817347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9435652",
+    "scoala": "LICEUL DE ARTE SIGISMUND TODUȚĂ DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9112730",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD10732940",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD10732940",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9415077",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD9415077",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6263751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.75,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "HD6263751",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD9483985",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "HD9059049",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "HD9059049",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10366219",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "HD6179801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.3,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "HD6179801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9797619",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "HD9797619",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD3560351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD3560351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD7925630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9607818",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD9607818",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD9415029",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11020269",
+    "scoala": "LICEUL PROF. BORA TIT LIVIU BARU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HD9415108",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD9415108",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9418100",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9418100",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10973919",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 LUPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD10580617",
+    "scoala": "ȘCOALA GIMNAZIALĂ PUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10784940",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD10784940",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8909468",
+    "scoala": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD6152601",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD6280201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8992525",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD8992525",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD8270513",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.2,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "HD8270513",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9797630",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD2971751",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD2971751",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9414843",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD9415067",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD9415067",
+    "scoala": "COLEGIUL NAȚIONAL DECEBAL DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD9354251",
+    "scoala": "ȘCOALA GIMNAZIALĂ HOREA, CLOȘCA ȘI CRIȘAN BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10889417",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD10889417",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9983666",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD10591595",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10475346",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD10475346",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9699613",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LUPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD10971358",
+    "scoala": "COLEGIUL NAȚIONAL IANCU DE HUNEDOARA HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9812518",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROMOS",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6430101",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD10106654",
+    "scoala": "ȘCOALA GIMNAZIALĂ HADRIAN DAICOVICIU ORĂȘTIOARA DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD10106654",
+    "scoala": "ȘCOALA GIMNAZIALĂ HADRIAN DAICOVICIU ORĂȘTIOARA DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9988188",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD13579757",
+    "scoala": "LICEUL PROF. BORA TIT LIVIU BARU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9126947",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD9339780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.75,
+    "diferenta": 1
+  },
+  {
+    "cod": "HD9414931",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8273228",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD8333222",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD12900595",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.8,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD9414762",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD9414762",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD8875233",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9414912",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9414912",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10325393",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BAIA DE CRIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD6263701",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD6263701",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11065371",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANDREI ȘAGUNA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD8627259",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8312919",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.9,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "HD8312919",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIGISMUND TODUȚĂ SIMERIA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9704509",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LUPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD7924543",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD7924543",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8082606",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9113630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9113630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9379313",
+    "scoala": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8818757",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD8818757",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD8795881",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.15,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "HD8795881",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10954081",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9858984",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9991102",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "HD10600493",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD9354680",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LUPENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8995828",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 PETRILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD9497047",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9880036",
+    "scoala": "ȘCOALA GIMNAZIALĂ DR. AUREL VLAD ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "HD8191125",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "HD8191125",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GHEORGHE DUCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD10270811",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10270811",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD11078415",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD10600770",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "HD10285020",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8690536",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9414697",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD8820333",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD9173406",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION DESIDERIU SÎRBU PETRILA",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9297219",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9297219",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8624740",
+    "scoala": "COLEGIUL TEHNIC CONSTANTIN BRÂNCUŞI PETRILA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD11068722",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "HD11068722",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD10976059",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD10774684",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD10749241",
+    "scoala": "ȘCOALA GIMNAZIALĂ BRETEA ROMÂNĂ",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10509493",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD10509493",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9336568",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD8561162",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "HD9412294",
+    "scoala": "ȘCOALA GIMNAZIALĂ TELIUCU INFERIOR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8459828",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HD8459828",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10755192",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂNIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9374253",
+    "scoala": "LICEUL TEORETIC TEGLAS GABOR DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD10983014",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD8330895",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8510262",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEȚEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD3560401",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9131950",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VARVARA ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "HD9131950",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTA VARVARA ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD9354299",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 LUPENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8793942",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "HD8793942",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD6263651",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "HD8818347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8722849",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6159001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘOIMUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8337374",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD6263801",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI VITEAZU VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9496753",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9059064",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD9613365",
+    "scoala": "ȘCOALA GIMNAZIALĂ PUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD9417924",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9417924",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD8627396",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD13588168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD13588168",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8460762",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD9042460",
+    "scoala": "LICEUL TEHNOLOGIC ENERGETIC DRAGOMIR HURMUZESCU DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6936401",
+    "scoala": "LICEUL DE ARTE SIGISMUND TODUȚĂ DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9106238",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN DAICOVICIU BERIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "HD9367310",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10576019",
+    "scoala": "SCOALA GIMNAZIALA NR. 6 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD8313765",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9355077",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "HD8722765",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8722765",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD8801296",
+    "scoala": "ȘCOALA GIMNAZIALĂ RAPOLTU MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9417279",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC REGINA MARIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9881406",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD9881406",
+    "scoala": "ȘCOALA GIMNAZIALĂ DOMINIC STANCA ORĂȘTIE",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8527159",
+    "scoala": "LICEUL TEHNOLOGIC CRIȘAN CRIȘCIOR",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10733536",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARON DENSUSIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD6263551",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8551565",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEȚEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD8551565",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEȚEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD11195481",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BAIA DE CRIȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD11195481",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM IANCU BAIA DE CRIȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8807122",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD2943101",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD2943101",
+    "scoala": "ȘCOALA GIMNAZIALĂ CARMEN SYLVA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9415099",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9415099",
+    "scoala": "LICEUL CU PROGRAM SPORTIV CETATE DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10360805",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD11043701",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRCEA SÂNTIMBREANU BRAD",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "HD10269482",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 5 PETRILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD7951749",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "HD8722316",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD8722316",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD8130775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 LUPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "HD8722443",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9495337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "HD9495337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 7 PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9380766",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURASADA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "HD9380766",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURASADA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD8724270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD8724270",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10965143",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "HD10965143",
+    "scoala": "COLEGIUL TEHNIC TRANSILVANIA DEVA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9988740",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD9988740",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD6210301",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 3.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "HD6210301",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD6263601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "HD6263601",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VULCAN",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9555729",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "HD9555729",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD9613602",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCHITOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "HD9613602",
+    "scoala": "ȘCOALA GIMNAZIALĂ RĂCHITOVA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10584438",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "HD10584438",
+    "scoala": "LICEUL TEORETIC TRAIAN LALESCU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD10889751",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂLAN",
+    "materie": "Matematică",
+    "nota_initiala": 2.15,
+    "nota_finala": 2.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "HD10601166",
+    "scoala": "ȘCOALA GIMNAZIALĂ OVID DENSUŞIANU HAȚEG",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD7925459",
+    "scoala": "ȘCOALA GIMNAZIALĂ AVRAM STANCA PETROȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "HD10395185",
+    "scoala": "ȘCOALA GIMNAZIALĂ HĂRĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "HD10395185",
+    "scoala": "ȘCOALA GIMNAZIALĂ HĂRĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD11187013",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "HD11187013",
+    "scoala": "COLEGIUL ECONOMIC EMANUIL GOJDU HUNEDOARA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  }
+]

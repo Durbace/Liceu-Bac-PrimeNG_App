@@ -15,9 +15,10 @@ const PORT = process.env.PORT || 3000;
 
 app.use(
   cors({
-    origin: ["https://liceu-bac-frontend.onrender.com"],
+    origin: ["https://liceu-bac-frontend.onrender.com", "http://localhost:4200"]
   })
 );
+
 
 app.get("/api/licee/:an/:judet/:media", (req, res) => {
   const { an, judet, media } = req.params;
@@ -177,6 +178,27 @@ app.get("/api/judete", (req, res) => {
   }));
   res.json(list);
 });
+
+app.get("/api/contestatii/:an/:judet", (req, res) => {
+  const { an, judet } = req.params;
+  const cod = judet.toUpperCase();
+
+  const filePath = path.resolve(__dirname, `cache/contestatii/${an}/${cod}.json`);
+
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: "Fișierul pentru contestații nu există." });
+  }
+
+  try {
+    const rawData = fs.readFileSync(filePath, "utf-8");
+    const data = JSON.parse(rawData);
+    res.json(data);
+  } catch (err) {
+    console.error("Eroare la citirea fișierului de contestații:", err.message);
+    res.status(500).json({ error: "Eroare internă la citirea fișierului de contestații." });
+  }
+});
+
 
 app.listen(PORT, () => {
   console.log(`Server pornit pe http://localhost:${PORT}`);

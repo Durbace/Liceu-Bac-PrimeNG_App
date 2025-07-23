@@ -1,0 +1,3458 @@
+[
+  {
+    "cod": "GJ10515315",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8195492",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8194553",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ10022594",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AUREL TEODORESCU” STEJARI",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ7931846",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9431150",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8196319",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8196319",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8011129",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8201056",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9.6,
+    "diferenta": 1.4
+  },
+  {
+    "cod": "GJ8196049",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 G.USCĂTESCU TÂRGU CĂRBUNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8196049",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 G.USCĂTESCU TÂRGU CĂRBUNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8924625",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIHULEȘTI, BERLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ7990967",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ9219677",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8208585",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ7977920",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8197067",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ8792449",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8792449",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ9212758",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9190791",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8208708",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ9341405",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂRPINIȘ, CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8374274",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ10561491",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ10544313",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8984193",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8984193",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.8,
+    "nota_finala": 9.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9347448",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPRENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ10430860",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8885406",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9343976",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GJ9343976",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ10987824",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8905785",
+    "scoala": "ȘCOALA GIMNAZIALĂ PISCURI, PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ10562748",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8694216",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOTRU-SEC, PADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8196497",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ8196497",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8524500",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.65,
+    "diferenta": 1
+  },
+  {
+    "cod": "GJ8266410",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.3,
+    "diferenta": 1
+  },
+  {
+    "cod": "GJ8792314",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8792314",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9640080",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8715366",
+    "scoala": "ȘCOALA GIMNAZIALĂ PADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8531862",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ7981663",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ9161836",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POIANA, TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ7976259",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ9030257",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8369290",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8363471",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ9050203",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRUȘEȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ10512674",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ7993869",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8208117",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8208117",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8983525",
+    "scoala": "LICEUL TEHNOLOGIC BUSTUCHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8194261",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9968765",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUMBEȘTI-PIȚIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 9,
+    "diferenta": 1
+  },
+  {
+    "cod": "GJ9686201",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8572842",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8572842",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8568162",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ11195114",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8207970",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8207970",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ7929982",
+    "scoala": "LICEUL DE ARTE CONSTANTIN BRĂILOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8194096",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.45,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ10114475",
+    "scoala": "ȘCOALA GIMNAZIALĂ POCIOVALIȘTEA, NOVACI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8086104",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ7973896",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.95,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ7979553",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ10058596",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8499748",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8499748",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7945929",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7945929",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8296088",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ10562876",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ9133395",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ7978198",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.7,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ8087918",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8702214",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8702214",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9030791",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 9.3,
+    "diferenta": 1.65
+  },
+  {
+    "cod": "GJ8472313",
+    "scoala": "ȘCOALA GIMNAZIALĂ SÂMBOTIN, SCHELA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8194277",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8206314",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8789499",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8789499",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8196737",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8196737",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9639013",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GJ9639013",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9129632",
+    "scoala": "LICEUL DE ARTE CONSTANTIN BRĂILOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9129632",
+    "scoala": "LICEUL DE ARTE CONSTANTIN BRĂILOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ7978415",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ7978415",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9744108",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GJ10430712",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ7976555",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ7976555",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8899357",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8208501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 G.USCĂTESCU TÂRGU CĂRBUNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8208501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 G.USCĂTESCU TÂRGU CĂRBUNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8041417",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ9959990",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.1,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "GJ9959990",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8551251",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8266983",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.45,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "GJ10559690",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8202739",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8562418",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9600292",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8218697",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GJ8218697",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9039304",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9039304",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8885535",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ8194452",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ7990477",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8702475",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8197868",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9655327",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PEȘTIȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8197758",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8197758",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9217503",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8243661",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GJ8243661",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9625524",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8565840",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8266285",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8266285",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ10051745",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION VÎLCEANU DRĂGOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8707268",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8707268",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8607129",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8942333",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PEȘTIȘANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 8.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ9958862",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GJ8267094",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8267094",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9030720",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ9384783",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRUȘEȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8367801",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ7931821",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.7,
+    "diferenta": 1.5
+  },
+  {
+    "cod": "GJ8206909",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8885836",
+    "scoala": "COLEGIUL NAȚIONAL GEORGE COȘBUC MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.6,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "GJ8194042",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GJ8194042",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7972470",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.95,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ7978550",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ8567119",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ7949150",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8367693",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10980132",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR 1 BUMBEȘTI-JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9684968",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GJ9219157",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ8351523",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9958347",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.95,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GJ9426427",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRUȘEȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8194491",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GJ8194491",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8512279",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8512279",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9465764",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRUȘEȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GJ9465764",
+    "scoala": "ȘCOALA GIMNAZIALĂ CRUȘEȚ",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8495053",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8711729",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URDARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8711729",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URDARI",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8789208",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8008643",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8008643",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8042119",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GJ8376998",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8206623",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8206623",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7982495",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8196463",
+    "scoala": "ȘCOALA GIMNAZIALĂ VICTOR POPESCU VALEA CU APĂ, FĂRCĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9133704",
+    "scoala": "ȘCOALA GIMNAZIALĂ ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8565333",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GJ7976030",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ9726474",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 TELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ7989502",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8030318",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8030318",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8369504",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ8369504",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ10620024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GJ10620024",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ7974177",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9226597",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ9226597",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9227018",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8196661",
+    "scoala": "ȘCOALA GIMNAZIALĂ VICTOR POPESCU VALEA CU APĂ, FĂRCĂȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8196661",
+    "scoala": "ȘCOALA GIMNAZIALĂ VICTOR POPESCU VALEA CU APĂ, FĂRCĂȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8206110",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8710003",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8710003",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8907439",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”TUDOR VLADIMIRESCU” ANDREEȘTI, VLADIMIR",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8084777",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ10616347",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.85,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8008207",
+    "scoala": "LICEUL TEHNOLOGIC BAIA DE FIER",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9213007",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GJ13577748",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.35,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ9030020",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8012492",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8162038",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8563312",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.6,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "GJ8832773",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9215393",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8317282",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 8.3,
+    "diferenta": 3.3
+  },
+  {
+    "cod": "GJ9944707",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ10347792",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION VÎLCEANU DRĂGOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.55,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ9219289",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ9219289",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8890563",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8890563",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.8,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ8512971",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8316479",
+    "scoala": "ȘCOALA GIMNAZIALĂ JUPÂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ10022139",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.85,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ10431273",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ10431273",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8282540",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ9626792",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MOTRU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ10347738",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION VÎLCEANU DRĂGOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GJ9212720",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8198310",
+    "scoala": "ȘCOALA GIMNAZIALĂ VICTOR POPESCU VALEA CU APĂ, FĂRCĂȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8244855",
+    "scoala": "COLEGIUL NAȚIONAL ECATERINA TEODOROIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9339719",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAZILU VIPIE GHEORGHE VALEA MĂNĂSTIRII, CĂTUNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.95,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ9808180",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9964094",
+    "scoala": "ȘCOALA GIMNAZIALĂ JUPÂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9685727",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 6.7,
+    "diferenta": -1.1
+  },
+  {
+    "cod": "GJ9685727",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8080908",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BRÂNCUȘI TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8989307",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10559337",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ10559337",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9212621",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ8005898",
+    "scoala": "LICEUL TEHNOLOGIC BAIA DE FIER",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9964122",
+    "scoala": "ȘCOALA GIMNAZIALĂ JUPÂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.3,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ9682997",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8031164",
+    "scoala": "LICEUL TEHNOLOGIC GENERAL CONSTANTIN ȘANDRU BÂLTA, RUNCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9030338",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ9030338",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8095350",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GRIGOROIU LELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9336870",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "GJ8608791",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ8203935",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ10533371",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ10533371",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9836966",
+    "scoala": "ȘCOALA GIMNAZIALĂ NOVACI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 7.1,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GJ10980014",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR 1 BUMBEȘTI-JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ9685436",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10894952",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ10894952",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8363003",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ9344026",
+    "scoala": "ȘCOALA GIMNAZIALĂ MUȘETEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9344026",
+    "scoala": "ȘCOALA GIMNAZIALĂ MUȘETEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8564368",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 5.9,
+    "diferenta": -1.65
+  },
+  {
+    "cod": "GJ7948196",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9002978",
+    "scoala": "ȘCOALA GIMNAZIALĂ HUREZANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "GJ7986381",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9288122",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GRIGOROIU LELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8194740",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ10559989",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ10559989",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8608251",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.6,
+    "diferenta": 1
+  },
+  {
+    "cod": "GJ9959194",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8795775",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRĂGUȚEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ8795775",
+    "scoala": "ȘCOALA GIMNAZIALĂ DRĂGUȚEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ10614879",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10614879",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8924948",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIHULEȘTI, BERLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ8924948",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIHULEȘTI, BERLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8365280",
+    "scoala": "LICEUL TEHNOLOGIC TURCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10491593",
+    "scoala": "ȘCOALA GIMNAZIALĂ POCRUIA, TISMANA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ11134147",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8892239",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIANA-SECIURI, BUSTUCHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "GJ8267539",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ10990850",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR 1 BUMBEȘTI-JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ13443958",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ALBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ7991440",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8682875",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URDARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8899443",
+    "scoala": "ȘCOALA GIMNAZIALĂ IZVOARELE, PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GJ9087541",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9152897",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POIANA, TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 7.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GJ8984843",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIANA-SECIURI, BUSTUCHIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GJ10620280",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9726699",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 TELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 6.7,
+    "diferenta": -1.05
+  },
+  {
+    "cod": "GJ9726699",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 TELEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ8264914",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ7990004",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9761299",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAZILU VIPIE GHEORGHE VALEA MĂNĂSTIRII, CĂTUNELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9308569",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GJ8194642",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8194642",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7976413",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ7976413",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8692009",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 URDARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8530609",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ7978163",
+    "scoala": "ȘCOALA GIMNAZIALĂ GHEORGHE TĂTĂRESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9685831",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.4,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "GJ10358710",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GJ9308355",
+    "scoala": "ȘCOALA GIMNAZIALĂ POCRUIA, TISMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9420083",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9513653",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALIMPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ9683218",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.3,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GJ9693918",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂGIULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ10615961",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU ȘTEFULESCU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ10019350",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ10019350",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9835705",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8920772",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 6.35,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8920772",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9627744",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MOTRU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ9086766",
+    "scoala": "ȘCOALA GIMNAZIALĂ IZVOARELE, PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ8039351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8039351",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8282467",
+    "scoala": "ȘCOALA GIMNAZIALĂ SĂULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8499269",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ8499269",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9563378",
+    "scoala": "ȘCOALA GIMNAZIALĂ ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ10463656",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUPERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9335324",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂRPINIȘ, CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9335324",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂRPINIȘ, CRASNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9306485",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GJ9306485",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9201321",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5.1,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GJ8607271",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8607271",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9958133",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.55,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "GJ10465101",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUPERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "GJ10465101",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUPERCENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9638877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GJ9686393",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9686393",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9642086",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GJ9642086",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8713246",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GJ8713246",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8207281",
+    "scoala": "COLEGIUL NAȚIONAL TUDOR VLADIMIRESCU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GJ12221406",
+    "scoala": "LICEUL TEOLOGIC TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8501165",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8501165",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9417108",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8266827",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9958031",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9958031",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8065832",
+    "scoala": "LICEUL TEHNOLOGIC TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.45,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ8996087",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂPRENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ9959423",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 5.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ9693381",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂGIULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8060748",
+    "scoala": "LICEUL TEHNOLOGIC TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 5.2,
+    "diferenta": 1.35
+  },
+  {
+    "cod": "GJ9161458",
+    "scoala": "ȘCOALA GIMNAZIALĂ STĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ7994556",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ7876319",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ7876319",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ9638087",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8740609",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9030636",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ7990365",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MOTRU",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ10359465",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COSTESCU BOLBOȘI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ9958272",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ9958272",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.75,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GJ9130550",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.55,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GJ8248471",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8861259",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION POPESCU VOITEȘTI VOITEȘTI VALE, BĂLĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ10465096",
+    "scoala": "ȘCOALA GIMNAZIALĂ CIUPERCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8043660",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROȘEREA, ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 4.4,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GJ9258275",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ9258275",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 DĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9031347",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9031347",
+    "scoala": "ȘCOALA GIMNAZIALĂ POMPILIU MARCEA TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8695790",
+    "scoala": "COLEGIUL NAȚIONAL SPIRU HARET TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ9359272",
+    "scoala": "ȘCOALA GIMNAZIALĂ CĂRPINIȘ, CRASNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ9158950",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POIANA, TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ9339309",
+    "scoala": "ȘCOALA GIMNAZIALĂ RACI, NEGOMIR",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9200390",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GJ8830065",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEȘTI, BĂLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GJ11147618",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GJ8706023",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI, TÂNȚĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 4.4,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ9288982",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GRIGOROIU LELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8792677",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ8792677",
+    "scoala": "ȘCOALĂ GIMNAZIALĂ BĂLEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8369113",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8680291",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ8680291",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8267260",
+    "scoala": "LICEUL MĂTĂSARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 5.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GJ8503040",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.2,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "GJ8503040",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN SĂVOIU TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ9959719",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ȚICLENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GJ9638832",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GJ9638832",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROVINARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9593494",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂGIULEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8831041",
+    "scoala": "ȘCOALA GIMNAZIALĂ CORNEȘTI, BĂLEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8608490",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8899288",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8351658",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8351658",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ7951784",
+    "scoala": "LICEUL DE ARTE CONSTANTIN BRĂILOIU TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8829338",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 PEȘTEANA JIU, BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ8351511",
+    "scoala": "ȘCOALA GIMNAZIALĂ IONEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8690708",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.8,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GJ8690708",
+    "scoala": "LICEUL TEHNOLOGIC BÂLTENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ8906838",
+    "scoala": "ȘCOALA GIMNAZIALĂ PISCURI, PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.1,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "GJ8898946",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8024987",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROȘEREA, ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ8662720",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ9420541",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ALBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9420541",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ALBENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ12165546",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAZILU VIPIE GHEORGHE VALEA MĂNĂSTIRII, CĂTUNELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GJ12165546",
+    "scoala": "ȘCOALA GIMNAZIALĂ MAZILU VIPIE GHEORGHE VALEA MĂNĂSTIRII, CĂTUNELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GJ9226884",
+    "scoala": "ȘCOALA GIMNAZIALĂ CAPU DEALULUI, BRĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.45,
+    "nota_finala": 2.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GJ9630080",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE TOMOVICI-PLOPȘOR PLOPȘORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GJ10358152",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE COSTESCU BOLBOȘI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 2.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GJ8588478",
+    "scoala": "ȘCOALA GIMNAZIALĂ PADEȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GJ8588478",
+    "scoala": "ȘCOALA GIMNAZIALĂ PADEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9192485",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION GRIGOROIU LELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.3,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "GJ8617790",
+    "scoala": "ȘCOALA GIMNAZIALĂ CÂLNIC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 5.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "GJ8711915",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROȘEREA, ANINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GJ8711915",
+    "scoala": "ȘCOALA GIMNAZIALĂ GROȘEREA, ANINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ9283954",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMARINEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GJ9283954",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMARINEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ9160259",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POIANA, TURBUREA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 3.8,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GJ9657433",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ9657433",
+    "scoala": "LICEUL TEHNOLOGIC TISMANA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GJ12611785",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GJ12611785",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTUL NICOLAE TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GJ13408636",
+    "scoala": "LICEUL CU PROGRAM SPORTIV TÂRGU JIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GJ8207667",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 TELEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.05,
+    "nota_finala": 2.85,
+    "diferenta": -0.2
+  }
+]

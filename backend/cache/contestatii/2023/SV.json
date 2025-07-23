@@ -1,0 +1,5402 @@
+[
+  {
+    "cod": "SV7984314",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.85,
+    "nota_finala": 10,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV7992538",
+    "scoala": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.8,
+    "nota_finala": 10,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8822628",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR BALAN GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9635416",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8124283",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 HORODNIC DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8028791",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9397603",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU MUȘAT SIRET",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8107872",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9937181",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8705816",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8705816",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV9424451",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE TOMEGEA BOROAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV7971606",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV7982997",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8049222",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRIȚEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV10048582",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE LABIȘ MĂLINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9397583",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU MUȘAT SIRET",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8219215",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9638670",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8675122",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8048190",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV7962573",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIMITRIE CANTEMIR” RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9538786",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV7949171",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV7971340",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9942250",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.35,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "SV7973865",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9997640",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9764812",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9539263",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8805541",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8805541",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9553536",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9942453",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV7921405",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8006424",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV7970029",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV7970029",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9654375",
+    "scoala": "ȘCOALA GIMNAZIALĂ POJORÂTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV9402733",
+    "scoala": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8096210",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8096210",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9023415",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 9.15,
+    "diferenta": 1
+  },
+  {
+    "cod": "SV7971277",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10010607",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV10010607",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9944680",
+    "scoala": "COLEGIUL NAȚIONAL ȘTEFAN CEL MARE SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9969877",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8072342",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9057077",
+    "scoala": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8568387",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8102942",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8025108",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.05,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV4905301",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION LOVINESCU RĂDĂȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8337369",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9764561",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8107439",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9946958",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9946958",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10004176",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV10004176",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8661969",
+    "scoala": "ȘCOALA GIMNAZIALĂ JEAN BART SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8366175",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOSANCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8866000",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENI SOLCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9937431",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8029153",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV10323692",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IACOB COSTACHE” VĂRATEC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV10323692",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IACOB COSTACHE” VĂRATEC",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8231822",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8928530",
+    "scoala": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV10173551",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8979044",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10010508",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV8336853",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8107182",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8063995",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.8,
+    "diferenta": 1.25
+  },
+  {
+    "cod": "SV10396486",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9654136",
+    "scoala": "ȘCOALA GIMNAZIALĂ POJORÂTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9654136",
+    "scoala": "ȘCOALA GIMNAZIALĂ POJORÂTA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9765507",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9765507",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9766005",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8374999",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VATRA DORNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8102354",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV7923353",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VATRA DORNEI",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV10770468",
+    "scoala": "LICEUL TEHNOLOGIC VASILE COCEA MOLDOVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10770468",
+    "scoala": "LICEUL TEHNOLOGIC VASILE COCEA MOLDOVIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8159790",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9635123",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8841144",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU BĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10173765",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE STOLERU BAIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV10323366",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IACOB COSTACHE” VĂRATEC",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV10396585",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8120071",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8045561",
+    "scoala": "ȘCOALA GIMNAZIALĂ MĂRIȚEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV9940199",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV7933018",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV7980585",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV7980585",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9677332",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CRISTOFOR SIMIONESCU” PLOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9677332",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CRISTOFOR SIMIONESCU” PLOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8062783",
+    "scoala": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8062783",
+    "scoala": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8277682",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8912422",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV10048559",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE LABIȘ MĂLINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10048559",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE LABIȘ MĂLINI",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV10173325",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE STOLERU BAIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8030985",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8030985",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GURA HUMORULUI",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV7973581",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV7973581",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8231588",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV13370508",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.8,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV13370508",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8330310",
+    "scoala": "ȘCOALA GIMNAZIALĂ BUCȘOAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8755005",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9792849",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV8069051",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV12819252",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV12819252",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV11018820",
+    "scoala": "ȘCOALA GIMNAZIALĂ POPINCEANU NICOLAE MIHOVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9680463",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9680463",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8121264",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8720367",
+    "scoala": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8570554",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8279308",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8674783",
+    "scoala": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8674783",
+    "scoala": "COLEGIUL NAȚIONAL NICU GANE FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7968941",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8888521",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9547973",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV9547973",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8030818",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8003982",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV10771733",
+    "scoala": "LICEUL TEHNOLOGIC VASILE COCEA MOLDOVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9537935",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV13392561",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9086540",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE VATAMANIUC SUCEVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8107392",
+    "scoala": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8107392",
+    "scoala": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV12152095",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9637912",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SV7965707",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV7965707",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂRMĂNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8230802",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8714286",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7954333",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIANA STAMPEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9766237",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8881206",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MARIA CANTACUZINO” HORODNICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8106602",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV7969319",
+    "scoala": "LICEUL TEORETIC FILADELFIA SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SV8862366",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7983069",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8132256",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9134197",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMSON BODNĂRESCU GĂLĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV10347488",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10084337",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10007582",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV7949386",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8707141",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9539111",
+    "scoala": "ȘCOALA GIMNAZIALĂ IRACLIE PORUMBESCU FRĂTĂUȚII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8340465",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9423940",
+    "scoala": "ȘCOALA GIMNAZIALĂ VASILE TOMEGEA BOROAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 7.85,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "SV12534103",
+    "scoala": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8112769",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8686423",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9588179",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV7998801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9668333",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8021709",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8021709",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10508771",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MANDACHE LEOCOV” PRELIPCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV10508771",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MANDACHE LEOCOV” PRELIPCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8107783",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.35,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV8106354",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9057161",
+    "scoala": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV8069134",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR BALAN GURA HUMORULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8387452",
+    "scoala": "ȘCOALA GIMNAZIALĂ STULPICANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8222484",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8222484",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8575444",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALAFINDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9573618",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION FLOREA MARIAN ILIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8028714",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.3,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV9818171",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8179785",
+    "scoala": "ȘCOALA GIMNAZIALĂ VEREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV10397320",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV7899795",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SV8490453",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂDEUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8490453",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂDEUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9383701",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10006591",
+    "scoala": "COLEGIUL NAȚIONAL PETRU RAREȘ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8715339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE STOLERU BAIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9896240",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AURELIAN STANCIU” SALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8807936",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.6,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8807936",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9926475",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV7948520",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV8073483",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8073483",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10628038",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR V. ȘTEFANELLI CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV8021497",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8021497",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV7921939",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VATRA DORNEI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV10094679",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU RAREȘ PROBOTA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8020691",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.35,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8020691",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8109290",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂLTINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8022378",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV8488784",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8607084",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV8607084",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8161517",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9793619",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU MUȘAT SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV13161354",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9730771",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8107648",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8491322",
+    "scoala": "ȘCOALA GIMNAZIALĂ BĂDEUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.95,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8000439",
+    "scoala": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9548674",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8005309",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10082110",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMUIL ISOPESCUL COSTIȘA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9969759",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9969759",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8031722",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8906368",
+    "scoala": "LICEUL TEHNOLOGIC NICANOR MOROȘAN PÂRTESTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8970244",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8074897",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10810545",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9763446",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV7971968",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SV7971968",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV7955071",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV7998881",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8001356",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.35,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SV9927157",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SV8017769",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV8570027",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8698341",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV9793423",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8230224",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 IASLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8077864",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9793368",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8107006",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8031470",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8031470",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV13592010",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂȘCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV8715981",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV10002564",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8107046",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.85,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SV7960859",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9537119",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8030774",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8030774",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV12795380",
+    "scoala": "LICEUL NATANAEL SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV8755239",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8101595",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8340727",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8041737",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10324565",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”IACOB COSTACHE” VĂRATEC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV9558234",
+    "scoala": "ȘCOALA GIMNAZIALĂ MITOCU DRAGOMIRNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9558234",
+    "scoala": "ȘCOALA GIMNAZIALĂ MITOCU DRAGOMIRNEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8403119",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9134380",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMSON BODNĂRESCU GĂLĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV10396628",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9248422",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8871408",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENI SOLCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8657374",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AURELIAN STANCIU” SALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8063725",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV7950001",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SV8009783",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRASIN",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10118180",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.9,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SV10118180",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8115081",
+    "scoala": "ȘCOALA GIMNAZIALĂ PREUTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9316272",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOLDOVA SULIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.2,
+    "diferenta": -1.1
+  },
+  {
+    "cod": "SV9316272",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOLDOVA SULIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9587892",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.55,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV9587892",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ARBORE",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9156308",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRYK SIENKIEWICZ SOLONEȚU NOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9156308",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRYK SIENKIEWICZ SOLONEȚU NOU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8031838",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8401187",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV10007731",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV10112335",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV12239497",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV12530895",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10579969",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR V. ȘTEFANELLI CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8715451",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9543087",
+    "scoala": "ȘCOALA GIMNAZIALĂ ARTUR GOROVEI BUNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV9593328",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CRISTOFOR SIMIONESCU” PLOPENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8016620",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8001873",
+    "scoala": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8078393",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10853391",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENI SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8684050",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8752501",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9087723",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE VATAMANIUC SUCEVIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV9239662",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 7.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SV8859848",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEMENEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV12145871",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9543380",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8410561",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8410561",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8698534",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN CIUREA FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8754874",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8754874",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.25,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9403484",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU MUȘAT SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9548849",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9166259",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8121688",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN CIUREA FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9980833",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂȘCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 6.55,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "SV8219647",
+    "scoala": "LICEUL TEORETIC FILADELFIA SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8065340",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 10 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8696043",
+    "scoala": "ȘCOALA GIMNAZIALĂ PANACI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9834207",
+    "scoala": "ȘCOALA GIMNAZIALĂ CLIT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8076649",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV10396705",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV10530766",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOSANCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV10006430",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10006430",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV7966543",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV8120288",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9717298",
+    "scoala": "ȘCOALA GIMNAZIALĂ VATRA MOLDOVIȚEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 7,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV8240103",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA PUTNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV9628652",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8715845",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10048498",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE LABIȘ MĂLINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9969167",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9997025",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI HALUNGA HĂNȚEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8342402",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV9773175",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8860102",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEMENEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.9,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SV8860102",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEMENEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9128300",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOFAN BILCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV10083536",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10083536",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8006170",
+    "scoala": "ȘCOALA GIMNAZIALĂ LITENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8006170",
+    "scoala": "ȘCOALA GIMNAZIALĂ LITENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8242986",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 IASLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.75,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV9588512",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV7968977",
+    "scoala": "ȘCOALA GIMNAZIALĂ HÂRTOP",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV7968977",
+    "scoala": "ȘCOALA GIMNAZIALĂ HÂRTOP",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8124042",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 HORODNIC DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV9278817",
+    "scoala": "ȘCOALA GIMNAZIALĂ BIVOLARIE",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8113374",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV7952917",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIANA STAMPEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8021416",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8072991",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV13873588",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8000725",
+    "scoala": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9996270",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI HALUNGA HĂNȚEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV7972604",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV7972604",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV7929732",
+    "scoala": "ȘCOALA GIMNAZIALĂ LIVIU SUHAR IACOBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9862102",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PINTILIE MĂNEUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9862102",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PINTILIE MĂNEUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8302735",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8302735",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8371263",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8229106",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 IASLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV10907027",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9574410",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9383345",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8898587",
+    "scoala": "ȘCOALA GIMNAZIALĂ BASARABI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8276486",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.25,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SV8029342",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8240495",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 IASLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8240976",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 IASLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV10077802",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV7990131",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9789546",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAMOSTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8406793",
+    "scoala": "ȘCOALA GIMNAZIALĂ STULPICANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8343717",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8343717",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9786743",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAMOSTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9727340",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SV9727340",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 MARGINEA",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8277800",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV6676701",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNA ARINI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8290545",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8290545",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8564371",
+    "scoala": "ȘCOALA GIMNAZIALĂ MANOLEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9381106",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.85,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8977926",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9628775",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9398602",
+    "scoala": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV13058069",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 HORODNIC DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.75,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV13058069",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 HORODNIC DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9547738",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV9592207",
+    "scoala": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9153244",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8756122",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9786937",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂȘCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV12477494",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION LOVINESCU RĂDĂȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9158455",
+    "scoala": "ȘCOALA GIMNAZIALĂ HENRYK SIENKIEWICZ SOLONEȚU NOU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV10577235",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.3,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV8035319",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8569710",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8569710",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8064660",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8074539",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV8279190",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8279190",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV10580037",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR V. ȘTEFANELLI CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV10957604",
+    "scoala": "ȘCOALA GIMNAZIALĂ SFÂNTU ILIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8400028",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV10334528",
+    "scoala": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV8368034",
+    "scoala": "ȘCOALA GIMNAZIALĂ ONICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8702886",
+    "scoala": "LICEUL TEHNOLOGIC IORGU VÎRNAV LITEANU LITENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8728608",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8341294",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV10473858",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR V. ȘTEFANELLI CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.45,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV10473858",
+    "scoala": "ȘCOALA GIMNAZIALĂ TEODOR V. ȘTEFANELLI CÂMPULUNG MOLDOVENESC",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8277918",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8025276",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8855783",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE GHICA VOIEVOD SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9730199",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8337663",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV9168631",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9168631",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV12485332",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8207740",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV7899169",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 6.7,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV7899169",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9729163",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV10481476",
+    "scoala": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10481476",
+    "scoala": "LICEUL TEHNOLOGIC TOMȘA VODĂ SOLCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9552547",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9552547",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV10334853",
+    "scoala": "LICEUL TEHNOLOGIC ION NISTOR VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.9,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "SV8716074",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9541173",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.3,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV9166846",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.4,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SV8165398",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV8165398",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV13942786",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”CRISTOFOR SIMIONESCU” PLOPENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9986279",
+    "scoala": "ȘCOALA GIMNAZIALĂ RÂȘCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9597705",
+    "scoala": "LICEUL TEHNOLOGIC OLTEA DOAMNA DOLHASCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8017686",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8730488",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8971805",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8478062",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA GAVRIL DRĂGUȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.2,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "SV8478062",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA GAVRIL DRĂGUȘENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9070623",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȚIBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8022704",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV7918917",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA PUTNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.55,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SV7918917",
+    "scoala": "ȘCOALA GIMNAZIALĂ GURA PUTNEI",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9248667",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.9,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV10074237",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTIRBĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV7975822",
+    "scoala": "ȘCOALA GIMNAZIALĂ BERCHIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV9818134",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8866047",
+    "scoala": "ȘCOALA GIMNAZIALĂ NICOLAE STOLERU BAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9133593",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAMSON BODNĂRESCU GĂLĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV9165219",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV9545065",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.55,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "SV9545065",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8874922",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV8589189",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8589189",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOTOȘANA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8684209",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9730666",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV7993926",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.85,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV7993926",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8243363",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8279328",
+    "scoala": "LICEUL TEHNOLOGIC MIHAI EMINESCU DUMBRĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8492869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8017207",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV8017207",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV8055912",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "SV8070841",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9792901",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9566460",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV9566460",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8175481",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN BĂNCESCU ADÂNCATA",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8062915",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9549300",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 8 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9760161",
+    "scoala": "LICEUL TEORETIC FILADELFIA SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8072528",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV9023228",
+    "scoala": "ȘCOALA GIMNAZIALĂ FALCĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9495296",
+    "scoala": "ȘCOALA GIMNAZIALĂ BERCHIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9495296",
+    "scoala": "ȘCOALA GIMNAZIALĂ BERCHIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8400541",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7975091",
+    "scoala": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8289689",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8289689",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8845635",
+    "scoala": "ȘCOALA GIMNAZIALĂ ALEXANDRU IOAN CUZA FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10396570",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8345370",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9588064",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 ARBORE",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8302741",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV8302741",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10102281",
+    "scoala": "ȘCOALA GIMNAZIALĂ PALTINU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 4.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV7910869",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9884991",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9884991",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8106755",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂLTINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8106755",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂLTINOASA",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV12566077",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9151696",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV9382261",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9382261",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8405615",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VATRA DORNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8405615",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 VATRA DORNEI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8088331",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 6 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8121236",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV7975349",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 4.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV10810576",
+    "scoala": "ȘCOALA GIMNAZIALĂ ACADEMICIAN H. MIHĂESCU UDEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.55,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "SV8912992",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEGRILEASA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9319191",
+    "scoala": "ȘCOALA GIMNAZIALĂ MOLDOVA SULIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8858435",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE GHICA VOIEVOD SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8858435",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE GHICA VOIEVOD SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8107350",
+    "scoala": "ȘCOALA GIMNAZIALĂ PĂLTINOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.75,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "SV8208689",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8022745",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9551884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9551884",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10073348",
+    "scoala": "ȘCOALA GIMNAZIALĂ POIENI SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8357756",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10002780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10002780",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8034229",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV12471858",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV10396224",
+    "scoala": "ȘCOALA GIMNAZIALĂ FRĂTĂUȚII VECHI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV9869160",
+    "scoala": "COLEGIUL DE ARTĂ CIPRIAN PORUMBESCU SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "SV8065630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV8065630",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8302672",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 6,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "SV8302672",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9495383",
+    "scoala": "ȘCOALA GIMNAZIALĂ PÂRTEȘTII DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV12227714",
+    "scoala": "ȘCOALA GIMNAZIALĂ BURLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9895792",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AURELIAN STANCIU” SALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8715609",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8042479",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION IRIMESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV8290685",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8340882",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.2,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV9678409",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8341541",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘTEFAN CEL MARE CÂRLIBABA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9381849",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9381849",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV11170802",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV11170802",
+    "scoala": "ȘCOALA GIMNAZIALĂ LUCA ARBURE ARBORE",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV14341255",
+    "scoala": "COLEGIUL TEHNIC LAȚCU VODĂ SIRET",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.25,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SV8288771",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.1,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8288771",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8846233",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV7895545",
+    "scoala": "ȘCOALA GIMNAZIALĂ COȘNA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV12583094",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIRON COSTIN SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8122314",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN CIUREA FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8122314",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN CIUREA FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9897408",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AURELIAN STANCIU” SALCEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 4.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV9897408",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”AURELIAN STANCIU” SALCEA",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV13462308",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV13462308",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8062834",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "SV8116984",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10525501",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9070752",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȚIBENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 4.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "SV10306132",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8032874",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7961420",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 VATRA DORNEI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8653981",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV12902599",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8121435",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8342766",
+    "scoala": "LICEUL TEHNOLOGIC ”ȘTEFAN CEL MARE” CAJVANA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9788906",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAMOSTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9576602",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION FLOREA MARIAN ILIȘEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV9576602",
+    "scoala": "ȘCOALA GIMNAZIALĂ SIMION FLOREA MARIAN ILIȘEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9575109",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7997314",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV7997314",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9818121",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV9818121",
+    "scoala": "ȘCOALA GIMNAZIALĂ IPOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9679115",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MARIA CANTACUZINO” HORODNICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9679115",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MARIA CANTACUZINO” HORODNICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV12821929",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PINTILIE MĂNEUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV12821929",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION PINTILIE MĂNEUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8292176",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIAN VESPER HORODNIC DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8292176",
+    "scoala": "ȘCOALA GIMNAZIALĂ IULIAN VESPER HORODNIC DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8639702",
+    "scoala": "ȘCOALA GIMNAZIALĂ BURLA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8006587",
+    "scoala": "ȘCOALA GIMNAZIALĂ LITENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 3.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8075070",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "SV8075070",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8708871",
+    "scoala": "ȘCOALA GIMNAZIALĂ GIURGEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 2.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV8010819",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8010819",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV10496827",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8727571",
+    "scoala": "ȘCOALA GIMNAZIALĂ DĂNILA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV11199577",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU MUȘAT SIRET",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8226491",
+    "scoala": "ȘCOALA GIMNAZIALĂ GEORGE TOFAN BILCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV12270615",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "SV12270615",
+    "scoala": "ȘCOALA GIMNAZIALĂ IOAN VICOVEANU VICOVU DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9624066",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN MORARIU PĂTRĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8235164",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 IASLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.5,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "SV8894271",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DIMITRIE CANTEMIR” RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV12138672",
+    "scoala": "ȘCOALA GIMNAZIALĂ STROIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8009584",
+    "scoala": "ȘCOALA GIMNAZIALĂ REGINA ELISABETA RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8063001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.15,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV8063001",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9872739",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAHOMIE C. VASILIU GRĂMEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV9543808",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 1 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8117864",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEAGRA ȘARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8117864",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEAGRA ȘARULUI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8098645",
+    "scoala": "ȘCOALA GIMNAZIALĂ DORNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8686495",
+    "scoala": "ȘCOALA GIMNAZIALĂ GRIGORE GHICA VOIEVOD SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8971993",
+    "scoala": "COLEGIUL NAȚIONAL MIHAI EMINESCU SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9916022",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BLĂNARU CORNU LUNCII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.3,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SV9916022",
+    "scoala": "ȘCOALA GIMNAZIALĂ CONSTANTIN BLĂNARU CORNU LUNCII",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9319328",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8348842",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.7,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "SV8348842",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV13371694",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HORODNIC DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.15,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV13371694",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 2 HORODNIC DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8003746",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8003746",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAI EMINESCU RĂDĂUȚI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV9556767",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION LOVINESCU RĂDĂȘENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8036087",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.55,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8036087",
+    "scoala": "LICEUL CU PROGRAM SPORTIV SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8753362",
+    "scoala": "ȘCOALA GIMNAZIALĂ MILIȘĂUȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV10506488",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”MANDACHE LEOCOV” PRELIPCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "SV10304545",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "SV10304545",
+    "scoala": "ȘCOALA GIMNAZIALĂ IEREMIA VALAHUL SASCA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8200536",
+    "scoala": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8200536",
+    "scoala": "LICEUL TEHNOLOGIC VASILE GHERASIM MARGINEA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8907347",
+    "scoala": "LICEUL TEHNOLOGIC NICANOR MOROȘAN PÂRTESTII DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8907347",
+    "scoala": "LICEUL TEHNOLOGIC NICANOR MOROȘAN PÂRTESTII DE JOS",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9962446",
+    "scoala": "ȘCOALA GIMNAZIALĂ PÂRAIE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9962446",
+    "scoala": "ȘCOALA GIMNAZIALĂ PÂRAIE",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10441690",
+    "scoala": "ȘCOALA GIMNAZIALĂ NIGOTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 3.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV10441690",
+    "scoala": "ȘCOALA GIMNAZIALĂ NIGOTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10116025",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOSANCI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 4.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "SV10116025",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOSANCI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV9680442",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV9680442",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8060936",
+    "scoala": "ȘCOALA GIMNAZIALĂ JEAN BART SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9161247",
+    "scoala": "ȘCOALA GIMNAZIALĂ PETRU COMARNESCU GURA HUMORULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8356037",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.55,
+    "nota_finala": 3.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "SV8157262",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEAGRA ȘARULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 4.45,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "SV8157262",
+    "scoala": "ȘCOALA GIMNAZIALĂ NEAGRA ȘARULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9730707",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 3.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "SV9730707",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 4 SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9771990",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV9771990",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8065014",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV10003000",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV10003000",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV8550710",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.1,
+    "nota_finala": 2.4,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "SV12134357",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.7,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV12134357",
+    "scoala": "ȘCOALA GIMNAZIALĂ VOITINEL",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9792874",
+    "scoala": "ȘCOALA GIMNAZIALĂ DIMITRIE ONCIUL STRAJA",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV13715706",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV13715706",
+    "scoala": "ȘCOALA GIMNAZIALĂ ROTUNDA",
+    "materie": "Matematică",
+    "nota_initiala": 3.35,
+    "nota_finala": 3.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV8289904",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8289904",
+    "scoala": "ȘCOALA GIMNAZIALĂ ”DR. SIMION ȘI METZIA HÎJ” VOLOVĂȚ",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8929901",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 4.1,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "SV8929901",
+    "scoala": "COLEGIUL TEHNIC MIHAI BĂCESCU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "SV8279671",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "SV8279671",
+    "scoala": "ȘCOALA GIMNAZIALĂ COROCĂIEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "SV8009692",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8009692",
+    "scoala": "ȘCOALA GIMNAZIALĂ MIHAIL SADOVEANU FĂLTICENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV8724339",
+    "scoala": "ȘCOALA GIMNAZIALĂ MITROPOLIT IACOB PUTNEANUL PUTNA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8069476",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VICOVU DE SUS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "SV8069476",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR. 3 VICOVU DE SUS",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV10014493",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION CREANGĂ SUCEAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.45,
+    "nota_finala": 2.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "SV8234111",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3,
+    "nota_finala": 2.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV8234111",
+    "scoala": "ȘCOALA GIMNAZIALĂ BOGDAN VODĂ CÂMPULUNG MOLDOVENESC",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "SV8683986",
+    "scoala": "ȘCOALA GIMNAZIALĂ IRACLIE PORUMBESCU FRĂTĂUȚII NOI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 3.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "SV8683986",
+    "scoala": "ȘCOALA GIMNAZIALĂ IRACLIE PORUMBESCU FRĂTĂUȚII NOI",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV9535269",
+    "scoala": "ȘCOALA GIMNAZIALĂ ȘARU DORNEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV9786593",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAMOSTEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV9786593",
+    "scoala": "ȘCOALA GIMNAZIALĂ ZAMOSTEA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "SV7900018",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "SV7900018",
+    "scoala": "ȘCOALA GIMNAZIALĂ ION AFLOREI IZVOARELE SUCEVEI",
+    "materie": "Matematică",
+    "nota_initiala": 1.55,
+    "nota_finala": 1.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "SV10003058",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.95,
+    "nota_finala": 3.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "SV10003058",
+    "scoala": "ȘCOALA GIMNAZIALĂ SADOVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  }
+]

@@ -1,0 +1,3402 @@
+[
+  {
+    "cod": "BZ8767703",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10750489",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT AMARA COMUNA BALTA ALBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10750489",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT AMARA COMUNA BALTA ALBA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8797595",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 9.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8026083",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 6 MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8026083",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 6 MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.75,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10024133",
+    "scoala": "COLEGIUL NAŢIONAL B. P. HASDEU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8731178",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8859057",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT VALEA PĂRULUI COMUNA BECENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8194050",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9184021",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ8768581",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8194459",
+    "scoala": "COLEGIUL NAŢIONAL B. P. HASDEU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ14017600",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA RUŞEŢU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ10373495",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10044090",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9749239",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8026141",
+    "scoala": "COLEGIUL NAŢIONAL B. P. HASDEU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8770843",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.3,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ10363988",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BZ8016127",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ10366913",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 8.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ10366913",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9463167",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.5,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BZ8024456",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.3,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BZ8847444",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IVĂNESCU COMUNA POŞTA CÂLNĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8260499",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ12250660",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ12250660",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9885717",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ8798668",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ10510565",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9885759",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10470710",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10963651",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9482426",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ9482426",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 8.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ10458677",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BZ9886122",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ9406931",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10569367",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9885798",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8766781",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.6,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ10565677",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.15,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BZ10588114",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ9895480",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ9895480",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8900286",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8900286",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8794310",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8794310",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10110363",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ8900171",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8806245",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 6 MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10937757",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8095313",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ8913927",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT ALICENI COMUNA POŞTA CÂLNĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10368996",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10569510",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9555620",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA VALEA RÂMNICULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ8766346",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9183919",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10058511",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8483293",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCENII DE SUS COMUNA CALVINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8483293",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCENII DE SUS COMUNA CALVINI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8024409",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10665375",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GHERĂSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10665375",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GHERĂSENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9749379",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9807036",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ10557269",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT POTOCENI COMUNA MĂRĂCINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10557269",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT POTOCENI COMUNA MĂRĂCINENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ10518040",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCA ROZILEI ORAŞ NEHOIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8125755",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8771684",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8771684",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ9462957",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.45,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BZ9987477",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA MÂNZĂLEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9895468",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9895468",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8690626",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9135451",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BZ10419150",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SIRIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8260682",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8260682",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8126400",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10023793",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.45,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10023793",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ7994776",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.55,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BZ7994776",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ9882083",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ9882083",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ11195633",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PUIEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ10625074",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10625074",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8680851",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BZ9407998",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ9499775",
+    "scoala": "LICEUL TEORETIC NICOLAE IORGA ORAŞ NEHOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8194106",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8194106",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10568910",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ10568910",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9482606",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8901877",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8306007",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8902157",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8770401",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ8770401",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8551427",
+    "scoala": "ŞCOALA GIMNAZIALĂ TACHE ŞI ECATERINA TOCILESCU COMUNA VINTILĂ VODĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8025065",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8770528",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10044085",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10058066",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9895473",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.45,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ8321305",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8628285",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ12203093",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9895452",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8026805",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8918811",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN POPESCU SAT FUNDENI COMUNA ZĂRNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8918811",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN POPESCU SAT FUNDENI COMUNA ZĂRNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9972573",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PODGORIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9463011",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8770278",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10508691",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.35,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10508691",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8901938",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.55,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BZ11090839",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10391383",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8796514",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ11188940",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10591523",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10624085",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8902007",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ10892370",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE EFRIMESCU COMUNA SĂGEATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8015958",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9486674",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9731192",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8768141",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ10666684",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GHERĂSENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10560250",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT POTOCENI COMUNA MĂRĂCINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8191794",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9550185",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA STÂLPU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.05,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ9678653",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ9922801",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 COMUNA PADINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ10500794",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA MĂGURA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9523126",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9523126",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ12293077",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ12244355",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BUDA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.65,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BZ8166132",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8166132",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ10624963",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA COSTEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10624963",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA COSTEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.05,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ8896799",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8896799",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.85,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8771863",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.05,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ8771863",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.5,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ10022954",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 9,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BZ9462113",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9518582",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SMEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9885813",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT HALEŞ COMUNA TISĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ9885813",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT HALEŞ COMUNA TISĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9591133",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DR. ION ANGHEL COMUNA LUCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9591133",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DR. ION ANGHEL COMUNA LUCIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9619031",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9615471",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9462126",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ3939751",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT CĂLDĂRĂŞTI ORAŞ POGOANELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8898551",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ9406304",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ8770934",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ11198962",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ11198962",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8571722",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL GEORGIAN COMUNA GURA TEGHII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9866546",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA RUŞEŢU",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9499728",
+    "scoala": "LICEUL TEORETIC NICOLAE IORGA ORAŞ NEHOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.05,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BZ8025160",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ10023148",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8912549",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ9185665",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.1,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BZ10526364",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ10526364",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9619995",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9408758",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8767000",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8802787",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8802787",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ13942454",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCENII DE SUS COMUNA CALVINI",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ9463003",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BZ9135627",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9135627",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10566519",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10569721",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10589847",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10589847",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9486812",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ8049374",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA ZIDURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ8898590",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ8898590",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8261490",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.95,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ10591409",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7.05,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ10501199",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.7,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BZ8124870",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9096780",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8912089",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ10547155",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ10342044",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂTEŞTI COMUNA SĂPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9319192",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT OREAVUL COMUNA VALEA RÂMNICULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10964228",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10044083",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.15,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BZ9829040",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT LIPIA COMUNA MEREI",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9319786",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9319786",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10024397",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ10058737",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ9542288",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DR. ION ANGHEL COMUNA LUCIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ12774164",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9942755",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8806215",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ8191688",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BZ9421181",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SMEENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ8900597",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GHERĂSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.05,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10045824",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ9806359",
+    "scoala": "LICEUL TEORETIC ŞTEFAN CEL MARE MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9777799",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 1 COMUNA CĂTINA",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8191738",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.4,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ10854029",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 6.95,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BZ9538554",
+    "scoala": "ȘCOALA GIMNAZIALĂ PROF. DR. ION ANGHEL COMUNA LUCIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10515296",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8063354",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ11180527",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT LIPIA COMUNA MEREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.15,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ8899873",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE TITULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ9138499",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ9138499",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ11193117",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ10619158",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA VADU PAŞII",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8515208",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IOAN JILINSCHI COMUNA VERNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8515208",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE IOAN JILINSCHI COMUNA VERNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ10361877",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.2,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BZ10361877",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ9482392",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ10820520",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ10820520",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ12304941",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.75,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ9429843",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SMEENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9407084",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BZ10767914",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PIETROASELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ9282612",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BREAZA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ12491846",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ12491846",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ10044755",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE TITULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ10525240",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BZ8898471",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8191379",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10044298",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9513350",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GĂLBINAȘI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.95,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ8897192",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.2,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BZ8897192",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ10509681",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ10369577",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ13201663",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT AMARA COMUNA BALTA ALBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ13201663",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT AMARA COMUNA BALTA ALBA",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9319464",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9319464",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9823399",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 6.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BZ9960417",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA MOVILA BANULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10591727",
+    "scoala": "ŞCOALA GIMNAZIALĂ ING. OPRIŞAN IARCA COMUNA UNGURIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ8636650",
+    "scoala": "ŞCOALA GIMNAZIALĂ P.H. ZANGOPOL MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9960063",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA MOVILA BANULUI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8123331",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8901371",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8901371",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8805774",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PUIEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9844855",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ10557787",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10887248",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE EFRIMESCU COMUNA SĂGEATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BZ9416225",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8024957",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ8024957",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 5.15,
+    "nota_finala": 5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10933320",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IVĂNESCU COMUNA POŞTA CÂLNĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ10933320",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN IVĂNESCU COMUNA POŞTA CÂLNĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10364232",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ10657138",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GLODEANU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ10657138",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GLODEANU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10516495",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALCAN IVAN COMUNA COCHIRLEANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ10516495",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALCAN IVAN COMUNA COCHIRLEANCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10571297",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.25,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ8901277",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BZ10420003",
+    "scoala": "ȘCOALA GIMNAZIALĂ PAMFIL GEORGIAN COMUNA GURA TEGHII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ11193212",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ9458070",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA VADU PAŞII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.45,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BZ9458070",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA VADU PAŞII",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9148777",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCA ROZILEI ORAŞ NEHOIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ9286047",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PIETROASELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9881382",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9462137",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ9732513",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9732513",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10898106",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10898106",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8898102",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8731395",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PUIEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10799661",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GHERĂSENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8771261",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.5,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ10607255",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ8898267",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9964847",
+    "scoala": "COLEGIUL NAŢIONAL ALEXANDRU VLAHUŢĂ MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BZ8194326",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.55,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BZ8194326",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI EMINESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ10992210",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.4,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ10992210",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9134404",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9134404",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8260753",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.6,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ8260753",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9844155",
+    "scoala": "ŞCOALA GIMNAZIALĂ ISTRATE GHEORGHE SAT LIMPEZIŞ COMUNA MOVILA BANULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 7,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "BZ10177070",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ10177070",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL APOSTOL ANDREI MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ9143628",
+    "scoala": "LICEUL TEORETIC NICOLAE IORGA ORAŞ NEHOIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10963703",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10610405",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA MĂGURA",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ11088695",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 7.8,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "BZ11088695",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT SCURTEŞTI COMUNA VADU PAŞII",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9432615",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SMEENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ9579211",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA STÂLPU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.35,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ9579211",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA STÂLPU",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ8617332",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GĂLBINAȘI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10278750",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SCORŢOASA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ10892487",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10892487",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10073312",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2.35,
+    "nota_finala": 2.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8008532",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GLODEANU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8624112",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA C.A.ROSETTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ9319318",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ10110499",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ10110499",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9302959",
+    "scoala": "ŞCOALA GIMNAZIALĂ PROF. CONSTANTIN DINCĂ COMUNA ULMENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8832408",
+    "scoala": "LICEUL TEHNOLOGIC SF. MUCENIC SAVA COMUNA BERCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9303102",
+    "scoala": "ŞCOALA GIMNAZIALĂ PROF. CONSTANTIN DINCĂ COMUNA ULMENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ9303102",
+    "scoala": "ŞCOALA GIMNAZIALĂ PROF. CONSTANTIN DINCĂ COMUNA ULMENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10511447",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ10511447",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8261817",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BZ8261817",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9137037",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA LOPĂTARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ10430839",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PIETROASELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ10430839",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA PIETROASELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8768221",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BZ8768221",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ11191036",
+    "scoala": "ŞCOALA GIMNAZIALĂ EPISCOP DIONISIE ROMANO MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8760182",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8760182",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ11119611",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ4271401",
+    "scoala": "LICEUL TEORETIC ORAŞ POGOANELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ10284456",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA SCORŢOASA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BZ10570192",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10866447",
+    "scoala": "ŞCOALA GIMNAZIALĂ NICOLAE EFRIMESCU COMUNA SĂGEATA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ10902461",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA VÂLCELELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8261031",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2.15,
+    "nota_finala": 2.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10073263",
+    "scoala": "LICEUL CU PROGRAM SPORTIV IOLANDA BALAŞ SOTER MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ10073263",
+    "scoala": "LICEUL CU PROGRAM SPORTIV IOLANDA BALAŞ SOTER MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8180720",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE VERNESCU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9336987",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8717466",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT NICOLEŞTI COMUNA PUIEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8767064",
+    "scoala": "LICEUL TEHNOLOGIC DIMITRIE FILIPESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BZ8240299",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂRUNȚIȘU ORAŞ PĂTÂRLAGELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BZ8240299",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂRUNȚIȘU ORAŞ PĂTÂRLAGELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ8905300",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5.1,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BZ13399921",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALCAN IVAN COMUNA COCHIRLEANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ9959081",
+    "scoala": "ȘCOALA GIMNAZIALĂ CALCAN IVAN COMUNA COCHIRLEANCA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ9961623",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT BÂSCENII DE SUS COMUNA CALVINI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9942629",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT ŞTIUBEI COMUNA RÂMNICELU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.6,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BZ9942629",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT ŞTIUBEI COMUNA RÂMNICELU",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9486747",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ9486747",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.7,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BZ9732573",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT CÂNDEŞTI COMUNA VERNEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BZ9732573",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT CÂNDEŞTI COMUNA VERNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ9862357",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BZ9915002",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT ZOIŢA COMUNA ZIDURI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BZ9915002",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT ZOIŢA COMUNA ZIDURI",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8606052",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BĂLĂCEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ8606052",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BĂLĂCEANU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10518425",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10518425",
+    "scoala": "COLEGIUL NAȚIONAL PEDAGOGIC SPIRU HARET MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8356820",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂRUNȚIȘU ORAŞ PĂTÂRLAGELE",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BZ9319548",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT OREAVUL COMUNA VALEA RÂMNICULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ9319548",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT OREAVUL COMUNA VALEA RÂMNICULUI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8664900",
+    "scoala": "ŞCOALA GIMNAZIALĂ VASILE CRISTOFOREANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8191307",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BZ8191307",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8598739",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.15,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BZ8598739",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9399637",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BZ9399637",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9481496",
+    "scoala": "LICEUL DE ARTE MARGARETA STERIAN MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.55,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BZ9867939",
+    "scoala": "LICEUL TEHNOLOGIC COMUNA RUŞEŢU",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8832818",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT CÂNDEŞTI COMUNA VERNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ10391678",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA CISLĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8777659",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ8777659",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE EMIL PALADE MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ9513394",
+    "scoala": "ȘCOALA GIMNAZIALĂ COMUNA GĂLBINAȘI",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8297642",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂTEŞTI COMUNA SĂPOCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ8297642",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT MĂTEŞTI COMUNA SĂPOCA",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ9420301",
+    "scoala": "ŞCOALA GIMNAZIALĂ SAT URSOAIA COMUNA VIPEREŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ12277414",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BZ12277414",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10511703",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ11119575",
+    "scoala": "ŞCOALA GIMNAZIALĂ COMUNA BRĂDEANU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BZ8771478",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ8771478",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR MIRCEA T. BĂDULESCU MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10376882",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 4.95,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BZ10376882",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3.05,
+    "nota_finala": 3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ11188033",
+    "scoala": "ŞCOALA GIMNAZIALĂ TACHE ŞI ECATERINA TOCILESCU COMUNA VINTILĂ VODĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BZ11188033",
+    "scoala": "ŞCOALA GIMNAZIALĂ TACHE ŞI ECATERINA TOCILESCU COMUNA VINTILĂ VODĂ",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BZ9482109",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BZ9482109",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 7 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ10314737",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT PLEVNA COMUNA GREBĂNU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BZ8354041",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION CREANGĂ MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BZ9748453",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR. 11 MUNICIPIUL BUZĂU",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BZ8567721",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.15,
+    "nota_finala": 3.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ8567721",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN BRÂNCOVEANU MUNICIPIUL RÂMNICU SĂRAT",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10666758",
+    "scoala": "LICEUL CU PROGRAM SPORTIV IOLANDA BALAŞ SOTER MUNICIPIUL BUZĂU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BZ10550261",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT POTOCENI COMUNA MĂRĂCINENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.7,
+    "nota_finala": 3.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BZ10550261",
+    "scoala": "ȘCOALA GIMNAZIALĂ SAT POTOCENI COMUNA MĂRĂCINENI",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  }
+]

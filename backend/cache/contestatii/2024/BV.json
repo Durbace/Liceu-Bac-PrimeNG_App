@@ -1,0 +1,7354 @@
+[
+  {
+    "cod": "BV11189596",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV10322964",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV9989441",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9989441",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9892890",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.55,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV9828533",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV11190326",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.6,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV8477023",
+    "scoala": "Liceul Vocațional de Muzică 'Tudor Ciortea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.25,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10077714",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.4,
+    "nota_finala": 9.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10373534",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.55,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV10272155",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV9881121",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.65,
+    "nota_finala": 9.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9907848",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9977943",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9638582",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10045787",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10302936",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.3,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV8208742",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV14279508",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV14279508",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.75,
+    "nota_finala": 9.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9745171",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV9745171",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.85,
+    "nota_finala": 9.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9643788",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 9.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10373670",
+    "scoala": "Colegiul Național 'Doamna Stanca' Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10531433",
+    "scoala": "Școala Gimnazială Cristian",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10284493",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10172158",
+    "scoala": "Liceul Vocațional de Arte Plastice 'Hans Mattis-Teutsch' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.3,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9432010",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV10455646",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10317121",
+    "scoala": "Colegiul Național 'Andrei Șaguna' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10317121",
+    "scoala": "Colegiul Național 'Andrei Șaguna' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV13692214",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9822407",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10019483",
+    "scoala": "Școala Gimnazială 'I. C. Drăgușanu' Drăguș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.85,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV10328996",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.2,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BV9679485",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9431869",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.45,
+    "nota_finala": 9.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10531790",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11116083",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11188896",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10704972",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10320662",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10295299",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10531200",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10281891",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10488587",
+    "scoala": "Colegiul Național 'Doamna Stanca' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10124480",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10010138",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 9.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10061767",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV10285684",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9803970",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9803970",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV11197725",
+    "scoala": "Colegiul Național 'Andrei Șaguna' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9947090",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9909691",
+    "scoala": "Colegiul de Științe 'Grigore Antipa' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV11189752",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.2,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9948118",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10531469",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10531469",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10678371",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.8,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV9596469",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9596469",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9981181",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10053351",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9938713",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10510153",
+    "scoala": "Școala Gimnazială Cristian",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10289720",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8765805",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11193138",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV11193138",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10698191",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10265431",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9909176",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10168779",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.7,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BV8725958",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV8725958",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV11197852",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10053436",
+    "scoala": "Liceul Vocațional de Muzică 'Tudor Ciortea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10117110",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.2,
+    "nota_finala": 9.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9892108",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.75,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10551930",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10709913",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV11188131",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV11188783",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 9.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10526300",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV11191207",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.8,
+    "nota_finala": 9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV11192186",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV9662932",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10289218",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV9431785",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8819678",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9892511",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.35,
+    "nota_finala": 8.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10514036",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9986634",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10059586",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV10746121",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.1,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10746121",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10265478",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10055140",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 8.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10055140",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10003082",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9730975",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10066160",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 8.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8319817",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9388582",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10081387",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10081387",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9888187",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV8723001",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV8723001",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10123330",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV9921366",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10713979",
+    "scoala": "Colegiul Național 'Andrei Șaguna' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 9.1,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "BV10713979",
+    "scoala": "Colegiul Național 'Andrei Șaguna' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10325191",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.9,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BV10325191",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10070853",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10746122",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9939970",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10715060",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10385373",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10413669",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9804569",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV11189437",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10533964",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10533964",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11191645",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11191645",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10772250",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10293010",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10558149",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10558149",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9803588",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9931735",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 8.4,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV10014008",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.9,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV10704398",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 8.45,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BV10131936",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10265499",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10053408",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10053408",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 8.2,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV11191123",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV3286451",
+    "scoala": "Colegiul de Științe 'Grigore Antipa' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8854118",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV8957734",
+    "scoala": "Liceul Vocațional de Arte Plastice 'Hans Mattis-Teutsch' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10395094",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9252342",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11191426",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV9594380",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV9268845",
+    "scoala": "Școala Gimnazială Șimon",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10833270",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10833270",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.25,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10678494",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10678494",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9823731",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9823731",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10123465",
+    "scoala": "Liceul Vocațional de Muzică 'Tudor Ciortea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10286868",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10273535",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10271265",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8607050",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.3,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV9940736",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9940736",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9594951",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10173978",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10065688",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10746087",
+    "scoala": "Colegiul de Științe 'Grigore Antipa' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10053430",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10057524",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10057524",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV11189139",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10847699",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9641987",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV8818550",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10480910",
+    "scoala": "Școala Gimnazială Purcăreni",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10060227",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10123157",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10087050",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.15,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10087050",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9679336",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.95,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV11186641",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10058714",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BV10058714",
+    "scoala": "Colegiul Național 'Dr. Ioan Meșotă' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10746090",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10107466",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10303659",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 8.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV12467410",
+    "scoala": "Colegiul Național 'Aprily Lajos' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV12467410",
+    "scoala": "Colegiul Național 'Aprily Lajos' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 8.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV11191712",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 9.05,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BV9679291",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9804284",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10746101",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10746101",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9909976",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV10674689",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV9390653",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV2492551",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10008494",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV10008494",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.65,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9996382",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.75,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV10389725",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8844250",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10675877",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV11191864",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8957931",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10118805",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 9.2,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10118805",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10710432",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10304330",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10119468",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.25,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV8235318",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.7,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV8235318",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10674914",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "BV10296564",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10464306",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9942165",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9893769",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.55,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10265676",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10002905",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11187556",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9911433",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9911433",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9390983",
+    "scoala": "Școala Gimnazială Nr. 4 Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.5,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9390983",
+    "scoala": "Școala Gimnazială Nr. 4 Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV13463977",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10061358",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10323994",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10110999",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10055549",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV11187957",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9279354",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10115000",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.85,
+    "nota_finala": 8.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10631697",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10277358",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9927295",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11105192",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10533522",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9986519",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9866120",
+    "scoala": "Școala Gimnazială Nr. 3 'Pompiliu Dan' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.85,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV9866120",
+    "scoala": "Școala Gimnazială Nr. 3 'Pompiliu Dan' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8851190",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9904751",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV9904751",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 7.65,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10528014",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10001804",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9594492",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.5,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV9947822",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9011941",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10387449",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10387449",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV11192158",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9994606",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10127053",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV2264251",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 8.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV2264251",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8831139",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV11187787",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.4,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10686817",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.05,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10053183",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.65,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10053183",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10688741",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10129043",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10661010",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.9,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10661010",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10394600",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9384918",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9592668",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9592668",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.45,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BV8979750",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11039880",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.3,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV9984365",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9893546",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9893546",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10320876",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10079530",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 7.35,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BV10007773",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9940621",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV13471306",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9388036",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9388036",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10302039",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.95,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10302039",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10079723",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10079723",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.2,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10998780",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10055461",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 7.85,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10055461",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10390050",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10390050",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV8951059",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV8951059",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10489255",
+    "scoala": "Școala Gimnazială Purcăreni",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10278799",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10055622",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10748341",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV7925714",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.2,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV7925714",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9365764",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10325455",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10325455",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9543744",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9595378",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10078484",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9433366",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11186660",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV14379076",
+    "scoala": "Școala Gimnazială Prejmer",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV13374760",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9647185",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10060433",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10060433",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 7.45,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10379110",
+    "scoala": "Școala Gimnazială Nr. 7 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10423897",
+    "scoala": "Școala Gimnazială Cristian",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10285001",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.5,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BV9948386",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9948386",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10124976",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11190072",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10053492",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10053492",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9823207",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9823207",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11189251",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9432286",
+    "scoala": "Școala Gimnazială Nr. 3 Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10293005",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 9.05,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV9416311",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9416449",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9416449",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10525423",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10525423",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10491075",
+    "scoala": "Școala Gimnazială Teliu",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9969944",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10269508",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10053551",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10053551",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9906530",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.3,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BV10090503",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV14293881",
+    "scoala": "Școala Gimnazială nr. 16 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.15,
+    "nota_finala": 8.55,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV14293881",
+    "scoala": "Școala Gimnazială nr. 16 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.8,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV8361021",
+    "scoala": "Liceul Vocațional de Muzică 'Tudor Ciortea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 7.85,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV8958439",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9882810",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10560061",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.7,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10068231",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10176097",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10176097",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11196742",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.05,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV11196742",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8,
+    "nota_finala": 8.25,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10067739",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10265541",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9584632",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV9584632",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.65,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10285254",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV7930987",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 8.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10303392",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV8364899",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.25,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BV8364899",
+    "scoala": "Colegiul Național de Informatică 'Gr. Moisil' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9803759",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10011524",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.8,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10011524",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10121184",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10265518",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10078282",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10303938",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.05,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10011753",
+    "scoala": "Liceul Teoretic 'Zajzoni Rab Istvan' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10789505",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.75,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BV10789505",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV11010095",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10128862",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10128862",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11192901",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10622138",
+    "scoala": "Colegiul Național 'Aprily Lajos' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10389891",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9939372",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10371008",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9798954",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9798954",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9692426",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BV10122512",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9727420",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.4,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10172044",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.55,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10172044",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9434192",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10560979",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10560979",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8768163",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11120820",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9416441",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10066862",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.55,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10524511",
+    "scoala": "Școala Gimnazială Cristian",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 7.1,
+    "diferenta": 1
+  },
+  {
+    "cod": "BV9983605",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10067795",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10015606",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 8.15,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV7955154",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.95,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV7955154",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10059423",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.9,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "BV10059423",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10678387",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV8976555",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8976555",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10002536",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10002536",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 8.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9804575",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV9911568",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.7,
+    "diferenta": -1
+  },
+  {
+    "cod": "BV10046586",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10125150",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10632905",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10686087",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.4,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10053618",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.25,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV9941676",
+    "scoala": "Liceul 'Petru Rareș' Feldioara",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10344970",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV12151308",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10422992",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.4,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9824131",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10631629",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10281763",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV7956471",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9804616",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9804616",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.3,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10055791",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.7,
+    "diferenta": 1.2
+  },
+  {
+    "cod": "BV10055791",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 7.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10053543",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 7.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV14338052",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV14338052",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10326148",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10748393",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.55,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10748393",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.15,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9593314",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.85,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV9593314",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10132401",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10706042",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 6.7,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BV10706042",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV13050660",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10023134",
+    "scoala": "Școala Gimnazială 'I. C. Drăgușanu' Drăguș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10023134",
+    "scoala": "Școala Gimnazială 'I. C. Drăgușanu' Drăguș",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10078258",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9867564",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.75,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV11188550",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10001288",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV11187088",
+    "scoala": "Colegiul de Științe 'Grigore Antipa' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10264378",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10017236",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10017236",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9923376",
+    "scoala": "Liceul Teoretic 'Zajzoni Rab Istvan' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9923376",
+    "scoala": "Liceul Teoretic 'Zajzoni Rab Istvan' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9941951",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11188931",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 6.75,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV11187905",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.5,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10002465",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.1,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BV10002465",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.4,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9997967",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.4,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BV11111746",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11149278",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10425858",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10425858",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10057117",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8716897",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV11192239",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV14250197",
+    "scoala": "Școala Gimnazială Teliu",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9504739",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9648917",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.7,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV9648917",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV11188755",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 7.6,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10053047",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11190651",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV8967010",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.15,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV8967010",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9926236",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10388822",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9999918",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.9,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV10710027",
+    "scoala": "Școala Gimnazială 'Mihai Eminescu' Hărman",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10710027",
+    "scoala": "Școala Gimnazială 'Mihai Eminescu' Hărman",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10306335",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 7.55,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10306165",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.95,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10306165",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9592864",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.15,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BV9592864",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.95,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9802997",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV8724466",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.6,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV8724466",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9804605",
+    "scoala": "Școala Gimnazială nr. 16 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10279841",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.6,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10279841",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11186567",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 7.15,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10689098",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9432564",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9432564",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV11191939",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 7.1,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV11196088",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10020332",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11183820",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.45,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV11183820",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10623252",
+    "scoala": "Școala Gimnazială Ucea de Jos",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10560110",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9892452",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10710532",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10265628",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 5.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10452778",
+    "scoala": "Școala Gimnazială Comăna de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10672432",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10299015",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10299015",
+    "scoala": "Școala Primară Liberă 'Waldorf Sophia' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 6.75,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV13076714",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9804681",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV8397067",
+    "scoala": "Școala Gimnazială Nr. 19 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10292363",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10316857",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10549183",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10655008",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10655008",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10550754",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV2471151",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9929800",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 7.95,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BV9929800",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10169993",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10169993",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10380531",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10690531",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10690531",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Matematică",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV7944675",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV7944675",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9819914",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.8,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10316573",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.85,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV8358988",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8358988",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11191091",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.35,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "BV11191095",
+    "scoala": "Școala Gimnazială Nr. 3 Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10632011",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.15,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10121201",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10120380",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10732583",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.2,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10732583",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10061904",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.5,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV10088471",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9927207",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 7.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10351009",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9906622",
+    "scoala": "Liceul Vocațional de Arte Plastice 'Hans Mattis-Teutsch' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10748297",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9878579",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10340478",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.75,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10340478",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10045932",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10265537",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV11188880",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10320551",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10320551",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.45,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10319048",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8923821",
+    "scoala": "Liceul Vocațional de Arte Plastice 'Hans Mattis-Teutsch' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10651685",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10044760",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8800707",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10015920",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11112394",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10679797",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV12479836",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10654524",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10651673",
+    "scoala": "Școala Gimnazială Cața",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10651673",
+    "scoala": "Școala Gimnazială Cața",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10350704",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10350704",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10748544",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10512255",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8838388",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9999222",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9999222",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV8968715",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.25,
+    "nota_finala": 6.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV8968715",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10057395",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10002498",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10002498",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10000266",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10000266",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10716500",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 6.15,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV9592950",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10715076",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8833018",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10061429",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9697497",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 5.9,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "BV11192323",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11192323",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV11198194",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10394368",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10676170",
+    "scoala": "Colegiul Național 'Doamna Stanca' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10065852",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 6.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10065852",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8722204",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.95,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV8722204",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8770439",
+    "scoala": "Liceul Vocațional de Arte Plastice 'Hans Mattis-Teutsch' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9268849",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9268849",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8945339",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10171542",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8940842",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV11186546",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9365709",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10651454",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.9,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV11149004",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10081533",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.95,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10081533",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.6,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10015730",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10059568",
+    "scoala": "Școala Gimnazială nr. 31 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9855557",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 4.95,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV13092338",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.3,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV8703718",
+    "scoala": "Școala Gimnazială Prejmer",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9989779",
+    "scoala": "Școala Gimnazială Dumbrăvița",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10627178",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 6,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV9011162",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.45,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV11194749",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV11194749",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10082152",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.05,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV10082152",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10169447",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV13373155",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10061107",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.8,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "BV10061107",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10552251",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV11188712",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV12567118",
+    "scoala": "Școala Gimnazială Nr. 3 Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 7.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10670432",
+    "scoala": "Colegiul Național 'Unirea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.5,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10388445",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.25,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10077823",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.1,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10077823",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10054969",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.1,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV9991676",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.85,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV8968615",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10044681",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10633927",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.6,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9827678",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 6.95,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV10650414",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10650414",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10528587",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.4,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "BV10652420",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10296625",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 6.95,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BV10296625",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV8925159",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10104958",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.45,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10104958",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10509637",
+    "scoala": "Școala Gimnazială Bod",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10304481",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10304481",
+    "scoala": "Școala Gimnazială Nr. 6 'Iacob Mureșianu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10067449",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10067449",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.3,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10055046",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.5,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV10055046",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10094802",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10347395",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10053367",
+    "scoala": "Școala Gimnazială 'Mihai Eminescu' Hărman",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV13654857",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.45,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "BV13654857",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV11199864",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "BV9427030",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10092015",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10265515",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10265515",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV7926542",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.3,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV11198272",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10173661",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10057208",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10166724",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV10166724",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV13059819",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV8481630",
+    "scoala": "Colegiul Național 'Aprily Lajos' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10475902",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.65,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "BV10475902",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10698274",
+    "scoala": "Școala Gimnazială Moieciu de Jos",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10297405",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.35,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10297405",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9648337",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9365884",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.7,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV9365884",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV11186964",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.4,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV11186964",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV11191468",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 5.8,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV11191468",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10446147",
+    "scoala": "Școala Gimnazială Nr. 7 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10023682",
+    "scoala": "Școala Gimnazială 'I. C. Drăgușanu' Drăguș",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.6,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10002003",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10746098",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10746098",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.55,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV12574213",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.3,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV8704001",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV10467890",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9806325",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 5.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10630569",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10527592",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10491653",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10171215",
+    "scoala": "Colegiul Național 'Doamna Stanca' Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10171215",
+    "scoala": "Colegiul Național 'Doamna Stanca' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV8476884",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV13450289",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10687723",
+    "scoala": "Colegiul Tehnic Energetic 'Remus Răduleț' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10687723",
+    "scoala": "Colegiul Tehnic Energetic 'Remus Răduleț' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.95,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV8976332",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8976332",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10265580",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.25,
+    "nota_finala": 6,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV9439890",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.05,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9439890",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9941431",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10346564",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9365407",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.15,
+    "nota_finala": 6.85,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10414923",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 6.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "BV9911026",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9911026",
+    "scoala": "Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10169071",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV10169071",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10535963",
+    "scoala": "Colegiul 'Nicolae Titulescu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV8726276",
+    "scoala": "Școala Gimnazială Prejmer",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10374208",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9881955",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 5.6,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "BV11192432",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV11195507",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.35,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV9893124",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.25,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BV9893124",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10120199",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV8109739",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10044190",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10044190",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10746124",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8836884",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8836884",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9805021",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.85,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "BV9805021",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV7956242",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9876349",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10686836",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.1,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10686836",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9694192",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 5.7,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV8722354",
+    "scoala": "Colegiul Tehnic Energetic 'Remus Răduleț' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9952136",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 6.25,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BV9952136",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9865997",
+    "scoala": "Școala Gimnazială Nr. 3 'Pompiliu Dan' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8939633",
+    "scoala": "Școala Gimnazială Nr. 1 Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9970089",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9970089",
+    "scoala": "Școala Gimnazială Nr. 1 'Gheorghe Crăciun' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV12735419",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV12735419",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV8735515",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10396237",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10745650",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10745650",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8659241",
+    "scoala": "Școala Gimnazială Nr. 25 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.35,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10341403",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10341403",
+    "scoala": "Școala Gimnazială Nr. 5 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9683399",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9683399",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9769694",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9769694",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 4.9,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV12257263",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV10319848",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.6,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV10672277",
+    "scoala": "Școala Gimnazială Ucea de Jos",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10316329",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10316329",
+    "scoala": "Școala Gimnazială Nr. 12 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10322567",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10322567",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9992865",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9366145",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9366145",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10425187",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10425187",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10055608",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.3,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV10055608",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10379003",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 6.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10379003",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9498221",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9560269",
+    "scoala": "Liceul 'Petru Rareș' Feldioara",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 5.25,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "BV9560269",
+    "scoala": "Liceul 'Petru Rareș' Feldioara",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10178042",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10652202",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.65,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9268822",
+    "scoala": "Școala Gimnazială Șimon",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10611036",
+    "scoala": "Școala Gimnazială Hoghiz",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV11189685",
+    "scoala": "Școala Gimnazială Nr. 8 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9986118",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.35,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV9592245",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.1,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV9592245",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV7862455",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV7862455",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.95,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9875698",
+    "scoala": "Liceul Teoretic 'Mitropolit Ioan Mețianu' Zărnești",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9560344",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10068406",
+    "scoala": "Școala Gimnazială Nr. 2 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.15,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10595129",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV8647322",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.95,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV11187536",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV11187536",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10329306",
+    "scoala": "Școala Gimnazială nr. 16 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9949874",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9949874",
+    "scoala": "Școala Gimnazială Nr. 1 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10289721",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.9,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10289721",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9963073",
+    "scoala": "Școala Gimnazială Vlădeni",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9963073",
+    "scoala": "Școala Gimnazială Vlădeni",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9469304",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10707491",
+    "scoala": "Școala Gimnazială Fundata",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8712344",
+    "scoala": "Școala Gimnazială Nr. 4 'Frații Popeea' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.45,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9061714",
+    "scoala": "Liceul 'Andrei Mureșanu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8830491",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10010754",
+    "scoala": "Liceul Teoretic 'I.C. Drăgușanu' Victoria",
+    "materie": "Matematică",
+    "nota_initiala": 2.95,
+    "nota_finala": 2.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10849441",
+    "scoala": "Școala Gimnazială 'Prof. Dr. Ioan Cerghit' Hârseni",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9862236",
+    "scoala": "Școala Gimnazială Nr. 9 'Nicolae Orghidan' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10064155",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10064155",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9503243",
+    "scoala": "Liceul 'Sextil Pușcariu' Bran",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 3.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV8194228",
+    "scoala": "Școala Gimnazială Homorod",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV10639632",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10639632",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9433894",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10533686",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.55,
+    "nota_finala": 5.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10533686",
+    "scoala": "Liceul Teoretic 'Mihail Săulescu' Predeal",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV11195811",
+    "scoala": "Școala Gimnazială Vulcan",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV11195811",
+    "scoala": "Școala Gimnazială Vulcan",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11188555",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11188555",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10063301",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10063301",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.8,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10341447",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10341447",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8737011",
+    "scoala": "Școala Gimnazială Lunca Câlnicului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "BV11186336",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "BV11186336",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10302359",
+    "scoala": "Școala Gimnazială Nr. 2 'Academician Nicolae Zamfir' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.45,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV8609971",
+    "scoala": "Școala Gimnazială Sohodol",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.15,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV11195602",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV11195602",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9826367",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.25,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV9826367",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9947303",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 3.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV13372552",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV13372552",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9903706",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "BV9903706",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10561676",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV10561676",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10015944",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV10015944",
+    "scoala": "Școala Gimnazială Nr. 3 'Gheorghe Lazăr' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9939945",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9939945",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV13964886",
+    "scoala": "Liceul Teoretic 'I.C. Drăgușanu' Victoria",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5,
+    "diferenta": -0.75
+  },
+  {
+    "cod": "BV10721167",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 5,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV10721167",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9815964",
+    "scoala": "Școala Gimnazială Cincu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV9815964",
+    "scoala": "Școala Gimnazială Cincu",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10053232",
+    "scoala": "Școala Gimnazială 'Mihai Eminescu' Hărman",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10053232",
+    "scoala": "Școala Gimnazială 'Mihai Eminescu' Hărman",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9836924",
+    "scoala": "Liceul Teoretic 'George Moroianu' Săcele",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 4.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV8382039",
+    "scoala": "Școala Gimnazială Hoghiz",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9997994",
+    "scoala": "Școala Gimnazială 'I. C. Drăgușanu' Drăguș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10001220",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.25,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV10001220",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9259319",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9259319",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10067245",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10067245",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10694933",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.15,
+    "diferenta": -0.65
+  },
+  {
+    "cod": "BV10694933",
+    "scoala": "Școala Gimnazială Sânpetru",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10128123",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10128123",
+    "scoala": "Școala Gimnazială Nr. 14 'Sfântul Bartolomeu' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9645251",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8222396",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV8222396",
+    "scoala": "Colegiul Național 'Johannes Honterus' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "BV10445784",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV11198980",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9012618",
+    "scoala": "Școala Gimnazială Nr. 11 'Ștefan Octavian Iosif' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 3.75,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "BV11200305",
+    "scoala": "Liceul Teologic Ortodox 'Sf. Constantin Brâncoveanu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9903790",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV9903790",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9280698",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV12147801",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 4.55,
+    "diferenta": -0.9
+  },
+  {
+    "cod": "BV12147801",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9280597",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "BV9280597",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.05,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10621451",
+    "scoala": "Școala Gimnazială 'Bethlen Samuel' Racoș",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9429535",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5,
+    "diferenta": -0.45
+  },
+  {
+    "cod": "BV9429535",
+    "scoala": "Școala Gimnazială 'Peter Thal' Râșnov",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.6,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9593835",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9593835",
+    "scoala": "Liceul cu Program Sportiv Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10631471",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 5.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV10631471",
+    "scoala": "Școala Gimnazială Nr. 13 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9861137",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.5,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "BV9861137",
+    "scoala": "Școala Gimnazială Nr. 3 Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9692469",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.7,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9692469",
+    "scoala": "Școala Gimnazială Nr. 2 'Diaconu Coresi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV9644225",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9644225",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Matematică",
+    "nota_initiala": 4.15,
+    "nota_finala": 4.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9939883",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.35,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9939883",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Matematică",
+    "nota_initiala": 3.9,
+    "nota_finala": 4.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV13464327",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV13464327",
+    "scoala": "Liceul PREMS Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV8875038",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV8875038",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9927929",
+    "scoala": "Școala Gimnazială nr. 4 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV13635737",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.3,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "BV13635737",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 2.95,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV9561007",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9561007",
+    "scoala": "Școala Gimnazială Rupea",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10082481",
+    "scoala": "Liceul Teoretic 'I.C. Drăgușanu' Victoria",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.1,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "BV9844528",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9844528",
+    "scoala": "Școala Gimnazială 'Ovid Densusianu' Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 2.85,
+    "nota_finala": 3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV9803635",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9803635",
+    "scoala": "Școala Gimnazială Nr. 30 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV10283510",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV11191343",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "BV11191343",
+    "scoala": "Școala Gimnazială Nr. 1 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9504990",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10392987",
+    "scoala": "Școala Gimnazială Hălchiu",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV8194825",
+    "scoala": "Școala Gimnazială Homorod",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.1,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV10671647",
+    "scoala": "Liceul Teoretic 'I.C. Drăgușanu' Victoria",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.25,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "BV10671647",
+    "scoala": "Liceul Teoretic 'I.C. Drăgușanu' Victoria",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV9866408",
+    "scoala": "Școala Gimnazială Nr. 3 'Pompiliu Dan' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10580521",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.15,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "BV10580521",
+    "scoala": "Școala Gimnazială Nr. 15 Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "BV9987024",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "BV9987024",
+    "scoala": "Liceul Teoretic 'Ioan Pascu' Codlea",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "BV10061840",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10061840",
+    "scoala": "Școala Gimnazială Nr. 27 'Anatol Ghermanschi' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.1,
+    "nota_finala": 3.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "BV10495344",
+    "scoala": "Școala Gimnazială Teliu",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 5,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "BV10495344",
+    "scoala": "Școala Gimnazială Teliu",
+    "materie": "Matematică",
+    "nota_initiala": 2.6,
+    "nota_finala": 2.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV10346283",
+    "scoala": "Liceul Teoretic 'Mitropolit Ioan Mețianu' Zărnești",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.3,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "BV10695016",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 3.8,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "BV10695016",
+    "scoala": "Colegiul Tehnic 'Mircea Cristea' Brașov",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9450408",
+    "scoala": "Școala Gimnazială Nr. 4 Făgăraș",
+    "materie": "Matematică",
+    "nota_initiala": 1.75,
+    "nota_finala": 1.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "BV9365242",
+    "scoala": "Școala Gimnazială Ghimbav",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "BV9939798",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 3.6,
+    "diferenta": -0.95
+  },
+  {
+    "cod": "BV9939798",
+    "scoala": "Școala Gimnazială Nr. 1 Poiana Mărului",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.45,
+    "diferenta": -0.1
+  }
+]

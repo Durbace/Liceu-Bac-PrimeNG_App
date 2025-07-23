@@ -1,0 +1,1962 @@
+[
+  {
+    "cod": "IL8540491",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 9.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8477098",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.9,
+    "nota_finala": 10,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9245344",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.95,
+    "nota_finala": 10,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8430542",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 9.45,
+    "diferenta": 0.9
+  },
+  {
+    "cod": "IL8571901",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL8261338",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL10440012",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8398411",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.85,
+    "nota_finala": 9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8434404",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL10693923",
+    "scoala": "LICEUL TEORETIC CAROL I FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.05,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IL9940278",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9940278",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.7,
+    "nota_finala": 9.45,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IL10287891",
+    "scoala": "LICEUL TEHNOLOGIC FIERBINŢI-TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8821638",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL10108657",
+    "scoala": "LICEUL TEORETIC CAROL I FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL10287925",
+    "scoala": "LICEUL TEORETIC CAROL I FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9346280",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9346280",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL10116560",
+    "scoala": "LICEUL TEORETIC CAROL I FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8614656",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9291419",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL9291419",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Matematică",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.25,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9330891",
+    "scoala": "ŞCOALA GIMNAZIALĂ GÂRBOVI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL9136278",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.75,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IL9136278",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 9.2,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IL9206493",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IL8935078",
+    "scoala": "LICEUL TEORETIC CAROL I FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.25,
+    "nota_finala": 8.4,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9284806",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL9753087",
+    "scoala": "ŞCOALA GIMNAZIALĂ COŞERENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.3,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9909790",
+    "scoala": "ŞCOALA PROFESIONALĂ ARETA TEODORESCU GRIVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IL9184665",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂVENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8999758",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.35,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL9016888",
+    "scoala": "COLEGIUL NAŢIONALGRIGORE MOISIL URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.3,
+    "nota_finala": 9.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL9151147",
+    "scoala": "LICEUL TEORETIC PAUL GEORGESCU ŢĂNDĂREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.6,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8356183",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.65,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL10345761",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAIL KOGĂLNICEANU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL10292486",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8,
+    "nota_finala": 9.15,
+    "diferenta": 1.15
+  },
+  {
+    "cod": "IL9564667",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9242917",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9242917",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.95,
+    "nota_finala": 9.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL9820749",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9.5,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL12482919",
+    "scoala": "ŞCOALA GIMNAZIALĂ DRIDU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.9,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL9242249",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8632585",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.7,
+    "nota_finala": 8.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IL9191838",
+    "scoala": "ŞCOALA GIMNAZIALĂ COCORA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9191838",
+    "scoala": "ŞCOALA GIMNAZIALĂ COCORA",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8957411",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9062209",
+    "scoala": "ŞCOALA GIMNAZIALĂ COŞERENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8356221",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.2,
+    "nota_finala": 8.7,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL8356221",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8632245",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8429375",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9927367",
+    "scoala": "ŞCOALA GIMNAZIALĂ MILOŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL9927367",
+    "scoala": "ŞCOALA GIMNAZIALĂ MILOŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9182676",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL IERARH NICOLAE BUCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8359952",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARBU CATARGIU MAIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9819813",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 8.5,
+    "diferenta": 0.95
+  },
+  {
+    "cod": "IL9819813",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL8476896",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9362286",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL IERARH NICOLAE BUCU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9362286",
+    "scoala": "ŞCOALA GIMNAZIALĂ SFÂNTUL IERARH NICOLAE BUCU",
+    "materie": "Matematică",
+    "nota_initiala": 7.15,
+    "nota_finala": 7.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9970341",
+    "scoala": "ŞCOALA PROFESIONALĂ ARETA TEODORESCU GRIVIŢA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL8833656",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8477310",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8433485",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9034887",
+    "scoala": "ŞCOALA GIMNAZIALĂ SINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8632159",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6.2,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IL8632159",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL10438940",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.45,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9979366",
+    "scoala": "LICEUL TEHNOLOGIC FIERBINŢI-TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.6,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IL9979366",
+    "scoala": "LICEUL TEHNOLOGIC FIERBINŢI-TÂRG",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8397492",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 8.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9141497",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9240950",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8476083",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.75,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IL8476083",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.35,
+    "nota_finala": 6.55,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9009729",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.5,
+    "nota_finala": 7.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8695483",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE VÂLSAN AMARA",
+    "materie": "Matematică",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9820684",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.1,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL9593931",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂRĂŢENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7,
+    "nota_finala": 7.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL9309397",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN GURGU NR.1 GURA IALOMIŢEI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9244980",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9018205",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9978508",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN ŞTEFAN ALBEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8996970",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IL8355763",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.95,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8613545",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9261155",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8701079",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 7,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IL8614144",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8614144",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 6.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8784149",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALTEZI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IL9034617",
+    "scoala": "ŞCOALA GIMNAZIALĂ SINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 7.1,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IL9016937",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.1,
+    "nota_finala": 7.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9016937",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8632370",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE LAZĂR SLOBOZIA-LIC.TEH.ÎNALȚAREA DOMNULUI SLOB.",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.05,
+    "nota_finala": 7.2,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8632370",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE LAZĂR SLOBOZIA-LIC.TEH.ÎNALȚAREA DOMNULUI SLOB.",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9243872",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IL9753378",
+    "scoala": "ŞCOALA GIMNAZIALĂ COŞERENI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 6.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8018755",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL9225391",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂVENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.9,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9139179",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.3,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "IL9243903",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9243903",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9240571",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 5.5,
+    "diferenta": -0.7
+  },
+  {
+    "cod": "IL8989322",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL8989322",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8417462",
+    "scoala": "ŞCOALA GIMNAZIALĂ AUREL VLAICU FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IL8717331",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 6.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL8717331",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9570436",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU ROŞU-LIC.TEH.ARMĂŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 6,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9018599",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IL8072000",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.5,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IL8072000",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9564960",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9055604",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALTEZI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL11196247",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU ROŞU-LIC.TEH.ARMĂŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9330657",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.65,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9330657",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU ODOBESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 5.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IL11187493",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.15,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL11187493",
+    "scoala": "COLEGIUL NAŢIONAL MIHAI VITEAZUL SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8514463",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU VODĂ FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8698780",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE LAZĂR SLOBOZIA-LIC.TEH.ÎNALȚAREA DOMNULUI SLOB.",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.35,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "IL9491066",
+    "scoala": "ŞCOALA GIMNAZIALĂ CĂPITAN AVIATOR CONSTANTIN M.CANTACUZINO JILAVELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8404591",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.25,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "IL9572077",
+    "scoala": "COLEGIUL NAŢIONALGRIGORE MOISIL URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9572077",
+    "scoala": "COLEGIUL NAŢIONALGRIGORE MOISIL URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9139903",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 6.6,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "IL8694391",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL10439323",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 5.5,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "IL10476279",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLATONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.25,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL9055378",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALTEZI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL10116283",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.85,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL8558367",
+    "scoala": "ŞCOALA GIMNAZIALĂ MAICA DOMNULUI ROŞIORI",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IL9240803",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.4,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IL9334420",
+    "scoala": "ŞCOALA GIMNAZIALĂ BĂRCĂNEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8632811",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9811261",
+    "scoala": "ŞCOALA PROFESIONALĂ BORDUŞANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.35,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL13173492",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IL8711835",
+    "scoala": "ŞCOALA GIMNAZIALĂ GEORGE VÂLSAN AMARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.8,
+    "nota_finala": 6.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "IL10526197",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL10759509",
+    "scoala": "ŞCOALA GIMNAZIALĂ COLELIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL9627465",
+    "scoala": "ŞCOALA GIMNAZIALĂ VALEA CIORII",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL9227280",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN COPOIU ANDRĂŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.65,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9227280",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN COPOIU ANDRĂŞEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.6,
+    "nota_finala": 5.6,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8776986",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ŢĂNDĂREI",
+    "materie": "Matematică",
+    "nota_initiala": 4.1,
+    "nota_finala": 4.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9570399",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU ROŞU-LIC.TEH.ARMĂŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.3,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL9811182",
+    "scoala": "ŞCOALA PROFESIONALĂ BORDUŞANI",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9528575",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIMITRIE CANTEMIR FETESTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 6.75,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL9528575",
+    "scoala": "ŞCOALA GIMNAZIALĂ DIMITRIE CANTEMIR FETESTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.45,
+    "nota_finala": 4.35,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL10489183",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.95,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL11193781",
+    "scoala": "ŞCOALA GIMNAZIALĂ RADU VODĂ FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8418398",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLĂDENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.8,
+    "nota_finala": 2.7,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9205551",
+    "scoala": "ŞCOALA GIMNAZIALĂ EVANGHELIE ZAPPA BROŞTENI-ŞC.PROF.PROF.IOAN MAN ION ROATĂ",
+    "materie": "Matematică",
+    "nota_initiala": 2.75,
+    "nota_finala": 2.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8802212",
+    "scoala": "ŞCOALA GIMNAZIALĂ FĂCĂENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.75,
+    "nota_finala": 3.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8430592",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 5.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL9201560",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8142611",
+    "scoala": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL8142611",
+    "scoala": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.55,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IL8476171",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4,
+    "nota_finala": 4.7,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "IL9285205",
+    "scoala": "ŞCOALA GIMNAZIALĂ MANASIA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4.05,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9564748",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "IL9820614",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL8599567",
+    "scoala": "ŞCOALA GIMNAZIALĂ SINEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.25,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9244907",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "IL9244907",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "IL8996191",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.25,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9741745",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ŢĂNDĂREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.8,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "IL8888408",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.8,
+    "nota_finala": 5,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8697977",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8697977",
+    "scoala": "ŞCOALA GIMNAZIALĂ NR.3 SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8430230",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9204751",
+    "scoala": "ŞCOALA GIMNAZIALĂ EVANGHELIE ZAPPA BROŞTENI-ŞC.PROF.PROF.IOAN MAN ION ROATĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.7,
+    "diferenta": 1
+  },
+  {
+    "cod": "IL8616359",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.85,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8616359",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8476140",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 5.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL8476140",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL10022586",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂLCIOARA",
+    "materie": "Matematică",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL8632921",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9156551",
+    "scoala": "LICEUL TEORETIC PAUL GEORGESCU ŢĂNDĂREI",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9330669",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL9330669",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8632877",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8687081",
+    "scoala": "ŞCOALA GIMNAZIALĂ VLĂDENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.15,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL9326363",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCÂNTEIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.4,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9204969",
+    "scoala": "ŞCOALA GIMNAZIALĂ EVANGHELIE ZAPPA BROŞTENI-ŞC.PROF.PROF.IOAN MAN ION ROATĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IL12902318",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9810977",
+    "scoala": "ŞCOALA PROFESIONALĂ BORDUŞANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.85,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9810977",
+    "scoala": "ŞCOALA PROFESIONALĂ BORDUŞANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.65,
+    "nota_finala": 3.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9545043",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.75,
+    "nota_finala": 5.7,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9545043",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 3.95,
+    "nota_finala": 3.85,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL8904336",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.2,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL10022644",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂLCIOARA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5,
+    "nota_finala": 5.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL10022644",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂLCIOARA",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9686194",
+    "scoala": "ŞCOALA GIMNAZIALĂ SĂRĂŢENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8244667",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.45,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "IL8244667",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8884805",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8884805",
+    "scoala": "ŞCOALA GIMNAZIALĂ ION HELIADE RĂDULESCU URZICENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9900260",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU RĂDULESCU MĂRCULEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.3,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL9900260",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU RĂDULESCU MĂRCULEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9899821",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU RĂDULESCU MĂRCULEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.85,
+    "nota_finala": 2.9,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9467255",
+    "scoala": "ŞCOALA GIMNAZIALĂ DRIDU",
+    "materie": "Matematică",
+    "nota_initiala": 2.55,
+    "nota_finala": 2.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8364524",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.55,
+    "nota_finala": 3.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9448366",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLATONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9448366",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLATONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.3,
+    "nota_finala": 3.3,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9227405",
+    "scoala": "ŞCOALA GIMNAZIALĂ ŞTEFAN COPOIU ANDRĂŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.3,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9201274",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9201274",
+    "scoala": "LICEUL TEHNOLOGIC ÎNĂLŢAREA DOMNULUI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.1,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL10107109",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIOCHINA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8701858",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE LAZĂR SLOBOZIA-LIC.TEH.ÎNALȚAREA DOMNULUI SLOB.",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.85,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8701858",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE LAZĂR SLOBOZIA-LIC.TEH.ÎNALȚAREA DOMNULUI SLOB.",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.25,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "IL11086043",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ŢĂNDĂREI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.5,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL11086043",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ŢĂNDĂREI",
+    "materie": "Matematică",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL8210052",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL8011066",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9988078",
+    "scoala": "ŞCOALA GIMNAZIALĂ SPIRU HARET ŢĂNDĂREI",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL10579865",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARBU CATARGIU MAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 4.9,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL10438421",
+    "scoala": "LICEUL TEHNOLOGIC ANGHEL SALIGNY FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 4.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8212881",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "IL8212881",
+    "scoala": "ŞCOALA GIMNAZIALĂ MIHAI VITEAZUL FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 2.3,
+    "nota_finala": 2.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "IL8969687",
+    "scoala": "ŞCOALA GIMNAZIALĂ SF.ANDREI SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9160757",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLATONEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9160757",
+    "scoala": "ŞCOALA GIMNAZIALĂ PLATONEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9936690",
+    "scoala": "ŞCOALA GIMNAZIALĂ CIOCHINA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8400613",
+    "scoala": "LICEUL DE ARTE IONEL PERLEA SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 5.45,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "IL10070915",
+    "scoala": "LICEUL TEHNOLOGIC FIERBINŢI-TÂRG",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL9904303",
+    "scoala": "ŞCOALA GIMNAZIALĂ ALEXANDRU RĂDULESCU MĂRCULEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.85,
+    "diferenta": 1
+  },
+  {
+    "cod": "IL9208166",
+    "scoala": "ŞCOALA GIMNAZIALĂ EVANGHELIE ZAPPA BROŞTENI-ŞC.PROF.PROF.IOAN MAN ION ROATĂ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.85,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "IL9166881",
+    "scoala": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ FETEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.3,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "IL9166881",
+    "scoala": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ FETEŞTI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9326393",
+    "scoala": "ŞCOALA GIMNAZIALĂ SCÂNTEIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "IL8361581",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARBU CATARGIU MAIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "IL8361581",
+    "scoala": "ŞCOALA GIMNAZIALĂ BARBU CATARGIU MAIA",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9570175",
+    "scoala": "ŞCOALA GIMNAZIALĂ MALU ROŞU-LIC.TEH.ARMĂŞEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.3,
+    "nota_finala": 4.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "IL9820977",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.25,
+    "nota_finala": 3.05,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "IL9192158",
+    "scoala": "ŞCOALA GIMNAZIALĂ COCORA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9811214",
+    "scoala": "ŞCOALA PROFESIONALĂ BORDUŞANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.35,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "IL9987598",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN ŞTEFAN ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "IL9023125",
+    "scoala": "ŞCOALA GIMNAZIALĂ APOSTOL D.CULEA SUDIŢI",
+    "materie": "Matematică",
+    "nota_initiala": 2.05,
+    "nota_finala": 2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "IL9432851",
+    "scoala": "ŞCOALA GIMNAZIALĂ CONSTANTIN ŞTEFAN ALBEŞTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.2,
+    "nota_finala": 3.85,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "IL8432734",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.35,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL8432734",
+    "scoala": "LICEUL PEDAGOGIC MATEI BASARAB SLOBOZIA",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  },
+  {
+    "cod": "IL9820833",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 2.25,
+    "nota_finala": 2.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "IL9820833",
+    "scoala": "ŞCOALA GIMNAZIALĂ GHEORGHE DOJA",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  }
+]

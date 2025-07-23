@@ -1,0 +1,2082 @@
+[
+  {
+    "cod": "GR11197286",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 9.8,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GR9687461",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.55,
+    "nota_finala": 9.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9687461",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Matematică",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR8848152",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.25,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GR9693955",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.5,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR9952335",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.1,
+    "nota_finala": 8.9,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR9952335",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Matematică",
+    "nota_initiala": 9.5,
+    "nota_finala": 9.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9558288",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9689043",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.8,
+    "nota_finala": 9.1,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9454873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR8742068",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8958579",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Matematică",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.55,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR10336298",
+    "scoala": "ȘCOALA PROFESIONALĂ CLEJANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.6,
+    "nota_finala": 9.35,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GR10336298",
+    "scoala": "ȘCOALA PROFESIONALĂ CLEJANI",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR9465386",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROATA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.9,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GR9628724",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VALEA DRAGULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.35,
+    "nota_finala": 8.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9628724",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VALEA DRAGULUI",
+    "materie": "Matematică",
+    "nota_initiala": 9,
+    "nota_finala": 9.4,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GR9994686",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂRĂȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9342873",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR9629607",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COLIBAȘI",
+    "materie": "Matematică",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.2,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9213596",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SĂBĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.55,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8553871",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 IEPUREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.25,
+    "nota_finala": 9.35,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8450278",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.6,
+    "nota_finala": 9.1,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GR9325146",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ANGHEL MAREȘ GOSTINU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.75,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GR9582131",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.65,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GR9921707",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9266923",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.45,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR10938546",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POPEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.55,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR11188254",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.75,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR8726041",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 9.05,
+    "nota_finala": 9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9686756",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR8756253",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9565492",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BUTURUGENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.9,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR8743287",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.65,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9685794",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9685794",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Matematică",
+    "nota_initiala": 8.55,
+    "nota_finala": 8.7,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR8947279",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9718477",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8673231",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.65,
+    "nota_finala": 8.55,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR8614159",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GR9462781",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VALEA DRAGULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.5,
+    "nota_finala": 8.8,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9920294",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.35,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR11199256",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9904795",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ZĂDĂRICIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9561176",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 8.8,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR9478505",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 DOBRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GR9478505",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 DOBRENI",
+    "materie": "Matematică",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.6,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9266811",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.1,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9597767",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 6.95,
+    "nota_finala": 7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9540456",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VÂNĂTORII MICI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.75,
+    "nota_finala": 8.65,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR9932689",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂRĂȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9932689",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂRĂȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9762228",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.9,
+    "nota_finala": 9.15,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR8905371",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 9.2,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GR10378995",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR10378995",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9333922",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 ROATA DE JOS",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR11187386",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 8.1,
+    "nota_finala": 8.2,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8449516",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9768450",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9266904",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.7,
+    "nota_finala": 8.2,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GR9266904",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR10377751",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.45,
+    "nota_finala": 9.05,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR8994644",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 REMUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.3,
+    "nota_finala": 8.05,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GR9341870",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9512287",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL NECTARIE OGREZENI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.8,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR11003353",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 9.1,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GR11003353",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.05,
+    "nota_finala": 6.9,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9454924",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.4,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GR9909672",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.6,
+    "nota_finala": 8.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9342793",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.15,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9342793",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9266828",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 8.8,
+    "diferenta": 0.75
+  },
+  {
+    "cod": "GR8960732",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.75,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10097001",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TÂNTAVA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.3,
+    "nota_finala": 8.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR8775867",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.25,
+    "nota_finala": 7.9,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR9052514",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Matematică",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9691358",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.15,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9691358",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR9910947",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.45,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9910947",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 8.45,
+    "nota_finala": 8.25,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR9122681",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GRĂDINARI",
+    "materie": "Matematică",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.45,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR9266928",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.95,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR9266928",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.65,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR8909296",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 7,
+    "nota_finala": 6.85,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR11186819",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.4,
+    "nota_finala": 9.2,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GR11186819",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.1,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9324929",
+    "scoala": "ȘCOALA GIMNAZIALĂ „PETRE ADAMEȘTEANU TOPORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.55,
+    "nota_finala": 8,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "GR9324929",
+    "scoala": "ȘCOALA GIMNAZIALĂ „PETRE ADAMEȘTEANU TOPORU",
+    "materie": "Matematică",
+    "nota_initiala": 7.3,
+    "nota_finala": 7.2,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR10378638",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POENARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.35,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR10378638",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POENARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.85,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9627157",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.85,
+    "nota_finala": 8.2,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GR9627157",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GR11192256",
+    "scoala": "ȘCOALA GIMNAZIALĂ „AUREL SOLACOLU OGREZENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.95,
+    "nota_finala": 7.8,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9324912",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ANGHEL MAREȘ GOSTINU",
+    "materie": "Matematică",
+    "nota_initiala": 7.4,
+    "nota_finala": 7.6,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR10309125",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POENARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.35,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR10309125",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POENARI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.65,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR10490462",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BUTURUGENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GR9507452",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GĂISENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.65,
+    "nota_finala": 7.7,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9507452",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GĂISENI",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GR9921392",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 7.7,
+    "nota_finala": 7.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR10740605",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9862714",
+    "scoala": "ȘCOALA GIMNAZIALĂ „BANU BĂLEANU BOLINTIN-DEAL",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR10381124",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.4,
+    "nota_finala": 8.25,
+    "diferenta": 0.85
+  },
+  {
+    "cod": "GR9401851",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELINA BASARAB HERĂȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 7,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9336835",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ELINA BASARAB HERĂȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 6.75,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR8961185",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.8,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR9569825",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.5,
+    "nota_finala": 7.5,
+    "diferenta": 1
+  },
+  {
+    "cod": "GR11196982",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.35,
+    "nota_finala": 7.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9503122",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.4 ZĂDĂRICIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.1,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR8904653",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 7.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR11188781",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 7.55,
+    "nota_finala": 7.4,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9748715",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Matematică",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR8449006",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 JOIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9600801",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.2,
+    "nota_finala": 8.5,
+    "diferenta": 1.3
+  },
+  {
+    "cod": "GR9049094",
+    "scoala": "ȘCOALA GIMNAZIALĂ „AUREL SOLACOLU OGREZENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 8.2,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR9879663",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.15,
+    "nota_finala": 8.15,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9879663",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.75,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR8757889",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL GHEORGHE” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR8757889",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL GHEORGHE” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.1,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9540610",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.45,
+    "nota_finala": 7.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9980443",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MARIN M. ȚICULESCU” BĂNEASA",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9266945",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR9921812",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.8,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9923927",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GREACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR8723354",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Matematică",
+    "nota_initiala": 5.45,
+    "nota_finala": 5.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9267146",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.35,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9462817",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VALEA DRAGULUI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.2,
+    "nota_finala": 6.4,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR9912910",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.05,
+    "nota_finala": 6.65,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR9982408",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GHIMPAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 8.05,
+    "nota_finala": 7.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR8451609",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.75,
+    "nota_finala": 7.9,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9266934",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 STOENEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6.55,
+    "nota_finala": 7.05,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GR8614248",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.35,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9019271",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.8,
+    "nota_finala": 7.2,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "GR9019271",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.85,
+    "nota_finala": 6.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR11076253",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.6,
+    "nota_finala": 6.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR11076253",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.4,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR10308925",
+    "scoala": "ȘCOALA GIMNAZIALĂ „BANU BĂLEANU BOLINTIN-DEAL",
+    "materie": "Matematică",
+    "nota_initiala": 6.4,
+    "nota_finala": 6.2,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR8678342",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.9,
+    "nota_finala": 7.05,
+    "diferenta": -0.85
+  },
+  {
+    "cod": "GR8678342",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Matematică",
+    "nota_initiala": 6.05,
+    "nota_finala": 6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8901156",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GR8766928",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 7.5,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GR8766928",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8613091",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 7.6,
+    "nota_finala": 7.25,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR8613091",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 6,
+    "nota_finala": 5.7,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GR9569123",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.75,
+    "nota_finala": 7.05,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR8727703",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.25,
+    "nota_finala": 6.95,
+    "diferenta": 0.7
+  },
+  {
+    "cod": "GR8720982",
+    "scoala": "LICEUL „UDRIȘTE NĂSTUREL” HOTARELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.85,
+    "nota_finala": 7.1,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR9993191",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VĂRĂȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.65,
+    "nota_finala": 6.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9328660",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.1,
+    "nota_finala": 6.45,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GR9328660",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.15,
+    "nota_finala": 6.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR8694814",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 JOIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.45,
+    "nota_finala": 5.9,
+    "diferenta": -0.55
+  },
+  {
+    "cod": "GR8910556",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 6.45,
+    "nota_finala": 6.5,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9312938",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE CREVEDIA” CREVEDIA MARE",
+    "materie": "Matematică",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR11195941",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 JOIȚA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.95,
+    "nota_finala": 7.5,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GR11195941",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 JOIȚA",
+    "materie": "Matematică",
+    "nota_initiala": 5.25,
+    "nota_finala": 5.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR10379076",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR8905524",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 6.35,
+    "diferenta": 1
+  },
+  {
+    "cod": "GR8917045",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.8,
+    "diferenta": 0.5
+  },
+  {
+    "cod": "GR11076239",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.45,
+    "diferenta": 0.55
+  },
+  {
+    "cod": "GR11076239",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.9,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR8427112",
+    "scoala": "ȘCOALA GIMNAZIALĂ „APOSTOL ARSACHE VEDEA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.35,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR9512666",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL NECTARIE OGREZENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.85,
+    "nota_finala": 4.45,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GR9934879",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 5.4,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GR9627121",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.65,
+    "nota_finala": 6.25,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR8893726",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.45,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR11189879",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR10018632",
+    "scoala": "ȘCOALA GIMNAZIALĂ „REMUS BEGNESCU” PIETRELE",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.9,
+    "nota_finala": 6.75,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR10018632",
+    "scoala": "ȘCOALA GIMNAZIALĂ „REMUS BEGNESCU” PIETRELE",
+    "materie": "Matematică",
+    "nota_initiala": 4.95,
+    "nota_finala": 5.05,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8582700",
+    "scoala": "ȘCOALA GIMNAZIALĂ „PETRE ADAMEȘTEANU TOPORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.8,
+    "nota_finala": 6.65,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9500067",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.4,
+    "nota_finala": 5.6,
+    "diferenta": -0.8
+  },
+  {
+    "cod": "GR9920485",
+    "scoala": "LICEUL TEHNOLOGIC „TIU DUMITRESCU” MIHĂILEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.85,
+    "nota_finala": 5.05,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR9688516",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 COSOBA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.6,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9515456",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.15,
+    "nota_finala": 5.65,
+    "diferenta": -0.5
+  },
+  {
+    "cod": "GR8741183",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.6,
+    "nota_finala": 6.4,
+    "diferenta": 0.8
+  },
+  {
+    "cod": "GR10372332",
+    "scoala": "ȘCOALA GIMNAZIALĂ „DUMITRU CONSTANTIN MIHAI BRAVU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.5,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR9530832",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 TÂNTAVA",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.75,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9497545",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.25,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10378587",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.7,
+    "nota_finala": 6.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8779695",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 FLOREȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.85,
+    "nota_finala": 3.7,
+    "diferenta": -0.15
+  },
+  {
+    "cod": "GR8909623",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.35,
+    "diferenta": 0.65
+  },
+  {
+    "cod": "GR8909623",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.8,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9884310",
+    "scoala": "COLEGIUL NAȚIONAL „ION MAIORESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.05,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GR10732726",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.2,
+    "nota_finala": 5.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9617000",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SĂBĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.3,
+    "diferenta": 0.6
+  },
+  {
+    "cod": "GR9617000",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SĂBĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9554626",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.1,
+    "nota_finala": 4.85,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GR10808417",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.35,
+    "nota_finala": 5.5,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR10808417",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8129333",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 STĂNEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 5.7,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR10344173",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.5 GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.7,
+    "nota_finala": 6.15,
+    "diferenta": 0.45
+  },
+  {
+    "cod": "GR8772570",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.5,
+    "nota_finala": 5.55,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9497649",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.35,
+    "nota_finala": 6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR8862163",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL GHEORGHE” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.9,
+    "nota_finala": 6.25,
+    "diferenta": 0.35
+  },
+  {
+    "cod": "GR8910985",
+    "scoala": "ȘCOALA GIMNAZIALĂ „AUREL SOLACOLU OGREZENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.9,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9214990",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SĂBĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.95,
+    "nota_finala": 5.6,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR9214990",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 SĂBĂRENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.8,
+    "nota_finala": 4.8,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9512388",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFÂNTUL NECTARIE OGREZENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.05,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9439319",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.65,
+    "nota_finala": 4.75,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR11076385",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.25,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR9768169",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.9,
+    "nota_finala": 5.2,
+    "diferenta": 0.3
+  },
+  {
+    "cod": "GR9768169",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 5,
+    "nota_finala": 5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8910452",
+    "scoala": "ȘCOALA GIMNAZIALĂ „AUREL SOLACOLU OGREZENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.55,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR8910452",
+    "scoala": "ȘCOALA GIMNAZIALĂ „AUREL SOLACOLU OGREZENI",
+    "materie": "Matematică",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.6,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR10264998",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.1,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR9323630",
+    "scoala": "ȘCOALA GIMNAZIALĂ „PETRE ADAMEȘTEANU TOPORU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.3,
+    "nota_finala": 5.1,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR9323630",
+    "scoala": "ȘCOALA GIMNAZIALĂ „PETRE ADAMEȘTEANU TOPORU",
+    "materie": "Matematică",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.95,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR10371114",
+    "scoala": "ȘCOALA GIMNAZIALĂ „DUMITRU CONSTANTIN MIHAI BRAVU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.55,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GR8956781",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.85,
+    "nota_finala": 5.65,
+    "diferenta": -0.2
+  },
+  {
+    "cod": "GR8956781",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.3 PALANCA",
+    "materie": "Matematică",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.35,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8903067",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.3,
+    "nota_finala": 6.4,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8903067",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 3.6,
+    "nota_finala": 3.55,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8682797",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIHAI EMINESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.05,
+    "nota_finala": 4.05,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9924599",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GREACA",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR11076039",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 6.55,
+    "nota_finala": 6.15,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GR11076039",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8863447",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.7 GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.75,
+    "nota_finala": 4.15,
+    "diferenta": -0.6
+  },
+  {
+    "cod": "GR9563137",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 CĂLUGĂRENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.65,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GR9827971",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.8,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR11199064",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.75,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9914487",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 OINACU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.25,
+    "nota_finala": 4.2,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR11199033",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.95,
+    "nota_finala": 4.2,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR10265038",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 4.8,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR10265038",
+    "scoala": "ȘCOALA GIMNAZIALĂ „SFINȚII MARTIRI BRÂNCOVENI” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.7,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR10301378",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ÎNV. AUREL PASCU”",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.15,
+    "nota_finala": 5.3,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR10301378",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ÎNV. AUREL PASCU”",
+    "materie": "Matematică",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.1,
+    "diferenta": -0.3
+  },
+  {
+    "cod": "GR8641671",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.5 GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.95,
+    "nota_finala": 4.9,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8641671",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.5 GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4.5,
+    "nota_finala": 4.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9977712",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GREACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.75,
+    "diferenta": 0.2
+  },
+  {
+    "cod": "GR10314081",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POENARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.85,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9342778",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.6,
+    "nota_finala": 4.65,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9342778",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Matematică",
+    "nota_initiala": 4.7,
+    "nota_finala": 4.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10807984",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.4,
+    "nota_finala": 5.15,
+    "diferenta": -0.25
+  },
+  {
+    "cod": "GR10807984",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GOSTINARI",
+    "materie": "Matematică",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.95,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR9343017",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 CARTOJANI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9442673",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.35,
+    "nota_finala": 4.75,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GR10323638",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 5.05,
+    "nota_finala": 4.65,
+    "diferenta": -0.4
+  },
+  {
+    "cod": "GR10323638",
+    "scoala": "ȘCOALA GIMNAZIALĂ „NICOLAE LAHOVARY” TRESTIENI",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10374971",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 4.05,
+    "diferenta": 0.25
+  },
+  {
+    "cod": "GR8770059",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIRCEA CEL BĂTRÂN GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.55,
+    "nota_finala": 4.5,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8770059",
+    "scoala": "ȘCOALA GIMNAZIALĂ „MIRCEA CEL BĂTRÂN GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 4,
+    "nota_finala": 4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9929081",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GREACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.2,
+    "nota_finala": 3.3,
+    "diferenta": 0.1
+  },
+  {
+    "cod": "GR8905665",
+    "scoala": "ȘCOALA GIMNAZIALĂ „ACADEMICIAN MARIN VOICULESCU” GIURGIU",
+    "materie": "Matematică",
+    "nota_initiala": 2.65,
+    "nota_finala": 2.65,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9929826",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GREACA",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.4,
+    "nota_finala": 4.4,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8636364",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 MALU SPART",
+    "materie": "Matematică",
+    "nota_initiala": 2.7,
+    "nota_finala": 2.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR11076351",
+    "scoala": "ȘCOALA GIMNAZIALĂ „IOAN BADILĂ MALU",
+    "materie": "Matematică",
+    "nota_initiala": 2.35,
+    "nota_finala": 2.4,
+    "diferenta": 0.05
+  },
+  {
+    "cod": "GR9554817",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.5 GIURGIU",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 4.05,
+    "nota_finala": 4,
+    "diferenta": -0.05
+  },
+  {
+    "cod": "GR8619686",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GHIMPAȚI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.4,
+    "nota_finala": 3.8,
+    "diferenta": 0.4
+  },
+  {
+    "cod": "GR8619686",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GHIMPAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR9603589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 BOLINTIN-VALE",
+    "materie": "Matematică",
+    "nota_initiala": 2.2,
+    "nota_finala": 2.2,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10967339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.45,
+    "nota_finala": 3.45,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10967339",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POPEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3.5,
+    "nota_finala": 3.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10970856",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POPEȘTI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.7,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10970856",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 POPEȘTI",
+    "materie": "Matematică",
+    "nota_initiala": 3,
+    "nota_finala": 3,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR10915146",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 VLAD ȚEPEȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2.15,
+    "diferenta": 0.15
+  },
+  {
+    "cod": "GR8619589",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.1 GHIMPAȚI",
+    "materie": "Matematică",
+    "nota_initiala": 1.5,
+    "nota_finala": 1.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR11111656",
+    "scoala": "ȘCOALA GIMNAZIALĂ „CONSTANTIN STĂNCESCU RĂSUCENI",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.8,
+    "nota_finala": 3.45,
+    "diferenta": -0.35
+  },
+  {
+    "cod": "GR11111656",
+    "scoala": "ȘCOALA GIMNAZIALĂ „CONSTANTIN STĂNCESCU RĂSUCENI",
+    "materie": "Matematică",
+    "nota_initiala": 2.5,
+    "nota_finala": 2.5,
+    "diferenta": 0
+  },
+  {
+    "cod": "GR8997259",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 REMUȘ",
+    "materie": "Limba și literatura română",
+    "nota_initiala": 3.7,
+    "nota_finala": 3.6,
+    "diferenta": -0.1
+  },
+  {
+    "cod": "GR8997259",
+    "scoala": "ȘCOALA GIMNAZIALĂ NR.2 REMUȘ",
+    "materie": "Matematică",
+    "nota_initiala": 2,
+    "nota_finala": 2,
+    "diferenta": 0
+  }
+]
