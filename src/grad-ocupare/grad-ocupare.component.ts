@@ -30,6 +30,17 @@ export class GradOcupareComponent implements OnInit {
   partial: GradOcupareItem[] = [];
   neocupat: GradOcupareItem[] = [];
 
+  tipSelectat: {
+    label: string;
+    value: 'complet' | 'partial' | 'neocupat';
+  } | null = null;
+
+  optiuniTipAfisare = [
+    { label: 'Licee complet ocupate', value: 'complet' },
+    { label: 'Licee parțial ocupate', value: 'partial' },
+    { label: 'Licee neocupate', value: 'neocupat' },
+  ];
+
   loading = false;
   error = '';
 
@@ -61,35 +72,51 @@ export class GradOcupareComponent implements OnInit {
   }
 
   onSubmit() {
-    this.formularTrimis = true;
+  this.formularTrimis = true;
 
-    if (this.pozitie === null || !this.anSelectat) return;
+  if (this.pozitie === null || !this.anSelectat) return;
 
-    this.loading = true;
-    this.error = '';
-    this.complet = [];
-    this.partial = [];
+  this.loading = true;
+  this.error = '';
+  this.complet = [];
+  this.partial = [];
+  this.neocupat = [];
 
-    this.gradService
-      .getGradOcupare(
-        this.anSelectat.value,
-        this.pozitie,
-        this.judetSelectat?.value
-      )
-      .subscribe({
-        next: (data) => {
-          this.complet = data.complet;
-          this.partial = data.partial;
-          this.neocupat = data.neocupat ?? [];
-          this.actualizeazaProfiluri();
-          this.loading = false;
-        },
-        error: () => {
-          this.error = 'Eroare la încărcarea datelor.';
-          this.loading = false;
-        },
-      });
+  this.gradService
+    .getGradOcupare(
+      this.anSelectat.value,
+      this.pozitie,
+      this.judetSelectat?.value
+    )
+    .subscribe({
+      next: (data) => {
+        this.complet = data.complet;
+        this.partial = data.partial;
+        this.neocupat = data.neocupat ?? [];
+        this.actualizeazaProfiluri();
+        this.seteazaTipSelectatImplicit(); 
+        this.loading = false;
+      },
+      error: () => {
+        this.error = 'Eroare la încărcarea datelor.';
+        this.loading = false;
+      },
+    });
+}
+
+
+  get liceeAfisate(): GradOcupareItem[] {
+  switch (this.tipSelectat?.value) {
+    case 'complet':
+      return this.completFiltrat;
+    case 'partial':
+      return this.partialFiltrat;
+    case 'neocupat':
+      return this.neocupatFiltrat;
+    default:
+      return [];
   }
+}
 
   private actualizeazaProfiluri() {
     const toate = [...this.complet, ...this.partial, ...this.neocupat];
@@ -127,4 +154,16 @@ export class GradOcupareComponent implements OnInit {
   get neocupatFiltrat(): GradOcupareItem[] {
     return this.filtreaza(this.neocupat);
   }
+
+  private seteazaTipSelectatImplicit() {
+  if (this.completFiltrat.length > 0) {
+    this.tipSelectat = { label: 'Licee complet ocupate', value: 'complet' };
+  } else if (this.partialFiltrat.length > 0) {
+    this.tipSelectat = { label: 'Licee parțial ocupate', value: 'partial' };
+  } else if (this.neocupatFiltrat.length > 0) {
+    this.tipSelectat = { label: 'Licee neocupate', value: 'neocupat' };
+  } else {
+    this.tipSelectat = null;
+  }
+}
 }
