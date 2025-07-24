@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 import { JUDETE } from './judete.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const outputDir = path.join(__dirname, 'cache', 'bac');
+const outputDir = path.join(__dirname, 'cache', 'bac'); 
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
   console.log('Creat folderul: cache/bac');

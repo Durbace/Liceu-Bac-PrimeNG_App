@@ -182,7 +182,7 @@ export class IstoricContestatiiComponent implements OnInit {
       plugins: {
         title: {
           display: true,
-          text: 'Deviarea față de nota inițială (ra - ri)',
+          text: 'Devierea față de nota inițială (ra - ri)',
         },
         legend: {
           display: false,

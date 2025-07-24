@@ -15,10 +15,12 @@ const PORT = process.env.PORT || 3000;
 
 app.use(
   cors({
-    origin: ["https://liceu-bac-frontend.onrender.com", "http://localhost:4200"]
+    origin: [
+      "https://liceu-bac-frontend.onrender.com",
+      "http://localhost:4200",
+    ],
   })
 );
-
 
 app.get("/api/licee/:an/:judet/:media", (req, res) => {
   const { an, judet, media } = req.params;
@@ -183,10 +185,15 @@ app.get("/api/contestatii/:an/:judet", (req, res) => {
   const { an, judet } = req.params;
   const cod = judet.toUpperCase();
 
-  const filePath = path.resolve(__dirname, `cache/contestatii/${an}/${cod}.json`);
+  const filePath = path.resolve(
+    __dirname,
+    `cache/contestatii/${an}/${cod}.json`
+  );
 
   if (!fs.existsSync(filePath)) {
-    return res.status(404).json({ error: "Fișierul pentru contestații nu există." });
+    return res
+      .status(404)
+      .json({ error: "Fișierul pentru contestații nu există." });
   }
 
   try {
@@ -195,10 +202,114 @@ app.get("/api/contestatii/:an/:judet", (req, res) => {
     res.json(data);
   } catch (err) {
     console.error("Eroare la citirea fișierului de contestații:", err.message);
-    res.status(500).json({ error: "Eroare internă la citirea fișierului de contestații." });
+    res
+      .status(500)
+      .json({ error: "Eroare internă la citirea fișierului de contestații." });
   }
 });
 
+app.get("/api/analiza-pozitie/:an", (req, res) => {
+  const { an } = req.params;
+  const pozitieQuery = parseInt(req.query.pozitie, 10);
+  const judetQuery = req.query.judet?.toLowerCase();
+
+  if (isNaN(pozitieQuery)) {
+    return res
+      .status(400)
+      .json({ error: "Parametrul 'pozitie' este invalid." });
+  }
+
+  const dir = path.resolve(__dirname, `cache/${an}`);
+  if (!fs.existsSync(dir)) {
+    return res
+      .status(404)
+      .json({ error: `Datele pentru anul ${an} nu există.` });
+  }
+
+  const complet = [];
+  const partial = [];
+  const neocupat = [];
+
+  fs.readdirSync(dir)
+    .filter((f) => f.endsWith(".json") && !f.includes("_summary"))
+    .forEach((file) => {
+      const codJudet = path.basename(file, ".json");
+      if (judetQuery && codJudet.toLowerCase() !== judetQuery) {
+        return;
+      }
+
+      try {
+        const candidati = JSON.parse(
+          fs.readFileSync(path.join(dir, file), "utf-8")
+        );
+
+        const grupe = {};
+        candidati.forEach((c, idx) => {
+          if (
+            !c.liceu ||
+            !c.specializarea ||
+            typeof c.medieAdmitere !== "number"
+          ) {
+            return;
+          }
+          const cheie = `${c.liceu} / ${c.specializarea}`;
+          grupe[cheie] = grupe[cheie] || [];
+          grupe[cheie].push({ poz: idx + 1, medie: c.medieAdmitere });
+        });
+
+        Object.entries(grupe).forEach(([cheie, pozitii]) => {
+          const total = pozitii.length;
+          const ocupate = pozitii.filter((p) => p.poz <= pozitieQuery).length;
+          const libere = total - ocupate;
+          const procent = total
+            ? ((ocupate / total) * 100).toFixed(2) + "%"
+            : "0%";
+
+          const pozOcupate = pozitii
+            .filter((p) => p.poz <= pozitieQuery)
+            .map((p) => p.poz);
+          const prima = pozOcupate.length ? Math.min(...pozOcupate) : "-";
+          const ultima = pozOcupate.length ? Math.max(...pozOcupate) : "-";
+
+          const medieUltim =
+            typeof ultima === "number"
+              ? (pozitii.find((p) => p.poz === ultima)?.medie || 0).toFixed(2)
+              : null;
+
+          const rezultat = {
+            judet: codJudet,
+            liceu: cheie.split(" / ")[0],
+            specializare: cheie.split(" / ")[1],
+            pozitii: `${prima} - ${ultima}`,
+            ocupate,
+            libere,
+            total,
+            procent,
+            medieUltim,
+          };
+
+          if (ocupate === total) {
+            complet.push(rezultat);
+          } else if (ocupate > 0) {
+            partial.push(rezultat);
+          } else {
+            neocupat.push(rezultat);
+          }
+        });
+      } catch (err) {
+        console.warn(`Eroare la fișierul ${file}:`, err.message);
+      }
+    });
+
+  const sortByMedieDesc = (a, b) =>
+    parseFloat(b.medieUltim || 0) - parseFloat(a.medieUltim || 0);
+
+  res.json({
+    complet: complet.sort(sortByMedieDesc),
+    partial: partial.sort(sortByMedieDesc),
+    neocupat: neocupat.sort(sortByMedieDesc),
+  });
+});
 
 app.listen(PORT, () => {
   console.log(`Server pornit pe http://localhost:${PORT}`);

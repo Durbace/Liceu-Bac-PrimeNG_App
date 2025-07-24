@@ -29,7 +29,13 @@ export const routes: Routes = [
     path: 'istoric-contestatii',
     loadComponent: () =>
       import('../istoric-contestatii/istoric-contestatii.component').then(m => m.IstoricContestatiiComponent)
+  },
+  {
+    path: 'grad-ocupare',
+    loadComponent: () =>
+      import('../grad-ocupare/grad-ocupare.component').then(m => m.GradOcupareComponent)
   }
+
 
 
 ];
