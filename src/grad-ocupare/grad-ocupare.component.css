@@ -1,0 +1,16 @@
+:host ::ng-deep .p-dropdown {
+  min-width: 250px;
+  max-width: 380px;
+}
+
+::ng-deep .custom-tabview .p-tabview-nav {
+  @apply border-b border-purple-200 justify-center;
+}
+
+::ng-deep .custom-tabview .p-tabview-nav li .p-tabview-nav-link {
+  @apply text-purple-500 font-medium border-b-2 border-transparent transition-all duration-200 ease-in-out rounded-none;
+}
+
+::ng-deep .custom-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link {
+  @apply text-purple-700 border-purple-700 font-bold;
+}

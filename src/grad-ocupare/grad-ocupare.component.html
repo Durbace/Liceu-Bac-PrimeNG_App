@@ -20,7 +20,7 @@
         placeholder="Selectează un an"
         optionLabel="label"
         [showClear]="true"
-        class="w-full"
+        class="w-full dropdown-larg"
       />
     </div>
 
@@ -34,7 +34,7 @@
         placeholder="Toate județele"
         optionLabel="label"
         [showClear]="true"
-        class="w-full"
+        class="w-full dropdown-larg"
       />
     </div>
 
@@ -100,52 +100,149 @@
     </div>
   </div>
 
-  <div class="mt-6 mb-4 w-[250px]">
-    <p-dropdown
-      [options]="optiuniTipAfisare"
-      [(ngModel)]="tipSelectat"
-      placeholder="Selectează tipul"
-      optionLabel="label"
-      class="w-full"
-    />
-  </div>
-
-  <div *ngIf="liceeAfisate.length > 0" class="mt-4">
-    <p-table
-      [value]="liceeAfisate"
-      [paginator]="true"
-      [rows]="10"
-      [responsiveLayout]="'scroll'"
-      [sortField]="'medieUltim'"
-      [sortOrder]="-1"
-      class="p-datatable-sm"
+  <div class="card mt-6 mb-4">
+    <p-tabView
+      [(activeIndex)]="activeTabIndex"
+      (onChange)="onTabChange($event)"
+      [styleClass]="'border-b border-purple-300 custom-tabview text-purple-700'"
     >
-      <ng-template pTemplate="header">
-        <tr>
-          <th>Liceu + Specializare</th>
-          <th>Poziții ocupate</th>
-          <th>Locuri ocupate</th>
-          <th>Locuri libere</th>
-          <th>% Ocupare</th>
-          <th>Ultima medie</th>
-        </tr>
-      </ng-template>
-      <ng-template pTemplate="body" let-l>
-        <tr>
-          <td>{{ l.liceu }} – {{ l.specializare }}</td>
-          <td>{{ l.pozitii }}</td>
-          <td>{{ l.ocupate }}</td>
-          <td>{{ l.libere }}</td>
-          <td>{{ l.procent }}</td>
-          <td>{{ l.medieUltim ?? "–" }}</td>
-        </tr>
-      </ng-template>
-    </p-table>
-  </div>
-  <div
-    *ngIf="tipSelectat && liceeAfisate.length === 0 && !loading"
-    class="mt-4 text-center text-gray-600"
-  >
-    Nu există rezultate pentru selecția actuală.
+      <p-tabPanel
+        header="Complet ocupate"
+        [headerStyleClass]="'font-semibold hover:text-purple-800'"
+      >
+        <ng-template pTemplate="content">
+          <ng-container *ngIf="completFiltrat.length > 0">
+            <p-table
+              [value]="completFiltrat"
+              [paginator]="true"
+              [rows]="10"
+              [responsiveLayout]="'scroll'"
+              [sortField]="'medieUltim'"
+              [sortOrder]="-1"
+              class="p-datatable-sm mt-4"
+            >
+              <ng-template pTemplate="header">
+                <tr>
+                  <th>Liceu + Specializare</th>
+                  <th>Poziții ocupate</th>
+                  <th>Locuri ocupate</th>
+                  <th>Locuri libere</th>
+                  <th>% Ocupare</th>
+                  <th>Ultima medie</th>
+                </tr>
+              </ng-template>
+              <ng-template pTemplate="body" let-l>
+                <tr>
+                  <td>{{ l.liceu }} – {{ l.specializare }}</td>
+                  <td>{{ l.pozitii }}</td>
+                  <td>{{ l.ocupate }}</td>
+                  <td>{{ l.libere }}</td>
+                  <td>{{ l.procent }}</td>
+                  <td>{{ l.medieUltim ?? "–" }}</td>
+                </tr>
+              </ng-template>
+            </p-table>
+          </ng-container>
+          <div
+            *ngIf="completFiltrat.length === 0 && !loading"
+            class="mt-4 text-center text-gray-600"
+          >
+            Nu există rezultate pentru selecția actuală.
+          </div>
+        </ng-template>
+      </p-tabPanel>
+
+      <p-tabPanel
+        header="Parțial ocupate"
+        [headerStyleClass]="'font-semibold hover:text-purple-800'"
+      >
+        <ng-template pTemplate="content">
+          <ng-container *ngIf="partialFiltrat.length > 0">
+            <p-table
+              [value]="partialFiltrat"
+              [paginator]="true"
+              [rows]="10"
+              [responsiveLayout]="'scroll'"
+              [sortField]="'medieUltim'"
+              [sortOrder]="-1"
+              class="p-datatable-sm mt-4"
+            >
+              <ng-template pTemplate="header">
+                <tr>
+                  <th>Liceu + Specializare</th>
+                  <th>Poziții ocupate</th>
+                  <th>Locuri ocupate</th>
+                  <th>Locuri libere</th>
+                  <th>% Ocupare</th>
+                  <th>Ultima medie</th>
+                </tr>
+              </ng-template>
+              <ng-template pTemplate="body" let-l>
+                <tr>
+                  <td>{{ l.liceu }} – {{ l.specializare }}</td>
+                  <td>{{ l.pozitii }}</td>
+                  <td>{{ l.ocupate }}</td>
+                  <td>{{ l.libere }}</td>
+                  <td>{{ l.procent }}</td>
+                  <td>{{ l.medieUltim ?? "–" }}</td>
+                </tr>
+              </ng-template>
+            </p-table>
+          </ng-container>
+          <div
+            *ngIf="partialFiltrat.length === 0 && !loading"
+            class="mt-4 text-center text-gray-600"
+          >
+            Nu există rezultate pentru selecția actuală.
+          </div>
+        </ng-template>
+      </p-tabPanel>
+
+      <p-tabPanel
+        header="Neocupate"
+        [headerStyleClass]="'font-semibold hover:text-purple-800'"
+      >
+        <ng-template pTemplate="content">
+          <ng-container *ngIf="neocupatFiltrat.length > 0">
+            <p-table
+              [value]="neocupatFiltrat"
+              [paginator]="true"
+              [rows]="10"
+              [responsiveLayout]="'scroll'"
+              [sortField]="'medieUltim'"
+              [sortOrder]="-1"
+              class="p-datatable-sm mt-4"
+            >
+              <ng-template pTemplate="header">
+                <tr>
+                  <th>Liceu + Specializare</th>
+                  <th>Poziții ocupate</th>
+                  <th>Locuri ocupate</th>
+                  <th>Locuri libere</th>
+                  <th>% Ocupare</th>
+                  <th>Ultima medie</th>
+                </tr>
+              </ng-template>
+              <ng-template pTemplate="body" let-l>
+                <tr>
+                  <td>{{ l.liceu }} – {{ l.specializare }}</td>
+                  <td>{{ l.pozitii }}</td>
+                  <td>{{ l.ocupate }}</td>
+                  <td>{{ l.libere }}</td>
+                  <td>{{ l.procent }}</td>
+                  <td>{{ l.medieUltim ?? "–" }}</td>
+                </tr>
+              </ng-template>
+            </p-table>
+          </ng-container>
+          <div
+            *ngIf="neocupatFiltrat.length === 0 && !loading"
+            class="mt-4 text-center text-gray-600"
+          >
+            Nu există rezultate pentru selecția actuală.
+          </div>
+        </ng-template>
+      </p-tabPanel>
+    </p-tabView>
   </div>
 </div>

@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DropdownModule } from 'primeng/dropdown';
 import { TableModule } from 'primeng/table';
+import { TabViewModule } from 'primeng/tabview';
 
 import {
   GradOcupareService,
@@ -13,7 +14,13 @@ import { AnService } from '../services/an.service';
 @Component({
   selector: 'app-grad-ocupare',
   standalone: true,
-  imports: [CommonModule, FormsModule, DropdownModule, TableModule],
+  imports: [
+    CommonModule,
+    FormsModule,
+    DropdownModule,
+    TableModule,
+    TabViewModule,
+  ],
   templateUrl: './grad-ocupare.component.html',
   styleUrls: ['./grad-ocupare.component.css'],
 })
@@ -30,10 +37,8 @@ export class GradOcupareComponent implements OnInit {
   partial: GradOcupareItem[] = [];
   neocupat: GradOcupareItem[] = [];
 
-  tipSelectat: {
-    label: string;
-    value: 'complet' | 'partial' | 'neocupat';
-  } | null = null;
+  activeTabIndex = 0;
+  tipSelectatValue: 'complet' | 'partial' | 'neocupat' | null = null;
 
   optiuniTipAfisare = [
     { label: 'Licee complet ocupate', value: 'complet' },
@@ -69,54 +74,54 @@ export class GradOcupareComponent implements OnInit {
         this.judetSelectat = null;
       },
     });
+    this.seteazaTipSelectatImplicit();
   }
 
   onSubmit() {
-  this.formularTrimis = true;
+    this.formularTrimis = true;
 
-  if (this.pozitie === null || !this.anSelectat) return;
+    if (this.pozitie === null || !this.anSelectat) return;
 
-  this.loading = true;
-  this.error = '';
-  this.complet = [];
-  this.partial = [];
-  this.neocupat = [];
+    this.loading = true;
+    this.error = '';
+    this.complet = [];
+    this.partial = [];
+    this.neocupat = [];
 
-  this.gradService
-    .getGradOcupare(
-      this.anSelectat.value,
-      this.pozitie,
-      this.judetSelectat?.value
-    )
-    .subscribe({
-      next: (data) => {
-        this.complet = data.complet;
-        this.partial = data.partial;
-        this.neocupat = data.neocupat ?? [];
-        this.actualizeazaProfiluri();
-        this.seteazaTipSelectatImplicit(); 
-        this.loading = false;
-      },
-      error: () => {
-        this.error = 'Eroare la încărcarea datelor.';
-        this.loading = false;
-      },
-    });
-}
-
+    this.gradService
+      .getGradOcupare(
+        this.anSelectat.value,
+        this.pozitie,
+        this.judetSelectat?.value
+      )
+      .subscribe({
+        next: (data) => {
+          this.complet = data.complet;
+          this.partial = data.partial;
+          this.neocupat = data.neocupat ?? [];
+          this.actualizeazaProfiluri();
+          this.seteazaTipSelectatImplicit();
+          this.loading = false;
+        },
+        error: () => {
+          this.error = 'Eroare la încărcarea datelor.';
+          this.loading = false;
+        },
+      });
+  }
 
   get liceeAfisate(): GradOcupareItem[] {
-  switch (this.tipSelectat?.value) {
-    case 'complet':
-      return this.completFiltrat;
-    case 'partial':
-      return this.partialFiltrat;
-    case 'neocupat':
-      return this.neocupatFiltrat;
-    default:
-      return [];
+    switch (this.tipSelectatValue) {
+      case 'complet':
+        return this.completFiltrat;
+      case 'partial':
+        return this.partialFiltrat;
+      case 'neocupat':
+        return this.neocupatFiltrat;
+      default:
+        return [];
+    }
   }
-}
 
   private actualizeazaProfiluri() {
     const toate = [...this.complet, ...this.partial, ...this.neocupat];
@@ -156,14 +161,26 @@ export class GradOcupareComponent implements OnInit {
   }
 
   private seteazaTipSelectatImplicit() {
-  if (this.completFiltrat.length > 0) {
-    this.tipSelectat = { label: 'Licee complet ocupate', value: 'complet' };
-  } else if (this.partialFiltrat.length > 0) {
-    this.tipSelectat = { label: 'Licee parțial ocupate', value: 'partial' };
-  } else if (this.neocupatFiltrat.length > 0) {
-    this.tipSelectat = { label: 'Licee neocupate', value: 'neocupat' };
-  } else {
-    this.tipSelectat = null;
+    if (this.completFiltrat.length > 0) {
+      this.activeTabIndex = 0;
+    } else if (this.partialFiltrat.length > 0) {
+      this.activeTabIndex = 1;
+    } else if (this.neocupatFiltrat.length > 0) {
+      this.activeTabIndex = 2;
+    } else {
+      this.activeTabIndex = 0;
+    }
+
+    this.seteazaTipPeBazaIndexului(this.activeTabIndex);
   }
-}
+
+  seteazaTipPeBazaIndexului(index: number) {
+    this.tipSelectatValue = ['complet', 'partial', 'neocupat'][index] as
+      | 'complet'
+      | 'partial'
+      | 'neocupat';
+  }
+  onTabChange(event: any) {
+    this.seteazaTipPeBazaIndexului(event.index);
+  }
 }

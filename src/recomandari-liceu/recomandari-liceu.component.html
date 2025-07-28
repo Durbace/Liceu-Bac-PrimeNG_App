@@ -111,33 +111,35 @@
       [sortOrder]="sortOrder"
     >
       <ng-template pTemplate="header">
-        <tr>
-          <th>
-            <div class="flex items-center gap-2 text-gray-800 font-medium">
-              Liceu
-            </div>
-          </th>
-          <th>
-            <div class="flex items-center gap-2 text-gray-800 font-medium">
-              Profil
-            </div>
-          </th>
-          <th pSortableColumn="medieMinima">
-            <div class="flex items-center gap-2 text-gray-800 font-medium">
-              Medie minimă
-              <p-sortIcon field="medieMinima" />
-            </div>
-          </th>
-        </tr>
-      </ng-template>
+  <tr>
+    <th class="text-center">
+      <div class="flex justify-center items-center gap-2 text-gray-800 font-medium">
+        Liceu
+      </div>
+    </th>
+    <th class="text-center">
+      <div class="flex justify-center items-center gap-2 text-gray-800 font-medium">
+        Profil
+      </div>
+    </th>
+    <th class="text-center" pSortableColumn="medieMinima">
+      <div class="flex justify-center items-center gap-2 text-gray-800 font-medium">
+        Medie minimă
+        <p-sortIcon field="medieMinima" />
+      </div>
+    </th>
+  </tr>
+</ng-template>
+
 
       <ng-template pTemplate="body" let-liceu>
-        <tr>
-          <td>{{ liceu.liceu }}</td>
-          <td>{{ liceu.profil }}</td>
-          <td>{{ liceu.medieMinima }}</td>
-        </tr>
-      </ng-template>
+  <tr>
+    <td class="text-left">{{ liceu.liceu }}</td>
+    <td class="text-center">{{ liceu.profil }}</td>
+    <td class="text-center">{{ liceu.medieMinima }}</td>
+  </tr>
+</ng-template>
+
     </p-table>
   </div>
 
