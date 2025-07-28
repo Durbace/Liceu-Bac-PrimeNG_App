@@ -73,7 +73,12 @@
       </ul>
     </div>
 
-    <div class="py-4">
+    <p-tabView
+  [(activeIndex)]="activeTabIndex"
+  [styleClass]="'custom-tabview text-purple-700 mt-8'"
+>
+  <p-tabPanel header="Evoluția notelor">
+    <ng-template pTemplate="content">
       <canvas
         baseChart
         [datasets]="chartData"
@@ -82,8 +87,11 @@
         [type]="chartType"
         style="min-height: 500px; width: 100%"
       ></canvas>
-    </div>
-    <div class="py-4 mt-8">
+    </ng-template>
+  </p-tabPanel>
+
+  <p-tabPanel header="Deviația față de nota inițială">
+    <ng-template pTemplate="content">
       <canvas
         baseChart
         [datasets]="deviationChartData"
@@ -92,7 +100,10 @@
         [type]="deviationChartType"
         style="min-height: 300px; width: 100%"
       ></canvas>
-    </div>
+    </ng-template>
+  </p-tabPanel>
+</p-tabView>
+
   </ng-container>
 
   <ng-template #noSelection>

@@ -1,0 +1,32 @@
+:host ::ng-deep .custom-tabview .p-tabview-nav {
+  display: inline-flex !important;
+  justify-content: center;
+  @apply border-b border-purple-200 mx-auto;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li {
+  @apply relative flex-none;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li:not(:has(.p-tabview-nav-link)) {
+  display: none !important;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li:empty {
+  display: none !important;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li .p-tabview-nav-link {
+  @apply text-purple-500 font-medium border-b-2 border-transparent transition-all duration-200 ease-in-out rounded-none pb-2;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link {
+  @apply text-purple-700 border-purple-700 font-bold;
+}
+
+:host ::ng-deep .custom-tabview .p-tabview-nav li.p-highlight::after {
+  content: '';
+  @apply absolute left-0 bottom-0 h-0.5 w-full bg-purple-700 transition-all duration-300;
+}

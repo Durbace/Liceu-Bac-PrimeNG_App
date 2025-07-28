@@ -7,6 +7,7 @@ import { ButtonModule } from 'primeng/button';
 import { Chart } from 'chart.js';
 import { NgChartsModule } from 'ng2-charts';
 import { ChartOptions, ChartDataset } from 'chart.js';
+import { TabViewModule } from 'primeng/tabview';
 
 import { ContestatiiService } from '../services/contestatii.service';
 import { Contestatie } from '../services/contestatii.service';
@@ -22,6 +23,7 @@ import { Contestatie } from '../services/contestatii.service';
     DropdownModule,
     ButtonModule,
     NgChartsModule,
+    TabViewModule,
   ],
 })
 export class IstoricContestatiiComponent implements OnInit {
@@ -51,6 +53,8 @@ export class IstoricContestatiiComponent implements OnInit {
   deviationChartLabels: string[] = [];
   deviationChartOptions: ChartOptions = {};
   deviationChartType: 'bar' = 'bar';
+
+  activeTabIndex: number = 0;
 
   constructor(private contestatiiService: ContestatiiService) {}
 
