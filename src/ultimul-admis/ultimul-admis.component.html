@@ -1,7 +1,7 @@
 <div
-  class="w-[98%] max-w-6xl mx-auto mt-6 bg-white/90 backdrop-blur rounded-2xl py- px-8 pb-0 shadow-lg transition-all duration-500"
+  class="w-[98%] max-w-6xl mx-auto mt-6 bg-white/90 backdrop-blur rounded-2xl p-10 pb-0 shadow-lg transition-all duration-500"
 >
-  <h2 class="text-center text-xl font-semibold text-purple-700 mb-4">
+  <h2 class="text-center text-2xl font-semibold text-purple-700 mb-6">
     Poziția ultimului admis pe ani - liceu și specializare
   </h2>
 
@@ -65,30 +65,24 @@
       ></button>
     </div>
 
-    <div
-      *ngIf="filtreActive.length > 0; else faraFiltru"
-      class="flex flex-wrap gap-2 text-sm"
-    >
-      <span
-        *ngFor="let f of filtreActive"
-        class="bg-purple-100 text-purple-800 px-3 py-1 rounded-md shadow-sm"
-      >
-        {{ f }}
-      </span>
-    </div>
-    <ng-template #faraFiltru>
-      <span class="text-gray-500 text-sm">Niciun filtru activ</span>
-    </ng-template>
-  </div>
+    <div>
+      <canvas
+        baseChart
+        [datasets]="chartData"
+        [labels]="chartLabels"
+        [options]="chartOptions"
+        [type]="chartType"
+        style="min-height: 400px; height: auto; max-height: 1000px; width: 100%"
+      ></canvas>
 
-  <div>
-    <canvas
-      baseChart
-      [datasets]="chartData"
-      [labels]="chartLabels"
-      [options]="chartOptions"
-      [type]="chartType"
-      style="min-height: 400px; height: auto; max-height: 1000px; width: 100%"
-    ></canvas>
+      <p
+        *ngIf="chartData && chartData.length > 0"
+        class="text-center text-sm text-purple-700 mt-4 mb-6 flex items-center justify-center gap-2"
+      >
+        <i class="pi pi-info-circle text-purple-600 text-base"></i>
+        Poți face click pe o culoare din legendă pentru a elimina specializarea
+        din grafic.
+      </p>
+    </div>
   </div>
 </div>
