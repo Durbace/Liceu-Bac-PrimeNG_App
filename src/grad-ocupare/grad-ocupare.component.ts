@@ -183,4 +183,11 @@ export class GradOcupareComponent implements OnInit {
   onTabChange(event: any) {
     this.seteazaTipPeBazaIndexului(event.index);
   }
+
+  get areRezultate(): boolean {
+  return (
+    this.formularTrimis &&
+    (this.complet.length > 0 || this.partial.length > 0 || this.neocupat.length > 0)
+  );
+}
 }

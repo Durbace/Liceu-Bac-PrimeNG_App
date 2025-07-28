@@ -63,6 +63,8 @@ export class IstoricContestatiiComponent implements OnInit {
       { label: '2023', value: 2023 },
       { label: '2024', value: 2024 },
     ];
+    
+    this.selectedYear = this.years[this.years.length - 1];
 
     this.subjects = [
       {

@@ -6,6 +6,11 @@
   padding-right: 0 !important;
 }
 
+:host ::ng-deep .p-dropdown {
+  min-width: 250px;
+  max-width: 380px;
+}
+
 :host ::ng-deep .custom-tabview .p-tabview-nav li {
   @apply relative flex-none;
 }
