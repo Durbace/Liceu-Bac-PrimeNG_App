@@ -185,9 +185,23 @@ export class GradOcupareComponent implements OnInit {
   }
 
   get areRezultate(): boolean {
-  return (
-    this.formularTrimis &&
-    (this.complet.length > 0 || this.partial.length > 0 || this.neocupat.length > 0)
-  );
-}
+    return (
+      this.formularTrimis &&
+      (this.complet.length > 0 ||
+        this.partial.length > 0 ||
+        this.neocupat.length > 0)
+    );
+  }
+  blockMinusKey(event: KeyboardEvent) {
+    if (event.key === '-' || event.key === 'Minus') {
+      event.preventDefault();
+    }
+  }
+
+  preventNegativePaste(event: ClipboardEvent) {
+    const pastedInput: string = event.clipboardData?.getData('text') || '';
+    if (pastedInput.includes('-')) {
+      event.preventDefault();
+    }
+  }
 }
