@@ -142,4 +142,18 @@ export class RecomandariLiceuComponent implements OnInit {
       },
     });
   }
+
+  blockMinusKey(event: KeyboardEvent) {
+  if (event.key === '-' || event.key === 'Minus') {
+    event.preventDefault();
+  }
+}
+
+preventNegativePaste(event: ClipboardEvent) {
+  const pastedInput: string = event.clipboardData?.getData('text') || '';
+  if (pastedInput.includes('-')) {
+    event.preventDefault();
+  }
+}
+
 }
