@@ -1,15 +1,12 @@
-<div class="relative flex justify-center items-center h-[calc(100vh-64px)] p-5 bg-transparent overflow-hidden">
-
-
- <div class="relative z-10 max-w-5xl w-full rounded-2xl p-[7px]
-            bg-gradient-to-r from-purple-600 via-pink-400 to-violet-500
-            animate-glow-border bg-[length:300%_300%]
-            shadow-[0_0_40px_10px_rgba(168,85,247,0.35)]
-            after:absolute after:inset-0 after:rounded-2xl after:bg-white/15 after:blur-md after:animate-shine" >
-
-
-    <div class="flex flex-col md:flex-row bg-white rounded-[1rem] overflow-hidden shadow-2xl">
-
+<div
+  class="relative flex justify-center items-center h-[calc(100vh-64px)] p-5 bg-transparent overflow-hidden"
+>
+  <div
+    class="relative z-10 max-w-5xl w-full rounded-2xl p-[7px] bg-gradient-to-r from-purple-600 via-pink-400 to-violet-500 animate-glow-border bg-[length:300%_300%] shadow-[0_0_40px_10px_rgba(168,85,247,0.35)] after:absolute after:inset-0 after:rounded-2xl after:bg-white/15 after:blur-md after:animate-shine"
+  >
+    <div
+      class="relative z-[2] flex flex-col md:flex-row bg-white rounded-[1rem] overflow-hidden shadow-2xl"
+    >
       <div class="w-full md:w-[55%] p-8 flex flex-col justify-center">
         <h1 class="text-4xl font-extrabold mb-2 text-gray-800">
           <span class="text-purple-700">Edu</span>Select+
@@ -18,8 +15,9 @@
           Platforma ta inteligentă pentru orientare educațională
         </h2>
         <p class="text-base text-gray-700 leading-relaxed mb-8">
-          Vezi ce licee ți se potrivesc în funcție de mediile tale sau consultă
-          rezultatele Bacalaureatului din toată țara — simplu, rapid și actualizat!
+          Vezi ce licee ți se potrivesc în funcție de mediile tale sau consult ă
+          rezultatele Bacalaureatului din toată țara — simplu, rapid și
+          actualizat!
         </p>
         <div class="flex justify-center md:justify-start">
           <button
@@ -33,7 +31,9 @@
         </div>
       </div>
 
-      <div class="w-full md:w-[45%] bg-violet-50 flex justify-center items-center p-3">
+      <div
+        class="w-full md:w-[45%] bg-violet-50 flex justify-center items-center p-3"
+      >
         <img
           src="/student-illustration.png"
           alt="Ilustrație elevă cu laptop"
@@ -41,6 +41,16 @@
         />
       </div>
     </div>
-
   </div>
+</div>
+
+<div
+  *ngIf="showIntro"
+  class="fixed inset-0 z-[100] bg-white/40 backdrop-blur-md flex items-center justify-center transition-opacity duration-700"
+>
+  <h1
+    class="text-4xl md:text-5xl text-purple-800 font-extrabold text-center px-4 drop-shadow-lg overflow-hidden whitespace-nowrap border-r-4 border-purple-800 w-0 opacity-0 animate-typewriter"
+  >
+    Bine ai venit pe EduSelect+!
+  </h1>
 </div>
