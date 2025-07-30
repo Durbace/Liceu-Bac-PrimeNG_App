@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ChartDataset, ChartOptions, ChartType } from 'chart.js';
-import { NgIf, NgFor } from '@angular/common';
+import { NgIf } from '@angular/common';
 import { DropdownModule } from 'primeng/dropdown';
 import { ButtonModule } from 'primeng/button';
 import { FormsModule } from '@angular/forms';
@@ -13,14 +13,7 @@ import { Router } from '@angular/router';
 @Component({
   selector: 'app-ultimul-admis-chart',
   standalone: true,
-  imports: [
-    NgIf,
-    NgFor,
-    DropdownModule,
-    ButtonModule,
-    FormsModule,
-    NgChartsModule,
-  ],
+  imports: [NgIf, DropdownModule, ButtonModule, FormsModule, NgChartsModule],
   templateUrl: './ultimul-admis.component.html',
 })
 export class UltimulAdmisChartComponent implements OnInit {
