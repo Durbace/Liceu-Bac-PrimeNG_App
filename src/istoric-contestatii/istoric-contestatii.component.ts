@@ -11,6 +11,7 @@ import { TabViewModule } from 'primeng/tabview';
 
 import { ContestatiiService } from '../services/contestatii.service';
 import { Contestatie } from '../services/contestatii.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-istoric-contestatii',
@@ -56,14 +57,17 @@ export class IstoricContestatiiComponent implements OnInit {
 
   activeTabIndex: number = 0;
 
-  constructor(private contestatiiService: ContestatiiService) {}
+  constructor(
+    private contestatiiService: ContestatiiService,
+    private router: Router
+  ) {}
 
   ngOnInit(): void {
     this.years = [
       { label: '2023', value: 2023 },
       { label: '2024', value: 2024 },
     ];
-    
+
     this.selectedYear = this.years[this.years.length - 1];
 
     this.subjects = [
@@ -296,5 +300,9 @@ export class IstoricContestatiiComponent implements OnInit {
         this.afiseazaStatistici = false;
       },
     });
+  }
+
+  goBack() {
+    this.router.navigate(['/recomandari']);
   }
 }

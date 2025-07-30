@@ -8,6 +8,7 @@ import { DropdownModule } from 'primeng/dropdown';
 
 import { JudeteService } from '../services/judete.service';
 import { BacStatisticiService, Elev } from '../services/bac-statistici.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-statistici-bac',
@@ -69,7 +70,8 @@ export class StatisticiBacComponent implements OnInit {
   constructor(
     private http: HttpClient,
     private judeteService: JudeteService,
-    private bacService: BacStatisticiService
+    private bacService: BacStatisticiService,
+    private router: Router
   ) {
     this.judete = this.judeteService.getAllCodes();
   }
@@ -152,5 +154,9 @@ export class StatisticiBacComponent implements OnInit {
       labels: ['Neprezentat', 'Respins', '6–7', '7–8', '8–9', '9–10'],
       datasets: [{ data: intervale }],
     };
+  }
+
+  goBack() {
+    this.router.navigate(['/recomandari']);
   }
 }

@@ -10,6 +10,7 @@ import {
   GradOcupareItem,
 } from '../services/grad-ocupare.service';
 import { AnService } from '../services/an.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-grad-ocupare',
@@ -55,7 +56,8 @@ export class GradOcupareComponent implements OnInit {
 
   constructor(
     private gradService: GradOcupareService,
-    private anService: AnService
+    private anService: AnService,
+    private router: Router
   ) {}
 
   ngOnInit() {
@@ -203,5 +205,9 @@ export class GradOcupareComponent implements OnInit {
     if (pastedInput.includes('-')) {
       event.preventDefault();
     }
+  }
+
+  goBack() {
+    this.router.navigate(['/recomandari']);
   }
 }

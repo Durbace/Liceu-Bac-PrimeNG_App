@@ -8,6 +8,7 @@ import { NgChartsModule } from 'ng2-charts';
 
 import { UltimulAdmisService } from '../services/ultimul-admis.service';
 import { JudeteService } from '../services/judete.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-ultimul-admis-chart',
@@ -65,7 +66,8 @@ export class UltimulAdmisChartComponent implements OnInit {
 
   constructor(
     private ultimulAdmisService: UltimulAdmisService,
-    private judeteService: JudeteService
+    private judeteService: JudeteService,
+    private router: Router
   ) {}
 
   ngOnInit(): void {
@@ -234,5 +236,9 @@ export class UltimulAdmisChartComponent implements OnInit {
           .map((v) => ({ label: v, value: v }));
       }
     });
+  }
+
+  goBack() {
+    this.router.navigate(['/recomandari']);
   }
 }

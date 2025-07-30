@@ -7,6 +7,7 @@ import { TableModule } from 'primeng/table';
 import { LiceuService, Liceu } from '../services/liceu.service';
 import { JudeteService } from '../services/judete.service';
 import { AnService } from '../services/an.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-recomandari-liceu',
@@ -38,7 +39,8 @@ export class RecomandariLiceuComponent implements OnInit {
   constructor(
     private liceuService: LiceuService,
     private judeteService: JudeteService,
-    private anService: AnService
+    private anService: AnService,
+    private router: Router
   ) {}
   ngOnInit() {
     this.judeteService.getJudete().subscribe({
@@ -144,16 +146,19 @@ export class RecomandariLiceuComponent implements OnInit {
   }
 
   blockMinusKey(event: KeyboardEvent) {
-  if (event.key === '-' || event.key === 'Minus') {
-    event.preventDefault();
+    if (event.key === '-' || event.key === 'Minus') {
+      event.preventDefault();
+    }
   }
-}
 
-preventNegativePaste(event: ClipboardEvent) {
-  const pastedInput: string = event.clipboardData?.getData('text') || '';
-  if (pastedInput.includes('-')) {
-    event.preventDefault();
+  preventNegativePaste(event: ClipboardEvent) {
+    const pastedInput: string = event.clipboardData?.getData('text') || '';
+    if (pastedInput.includes('-')) {
+      event.preventDefault();
+    }
   }
-}
 
+  goBack() {
+  this.router.navigate(['/recomandari']); 
+}
 }
