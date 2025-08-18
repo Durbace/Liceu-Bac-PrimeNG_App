@@ -8,7 +8,6 @@ export interface Liceu {
   profil: string;
   medieMinima: number;
   [key: string]: string | number;
-
 }
 
 @Injectable({ providedIn: 'root' })

@@ -120,21 +120,28 @@ export class UltimulAdmisChartComponent implements OnInit {
     const key = `${this.selectedLiceu.value} | ${this.selectedSpec.value}`;
     if (this.filtreActive.includes(key)) return;
 
-    this.filtreActive.push(key);
-    const ani = Object.keys(this.rawData[key]).sort();
+    const ani = Object.keys(this.rawData[key] ?? {}).sort();
 
-    const aniUnici = new Set([...this.chartLabels, ...ani]);
-    this.chartLabels = Array.from(aniUnici).sort();
+    const newLabels = Array.from(new Set([...this.chartLabels, ...ani])).sort();
 
-    const datePeAni = this.chartLabels.map(
-      (an) => this.rawData[key][an]?.pozitiaUltim ?? null
-    );
+    const labelsChanged =
+      newLabels.length !== this.chartLabels.length ||
+      newLabels.some((v, i) => v !== this.chartLabels[i]);
+
+    if (labelsChanged) {
+      this.chartLabels = newLabels;
+      this.rebuildAllDatasetsFor(this.chartLabels);
+    }
 
     const culoare = this.getColorForKey(key);
+    const dataNoua = this.chartLabels.map(
+      (an) => this.rawData[key]?.[an]?.pozitiaUltim ?? null
+    );
 
+    this.filtreActive.push(key);
     this.chartData.push({
       label: key,
-      data: datePeAni,
+      data: dataNoua,
       tension: 0.3,
       fill: false,
       borderColor: culoare,
@@ -233,5 +240,15 @@ export class UltimulAdmisChartComponent implements OnInit {
 
   goBack() {
     this.router.navigate(['/recomandari']);
+  }
+
+  private rebuildAllDatasetsFor(labels: string[]) {
+    this.chartData = this.chartData.map((ds) => {
+      const key = String(ds.label);
+      const serie = labels.map(
+        (an) => this.rawData?.[key]?.[an]?.pozitiaUltim ?? null
+      );
+      return { ...ds, data: serie };
+    });
   }
 }

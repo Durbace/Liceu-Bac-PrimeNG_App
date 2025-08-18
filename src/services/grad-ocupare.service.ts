@@ -22,26 +22,28 @@ export class GradOcupareService {
   constructor(private http: HttpClient) {}
 
   getGradOcupare(
-  an: number,
-  pozitie: number,
-  judet?: string
-): Observable<{
-  complet: GradOcupareItem[];
-  partial: GradOcupareItem[];
-  neocupat: GradOcupareItem[];
-}> {
-  const params = new URLSearchParams();
-  params.set('pozitie', pozitie.toString());
-  if (judet) params.set('judet', judet);
-
-  return this.http.get<{
+    an: number,
+    pozitie: number,
+    judet?: string
+  ): Observable<{
     complet: GradOcupareItem[];
     partial: GradOcupareItem[];
     neocupat: GradOcupareItem[];
-  }>(`${this.apiUrl}/api/analiza-pozitie/${an}?${params.toString()}`);
-}
+  }> {
+    const params = new URLSearchParams();
+    params.set('pozitie', pozitie.toString());
+    if (judet) params.set('judet', judet);
 
-getJudete(): Observable<{ nume: string; cod: string }[]> {
-  return this.http.get<{ nume: string; cod: string }[]>(`${this.apiUrl}/api/judete`);
-}
+    return this.http.get<{
+      complet: GradOcupareItem[];
+      partial: GradOcupareItem[];
+      neocupat: GradOcupareItem[];
+    }>(`${this.apiUrl}/api/analiza-pozitie/${an}?${params.toString()}`);
+  }
+
+  getJudete(): Observable<{ nume: string; cod: string }[]> {
+    return this.http.get<{ nume: string; cod: string }[]>(
+      `${this.apiUrl}/api/judete`
+    );
+  }
 }
